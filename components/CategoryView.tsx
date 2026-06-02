@@ -1,5 +1,4 @@
 import CategoryLive from "@/components/CategoryLive";
-import ReadingGuide from "@/components/ReadingGuide";
 import InfoDot from "@/components/InfoDot";
 import { BeginnerNote } from "@/components/BeginnerMode";
 import { getCategoryMeta } from "@/lib/categories";
@@ -32,11 +31,10 @@ export default function CategoryView({ category }: { category: Category }) {
         <BeginnerNote>{meta.analogy}</BeginnerNote>
       </section>
 
-      <ReadingGuide metricLabel={race.metricLabel} />
-
       <CategoryLive
         category={category}
         label={meta.label}
+        metricLabel={race.metricLabel}
         initialCurrent={current}
         initialRace={race}
       />

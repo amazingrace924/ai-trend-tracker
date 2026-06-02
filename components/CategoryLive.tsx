@@ -4,6 +4,7 @@ import { useState } from "react";
 import BarChartRace from "@/components/BarChartRace";
 import ModelCard from "@/components/ModelCard";
 import UpdatedBadge from "@/components/UpdatedBadge";
+import ReadingGuide from "@/components/ReadingGuide";
 import { remoteDataUrl } from "@/lib/remote";
 import type { Category, RaceData, Snapshot } from "@/lib/types";
 
@@ -12,11 +13,13 @@ import type { Category, RaceData, Snapshot } from "@/lib/types";
 export default function CategoryLive({
   category,
   label,
+  metricLabel,
   initialCurrent,
   initialRace,
 }: {
   category: Category;
   label: string;
+  metricLabel: string;
   initialCurrent: Snapshot;
   initialRace: RaceData;
 }) {
@@ -49,16 +52,15 @@ export default function CategoryLive({
 
   return (
     <div className="space-y-7">
-      <div className="flex flex-wrap items-center gap-3">
+      {/* 눈에 띄는 새로고침 바 */}
+      <div className="flex flex-wrap items-center gap-3 rounded-xl border border-[var(--border)] bg-[var(--panel)] p-3">
         <button
           onClick={refresh}
           disabled={status === "loading"}
-          className="flex items-center gap-2 rounded-xl border border-[var(--border-strong)] bg-[var(--panel)] px-3 py-1.5 text-sm font-bold transition hover:border-[var(--accent)] disabled:opacity-60"
+          className="grad-bar flex items-center gap-2 rounded-xl px-4 py-2.5 text-sm font-bold text-[var(--on-accent)] shadow-[var(--shadow)] transition hover:opacity-90 disabled:opacity-60"
         >
-          <span className={status === "loading" ? "inline-block animate-spin" : ""}>
-            🔄
-          </span>
-          {status === "loading" ? "갱신 중…" : "최신 데이터 새로고침"}
+          <span className={status === "loading" ? "inline-block animate-spin" : ""}>🔄</span>
+          {status === "loading" ? "갱신 중…" : "최신 데이터 불러오기"}
         </button>
         <UpdatedBadge updatedAt={current.updatedAt} />
         {status === "done" && (
@@ -70,6 +72,8 @@ export default function CategoryLive({
           </span>
         )}
       </div>
+
+      <ReadingGuide metricLabel={metricLabel} />
 
       <BarChartRace key={version} race={race} />
 
