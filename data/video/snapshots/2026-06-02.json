@@ -1,7 +1,7 @@
 {
   "category": "video",
   "date": "2026-06-02",
-  "updatedAt": "2026-06-02T09:07:29.858Z",
+  "updatedAt": "2026-06-02T09:32:31.999Z",
   "models": [
     {
       "id": "video-happyhorse-1-0",
@@ -76,7 +76,7 @@
         },
         {
           "label": "투표수",
-          "value": "8,413"
+          "value": "8,414"
         },
         {
           "label": "제작사",
@@ -94,7 +94,7 @@
         },
         {
           "label": "투표 수",
-          "value": "8,413"
+          "value": "8,414"
         },
         {
           "label": "출시일",
@@ -182,7 +182,7 @@
         },
         {
           "label": "투표수",
-          "value": "5,288"
+          "value": "5,289"
         },
         {
           "label": "제작사",
@@ -200,7 +200,7 @@
         },
         {
           "label": "투표 수",
-          "value": "5,288"
+          "value": "5,289"
         },
         {
           "label": "출시일",
@@ -379,12 +379,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2025-10",
-      "score": 1226,
+      "score": 1227,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1226"
+          "value": "1227"
         },
         {
           "label": "순위",
@@ -392,7 +392,7 @@
         },
         {
           "label": "투표수",
-          "value": "4,605"
+          "value": "4,606"
         },
         {
           "label": "제작사",
@@ -402,7 +402,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1226"
+          "value": "1227"
         },
         {
           "label": "순위",
@@ -410,7 +410,7 @@
         },
         {
           "label": "투표 수",
-          "value": "4,605"
+          "value": "4,606"
         },
         {
           "label": "출시일",
@@ -443,7 +443,7 @@
         },
         {
           "label": "투표수",
-          "value": "9,048"
+          "value": "9,049"
         },
         {
           "label": "제작사",
@@ -461,7 +461,7 @@
         },
         {
           "label": "투표 수",
-          "value": "9,048"
+          "value": "9,049"
         },
         {
           "label": "출시일",
