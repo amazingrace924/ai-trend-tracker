@@ -1,0 +1,6 @@
+name = "ai-trend-refresh"
+main = "refresh-trigger.js"
+compatibility_date = "2026-06-01"
+
+# 배포: 이 폴더에서  npx wrangler deploy
+# 토큰 설정:        npx wrangler secret put GH_TOKEN   (GitHub fine-grained PAT)
