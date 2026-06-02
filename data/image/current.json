@@ -1,7 +1,7 @@
 {
   "category": "image",
   "date": "2026-06-02",
-  "updatedAt": "2026-06-02T09:32:32.617Z",
+  "updatedAt": "2026-06-02T23:04:07.753Z",
   "models": [
     {
       "id": "image-gpt-image-2",
@@ -23,7 +23,7 @@
         },
         {
           "label": "투표수",
-          "value": "10,374"
+          "value": "10,385"
         },
         {
           "label": "제작사",
@@ -41,7 +41,7 @@
         },
         {
           "label": "투표 수",
-          "value": "10,374"
+          "value": "10,385"
         },
         {
           "label": "출시일",
@@ -76,7 +76,7 @@
         },
         {
           "label": "투표수",
-          "value": "5,646"
+          "value": "5,651"
         },
         {
           "label": "제작사",
@@ -94,7 +94,7 @@
         },
         {
           "label": "투표 수",
-          "value": "5,646"
+          "value": "5,651"
         },
         {
           "label": "출시일",
@@ -116,12 +116,12 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-02",
-      "score": 1259,
+      "score": 1260,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1259"
+          "value": "1260"
         },
         {
           "label": "순위",
@@ -129,7 +129,7 @@
         },
         {
           "label": "투표수",
-          "value": "7,537"
+          "value": "7,553"
         },
         {
           "label": "제작사",
@@ -139,7 +139,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1259"
+          "value": "1260"
         },
         {
           "label": "순위",
@@ -147,7 +147,7 @@
         },
         {
           "label": "투표 수",
-          "value": "7,537"
+          "value": "7,553"
         },
         {
           "label": "출시일",
@@ -182,7 +182,7 @@
         },
         {
           "label": "투표수",
-          "value": "5,858"
+          "value": "5,863"
         },
         {
           "label": "제작사",
@@ -200,7 +200,7 @@
         },
         {
           "label": "투표 수",
-          "value": "5,858"
+          "value": "5,863"
         },
         {
           "label": "출시일",
@@ -222,12 +222,12 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-05",
-      "score": 1243,
+      "score": 1242,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1243"
+          "value": "1242"
         },
         {
           "label": "순위",
@@ -235,7 +235,7 @@
         },
         {
           "label": "투표수",
-          "value": "2,142"
+          "value": "2,161"
         },
         {
           "label": "제작사",
@@ -245,7 +245,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1243"
+          "value": "1242"
         },
         {
           "label": "순위",
@@ -253,7 +253,7 @@
         },
         {
           "label": "투표 수",
-          "value": "2,142"
+          "value": "2,161"
         },
         {
           "label": "출시일",
@@ -288,7 +288,7 @@
         },
         {
           "label": "투표수",
-          "value": "4,921"
+          "value": "4,926"
         },
         {
           "label": "제작사",
@@ -306,7 +306,7 @@
         },
         {
           "label": "투표 수",
-          "value": "4,921"
+          "value": "4,926"
         },
         {
           "label": "출시일",
@@ -341,7 +341,7 @@
         },
         {
           "label": "투표수",
-          "value": "2,338"
+          "value": "2,351"
         },
         {
           "label": "제작사",
@@ -359,7 +359,7 @@
         },
         {
           "label": "투표 수",
-          "value": "2,338"
+          "value": "2,351"
         },
         {
           "label": "출시일",
@@ -392,7 +392,7 @@
         },
         {
           "label": "투표수",
-          "value": "3,250"
+          "value": "3,267"
         },
         {
           "label": "제작사",
@@ -410,7 +410,7 @@
         },
         {
           "label": "투표 수",
-          "value": "3,250"
+          "value": "3,267"
         },
         {
           "label": "출시일",
@@ -443,7 +443,7 @@
         },
         {
           "label": "투표수",
-          "value": "2,290"
+          "value": "2,306"
         },
         {
           "label": "제작사",
@@ -461,7 +461,7 @@
         },
         {
           "label": "투표 수",
-          "value": "2,290"
+          "value": "2,306"
         },
         {
           "label": "출시일",
@@ -494,7 +494,7 @@
         },
         {
           "label": "투표수",
-          "value": "10,986"
+          "value": "10,990"
         },
         {
           "label": "제작사",
@@ -512,7 +512,7 @@
         },
         {
           "label": "투표 수",
-          "value": "10,986"
+          "value": "10,990"
         },
         {
           "label": "출시일",

@@ -21,7 +21,7 @@
           "id": "image-nano-banana-2",
           "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
           "vendor": "Google",
-          "value": 1259
+          "value": 1260
         },
         {
           "id": "image-sourceful_riverflow-2",
@@ -33,7 +33,7 @@
           "id": "image-cosmos3-super-text2image-agentic",
           "name": "Cosmos3-Super-Text2Image (agentic)",
           "vendor": "NVIDIA",
-          "value": 1243
+          "value": 1242
         },
         {
           "id": "image-gemini_nano-banana-pro",

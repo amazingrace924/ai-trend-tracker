@@ -1,21 +1,21 @@
 {
   "category": "video",
   "date": "2026-06-02",
-  "updatedAt": "2026-06-02T09:32:31.999Z",
+  "updatedAt": "2026-06-02T23:04:07.519Z",
   "models": [
     {
-      "id": "video-happyhorse-1-0",
+      "id": "video-happyhorse-1-0-",
       "name": "HappyHorse-1.0",
       "vendor": "Alibaba-ATH",
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-04",
-      "score": 1357,
+      "score": 1356,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1357"
+          "value": "1356"
         },
         {
           "label": "순위",
@@ -23,7 +23,7 @@
         },
         {
           "label": "투표수",
-          "value": "8,065"
+          "value": "8,071"
         },
         {
           "label": "제작사",
@@ -33,7 +33,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1357"
+          "value": "1356"
         },
         {
           "label": "순위",
@@ -41,7 +41,7 @@
         },
         {
           "label": "투표 수",
-          "value": "8,065"
+          "value": "8,071"
         },
         {
           "label": "출시일",
@@ -116,12 +116,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-02",
-      "score": 1249,
+      "score": 1248,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1249"
+          "value": "1248"
         },
         {
           "label": "순위",
@@ -129,7 +129,7 @@
         },
         {
           "label": "투표수",
-          "value": "5,555"
+          "value": "5,558"
         },
         {
           "label": "제작사",
@@ -139,7 +139,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1249"
+          "value": "1248"
         },
         {
           "label": "순위",
@@ -147,7 +147,7 @@
         },
         {
           "label": "투표 수",
-          "value": "5,555"
+          "value": "5,558"
         },
         {
           "label": "출시일",
@@ -182,7 +182,7 @@
         },
         {
           "label": "투표수",
-          "value": "5,289"
+          "value": "5,291"
         },
         {
           "label": "제작사",
@@ -200,7 +200,7 @@
         },
         {
           "label": "투표 수",
-          "value": "5,289"
+          "value": "5,291"
         },
         {
           "label": "출시일",
@@ -235,7 +235,7 @@
         },
         {
           "label": "투표수",
-          "value": "6,228"
+          "value": "6,231"
         },
         {
           "label": "제작사",
@@ -253,7 +253,7 @@
         },
         {
           "label": "투표 수",
-          "value": "6,228"
+          "value": "6,231"
         },
         {
           "label": "출시일",
@@ -275,12 +275,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-04",
-      "score": 1231,
+      "score": 1230,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1231"
+          "value": "1230"
         },
         {
           "label": "순위",
@@ -288,7 +288,7 @@
         },
         {
           "label": "투표수",
-          "value": "5,048"
+          "value": "5,050"
         },
         {
           "label": "제작사",
@@ -298,7 +298,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1231"
+          "value": "1230"
         },
         {
           "label": "순위",
@@ -306,7 +306,7 @@
         },
         {
           "label": "투표 수",
-          "value": "5,048"
+          "value": "5,050"
         },
         {
           "label": "출시일",
@@ -341,7 +341,7 @@
         },
         {
           "label": "투표수",
-          "value": "6,387"
+          "value": "6,386"
         },
         {
           "label": "제작사",
@@ -359,7 +359,7 @@
         },
         {
           "label": "투표 수",
-          "value": "6,387"
+          "value": "6,386"
         },
         {
           "label": "출시일",
@@ -379,12 +379,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2025-10",
-      "score": 1227,
+      "score": 1226,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1227"
+          "value": "1226"
         },
         {
           "label": "순위",
@@ -392,7 +392,7 @@
         },
         {
           "label": "투표수",
-          "value": "4,606"
+          "value": "4,607"
         },
         {
           "label": "제작사",
@@ -402,7 +402,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1227"
+          "value": "1226"
         },
         {
           "label": "순위",
@@ -410,7 +410,7 @@
         },
         {
           "label": "투표 수",
-          "value": "4,606"
+          "value": "4,607"
         },
         {
           "label": "출시일",
@@ -443,7 +443,7 @@
         },
         {
           "label": "투표수",
-          "value": "9,049"
+          "value": "9,052"
         },
         {
           "label": "제작사",
@@ -461,7 +461,7 @@
         },
         {
           "label": "투표 수",
-          "value": "9,049"
+          "value": "9,052"
         },
         {
           "label": "출시일",
@@ -481,12 +481,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2025-07",
-      "score": 1224,
+      "score": 1223,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1224"
+          "value": "1223"
         },
         {
           "label": "순위",
@@ -494,7 +494,7 @@
         },
         {
           "label": "투표수",
-          "value": "4,023"
+          "value": "4,022"
         },
         {
           "label": "제작사",
@@ -504,7 +504,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1224"
+          "value": "1223"
         },
         {
           "label": "순위",
@@ -512,7 +512,7 @@
         },
         {
           "label": "투표 수",
-          "value": "4,023"
+          "value": "4,022"
         },
         {
           "label": "출시일",
