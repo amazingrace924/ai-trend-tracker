@@ -1,0 +1,158 @@
+@import "tailwindcss";
+
+/* ───────────────────────── Neo Racing 테마 토큰 ─────────────────────────
+   굵은 타입 · 강한 대비 · 레이싱 컬러. data-theme는 layout 인라인 스크립트가
+   페인트 전에 설정한다. 라이트(기본) / 다크 두 세트. */
+:root {
+  --bg: #f3f4f8;
+  --panel: #ffffff;
+  --panel-2: #eceef4;
+  --border: #d7dae3;
+  --border-strong: #b9bdcc;
+  --text: #0e0f15;
+  --muted: #5f6475;
+  --accent: #ff2d55; /* 레이싱 레드-핑크 (CTA·활성·1위) */
+  --accent-2: #ff7a3d; /* 히트 오렌지 (그라데이션 끝) */
+  --ink: #0e0f15; /* 강조 잉크(보더/배지) */
+  --on-accent: #ffffff;
+  --shadow: 0 1px 2px rgba(16, 18, 30, 0.06), 0 8px 24px rgba(16, 18, 30, 0.06);
+  --shadow-lift: 0 8px 16px rgba(16, 18, 30, 0.1), 0 20px 40px rgba(16, 18, 30, 0.12);
+  color-scheme: light;
+}
+
+[data-theme="dark"] {
+  --bg: #08090d;
+  --panel: #121420;
+  --panel-2: #1a1d2c;
+  --border: #272b3d;
+  --border-strong: #3a3f57;
+  --text: #f2f3fa;
+  --muted: #969cb3;
+  --accent: #ff3d63;
+  --accent-2: #ff944d;
+  --ink: #f2f3fa;
+  --on-accent: #ffffff;
+  --shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 8px 24px rgba(0, 0, 0, 0.45);
+  --shadow-lift: 0 10px 20px rgba(0, 0, 0, 0.5), 0 24px 48px rgba(0, 0, 0, 0.55);
+  color-scheme: dark;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-panel: var(--panel);
+  --color-panel2: var(--panel-2);
+  --color-border: var(--border);
+  --color-text: var(--text);
+  --color-muted: var(--muted);
+  --color-accent: var(--accent);
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-display: var(--font-display), var(--font-inter), system-ui, sans-serif;
+  --font-mono: var(--font-mono), ui-monospace, monospace;
+}
+
+html,
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-inter), "Apple SD Gothic Neo", "Malgun Gothic", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  border-color: var(--border);
+}
+
+/* 제목은 디스플레이 폰트 + 강한 자간 압축으로 스포티하게 */
+h1,
+h2,
+h3,
+.font-display {
+  font-family: var(--font-display), "Apple SD Gothic Neo", "Malgun Gothic", system-ui, sans-serif;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.tnum {
+  font-family: var(--font-mono), ui-monospace, monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ───────────────────────── 컴포넌트 유틸 ───────────────────────── */
+.card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+}
+
+.card-hover {
+  transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+}
+.card-hover:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lift);
+  border-color: var(--accent);
+}
+
+/* 레이싱 그라데이션 텍스트(히어로 제목 강조) */
+.grad-text {
+  background: linear-gradient(100deg, var(--accent), var(--accent-2));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.grad-bar {
+  background: linear-gradient(100deg, var(--accent), var(--accent-2));
+}
+
+/* 대문자 라벨 — 계기판 느낌 */
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-weight: 700;
+  font-size: 0.68rem;
+}
+
+/* 순위 배지(사각, 굵은 테두리) */
+.rank-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.6rem;
+  height: 1.6rem;
+  padding: 0 0.35rem;
+  border-radius: 8px;
+  border: 2px solid var(--border-strong);
+  font-family: var(--font-mono), monospace;
+  font-weight: 700;
+  font-size: 0.8rem;
+  line-height: 1;
+}
+.rank-1 {
+  border-color: transparent;
+  background: linear-gradient(100deg, var(--accent), var(--accent-2));
+  color: var(--on-accent);
+}
+
+/* 체커보드 띠(헤더/푸터 레이싱 모티프) */
+.checker {
+  background-image:
+    linear-gradient(45deg, var(--border-strong) 25%, transparent 25%),
+    linear-gradient(-45deg, var(--border-strong) 25%, transparent 25%),
+    linear-gradient(45deg, transparent 75%, var(--border-strong) 75%),
+    linear-gradient(-45deg, transparent 75%, var(--border-strong) 75%);
+  background-size: 10px 10px;
+  background-position: 0 0, 0 5px, 5px -5px, -5px 0;
+  opacity: 0.5;
+}
+
+/* 스크롤바(다크에서 과하지 않게) */
+::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border-strong);
+  border-radius: 8px;
+}

@@ -1,0 +1,529 @@
+{
+  "category": "video",
+  "date": "2026-06-02",
+  "updatedAt": "2026-06-02T09:07:29.858Z",
+  "models": [
+    {
+      "id": "video-happyhorse-1-0",
+      "name": "HappyHorse-1.0",
+      "vendor": "Alibaba-ATH",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-04",
+      "score": 1357,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1357"
+        },
+        {
+          "label": "순위",
+          "value": "#1"
+        },
+        {
+          "label": "투표수",
+          "value": "8,065"
+        },
+        {
+          "label": "제작사",
+          "value": "Alibaba-ATH"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1357"
+        },
+        {
+          "label": "순위",
+          "value": "#1"
+        },
+        {
+          "label": "투표 수",
+          "value": "8,065"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-04"
+        },
+        {
+          "label": "제작사",
+          "value": "Alibaba-ATH"
+        }
+      ],
+      "strengths": [
+        "품질 1위"
+      ]
+    },
+    {
+      "id": "video-seedance-2-0",
+      "name": "Dreamina Seedance 2.0 720p",
+      "vendor": "ByteDance Seed",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-03",
+      "score": 1272,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1272"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표수",
+          "value": "8,413"
+        },
+        {
+          "label": "제작사",
+          "value": "ByteDance Seed"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1272"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표 수",
+          "value": "8,413"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-03"
+        },
+        {
+          "label": "제작사",
+          "value": "ByteDance Seed"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "video-kling-3-0-pro",
+      "name": "Kling 3.0 1080p (Pro)",
+      "vendor": "KlingAI",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-02",
+      "score": 1249,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1249"
+        },
+        {
+          "label": "순위",
+          "value": "#3"
+        },
+        {
+          "label": "투표수",
+          "value": "5,555"
+        },
+        {
+          "label": "제작사",
+          "value": "KlingAI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1249"
+        },
+        {
+          "label": "순위",
+          "value": "#3"
+        },
+        {
+          "label": "투표 수",
+          "value": "5,555"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-02"
+        },
+        {
+          "label": "제작사",
+          "value": "KlingAI"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "video-kling-o3-pro",
+      "name": "Kling 3.0 Omni 1080p (Pro)",
+      "vendor": "KlingAI",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-02",
+      "score": 1237,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1237"
+        },
+        {
+          "label": "순위",
+          "value": "#4"
+        },
+        {
+          "label": "투표수",
+          "value": "5,288"
+        },
+        {
+          "label": "제작사",
+          "value": "KlingAI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1237"
+        },
+        {
+          "label": "순위",
+          "value": "#4"
+        },
+        {
+          "label": "투표 수",
+          "value": "5,288"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-02"
+        },
+        {
+          "label": "제작사",
+          "value": "KlingAI"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "video-grok-imagine-video",
+      "name": "grok-imagine-video",
+      "vendor": "xAI",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-01",
+      "score": 1234,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1234"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표수",
+          "value": "6,228"
+        },
+        {
+          "label": "제작사",
+          "value": "xAI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1234"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표 수",
+          "value": "6,228"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-01"
+        },
+        {
+          "label": "제작사",
+          "value": "xAI"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "video-bach-1-0-preview",
+      "name": "Bach-1.0 Preview",
+      "vendor": "Video Rebirth",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-04",
+      "score": 1231,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1231"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표수",
+          "value": "5,048"
+        },
+        {
+          "label": "제작사",
+          "value": "Video Rebirth"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1231"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표 수",
+          "value": "5,048"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-04"
+        },
+        {
+          "label": "제작사",
+          "value": "Video Rebirth"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "video-vidu-q3-pro",
+      "name": "Vidu Q3 Pro",
+      "vendor": "Vidu",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-01",
+      "score": 1227,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1227"
+        },
+        {
+          "label": "순위",
+          "value": "#7"
+        },
+        {
+          "label": "투표수",
+          "value": "6,387"
+        },
+        {
+          "label": "제작사",
+          "value": "Vidu"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1227"
+        },
+        {
+          "label": "순위",
+          "value": "#7"
+        },
+        {
+          "label": "투표 수",
+          "value": "6,387"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-01"
+        },
+        {
+          "label": "제작사",
+          "value": "Vidu"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "video-veo-3-1-preview",
+      "name": "Veo 3.1 Preview",
+      "vendor": "Google",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2025-10",
+      "score": 1226,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1226"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표수",
+          "value": "4,605"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1226"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표 수",
+          "value": "4,605"
+        },
+        {
+          "label": "출시일",
+          "value": "2025-10"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "video-pixverse-v6",
+      "name": "PixVerse V6",
+      "vendor": "PixVerse",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-03",
+      "score": 1224,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1224"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표수",
+          "value": "9,048"
+        },
+        {
+          "label": "제작사",
+          "value": "PixVerse"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1224"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표 수",
+          "value": "9,048"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-03"
+        },
+        {
+          "label": "제작사",
+          "value": "PixVerse"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "video-veo-3-no-audio",
+      "name": "Veo 3",
+      "vendor": "Google",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2025-07",
+      "score": 1224,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1224"
+        },
+        {
+          "label": "순위",
+          "value": "#10"
+        },
+        {
+          "label": "투표수",
+          "value": "4,023"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1224"
+        },
+        {
+          "label": "순위",
+          "value": "#10"
+        },
+        {
+          "label": "투표 수",
+          "value": "4,023"
+        },
+        {
+          "label": "출시일",
+          "value": "2025-07"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "strengths": []
+    }
+  ]
+}

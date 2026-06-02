@@ -1,0 +1,354 @@
+{
+  "category": "music",
+  "metricLabel": "Arena Elo",
+  "frames": [
+    {
+      "date": "2026-05-22",
+      "entries": [
+        {
+          "id": "music-suno-5",
+          "name": "Suno v5",
+          "vendor": "Suno",
+          "value": 1296
+        },
+        {
+          "id": "music-udio-2",
+          "name": "Udio v2",
+          "vendor": "Udio",
+          "value": 1269
+        },
+        {
+          "id": "music-wondera",
+          "name": "Wondera",
+          "vendor": "Wondera",
+          "value": 1227
+        },
+        {
+          "id": "music-eleven-music",
+          "name": "ElevenLabs Music",
+          "vendor": "ElevenLabs",
+          "value": 1211
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "entries": [
+        {
+          "id": "music-suno-5",
+          "name": "Suno v5",
+          "vendor": "Suno",
+          "value": 1298
+        },
+        {
+          "id": "music-udio-2",
+          "name": "Udio v2",
+          "vendor": "Udio",
+          "value": 1271
+        },
+        {
+          "id": "music-wondera",
+          "name": "Wondera",
+          "vendor": "Wondera",
+          "value": 1231
+        },
+        {
+          "id": "music-eleven-music",
+          "name": "ElevenLabs Music",
+          "vendor": "ElevenLabs",
+          "value": 1216
+        }
+      ]
+    },
+    {
+      "date": "2026-05-24",
+      "entries": [
+        {
+          "id": "music-suno-5",
+          "name": "Suno v5",
+          "vendor": "Suno",
+          "value": 1298
+        },
+        {
+          "id": "music-udio-2",
+          "name": "Udio v2",
+          "vendor": "Udio",
+          "value": 1275
+        },
+        {
+          "id": "music-wondera",
+          "name": "Wondera",
+          "vendor": "Wondera",
+          "value": 1236
+        },
+        {
+          "id": "music-eleven-music",
+          "name": "ElevenLabs Music",
+          "vendor": "ElevenLabs",
+          "value": 1218
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "entries": [
+        {
+          "id": "music-suno-5",
+          "name": "Suno v5",
+          "vendor": "Suno",
+          "value": 1299
+        },
+        {
+          "id": "music-udio-2",
+          "name": "Udio v2",
+          "vendor": "Udio",
+          "value": 1281
+        },
+        {
+          "id": "music-wondera",
+          "name": "Wondera",
+          "vendor": "Wondera",
+          "value": 1239
+        },
+        {
+          "id": "music-eleven-music",
+          "name": "ElevenLabs Music",
+          "vendor": "ElevenLabs",
+          "value": 1219
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "entries": [
+        {
+          "id": "music-suno-5",
+          "name": "Suno v5",
+          "vendor": "Suno",
+          "value": 1303
+        },
+        {
+          "id": "music-udio-2",
+          "name": "Udio v2",
+          "vendor": "Udio",
+          "value": 1288
+        },
+        {
+          "id": "music-wondera",
+          "name": "Wondera",
+          "vendor": "Wondera",
+          "value": 1240
+        },
+        {
+          "id": "music-eleven-music",
+          "name": "ElevenLabs Music",
+          "vendor": "ElevenLabs",
+          "value": 1220
+        }
+      ]
+    },
+    {
+      "date": "2026-05-27",
+      "entries": [
+        {
+          "id": "music-suno-5",
+          "name": "Suno v5",
+          "vendor": "Suno",
+          "value": 1308
+        },
+        {
+          "id": "music-udio-2",
+          "name": "Udio v2",
+          "vendor": "Udio",
+          "value": 1293
+        },
+        {
+          "id": "music-wondera",
+          "name": "Wondera",
+          "vendor": "Wondera",
+          "value": 1239
+        },
+        {
+          "id": "music-eleven-music",
+          "name": "ElevenLabs Music",
+          "vendor": "ElevenLabs",
+          "value": 1222
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "entries": [
+        {
+          "id": "music-suno-5",
+          "name": "Suno v5",
+          "vendor": "Suno",
+          "value": 1313
+        },
+        {
+          "id": "music-udio-2",
+          "name": "Udio v2",
+          "vendor": "Udio",
+          "value": 1296
+        },
+        {
+          "id": "music-wondera",
+          "name": "Wondera",
+          "vendor": "Wondera",
+          "value": 1239
+        },
+        {
+          "id": "music-eleven-music",
+          "name": "ElevenLabs Music",
+          "vendor": "ElevenLabs",
+          "value": 1227
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "entries": [
+        {
+          "id": "music-suno-5",
+          "name": "Suno v5",
+          "vendor": "Suno",
+          "value": 1317
+        },
+        {
+          "id": "music-udio-2",
+          "name": "Udio v2",
+          "vendor": "Udio",
+          "value": 1297
+        },
+        {
+          "id": "music-wondera",
+          "name": "Wondera",
+          "vendor": "Wondera",
+          "value": 1241
+        },
+        {
+          "id": "music-eleven-music",
+          "name": "ElevenLabs Music",
+          "vendor": "ElevenLabs",
+          "value": 1233
+        }
+      ]
+    },
+    {
+      "date": "2026-05-30",
+      "entries": [
+        {
+          "id": "music-suno-5",
+          "name": "Suno v5",
+          "vendor": "Suno",
+          "value": 1319
+        },
+        {
+          "id": "music-udio-2",
+          "name": "Udio v2",
+          "vendor": "Udio",
+          "value": 1299
+        },
+        {
+          "id": "music-wondera",
+          "name": "Wondera",
+          "vendor": "Wondera",
+          "value": 1245
+        },
+        {
+          "id": "music-eleven-music",
+          "name": "ElevenLabs Music",
+          "vendor": "ElevenLabs",
+          "value": 1237
+        }
+      ]
+    },
+    {
+      "date": "2026-05-31",
+      "entries": [
+        {
+          "id": "music-suno-5",
+          "name": "Suno v5",
+          "vendor": "Suno",
+          "value": 1319
+        },
+        {
+          "id": "music-udio-2",
+          "name": "Udio v2",
+          "vendor": "Udio",
+          "value": 1303
+        },
+        {
+          "id": "music-wondera",
+          "name": "Wondera",
+          "vendor": "Wondera",
+          "value": 1250
+        },
+        {
+          "id": "music-eleven-music",
+          "name": "ElevenLabs Music",
+          "vendor": "ElevenLabs",
+          "value": 1239
+        }
+      ]
+    },
+    {
+      "date": "2026-06-01",
+      "entries": [
+        {
+          "id": "music-suno-5",
+          "name": "Suno v5",
+          "vendor": "Suno",
+          "value": 1320
+        },
+        {
+          "id": "music-udio-2",
+          "name": "Udio v2",
+          "vendor": "Udio",
+          "value": 1310
+        },
+        {
+          "id": "music-wondera",
+          "name": "Wondera",
+          "vendor": "Wondera",
+          "value": 1253
+        },
+        {
+          "id": "music-eleven-music",
+          "name": "ElevenLabs Music",
+          "vendor": "ElevenLabs",
+          "value": 1240
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "entries": [
+        {
+          "id": "music-suno-5",
+          "name": "Suno v5",
+          "vendor": "Suno",
+          "value": 1324
+        },
+        {
+          "id": "music-udio-2",
+          "name": "Udio v2",
+          "vendor": "Udio",
+          "value": 1316
+        },
+        {
+          "id": "music-wondera",
+          "name": "Wondera",
+          "vendor": "Wondera",
+          "value": 1254
+        },
+        {
+          "id": "music-eleven-music",
+          "name": "ElevenLabs Music",
+          "vendor": "ElevenLabs",
+          "value": 1240
+        }
+      ]
+    }
+  ]
+}

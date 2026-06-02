@@ -1,0 +1,220 @@
+{
+  "category": "music",
+  "date": "2026-05-27",
+  "updatedAt": "2026-05-27T06:00:00.000Z",
+  "models": [
+    {
+      "id": "music-suno-5",
+      "name": "Suno v5",
+      "vendor": "Suno",
+      "license": "proprietary",
+      "releaseDate": "2026-05-01",
+      "category": "music",
+      "score": 1308,
+      "scoreLabel": "Arena Elo",
+      "strengths": [
+        "품질 1위",
+        "장곡 지원"
+      ],
+      "highlights": [
+        {
+          "label": "최대길이",
+          "value": "5분"
+        },
+        {
+          "label": "보컬",
+          "value": "O"
+        },
+        {
+          "label": "곡당가",
+          "value": "$0.10"
+        },
+        {
+          "label": "라이선스",
+          "value": "독점"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1308"
+        },
+        {
+          "label": "최대 길이",
+          "value": "5분 (300초)"
+        },
+        {
+          "label": "보컬 생성",
+          "value": "O"
+        },
+        {
+          "label": "곡당 가격",
+          "value": "$0.10"
+        },
+        {
+          "label": "라이선스",
+          "value": "독점"
+        }
+      ]
+    },
+    {
+      "id": "music-udio-2",
+      "name": "Udio v2",
+      "vendor": "Udio",
+      "license": "proprietary",
+      "releaseDate": "2026-04-15",
+      "category": "music",
+      "score": 1293,
+      "scoreLabel": "Arena Elo",
+      "strengths": [
+        "장곡 지원"
+      ],
+      "highlights": [
+        {
+          "label": "최대길이",
+          "value": "4분"
+        },
+        {
+          "label": "보컬",
+          "value": "O"
+        },
+        {
+          "label": "곡당가",
+          "value": "$0.12"
+        },
+        {
+          "label": "라이선스",
+          "value": "독점"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1293"
+        },
+        {
+          "label": "최대 길이",
+          "value": "4분 (240초)"
+        },
+        {
+          "label": "보컬 생성",
+          "value": "O"
+        },
+        {
+          "label": "곡당 가격",
+          "value": "$0.12"
+        },
+        {
+          "label": "라이선스",
+          "value": "독점"
+        }
+      ]
+    },
+    {
+      "id": "music-wondera",
+      "name": "Wondera",
+      "vendor": "Wondera",
+      "license": "proprietary",
+      "releaseDate": "2026-03-20",
+      "category": "music",
+      "score": 1239,
+      "scoreLabel": "Arena Elo",
+      "strengths": [
+        "가성비"
+      ],
+      "highlights": [
+        {
+          "label": "최대길이",
+          "value": "3분"
+        },
+        {
+          "label": "보컬",
+          "value": "O"
+        },
+        {
+          "label": "곡당가",
+          "value": "$0.08"
+        },
+        {
+          "label": "라이선스",
+          "value": "독점"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1239"
+        },
+        {
+          "label": "최대 길이",
+          "value": "3분 (180초)"
+        },
+        {
+          "label": "보컬 생성",
+          "value": "O"
+        },
+        {
+          "label": "곡당 가격",
+          "value": "$0.08"
+        },
+        {
+          "label": "라이선스",
+          "value": "독점"
+        }
+      ]
+    },
+    {
+      "id": "music-eleven-music",
+      "name": "ElevenLabs Music",
+      "vendor": "ElevenLabs",
+      "license": "proprietary",
+      "releaseDate": "2026-03-05",
+      "category": "music",
+      "score": 1222,
+      "scoreLabel": "Arena Elo",
+      "strengths": [
+        "장곡 지원"
+      ],
+      "highlights": [
+        {
+          "label": "최대길이",
+          "value": "4분"
+        },
+        {
+          "label": "보컬",
+          "value": "O"
+        },
+        {
+          "label": "곡당가",
+          "value": "$0.11"
+        },
+        {
+          "label": "라이선스",
+          "value": "독점"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1222"
+        },
+        {
+          "label": "최대 길이",
+          "value": "4분 (240초)"
+        },
+        {
+          "label": "보컬 생성",
+          "value": "O"
+        },
+        {
+          "label": "곡당 가격",
+          "value": "$0.11"
+        },
+        {
+          "label": "라이선스",
+          "value": "독점"
+        }
+      ]
+    }
+  ]
+}

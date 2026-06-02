@@ -1,0 +1,529 @@
+{
+  "category": "image",
+  "date": "2026-06-02",
+  "updatedAt": "2026-06-02T09:07:30.139Z",
+  "models": [
+    {
+      "id": "image-gpt-image-2",
+      "name": "GPT Image 2 (high)",
+      "vendor": "OpenAI",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-04",
+      "score": 1339,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1339"
+        },
+        {
+          "label": "순위",
+          "value": "#1"
+        },
+        {
+          "label": "투표수",
+          "value": "10,374"
+        },
+        {
+          "label": "제작사",
+          "value": "OpenAI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1339"
+        },
+        {
+          "label": "순위",
+          "value": "#1"
+        },
+        {
+          "label": "투표 수",
+          "value": "10,374"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-04"
+        },
+        {
+          "label": "제작사",
+          "value": "OpenAI"
+        }
+      ],
+      "strengths": [
+        "품질 1위"
+      ]
+    },
+    {
+      "id": "image-openai-gpt_image-1-5",
+      "name": "GPT Image 1.5 (high)",
+      "vendor": "OpenAI",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2025-12",
+      "score": 1267,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1267"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표수",
+          "value": "5,646"
+        },
+        {
+          "label": "제작사",
+          "value": "OpenAI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1267"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표 수",
+          "value": "5,646"
+        },
+        {
+          "label": "출시일",
+          "value": "2025-12"
+        },
+        {
+          "label": "제작사",
+          "value": "OpenAI"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "image-nano-banana-2",
+      "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
+      "vendor": "Google",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-02",
+      "score": 1259,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1259"
+        },
+        {
+          "label": "순위",
+          "value": "#3"
+        },
+        {
+          "label": "투표수",
+          "value": "7,537"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1259"
+        },
+        {
+          "label": "순위",
+          "value": "#3"
+        },
+        {
+          "label": "투표 수",
+          "value": "7,537"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-02"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "image-sourceful_riverflow-2",
+      "name": "Riverflow 2.0",
+      "vendor": "Sourceful",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-02",
+      "score": 1255,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1255"
+        },
+        {
+          "label": "순위",
+          "value": "#4"
+        },
+        {
+          "label": "투표수",
+          "value": "5,858"
+        },
+        {
+          "label": "제작사",
+          "value": "Sourceful"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1255"
+        },
+        {
+          "label": "순위",
+          "value": "#4"
+        },
+        {
+          "label": "투표 수",
+          "value": "5,858"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-02"
+        },
+        {
+          "label": "제작사",
+          "value": "Sourceful"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "image-cosmos3-super-text2image-agentic",
+      "name": "Cosmos3-Super-Text2Image (agentic)",
+      "vendor": "NVIDIA",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-05",
+      "score": 1243,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1243"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표수",
+          "value": "2,142"
+        },
+        {
+          "label": "제작사",
+          "value": "NVIDIA"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1243"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표 수",
+          "value": "2,142"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-05"
+        },
+        {
+          "label": "제작사",
+          "value": "NVIDIA"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "image-gemini_nano-banana-pro",
+      "name": "Nano Banana Pro (Gemini 3 Pro Image)",
+      "vendor": "Google",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2025-11",
+      "score": 1219,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1219"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표수",
+          "value": "4,921"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1219"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표 수",
+          "value": "4,921"
+        },
+        {
+          "label": "출시일",
+          "value": "2025-11"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "image-krea-2-medium",
+      "name": "Krea 2 Medium",
+      "vendor": "Krea",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-05",
+      "score": 1212,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1212"
+        },
+        {
+          "label": "순위",
+          "value": "#7"
+        },
+        {
+          "label": "투표수",
+          "value": "2,338"
+        },
+        {
+          "label": "제작사",
+          "value": "Krea"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1212"
+        },
+        {
+          "label": "순위",
+          "value": "#7"
+        },
+        {
+          "label": "투표 수",
+          "value": "2,338"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-05"
+        },
+        {
+          "label": "제작사",
+          "value": "Krea"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "image-grok-imagine-image-quality",
+      "name": "grok-imagine-image-quality",
+      "vendor": "xAI",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-04",
+      "score": 1205,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1205"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표수",
+          "value": "3,250"
+        },
+        {
+          "label": "제작사",
+          "value": "xAI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1205"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표 수",
+          "value": "3,250"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-04"
+        },
+        {
+          "label": "제작사",
+          "value": "xAI"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "image-recraft-v4-1-utility-pro",
+      "name": "Recraft V4.1 Utility Pro",
+      "vendor": "Recraft",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-05",
+      "score": 1204,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1204"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표수",
+          "value": "2,290"
+        },
+        {
+          "label": "제작사",
+          "value": "Recraft"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1204"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표 수",
+          "value": "2,290"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-05"
+        },
+        {
+          "label": "제작사",
+          "value": "Recraft"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "image-bytedance-seed_seedream-4-0",
+      "name": "Seedream 4.0",
+      "vendor": "ByteDance Seed",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2025-09",
+      "score": 1196,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1196"
+        },
+        {
+          "label": "순위",
+          "value": "#10"
+        },
+        {
+          "label": "투표수",
+          "value": "10,986"
+        },
+        {
+          "label": "제작사",
+          "value": "ByteDance Seed"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1196"
+        },
+        {
+          "label": "순위",
+          "value": "#10"
+        },
+        {
+          "label": "투표 수",
+          "value": "10,986"
+        },
+        {
+          "label": "출시일",
+          "value": "2025-09"
+        },
+        {
+          "label": "제작사",
+          "value": "ByteDance Seed"
+        }
+      ],
+      "strengths": []
+    }
+  ]
+}

@@ -1,0 +1,770 @@
+{
+  "category": "llm",
+  "date": "2026-06-02",
+  "updatedAt": "2026-06-02T09:07:29.540Z",
+  "models": [
+    {
+      "id": "claude-opus-4-8",
+      "name": "Claude Opus 4.8 (Adaptive Reasoning, Max Effort)",
+      "vendor": "Anthropic",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-05-28",
+      "score": 61.4,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "57"
+        },
+        {
+          "label": "속도",
+          "value": "60/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$25"
+        },
+        {
+          "label": "추론",
+          "value": "92%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "61.4"
+        },
+        {
+          "label": "코딩 지수",
+          "value": "57"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "92%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "60 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "12.48s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$6"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$25"
+        }
+      ],
+      "strengths": [
+        "종합 1위",
+        "코딩 강자"
+      ]
+    },
+    {
+      "id": "gpt-5-5",
+      "name": "GPT-5.5 (xhigh)",
+      "vendor": "OpenAI",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-04-23",
+      "score": 60.2,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "59"
+        },
+        {
+          "label": "속도",
+          "value": "66/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$30"
+        },
+        {
+          "label": "추론",
+          "value": "94%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "60.2"
+        },
+        {
+          "label": "코딩 지수",
+          "value": "59"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "94%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "66 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "33.93s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$5"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$30"
+        },
+        {
+          "label": "사람 투표 Elo",
+          "value": "1476"
+        }
+      ],
+      "strengths": [
+        "코딩 강자",
+        "고난도 추론"
+      ]
+    },
+    {
+      "id": "gpt-5-5-high",
+      "name": "GPT-5.5 (high)",
+      "vendor": "OpenAI",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-04-23",
+      "score": 58.9,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "59"
+        },
+        {
+          "label": "속도",
+          "value": "70/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$30"
+        },
+        {
+          "label": "추론",
+          "value": "93%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "58.9"
+        },
+        {
+          "label": "코딩 지수",
+          "value": "59"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "93%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "70 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "15.33s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$5"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$30"
+        },
+        {
+          "label": "사람 투표 Elo",
+          "value": "1482"
+        }
+      ],
+      "strengths": [
+        "코딩 강자",
+        "고난도 추론"
+      ]
+    },
+    {
+      "id": "claude-opus-4-7",
+      "name": "Claude Opus 4.7 (Adaptive Reasoning, Max Effort)",
+      "vendor": "Anthropic",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-04-16",
+      "score": 57.3,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "53"
+        },
+        {
+          "label": "속도",
+          "value": "56/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$25"
+        },
+        {
+          "label": "추론",
+          "value": "91%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "57.3"
+        },
+        {
+          "label": "코딩 지수",
+          "value": "53"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "91%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "56 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "21.03s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$6"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$25"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "gemini-3-1-pro-preview",
+      "name": "Gemini 3.1 Pro Preview",
+      "vendor": "Google",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-02-19",
+      "score": 57.2,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "56"
+        },
+        {
+          "label": "속도",
+          "value": "132/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$12"
+        },
+        {
+          "label": "추론",
+          "value": "94%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "57.2"
+        },
+        {
+          "label": "코딩 지수",
+          "value": "56"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "94%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "132 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "24.99s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$2"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$12"
+        },
+        {
+          "label": "사람 투표 Elo",
+          "value": "1487"
+        }
+      ],
+      "strengths": [
+        "고난도 추론",
+        "초고속"
+      ]
+    },
+    {
+      "id": "gpt-5-4",
+      "name": "GPT-5.4 (xhigh)",
+      "vendor": "OpenAI",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-03-05",
+      "score": 56.8,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "57"
+        },
+        {
+          "label": "속도",
+          "value": "80/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$15"
+        },
+        {
+          "label": "추론",
+          "value": "92%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "56.8"
+        },
+        {
+          "label": "코딩 지수",
+          "value": "57"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "92%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "80 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "154.07s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$3"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$15"
+        }
+      ],
+      "strengths": [
+        "코딩 강자"
+      ]
+    },
+    {
+      "id": "gpt-5-5-medium",
+      "name": "GPT-5.5 (medium)",
+      "vendor": "OpenAI",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-04-23",
+      "score": 56.7,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "56"
+        },
+        {
+          "label": "속도",
+          "value": "67/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$30"
+        },
+        {
+          "label": "추론",
+          "value": "93%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "56.7"
+        },
+        {
+          "label": "코딩 지수",
+          "value": "56"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "93%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "67 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "4.65s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$5"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$30"
+        },
+        {
+          "label": "사람 투표 Elo",
+          "value": "1476"
+        }
+      ],
+      "strengths": [
+        "고난도 추론"
+      ]
+    },
+    {
+      "id": "qwen3-7-max",
+      "name": "Qwen3.7 Max",
+      "vendor": "Alibaba",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-05-19",
+      "score": 56.6,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "50"
+        },
+        {
+          "label": "속도",
+          "value": "201/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$8"
+        },
+        {
+          "label": "추론",
+          "value": "92%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "56.6"
+        },
+        {
+          "label": "코딩 지수",
+          "value": "50"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "92%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "201 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "1.68s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$3"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$8"
+        },
+        {
+          "label": "사람 투표 Elo",
+          "value": "1475"
+        }
+      ],
+      "strengths": [
+        "가성비",
+        "초고속"
+      ]
+    },
+    {
+      "id": "gemini-3-5-flash",
+      "name": "Gemini 3.5 Flash (high)",
+      "vendor": "Google",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-05-19",
+      "score": 55.3,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "45"
+        },
+        {
+          "label": "속도",
+          "value": "227/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$9"
+        },
+        {
+          "label": "추론",
+          "value": "92%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "55.3"
+        },
+        {
+          "label": "코딩 지수",
+          "value": "45"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "92%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "227 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "14.5s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$2"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$9"
+        },
+        {
+          "label": "사람 투표 Elo",
+          "value": "1479"
+        }
+      ],
+      "strengths": [
+        "초고속"
+      ]
+    },
+    {
+      "id": "gemini-3-5-flash-medium",
+      "name": "Gemini 3.5 Flash (medium)",
+      "vendor": "Google",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-05-19",
+      "score": 54.8,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "44"
+        },
+        {
+          "label": "속도",
+          "value": "216/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$9"
+        },
+        {
+          "label": "추론",
+          "value": "92%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "54.8"
+        },
+        {
+          "label": "코딩 지수",
+          "value": "44"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "92%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "216 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "11.59s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$2"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$9"
+        },
+        {
+          "label": "사람 투표 Elo",
+          "value": "1479"
+        }
+      ],
+      "strengths": [
+        "초고속"
+      ]
+    },
+    {
+      "id": "kimi-k2-6",
+      "name": "Kimi K2.6",
+      "vendor": "Kimi",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-04-20",
+      "score": 53.9,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "47"
+        },
+        {
+          "label": "속도",
+          "value": "41/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$4"
+        },
+        {
+          "label": "추론",
+          "value": "91%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "53.9"
+        },
+        {
+          "label": "코딩 지수",
+          "value": "47"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "91%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "41 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "1.19s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$0.95"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$4"
+        }
+      ],
+      "strengths": [
+        "가성비"
+      ]
+    },
+    {
+      "id": "mimo-v2-5-pro",
+      "name": "MiMo-V2.5-Pro",
+      "vendor": "Xiaomi",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-04-22",
+      "score": 53.8,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "46"
+        },
+        {
+          "label": "속도",
+          "value": "53/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$0.87"
+        },
+        {
+          "label": "추론",
+          "value": "87%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "53.8"
+        },
+        {
+          "label": "코딩 지수",
+          "value": "46"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "87%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "53 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "1.93s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$0.43"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$0.87"
+        }
+      ],
+      "strengths": [
+        "가성비"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "category": "voice",
+  "date": "2026-06-02",
+  "updatedAt": "2026-06-02T09:07:30.415Z",
+  "models": [
+    {
+      "id": "voice-fun-realtime-tts",
+      "name": "Fun-Realtime-TTS",
+      "vendor": "Alibaba",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1219,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1219"
+        },
+        {
+          "label": "순위",
+          "value": "#1"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Alibaba"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1219"
+        },
+        {
+          "label": "순위",
+          "value": "#1"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Alibaba"
+        }
+      ],
+      "strengths": [
+        "품질 1위"
+      ]
+    },
+    {
+      "id": "voice-gemini-3-1-tts",
+      "name": "Gemini 3.1 Flash TTS",
+      "vendor": "Google",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1214,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1214"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1214"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "voice-realtime-tts-2-research-preview",
+      "name": "Realtime TTS-2 - Research Preview",
+      "vendor": "Inworld",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1209,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1209"
+        },
+        {
+          "label": "순위",
+          "value": "#3"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Inworld"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1209"
+        },
+        {
+          "label": "순위",
+          "value": "#3"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Inworld"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "voice-sonic-3-5",
+      "name": "Sonic 3.5",
+      "vendor": "Cartesia",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1203,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1203"
+        },
+        {
+          "label": "순위",
+          "value": "#4"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Cartesia"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1203"
+        },
+        {
+          "label": "순위",
+          "value": "#4"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Cartesia"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "voice-realtime-tts-1-5-max",
+      "name": "Realtime TTS 1.5 Max",
+      "vendor": "Inworld",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1195,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1195"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Inworld"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1195"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Inworld"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "voice-xai-text-to-speech",
+      "name": "xAI Text to Speech",
+      "vendor": "xAI",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1194,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1194"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "xAI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1194"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "xAI"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "voice-step-audio-2.5-tts",
+      "name": "StepAudio 2.5 TTS",
+      "vendor": "StepFun",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1184,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1184"
+        },
+        {
+          "label": "순위",
+          "value": "#7"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "StepFun"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1184"
+        },
+        {
+          "label": "순위",
+          "value": "#7"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "StepFun"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "voice-async-flash-v1-5",
+      "name": "Async Flash v1.5",
+      "vendor": "async",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1180,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1180"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "async"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1180"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "async"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "voice-eleven-v3",
+      "name": "Eleven v3",
+      "vendor": "ElevenLabs",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1179,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1179"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "ElevenLabs"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1179"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "ElevenLabs"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "voice-speech-2-8-hd",
+      "name": "Speech 2.8 HD",
+      "vendor": "MiniMax",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1167,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1167"
+        },
+        {
+          "label": "순위",
+          "value": "#10"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "MiniMax"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1167"
+        },
+        {
+          "label": "순위",
+          "value": "#10"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "MiniMax"
+        }
+      ],
+      "strengths": []
+    }
+  ]
+}

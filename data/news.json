@@ -1,0 +1,322 @@
+[
+  {
+    "id": "OpenAI-0-codex-is-becoming-a-productivity-tool-fo",
+    "title": "Codex is becoming a productivity tool for everyone",
+    "url": "https://openai.com/index/codex-for-knowledge-work",
+    "source": "OpenAI",
+    "date": "2026-06-02T02:00:00.000Z",
+    "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation."
+  },
+  {
+    "id": "OpenAI-1-our-views-on-ai-policy-and-political-adv",
+    "title": "Our views on AI policy and political advocacy",
+    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
+    "source": "OpenAI",
+    "date": "2026-06-01T17:00:00.000Z",
+    "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf."
+  },
+  {
+    "id": "Hugging Face-0-introducing-mellum2-a-12b-mixture-of-exp",
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "source": "Hugging Face",
+    "date": "2026-06-01T15:45:17.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Hugging Face-1-beyond-llms-why-scalable-enterprise-ai-a",
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "source": "Hugging Face",
+    "date": "2026-06-01T13:51:18.000Z",
+    "summary": ""
+  },
+  {
+    "id": "OpenAI-2-building-the-infrastructure-for-the-inte",
+    "title": "Building the infrastructure for the Intelligence Age in Michigan",
+    "url": "https://openai.com/index/stargate-michigan-data-center",
+    "source": "OpenAI",
+    "date": "2026-06-01T12:00:00.000Z",
+    "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities."
+  },
+  {
+    "id": "OpenAI-3-openai-frontier-models-and-codex-are-now",
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+    "source": "OpenAI",
+    "date": "2026-06-01T10:00:00.000Z",
+    "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can ge"
+  },
+  {
+    "id": "Hugging Face-2-welcome-nvidia-cosmos-3-the-first-open-o",
+    "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+    "source": "Hugging Face",
+    "date": "2026-06-01T04:44:55.000Z",
+    "summary": ""
+  },
+  {
+    "id": "OpenAI-5-how-braintrust-turns-customer-requests-i",
+    "title": "How Braintrust turns customer requests into code with Codex",
+    "url": "https://openai.com/index/braintrust",
+    "source": "OpenAI",
+    "date": "2026-05-29T12:00:00.000Z",
+    "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster."
+  },
+  {
+    "id": "OpenAI-4-boston-children-s-uses-ai-to-unlock-new-",
+    "title": "Boston Children’s uses AI to unlock new diagnoses",
+    "url": "https://openai.com/index/boston-childrens-hospital",
+    "source": "OpenAI",
+    "date": "2026-05-29T12:00:00.000Z",
+    "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases."
+  },
+  {
+    "id": "OpenAI-6-strengthening-societal-resilience-with-r",
+    "title": "Strengthening societal resilience with Rosalind Biodefense",
+    "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
+    "source": "OpenAI",
+    "date": "2026-05-29T03:00:00.000Z",
+    "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI."
+  },
+  {
+    "id": "Hugging Face-3-profiling-in-pytorch-part-1-a-beginner-s",
+    "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
+    "url": "https://huggingface.co/blog/torch-profiler",
+    "source": "Hugging Face",
+    "date": "2026-05-29T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "id": "OpenAI-7-a-shared-playbook-for-trustworthy-third-",
+    "title": "A shared playbook for trustworthy third party evaluations",
+    "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
+    "source": "OpenAI",
+    "date": "2026-05-29T00:00:00.000Z",
+    "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems."
+  },
+  {
+    "id": "OpenAI-8-how-endava-builds-an-agentic-organizatio",
+    "title": "How Endava builds an agentic organization with Codex",
+    "url": "https://openai.com/index/endava",
+    "source": "OpenAI",
+    "date": "2026-05-28T12:00:00.000Z",
+    "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours."
+  },
+  {
+    "id": "OpenAI-10-mufg-aims-to-become-ai-native-with-opena",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
+    "source": "OpenAI",
+    "date": "2026-05-28T00:00:00.000Z",
+    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+  },
+  {
+    "id": "OpenAI-9-openai-s-frontier-governance-framework",
+    "title": "OpenAI’s Frontier Governance Framework",
+    "url": "https://openai.com/index/openai-frontier-governance-framework",
+    "source": "OpenAI",
+    "date": "2026-05-28T00:00:00.000Z",
+    "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations."
+  },
+  {
+    "id": "OpenAI-11-cisco-and-openai-redefine-enterprise-eng",
+    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+    "url": "https://openai.com/index/cisco",
+    "source": "OpenAI",
+    "date": "2026-05-27T11:00:00.000Z",
+    "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation."
+  },
+  {
+    "id": "OpenAI-12-building-self-improving-tax-agents-with-",
+    "title": "Building self-improving tax agents with Codex",
+    "url": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
+    "source": "OpenAI",
+    "date": "2026-05-27T07:00:00.000Z",
+    "summary": "See how OpenAI, Thrive, and Crete built a self-improving tax agent with Codex, automating filings, improving accuracy, and accelerating workflows."
+  },
+  {
+    "id": "Hugging Face-5-shipping-a-trillion-parameters-with-a-hu",
+    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
+    "url": "https://huggingface.co/blog/delta-weight-sync",
+    "source": "Hugging Face",
+    "date": "2026-05-27T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Hugging Face-4-reachy-mini-goes-fully-local",
+    "title": "Reachy Mini goes fully local",
+    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
+    "source": "Hugging Face",
+    "date": "2026-05-27T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "id": "OpenAI-14-warp-s-big-bet-on-building-open-source-w",
+    "title": "Warp’s big bet on building open source with GPT-5.5",
+    "url": "https://openai.com/index/warp",
+    "source": "OpenAI",
+    "date": "2026-05-27T00:00:00.000Z",
+    "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows."
+  },
+  {
+    "id": "OpenAI-13-election-information-and-safeguards-in-2",
+    "title": "Election information and safeguards in 2026",
+    "url": "https://openai.com/index/election-safeguards-2026",
+    "source": "OpenAI",
+    "date": "2026-05-27T00:00:00.000Z",
+    "summary": "Ahead of global elections, we’re helping people access information, supporting cyber defenders, and increasing AI transparency"
+  },
+  {
+    "id": "Hugging Face-6-harness-scaffold-and-the-ai-agent-terms-",
+    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+    "url": "https://huggingface.co/blog/agent-glossary",
+    "source": "Hugging Face",
+    "date": "2026-05-25T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Hugging Face-7-specialization-beats-scale-a-strategic-v",
+    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
+    "source": "Hugging Face",
+    "date": "2026-05-22T15:25:59.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Google DeepMind-0-we-re-launching-the-google-deepmind-acce",
+    "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
+    "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
+    "source": "Google DeepMind",
+    "date": "2026-05-21T19:46:42.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Hugging Face-8-olmoearth-v1-1-a-more-efficient-family-o",
+    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
+    "source": "Hugging Face",
+    "date": "2026-05-19T18:38:09.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Hugging Face-9-introducing-the-ettin-reranker-family",
+    "title": "Introducing the Ettin Reranker Family",
+    "url": "https://huggingface.co/blog/ettin-reranker",
+    "source": "Hugging Face",
+    "date": "2026-05-19T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Google DeepMind-1-fast-tracking-genetic-leads-to-reverse-c",
+    "title": "Fast-tracking genetic leads to reverse cellular aging",
+    "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
+    "source": "Google DeepMind",
+    "date": "2026-05-18T18:21:39.000Z",
+    "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells."
+  },
+  {
+    "id": "Hugging Face-10-paddleocr-3-5-running-ocr-and-document-p",
+    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
+    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
+    "source": "Hugging Face",
+    "date": "2026-05-18T15:12:46.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Google DeepMind-2-simulate-real-world-places-with-project-",
+    "title": "Simulate real-world places with Project Genie and Street View",
+    "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
+    "source": "Google DeepMind",
+    "date": "2026-05-17T19:53:18.000Z",
+    "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View."
+  },
+  {
+    "id": "Google DeepMind-3-introducing-gemini-omni",
+    "title": "Introducing Gemini Omni",
+    "url": "https://deepmind.google/blog/introducing-gemini-omni/",
+    "source": "Google DeepMind",
+    "date": "2026-05-17T19:50:57.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Google DeepMind-4-introducing-google-antigravity-2-0",
+    "title": "Introducing Google Antigravity 2.0",
+    "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
+    "source": "Google DeepMind",
+    "date": "2026-05-17T19:43:45.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Google DeepMind-5-gemini-for-science-ai-experiments-and-to",
+    "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
+    "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
+    "source": "Google DeepMind",
+    "date": "2026-05-17T13:50:34.000Z",
+    "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration."
+  },
+  {
+    "id": "Google DeepMind-6-making-it-easier-to-understand-how-conte",
+    "title": "Making it easier to understand how content was created and edited",
+    "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
+    "source": "Google DeepMind",
+    "date": "2026-05-17T13:43:50.000Z",
+    "summary": "We're expanding our tools to help you understand how content was created and edited across the web."
+  },
+  {
+    "id": "Google DeepMind-7-strengthening-singapore-s-ai-future-a-ne",
+    "title": "Strengthening Singapore’s AI Future: A New National Partnership",
+    "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
+    "source": "Google DeepMind",
+    "date": "2026-05-16T09:13:34.000Z",
+    "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more."
+  },
+  {
+    "id": "Google DeepMind-8-finding-the-molecular-switches-behind-ne",
+    "title": "Finding the molecular switches behind new infectious diseases",
+    "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
+    "source": "Google DeepMind",
+    "date": "2026-05-16T08:16:06.000Z",
+    "summary": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases."
+  },
+  {
+    "id": "Google DeepMind-9-opening-new-paths-in-aging-research",
+    "title": "Opening new paths in aging research",
+    "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
+    "source": "Google DeepMind",
+    "date": "2026-05-16T08:08:44.000Z",
+    "summary": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research."
+  },
+  {
+    "id": "Google DeepMind-10-accelerating-discovery-of-liver-disease-",
+    "title": "Accelerating discovery of liver disease mechanisms",
+    "url": "https://deepmind.google/blog/accelerating-discovery-of-liver-disease-mechanisms/",
+    "source": "Google DeepMind",
+    "date": "2026-05-16T08:00:15.000Z",
+    "summary": "Filippo Menolascina uses Co-Scientist to identify new liver disease treatments and explain why existing drugs only help certain patients."
+  },
+  {
+    "id": "Google DeepMind-11-uniting-biological-toolkits-for-a-new-ap",
+    "title": "Uniting biological toolkits for a new approach to ALS",
+    "url": "https://deepmind.google/blog/uniting-biological-toolkits-for-a-new-approach-to-als/",
+    "source": "Google DeepMind",
+    "date": "2026-05-16T07:53:11.000Z",
+    "summary": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS."
+  },
+  {
+    "id": "Google DeepMind-12-uncovering-repurposed-medicines-to-fight",
+    "title": "Uncovering repurposed medicines to fight liver fibrosis",
+    "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
+    "source": "Google DeepMind",
+    "date": "2026-05-16T07:40:27.000Z",
+    "summary": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis."
+  },
+  {
+    "id": "Google DeepMind-13-how-weathernext-helped-the-national-hurr",
+    "title": "How WeatherNext helped the National Hurricane Center better predict Hurricane Melissa’s historic landfall in Jamaica",
+    "url": "https://deepmind.google/blog/how-weathernext-helped-the-national-hurricane-center-better-predict-hurricane-melissas-historic-landfall-in-jamaica/",
+    "source": "Google DeepMind",
+    "date": "2026-05-16T03:14:17.000Z",
+    "summary": "Learn how our WeatherNext AI model help forecasters give communities unprecedented time to prepare ahead of the historic Hurricane Melissa."
+  }
+]

@@ -1,0 +1,47 @@
+name: Deploy to GitHub Pages
+
+# main 브랜치 푸시(데이터 일일 커밋 포함) 시 정적 빌드 → GitHub Pages 배포.
+# Vercel을 쓸 경우 이 워크플로는 비활성화하고, Vercel이 푸시마다 자동 배포한다.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      # GitHub Pages 프로젝트 사이트는 /<repo> 하위 경로에 배포되므로 BASE_PATH 주입.
+      - name: Build
+        run: |
+          export BASE_PATH="/${GITHUB_REPOSITORY#*/}"
+          npm run build
+          touch out/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: out
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
