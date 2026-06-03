@@ -1,6 +1,46 @@
 [
   {
-    "id": "Hugging Face-0-holo3-1-fast-local-computer-use-agents",
+    "id": "OpenAI-0-introducing-new-capabilities-to-gpt-rosa",
+    "title": "Introducing new capabilities to GPT-Rosalind",
+    "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+    "source": "OpenAI",
+    "date": "2026-06-03T13:15:00.000Z",
+    "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
+  },
+  {
+    "id": "Hugging Face-0-direct-preference-optimization-beyond-ch",
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "source": "Hugging Face",
+    "date": "2026-06-03T12:55:11.000Z",
+    "summary": ""
+  },
+  {
+    "id": "OpenAI-2-openai-public-policy-agenda",
+    "title": "OpenAI public policy agenda",
+    "url": "https://openai.com/index/public-policy-agenda",
+    "source": "OpenAI",
+    "date": "2026-06-03T10:00:00.000Z",
+    "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
+  },
+  {
+    "id": "OpenAI-1-a-blueprint-for-democratic-governance-of",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "source": "OpenAI",
+    "date": "2026-06-03T10:00:00.000Z",
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
+  },
+  {
+    "id": "Hugging Face-1-adding-mcp-tools-to-reachy-mini",
+    "title": "Adding MCP Tools to Reachy Mini",
+    "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "source": "Hugging Face",
+    "date": "2026-06-03T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Hugging Face-2-holo3-1-fast-local-computer-use-agents",
     "title": "Holo3.1: Fast & Local Computer Use Agents",
     "url": "https://huggingface.co/blog/Hcompany/holo31",
     "source": "Hugging Face",
@@ -8,7 +48,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-0-travelers-deploys-ai-powered-claims-coun",
+    "id": "OpenAI-3-travelers-deploys-ai-powered-claims-coun",
     "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
     "url": "https://openai.com/index/travelers",
     "source": "OpenAI",
@@ -16,7 +56,7 @@
     "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand."
   },
   {
-    "id": "OpenAI-1-codex-for-every-role-tool-and-workflow",
+    "id": "OpenAI-4-codex-for-every-role-tool-and-workflow",
     "title": "Codex for every role, tool, and workflow",
     "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
     "source": "OpenAI",
@@ -24,7 +64,7 @@
     "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI."
   },
   {
-    "id": "OpenAI-2-advancing-youth-safety-and-opportunity-t",
+    "id": "OpenAI-5-advancing-youth-safety-and-opportunity-t",
     "title": "Advancing youth safety and opportunity through global leadership",
     "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
     "source": "OpenAI",
@@ -32,7 +72,7 @@
     "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people."
   },
   {
-    "id": "OpenAI-3-codex-is-becoming-a-productivity-tool-fo",
+    "id": "OpenAI-6-codex-is-becoming-a-productivity-tool-fo",
     "title": "Codex is becoming a productivity tool for everyone",
     "url": "https://openai.com/index/codex-for-knowledge-work",
     "source": "OpenAI",
@@ -40,7 +80,7 @@
     "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation."
   },
   {
-    "id": "OpenAI-4-our-views-on-ai-policy-and-political-adv",
+    "id": "OpenAI-7-our-views-on-ai-policy-and-political-adv",
     "title": "Our views on AI policy and political advocacy",
     "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
     "source": "OpenAI",
@@ -48,7 +88,7 @@
     "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf."
   },
   {
-    "id": "Hugging Face-1-introducing-mellum2-a-12b-mixture-of-exp",
+    "id": "Hugging Face-3-introducing-mellum2-a-12b-mixture-of-exp",
     "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
     "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
     "source": "Hugging Face",
@@ -56,7 +96,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-2-beyond-llms-why-scalable-enterprise-ai-a",
+    "id": "Hugging Face-4-beyond-llms-why-scalable-enterprise-ai-a",
     "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
     "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
     "source": "Hugging Face",
@@ -64,7 +104,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-5-building-the-infrastructure-for-the-inte",
+    "id": "OpenAI-8-building-the-infrastructure-for-the-inte",
     "title": "Building the infrastructure for the Intelligence Age in Michigan",
     "url": "https://openai.com/index/stargate-michigan-data-center",
     "source": "OpenAI",
@@ -72,7 +112,7 @@
     "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities."
   },
   {
-    "id": "OpenAI-6-openai-frontier-models-and-codex-are-now",
+    "id": "OpenAI-9-openai-frontier-models-and-codex-are-now",
     "title": "OpenAI frontier models and Codex are now available on AWS",
     "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
     "source": "OpenAI",
@@ -80,7 +120,7 @@
     "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can ge"
   },
   {
-    "id": "Hugging Face-3-welcome-nvidia-cosmos-3-the-first-open-o",
+    "id": "Hugging Face-5-welcome-nvidia-cosmos-3-the-first-open-o",
     "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
     "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
     "source": "Hugging Face",
@@ -88,7 +128,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-8-how-braintrust-turns-customer-requests-i",
+    "id": "OpenAI-11-how-braintrust-turns-customer-requests-i",
     "title": "How Braintrust turns customer requests into code with Codex",
     "url": "https://openai.com/index/braintrust",
     "source": "OpenAI",
@@ -96,7 +136,7 @@
     "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster."
   },
   {
-    "id": "OpenAI-7-boston-children-s-uses-ai-to-unlock-new-",
+    "id": "OpenAI-10-boston-children-s-uses-ai-to-unlock-new-",
     "title": "Boston Children’s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
@@ -104,7 +144,7 @@
     "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases."
   },
   {
-    "id": "OpenAI-9-strengthening-societal-resilience-with-r",
+    "id": "OpenAI-12-strengthening-societal-resilience-with-r",
     "title": "Strengthening societal resilience with Rosalind Biodefense",
     "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
     "source": "OpenAI",
@@ -112,7 +152,7 @@
     "summary": "OpenAI launches Rosalind Biodefense, expanding trusted access to GPT-Rosalind for vetted developers and U.S. government partners advancing biodefense, public health, and pandemic preparedness through frontier AI."
   },
   {
-    "id": "Hugging Face-4-profiling-in-pytorch-part-1-a-beginner-s",
+    "id": "Hugging Face-6-profiling-in-pytorch-part-1-a-beginner-s",
     "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
     "url": "https://huggingface.co/blog/torch-profiler",
     "source": "Hugging Face",
@@ -120,7 +160,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-10-a-shared-playbook-for-trustworthy-third-",
+    "id": "OpenAI-13-a-shared-playbook-for-trustworthy-third-",
     "title": "A shared playbook for trustworthy third party evaluations",
     "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
     "source": "OpenAI",
@@ -128,7 +168,7 @@
     "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems."
   },
   {
-    "id": "OpenAI-11-how-endava-builds-an-agentic-organizatio",
+    "id": "OpenAI-14-how-endava-builds-an-agentic-organizatio",
     "title": "How Endava builds an agentic organization with Codex",
     "url": "https://openai.com/index/endava",
     "source": "OpenAI",
@@ -136,31 +176,7 @@
     "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours."
   },
   {
-    "id": "OpenAI-13-mufg-aims-to-become-ai-native-with-opena",
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "url": "https://openai.com/index/mufg",
-    "source": "OpenAI",
-    "date": "2026-05-28T00:00:00.000Z",
-    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
-  },
-  {
-    "id": "OpenAI-12-openai-s-frontier-governance-framework",
-    "title": "OpenAI’s Frontier Governance Framework",
-    "url": "https://openai.com/index/openai-frontier-governance-framework",
-    "source": "OpenAI",
-    "date": "2026-05-28T00:00:00.000Z",
-    "summary": "Explore OpenAI’s Frontier Governance Framework and how our AI safety, security, and risk practices align with emerging EU and California regulations."
-  },
-  {
-    "id": "OpenAI-14-cisco-and-openai-redefine-enterprise-eng",
-    "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
-    "url": "https://openai.com/index/cisco",
-    "source": "OpenAI",
-    "date": "2026-05-27T11:00:00.000Z",
-    "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation."
-  },
-  {
-    "id": "Hugging Face-6-shipping-a-trillion-parameters-with-a-hu",
+    "id": "Hugging Face-8-shipping-a-trillion-parameters-with-a-hu",
     "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
     "url": "https://huggingface.co/blog/delta-weight-sync",
     "source": "Hugging Face",
@@ -168,7 +184,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-5-reachy-mini-goes-fully-local",
+    "id": "Hugging Face-7-reachy-mini-goes-fully-local",
     "title": "Reachy Mini goes fully local",
     "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
     "source": "Hugging Face",
@@ -176,19 +192,11 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-7-harness-scaffold-and-the-ai-agent-terms-",
+    "id": "Hugging Face-9-harness-scaffold-and-the-ai-agent-terms-",
     "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
     "url": "https://huggingface.co/blog/agent-glossary",
     "source": "Hugging Face",
     "date": "2026-05-25T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "id": "Hugging Face-8-specialization-beats-scale-a-strategic-v",
-    "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-    "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale",
-    "source": "Hugging Face",
-    "date": "2026-05-22T15:25:59.000Z",
     "summary": ""
   },
   {
@@ -200,7 +208,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-9-olmoearth-v1-1-a-more-efficient-family-o",
+    "id": "Hugging Face-10-olmoearth-v1-1-a-more-efficient-family-o",
     "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
     "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
     "source": "Hugging Face",
@@ -208,7 +216,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-10-introducing-the-ettin-reranker-family",
+    "id": "Hugging Face-11-introducing-the-ettin-reranker-family",
     "title": "Introducing the Ettin Reranker Family",
     "url": "https://huggingface.co/blog/ettin-reranker",
     "source": "Hugging Face",
@@ -224,7 +232,7 @@
     "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells."
   },
   {
-    "id": "Hugging Face-11-paddleocr-3-5-running-ocr-and-document-p",
+    "id": "Hugging Face-12-paddleocr-3-5-running-ocr-and-document-p",
     "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
     "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
     "source": "Hugging Face",
@@ -310,13 +318,5 @@
     "source": "Google DeepMind",
     "date": "2026-05-16T07:53:11.000Z",
     "summary": "Co-Scientist unites Boston Children’s Hospital and MIT’s labs to explore new RNA-based treatments for ALS."
-  },
-  {
-    "id": "Google DeepMind-12-uncovering-repurposed-medicines-to-fight",
-    "title": "Uncovering repurposed medicines to fight liver fibrosis",
-    "url": "https://deepmind.google/blog/uncovering-repurposed-medicines-to-fight-liver-fibrosis/",
-    "source": "Google DeepMind",
-    "date": "2026-05-16T07:40:27.000Z",
-    "summary": "Stanford geneticist uses Co-Scientist to help find new treatments for chronic liver disease and liver fibrosis."
   }
 ]
