@@ -1,3 +1,4 @@
+import Link from "next/link";
 import CategoryLive from "@/components/CategoryLive";
 import InfoDot from "@/components/InfoDot";
 import { BeginnerNote } from "@/components/BeginnerMode";
@@ -31,6 +32,13 @@ export default function CategoryView({ category }: { category: Category }) {
         </p>
         {/* 초보자 모드에서만 펼쳐지는 비유 */}
         <BeginnerNote>{meta.analogy}</BeginnerNote>
+
+        <Link
+          href={`/grandprix/${category}`}
+          className="grad-bar inline-flex items-center gap-2 rounded-xl px-4 py-2.5 text-sm font-bold text-[var(--on-accent)] shadow-[var(--shadow)] transition hover:-translate-y-0.5 hover:opacity-95"
+        >
+          🏎️ 그랑프리 모드로 보기
+        </Link>
       </section>
 
       <CategoryLive

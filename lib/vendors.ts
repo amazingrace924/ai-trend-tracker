@@ -51,6 +51,33 @@ const VENDOR_EMOJI: Record<string, string> = {
   NVIDIA: "🟩",
 };
 
+// 벤더 공식 사이트(상세 페이지 '공식 사이트 바로가기' 링크용).
+const VENDOR_SITE: Record<string, string> = {
+  OpenAI: "https://openai.com",
+  Anthropic: "https://www.anthropic.com",
+  Google: "https://deepmind.google",
+  DeepSeek: "https://www.deepseek.com",
+  Meta: "https://ai.meta.com",
+  Mistral: "https://mistral.ai",
+  xAI: "https://x.ai",
+  Alibaba: "https://qwen.ai",
+  ByteDance: "https://www.bytedance.com",
+  Kling: "https://klingai.com",
+  Kuaishou: "https://klingai.com",
+  fal: "https://fal.ai",
+  "Black Forest": "https://blackforestlabs.ai",
+  Midjourney: "https://www.midjourney.com",
+  Suno: "https://suno.com",
+  Udio: "https://www.udio.com",
+  ElevenLabs: "https://elevenlabs.io",
+  Runway: "https://runwayml.com",
+  Ideogram: "https://ideogram.ai",
+  Cartesia: "https://cartesia.ai",
+  Inworld: "https://inworld.ai",
+  PlayHT: "https://play.ht",
+  NVIDIA: "https://www.nvidia.com/en-us/ai/",
+};
+
 function matchKey(map: Record<string, string>, vendor: string): string | undefined {
   const v = vendor.toLowerCase();
   for (const key of Object.keys(map)) {
@@ -65,6 +92,10 @@ export function vendorColor(vendor: string): string {
 
 export function vendorEmoji(vendor: string): string | null {
   return matchKey(VENDOR_EMOJI, vendor) ?? null;
+}
+
+export function vendorSite(vendor: string): string | null {
+  return matchKey(VENDOR_SITE, vendor) ?? null;
 }
 
 export function vendorInitial(vendor: string): string {

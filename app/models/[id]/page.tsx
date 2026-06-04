@@ -5,7 +5,7 @@ import MetricLabel from "@/components/MetricLabel";
 import { getAllModels, getCurrent, getModel } from "@/lib/data";
 import { STRENGTH_DESC } from "@/lib/deriveStrengths";
 import { getCategoryMeta } from "@/lib/categories";
-import { vendorColor } from "@/lib/vendors";
+import { vendorColor, vendorSite } from "@/lib/vendors";
 
 // 정적 익스포트를 위해 전 카테고리 모든 모델 id를 미리 생성한다.
 export function generateStaticParams() {
@@ -28,6 +28,7 @@ export default async function ModelDetail({
   const rank =
     getCurrent(model.category).models.findIndex((m) => m.id === model.id) + 1;
   const isTop = rank === 1;
+  const site = vendorSite(model.vendor);
 
   return (
     <div className="space-y-6">
@@ -89,6 +90,26 @@ export default async function ModelDetail({
           )}
         </p>
       </div>
+
+      {site && (
+        <a
+          href={site}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="card card-hover flex items-center justify-between gap-3 p-4"
+        >
+          <span className="flex items-center gap-2.5">
+            <span className="text-lg">🔗</span>
+            <span>
+              <span className="font-bold">{model.vendor} 공식 사이트</span>
+              <span className="block text-xs text-[var(--muted)]">
+                새 탭에서 직접 써보기 · {site.replace(/^https?:\/\//, "")}
+              </span>
+            </span>
+          </span>
+          <span className="grad-text font-display text-lg font-bold">→</span>
+        </a>
+      )}
 
       {model.strengths.length > 0 && (
         <div className="card p-5">
