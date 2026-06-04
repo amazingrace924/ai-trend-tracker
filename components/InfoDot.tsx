@@ -5,13 +5,14 @@ import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import { createPortal } from "react-dom";
 import { lookupTerm } from "@/lib/glossary";
 
-// 용어 옆 작은 ⓘ — 호버(데스크톱)/탭(모바일)으로 쉬운 설명 팝오버.
-// 팝오버는 body로 portal + position:fixed라서 카드의 overflow:hidden에 잘리지 않는다.
+// 용어 옆 작은 ⓘ — 호버/탭으로 쉬운 설명 팝오버.
+// 팝오버는 body로 portal + fixed라 카드 overflow에 안 잘리고,
+// 닫힘에 유예(220ms) + 팝오버 위 호버 유지로 "자세히 →"를 누를 수 있다.
 const POP_W = 248;
+const CLOSE_DELAY = 220;
 
 export default function InfoDot({
   label,
-  // align은 호환용으로 유지(좌표는 동적으로 계산하므로 미사용).
   align: _align,
 }: {
   label: string;
@@ -20,7 +21,7 @@ export default function InfoDot({
   const entry = lookupTerm(label);
   const btnRef = useRef<HTMLButtonElement>(null);
   const popRef = useRef<HTMLDivElement>(null);
-  const pinned = useRef(false);
+  const closeTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const [open, setOpen] = useState(false);
   const [mounted, setMounted] = useState(false);
   const [coords, setCoords] = useState<{
@@ -30,6 +31,22 @@ export default function InfoDot({
   }>({ left: 0, top: 0, placement: "top" });
 
   useEffect(() => setMounted(true), []);
+  useEffect(() => () => cancelClose(), []);
+
+  function cancelClose() {
+    if (closeTimer.current) {
+      clearTimeout(closeTimer.current);
+      closeTimer.current = null;
+    }
+  }
+  function scheduleClose() {
+    cancelClose();
+    closeTimer.current = setTimeout(() => setOpen(false), CLOSE_DELAY);
+  }
+  function show() {
+    cancelClose();
+    setOpen(true);
+  }
 
   function place() {
     const b = btnRef.current?.getBoundingClientRect();
@@ -49,28 +66,26 @@ export default function InfoDot({
 
   useEffect(() => {
     if (!open) return;
-    function close() {
-      setOpen(false);
-      pinned.current = false;
-    }
     function onDoc(e: MouseEvent) {
       if (btnRef.current?.contains(e.target as Node)) return;
       if (popRef.current?.contains(e.target as Node)) return;
-      close();
+      setOpen(false);
     }
     function onKey(e: KeyboardEvent) {
-      if (e.key === "Escape") close();
+      if (e.key === "Escape") setOpen(false);
+    }
+    function onScroll() {
+      setOpen(false);
     }
     document.addEventListener("mousedown", onDoc);
     document.addEventListener("keydown", onKey);
-    // 스크롤/리사이즈 시 좌표가 어긋나므로 닫는다.
-    window.addEventListener("scroll", close, true);
-    window.addEventListener("resize", close);
+    window.addEventListener("scroll", onScroll, true);
+    window.addEventListener("resize", onScroll);
     return () => {
       document.removeEventListener("mousedown", onDoc);
       document.removeEventListener("keydown", onKey);
-      window.removeEventListener("scroll", close, true);
-      window.removeEventListener("resize", close);
+      window.removeEventListener("scroll", onScroll, true);
+      window.removeEventListener("resize", onScroll);
     };
   }, [open]);
 
@@ -82,6 +97,8 @@ export default function InfoDot({
           <div
             ref={popRef}
             role="tooltip"
+            onMouseEnter={cancelClose}
+            onMouseLeave={scheduleClose}
             style={{
               position: "fixed",
               left: coords.left,
@@ -109,10 +126,8 @@ export default function InfoDot({
   return (
     <span
       className="relative inline-flex align-middle"
-      onMouseEnter={() => setOpen(true)}
-      onMouseLeave={() => {
-        if (!pinned.current) setOpen(false);
-      }}
+      onMouseEnter={show}
+      onMouseLeave={scheduleClose}
     >
       <button
         ref={btnRef}
@@ -121,11 +136,8 @@ export default function InfoDot({
         onClick={(e) => {
           e.preventDefault();
           e.stopPropagation();
-          setOpen((prev) => {
-            const next = !prev;
-            pinned.current = next; // 클릭으로 열면 고정(호버로 닫히지 않음)
-            return next;
-          });
+          cancelClose();
+          setOpen((o) => !o);
         }}
         className="flex h-4 w-4 items-center justify-center rounded-full border border-[var(--border-strong)] text-[10px] font-bold text-[var(--muted)] transition hover:border-[var(--accent)] hover:text-[var(--accent)]"
       >
