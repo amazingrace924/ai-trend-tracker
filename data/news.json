@@ -16,20 +16,28 @@
     "summary": ""
   },
   {
+    "id": "OpenAI-1-how-wasmer-used-codex-to-build-a-node-js",
+    "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
+    "url": "https://openai.com/index/wasmer",
+    "source": "OpenAI",
+    "date": "2026-06-03T12:00:00.000Z",
+    "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
+  },
+  {
+    "id": "OpenAI-3-a-blueprint-for-democratic-governance-of",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "source": "OpenAI",
+    "date": "2026-06-03T10:00:00.000Z",
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
+  },
+  {
     "id": "OpenAI-2-openai-public-policy-agenda",
     "title": "OpenAI public policy agenda",
     "url": "https://openai.com/index/public-policy-agenda",
     "source": "OpenAI",
     "date": "2026-06-03T10:00:00.000Z",
     "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
-  },
-  {
-    "id": "OpenAI-1-a-blueprint-for-democratic-governance-of",
-    "title": "A blueprint for democratic governance of frontier AI",
-    "url": "https://openai.com/index/frontier-safety-blueprint",
-    "source": "OpenAI",
-    "date": "2026-06-03T10:00:00.000Z",
-    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
   },
   {
     "id": "Hugging Face-1-adding-mcp-tools-to-reachy-mini",
@@ -48,7 +56,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-3-travelers-deploys-ai-powered-claims-coun",
+    "id": "OpenAI-4-travelers-deploys-ai-powered-claims-coun",
     "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
     "url": "https://openai.com/index/travelers",
     "source": "OpenAI",
@@ -56,7 +64,7 @@
     "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand."
   },
   {
-    "id": "OpenAI-4-codex-for-every-role-tool-and-workflow",
+    "id": "OpenAI-5-codex-for-every-role-tool-and-workflow",
     "title": "Codex for every role, tool, and workflow",
     "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
     "source": "OpenAI",
@@ -64,7 +72,7 @@
     "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI."
   },
   {
-    "id": "OpenAI-5-advancing-youth-safety-and-opportunity-t",
+    "id": "OpenAI-6-advancing-youth-safety-and-opportunity-t",
     "title": "Advancing youth safety and opportunity through global leadership",
     "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
     "source": "OpenAI",
@@ -72,7 +80,7 @@
     "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people."
   },
   {
-    "id": "OpenAI-6-codex-is-becoming-a-productivity-tool-fo",
+    "id": "OpenAI-7-codex-is-becoming-a-productivity-tool-fo",
     "title": "Codex is becoming a productivity tool for everyone",
     "url": "https://openai.com/index/codex-for-knowledge-work",
     "source": "OpenAI",
@@ -80,7 +88,7 @@
     "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation."
   },
   {
-    "id": "OpenAI-7-our-views-on-ai-policy-and-political-adv",
+    "id": "OpenAI-8-our-views-on-ai-policy-and-political-adv",
     "title": "Our views on AI policy and political advocacy",
     "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
     "source": "OpenAI",
@@ -104,7 +112,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-8-building-the-infrastructure-for-the-inte",
+    "id": "OpenAI-9-building-the-infrastructure-for-the-inte",
     "title": "Building the infrastructure for the Intelligence Age in Michigan",
     "url": "https://openai.com/index/stargate-michigan-data-center",
     "source": "OpenAI",
@@ -112,7 +120,7 @@
     "summary": "OpenAI breaks ground on a 1GW data center project in Michigan as part of Stargate, building AI infrastructure to expand access, create jobs, and support communities."
   },
   {
-    "id": "OpenAI-9-openai-frontier-models-and-codex-are-now",
+    "id": "OpenAI-10-openai-frontier-models-and-codex-are-now",
     "title": "OpenAI frontier models and Codex are now available on AWS",
     "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
     "source": "OpenAI",
@@ -128,7 +136,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-11-how-braintrust-turns-customer-requests-i",
+    "id": "OpenAI-12-how-braintrust-turns-customer-requests-i",
     "title": "How Braintrust turns customer requests into code with Codex",
     "url": "https://openai.com/index/braintrust",
     "source": "OpenAI",
@@ -136,7 +144,7 @@
     "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster."
   },
   {
-    "id": "OpenAI-10-boston-children-s-uses-ai-to-unlock-new-",
+    "id": "OpenAI-11-boston-children-s-uses-ai-to-unlock-new-",
     "title": "Boston Children’s uses AI to unlock new diagnoses",
     "url": "https://openai.com/index/boston-childrens-hospital",
     "source": "OpenAI",
@@ -144,7 +152,7 @@
     "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases."
   },
   {
-    "id": "OpenAI-12-strengthening-societal-resilience-with-r",
+    "id": "OpenAI-13-strengthening-societal-resilience-with-r",
     "title": "Strengthening societal resilience with Rosalind Biodefense",
     "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense",
     "source": "OpenAI",
@@ -160,20 +168,12 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-13-a-shared-playbook-for-trustworthy-third-",
+    "id": "OpenAI-14-a-shared-playbook-for-trustworthy-third-",
     "title": "A shared playbook for trustworthy third party evaluations",
     "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations",
     "source": "OpenAI",
     "date": "2026-05-29T00:00:00.000Z",
     "summary": "OpenAI shares guidance on third-party AI evaluations, covering how to assess model capabilities, safeguards, and validity for frontier systems."
-  },
-  {
-    "id": "OpenAI-14-how-endava-builds-an-agentic-organizatio",
-    "title": "How Endava builds an agentic organization with Codex",
-    "url": "https://openai.com/index/endava",
-    "source": "OpenAI",
-    "date": "2026-05-28T12:00:00.000Z",
-    "summary": "Learn how Endava uses Codex to build an agentic organization, accelerating software delivery and reducing requirements analysis from weeks to hours."
   },
   {
     "id": "Hugging Face-8-shipping-a-trillion-parameters-with-a-hu",
