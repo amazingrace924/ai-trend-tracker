@@ -24,20 +24,20 @@
     "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
   },
   {
-    "id": "OpenAI-3-a-blueprint-for-democratic-governance-of",
-    "title": "A blueprint for democratic governance of frontier AI",
-    "url": "https://openai.com/index/frontier-safety-blueprint",
-    "source": "OpenAI",
-    "date": "2026-06-03T10:00:00.000Z",
-    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
-  },
-  {
-    "id": "OpenAI-2-openai-public-policy-agenda",
+    "id": "OpenAI-3-openai-public-policy-agenda",
     "title": "OpenAI public policy agenda",
     "url": "https://openai.com/index/public-policy-agenda",
     "source": "OpenAI",
     "date": "2026-06-03T10:00:00.000Z",
     "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
+  },
+  {
+    "id": "OpenAI-2-a-blueprint-for-democratic-governance-of",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "source": "OpenAI",
+    "date": "2026-06-03T10:00:00.000Z",
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
   },
   {
     "id": "Hugging Face-1-adding-mcp-tools-to-reachy-mini",

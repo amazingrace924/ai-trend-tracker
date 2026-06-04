@@ -115,31 +115,31 @@
           "id": "voice-fun-realtime-tts",
           "name": "Fun-Realtime-TTS",
           "vendor": "Alibaba",
-          "value": 1219
+          "value": 1227
         },
         {
           "id": "voice-gemini-3-1-tts",
           "name": "Gemini 3.1 Flash TTS",
           "vendor": "Google",
-          "value": 1214
+          "value": 1217
         },
         {
           "id": "voice-realtime-tts-2-research-preview",
           "name": "Realtime TTS-2 - Research Preview",
           "vendor": "Inworld",
-          "value": 1209
+          "value": 1206
         },
         {
           "id": "voice-sonic-3-5",
           "name": "Sonic 3.5",
           "vendor": "Cartesia",
-          "value": 1203
+          "value": 1206
         },
         {
           "id": "voice-realtime-tts-1-5-max",
           "name": "Realtime TTS 1.5 Max",
           "vendor": "Inworld",
-          "value": 1195
+          "value": 1199
         },
         {
           "id": "voice-xai-text-to-speech",
@@ -148,16 +148,16 @@
           "value": 1194
         },
         {
-          "id": "voice-step-audio-2.5-tts",
-          "name": "StepAudio 2.5 TTS",
-          "vendor": "StepFun",
-          "value": 1184
-        },
-        {
           "id": "voice-async-flash-v1-5",
           "name": "Async Flash v1.5",
           "vendor": "async",
-          "value": 1180
+          "value": 1193
+        },
+        {
+          "id": "voice-step-audio-2.5-tts",
+          "name": "StepAudio 2.5 TTS",
+          "vendor": "StepFun",
+          "value": 1189
         }
       ]
     }
