@@ -54,8 +54,8 @@ const VENDOR_EMOJI: Record<string, string> = {
 // 벤더 공식 사이트(상세 페이지 '공식 사이트 바로가기' 링크용).
 const VENDOR_SITE: Record<string, string> = {
   OpenAI: "https://openai.com",
-  Anthropic: "https://www.anthropic.com",
-  Google: "https://deepmind.google",
+  Anthropic: "https://claude.ai",
+  Google: "https://gemini.google.com",
   DeepSeek: "https://www.deepseek.com",
   Meta: "https://ai.meta.com",
   Mistral: "https://mistral.ai",
