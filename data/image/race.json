@@ -115,7 +115,7 @@
           "id": "image-gpt-image-2",
           "name": "GPT Image 2 (high)",
           "vendor": "OpenAI",
-          "value": 1339
+          "value": 1341
         },
         {
           "id": "image-openai-gpt_image-1-5",
@@ -127,25 +127,25 @@
           "id": "image-nano-banana-2",
           "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
           "vendor": "Google",
-          "value": 1260
+          "value": 1261
         },
         {
           "id": "image-sourceful_riverflow-2",
           "name": "Riverflow 2.0",
           "vendor": "Sourceful",
-          "value": 1253
+          "value": 1255
         },
         {
           "id": "image-cosmos3-super-text2image-agentic",
           "name": "Cosmos3-Super-Text2Image (agentic)",
           "vendor": "NVIDIA",
-          "value": 1239
+          "value": 1240
         },
         {
           "id": "image-gemini_nano-banana-pro",
           "name": "Nano Banana Pro (Gemini 3 Pro Image)",
           "vendor": "Google",
-          "value": 1219
+          "value": 1221
         },
         {
           "id": "image-krea-2-medium",
@@ -157,7 +157,7 @@
           "id": "image-recraft-v4-1-utility-pro",
           "name": "Recraft V4.1 Utility Pro",
           "vendor": "Recraft",
-          "value": 1204
+          "value": 1207
         }
       ]
     }
