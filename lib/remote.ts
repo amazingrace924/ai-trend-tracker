@@ -4,6 +4,10 @@
 export const RAW_BASE =
   "https://raw.githubusercontent.com/amazingrace924/ai-trend-tracker/main";
 
+// '지금 새로 수집' 버튼이 호출하는 Cloudflare Worker(GitHub Actions 트리거).
+// 토큰은 Worker 시크릿에 있어 사이트엔 노출되지 않는다.
+export const REFRESH_WORKER_URL = "https://ai-trend-refresh.exit9161.workers.dev";
+
 export function remoteDataUrl(category: string, file: "current" | "race" | "news") {
   const p =
     file === "news" ? "data/news.json" : `data/${category}/${file}.json`;
