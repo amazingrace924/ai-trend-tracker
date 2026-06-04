@@ -3,6 +3,7 @@ import { Inter, Space_Grotesk, JetBrains_Mono } from "next/font/google";
 import Link from "next/link";
 import CategoryTabs from "@/components/CategoryTabs";
 import ThemeToggle from "@/components/ThemeToggle";
+import Logo from "@/components/Logo";
 import { BeginnerProvider, BeginnerToggle } from "@/components/BeginnerMode";
 import "./globals.css";
 
@@ -43,7 +44,7 @@ export default function RootLayout({
             <div className="checker h-1.5 w-full" />
             <div className="mx-auto flex max-w-6xl flex-wrap items-center gap-3 px-4 py-3">
               <Link href="/" className="group flex items-center gap-2">
-                <span className="text-xl transition-transform group-hover:-rotate-12">🏁</span>
+                <Logo className="h-7 w-7 transition-transform group-hover:-rotate-6" />
                 <span className="font-display text-base font-bold tracking-tight">
                   AI<span className="grad-text">대세</span>트래커
                 </span>
