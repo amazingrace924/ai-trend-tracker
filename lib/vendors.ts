@@ -51,31 +51,31 @@ const VENDOR_EMOJI: Record<string, string> = {
   NVIDIA: "🟩",
 };
 
-// 벤더 공식 사이트(상세 페이지 '공식 사이트 바로가기' 링크용).
+// 벤더의 '실제로 AI를 써볼 수 있는' 제품/앱 주소(상세 페이지 바로가기 + 로고 favicon용).
 const VENDOR_SITE: Record<string, string> = {
-  OpenAI: "https://openai.com",
+  OpenAI: "https://chatgpt.com",
   Anthropic: "https://claude.ai",
   Google: "https://gemini.google.com",
-  DeepSeek: "https://www.deepseek.com",
-  Meta: "https://ai.meta.com",
-  Mistral: "https://mistral.ai",
-  xAI: "https://x.ai",
-  Alibaba: "https://qwen.ai",
-  ByteDance: "https://www.bytedance.com",
-  Kling: "https://klingai.com",
-  Kuaishou: "https://klingai.com",
+  DeepSeek: "https://chat.deepseek.com",
+  Meta: "https://www.meta.ai",
+  Mistral: "https://chat.mistral.ai",
+  xAI: "https://grok.com",
+  Alibaba: "https://chat.qwen.ai",
+  ByteDance: "https://dreamina.capcut.com",
+  Kling: "https://app.klingai.com",
+  Kuaishou: "https://app.klingai.com",
   fal: "https://fal.ai",
   "Black Forest": "https://blackforestlabs.ai",
   Midjourney: "https://www.midjourney.com",
   Suno: "https://suno.com",
   Udio: "https://www.udio.com",
   ElevenLabs: "https://elevenlabs.io",
-  Runway: "https://runwayml.com",
+  Runway: "https://app.runwayml.com",
   Ideogram: "https://ideogram.ai",
-  Cartesia: "https://cartesia.ai",
+  Cartesia: "https://play.cartesia.ai",
   Inworld: "https://inworld.ai",
   PlayHT: "https://play.ht",
-  NVIDIA: "https://www.nvidia.com/en-us/ai/",
+  NVIDIA: "https://build.nvidia.com",
 };
 
 function matchKey(map: Record<string, string>, vendor: string): string | undefined {
