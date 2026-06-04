@@ -98,6 +98,17 @@ export function vendorSite(vendor: string): string | null {
   return matchKey(VENDOR_SITE, vendor) ?? null;
 }
 
+// 공식 사이트 도메인(파비콘으로 실제 로고를 불러오는 데 사용).
+export function vendorDomain(vendor: string): string | null {
+  const site = matchKey(VENDOR_SITE, vendor);
+  if (!site) return null;
+  try {
+    return new URL(site).hostname.replace(/^www\./, "");
+  } catch {
+    return null;
+  }
+}
+
 export function vendorInitial(vendor: string): string {
   const c = vendor.replace(/[^A-Za-z0-9]/g, "").charAt(0) || vendor.charAt(0) || "?";
   return c.toUpperCase();
