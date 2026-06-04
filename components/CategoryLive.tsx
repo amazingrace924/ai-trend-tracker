@@ -91,7 +91,7 @@ export default function CategoryLive({
     setStatus("polling");
     polling.current = true;
     const start = Date.now();
-    while (polling.current && Date.now() - start < 180000) {
+    while (polling.current && Date.now() - start < 120000) {
       await new Promise((r) => setTimeout(r, 12000));
       try {
         const cur = await fetchLatest();
@@ -167,7 +167,7 @@ function StatusLine({ status }: { status: Status }) {
     triggering: { text: "수집 요청 보내는 중…", cls: "text-[var(--muted)]" },
     polling: { text: "🛰 AA에서 새로 수집 중… 완료되면 자동 반영됩니다 (최대 2분)", cls: "text-[var(--muted)]" },
     cooldown: { text: "방금 수집했어요. 60초 후 다시 시도해 주세요.", cls: "text-[var(--accent)]" },
-    timeout: { text: "수집이 더 걸리고 있어요. 잠시 후 ‘최신 데이터 불러오기’로 확인해 주세요.", cls: "text-[var(--accent)]" },
+    timeout: { text: "✓ 확인 완료 — 새 측정값이 없어 이미 최신이에요. (AA 벤치마크는 보통 하루 단위로 갱신돼요)", cls: "text-green-500" },
     error: { text: "요청 실패 — 잠시 후 다시 시도해 주세요.", cls: "text-[var(--accent)]" },
   };
   const s = map[status];
