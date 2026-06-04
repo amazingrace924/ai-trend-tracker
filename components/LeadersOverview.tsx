@@ -3,13 +3,8 @@ import { CATEGORIES } from "@/lib/categories";
 import { getCurrent } from "@/lib/data";
 import { getRankDeltas } from "@/lib/ranks";
 import { vendorColor } from "@/lib/vendors";
-import type { Category } from "@/lib/types";
 
-function hrefFor(id: Category): string {
-  return id === "llm" ? "/" : `/c/${id}`;
-}
-
-// 카테고리별 현재 1위를 한눈에 보여주는 대시보드(빌드 시점 최신 = 매일 갱신).
+// 카테고리별 현재 1위를 한눈에 보여주는 대시보드(홈 랜딩 · 매일 갱신).
 export default function LeadersOverview() {
   const leaders = CATEGORIES.map((c) => {
     const snap = getCurrent(c.id);
@@ -19,21 +14,25 @@ export default function LeadersOverview() {
     return { cat: c, leader, changed };
   }).filter((x) => x.leader);
 
-  if (leaders.length === 0) return null;
-
   return (
-    <section className="space-y-3">
-      <div className="flex flex-wrap items-baseline gap-2">
-        <h2 className="text-lg font-bold">🏆 카테고리별 1위</h2>
-        <span className="text-xs text-[var(--muted)]">한눈에 보기 · 매일 자동 갱신</span>
+    <section className="space-y-5">
+      <div className="space-y-2">
+        <div className="eyebrow text-[var(--accent)]">🏆 한눈에 보기 · 매일 자동 갱신</div>
+        <h1 className="text-3xl font-bold leading-tight sm:text-5xl">
+          지금 <span className="grad-text">대세</span>인 AI 챔피언
+        </h1>
+        <p className="max-w-2xl text-sm leading-relaxed text-[var(--muted)]">
+          5개 분야의 현재 1위예요. 카드를 누르면 그 분야의 전체 순위·경주를 볼 수 있어요.
+        </p>
       </div>
+
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
         {leaders.map(({ cat, leader, changed }) => {
           const color = vendorColor(leader.vendor);
           return (
             <Link
               key={cat.id}
-              href={hrefFor(cat.id)}
+              href={`/c/${cat.id}`}
               className="card card-hover relative overflow-hidden p-4"
             >
               <span className="grad-bar absolute inset-x-0 top-0 h-1" />

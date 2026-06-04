@@ -2,9 +2,9 @@ import { notFound } from "next/navigation";
 import CategoryView from "@/components/CategoryView";
 import { CATEGORIES, getCategoryMeta, isCategory } from "@/lib/categories";
 
-// LLM은 홈("/")이 담당하므로 나머지 카테고리만 정적 생성한다.
+// 홈은 대시보드이므로 LLM 포함 모든 카테고리를 /c/<id>로 생성한다.
 export function generateStaticParams() {
-  return CATEGORIES.filter((c) => c.id !== "llm").map((c) => ({ category: c.id }));
+  return CATEGORIES.map((c) => ({ category: c.id }));
 }
 
 export async function generateMetadata({
@@ -24,6 +24,6 @@ export default async function CategoryPage({
   params: Promise<{ category: string }>;
 }) {
   const { category } = await params;
-  if (!isCategory(category) || category === "llm") notFound();
+  if (!isCategory(category)) notFound();
   return <CategoryView category={category} />;
 }

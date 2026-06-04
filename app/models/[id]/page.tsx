@@ -23,7 +23,7 @@ export default async function ModelDetail({
 
   const color = vendorColor(model.vendor);
   const cat = getCategoryMeta(model.category);
-  const backHref = model.category === "llm" ? "/" : `/c/${model.category}`;
+  const backHref = `/c/${model.category}`;
   // 같은 카테고리 내 현재 순위
   const rank =
     getCurrent(model.category).models.findIndex((m) => m.id === model.id) + 1;
