@@ -6,6 +6,7 @@ import ModelCard from "@/components/ModelCard";
 import UpdatedBadge from "@/components/UpdatedBadge";
 import ReadingGuide from "@/components/ReadingGuide";
 import { remoteDataUrl, REFRESH_WORKER_URL } from "@/lib/remote";
+import type { RankDelta } from "@/lib/ranks";
 import type { Category, RaceData, Snapshot } from "@/lib/types";
 
 type Status =
@@ -43,12 +44,14 @@ export default function CategoryLive({
   metricLabel,
   initialCurrent,
   initialRace,
+  deltas,
 }: {
   category: Category;
   label: string;
   metricLabel: string;
   initialCurrent: Snapshot;
   initialRace: RaceData;
+  deltas: Record<string, RankDelta>;
 }) {
   const [current, setCurrent] = useState(initialCurrent);
   const [race, setRace] = useState(initialRace);
@@ -170,7 +173,7 @@ export default function CategoryLive({
         </div>
         <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {current.models.map((m, idx) => (
-            <ModelCard key={m.id} model={m} rank={idx + 1} />
+            <ModelCard key={m.id} model={m} rank={idx + 1} delta={deltas[m.id]} />
           ))}
         </div>
       </section>

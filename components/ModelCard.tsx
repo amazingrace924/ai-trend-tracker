@@ -1,15 +1,19 @@
 import Link from "next/link";
 import type { ModelInfo } from "@/lib/types";
+import type { RankDelta } from "@/lib/ranks";
 import { vendorColor } from "@/lib/vendors";
 import StrengthBadge from "./StrengthBadge";
+import RankChange from "./RankChange";
 
 // 모델별 기능·강점 카드 — 카테고리 무관(score/scoreLabel/highlights 사용).
 export default function ModelCard({
   model,
   rank,
+  delta,
 }: {
   model: ModelInfo;
   rank?: number;
+  delta?: RankDelta;
 }) {
   const color = vendorColor(model.vendor);
   const isTop = rank === 1;
@@ -28,7 +32,10 @@ export default function ModelCard({
       <div className="mb-3 flex items-start justify-between gap-2 pl-2">
         <div className="flex items-center gap-2.5">
           {rank != null && (
-            <span className={"rank-badge " + (isTop ? "rank-1" : "")}>{rank}</span>
+            <div className="flex flex-col items-center gap-1">
+              <span className={"rank-badge " + (isTop ? "rank-1" : "")}>{rank}</span>
+              <RankChange delta={delta} />
+            </div>
           )}
           <div>
             <div className="font-display font-bold leading-tight">{model.name}</div>

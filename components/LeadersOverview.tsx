@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { CATEGORIES } from "@/lib/categories";
 import { getCurrent } from "@/lib/data";
+import { getRankDeltas } from "@/lib/ranks";
 import { vendorColor } from "@/lib/vendors";
 import type { Category } from "@/lib/types";
 
@@ -12,7 +13,10 @@ function hrefFor(id: Category): string {
 export default function LeadersOverview() {
   const leaders = CATEGORIES.map((c) => {
     const snap = getCurrent(c.id);
-    return { cat: c, leader: snap.models[0], date: snap.updatedAt };
+    const leader = snap.models[0];
+    const changed =
+      leader && ["up", "new"].includes(getRankDeltas(c.id)[leader.id]?.status ?? "");
+    return { cat: c, leader, changed };
   }).filter((x) => x.leader);
 
   if (leaders.length === 0) return null;
@@ -24,7 +28,7 @@ export default function LeadersOverview() {
         <span className="text-xs text-[var(--muted)]">한눈에 보기 · 매일 자동 갱신</span>
       </div>
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
-        {leaders.map(({ cat, leader }) => {
+        {leaders.map(({ cat, leader, changed }) => {
           const color = vendorColor(leader.vendor);
           return (
             <Link
@@ -33,6 +37,11 @@ export default function LeadersOverview() {
               className="card card-hover relative overflow-hidden p-4"
             >
               <span className="grad-bar absolute inset-x-0 top-0 h-1" />
+              {changed && (
+                <span className="grad-bar absolute right-2 top-2.5 rounded px-1.5 py-0.5 text-[9px] font-bold text-white">
+                  새 1위
+                </span>
+              )}
               <div className="eyebrow flex items-center gap-1.5 text-[var(--muted)]">
                 <span className="text-sm">{cat.emoji}</span>
                 {cat.label}

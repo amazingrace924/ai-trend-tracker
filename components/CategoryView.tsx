@@ -3,6 +3,7 @@ import InfoDot from "@/components/InfoDot";
 import { BeginnerNote } from "@/components/BeginnerMode";
 import { getCategoryMeta } from "@/lib/categories";
 import { getCurrent, getRace } from "@/lib/data";
+import { getRankDeltas } from "@/lib/ranks";
 import type { Category } from "@/lib/types";
 
 // 한 카테고리 화면: 히어로(서버 렌더) + 읽는 법 + 라이브(새로고침 가능) 레이스·카드.
@@ -10,6 +11,7 @@ export default function CategoryView({ category }: { category: Category }) {
   const meta = getCategoryMeta(category);
   const race = getRace(category);
   const current = getCurrent(category);
+  const deltas = getRankDeltas(category);
 
   return (
     <div className="space-y-7">
@@ -37,6 +39,7 @@ export default function CategoryView({ category }: { category: Category }) {
         metricLabel={race.metricLabel}
         initialCurrent={current}
         initialRace={race}
+        deltas={deltas}
       />
     </div>
   );
