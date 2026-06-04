@@ -2,7 +2,7 @@ import Link from "next/link";
 import { CATEGORIES } from "@/lib/categories";
 import { getCurrent } from "@/lib/data";
 import { getRankDeltas } from "@/lib/ranks";
-import { vendorColor } from "@/lib/vendors";
+import VendorAvatar from "@/components/VendorAvatar";
 
 // 카테고리별 현재 1위를 한눈에 보여주는 대시보드(홈 랜딩 · 매일 갱신).
 export default function LeadersOverview() {
@@ -28,7 +28,6 @@ export default function LeadersOverview() {
 
       <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
         {leaders.map(({ cat, leader, changed }) => {
-          const color = vendorColor(leader.vendor);
           return (
             <Link
               key={cat.id}
@@ -46,11 +45,7 @@ export default function LeadersOverview() {
                 {cat.label}
               </div>
               <div className="mt-2 flex items-center gap-1.5">
-                <span className="text-sm">🏆</span>
-                <span
-                  className="h-2 w-2 shrink-0 rounded-full"
-                  style={{ background: color }}
-                />
+                <VendorAvatar vendor={leader.vendor} size={20} />
                 <span className="truncate font-display text-sm font-bold" title={leader.name}>
                   {leader.name}
                 </span>

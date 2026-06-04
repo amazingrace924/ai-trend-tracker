@@ -4,6 +4,7 @@ import type { RankDelta } from "@/lib/ranks";
 import { vendorColor } from "@/lib/vendors";
 import StrengthBadge from "./StrengthBadge";
 import RankChange from "./RankChange";
+import VendorAvatar from "./VendorAvatar";
 
 // 모델별 기능·강점 카드 — 카테고리 무관(score/scoreLabel/highlights 사용).
 export default function ModelCard({
@@ -37,6 +38,7 @@ export default function ModelCard({
               <RankChange delta={delta} />
             </div>
           )}
+          <VendorAvatar vendor={model.vendor} size={30} />
           <div>
             <div className="font-display font-bold leading-tight">{model.name}</div>
             <div className="text-xs font-medium text-[var(--muted)]">{model.vendor}</div>

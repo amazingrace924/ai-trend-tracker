@@ -5,6 +5,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import type { RaceData } from "@/lib/types";
 import { vendorColor } from "@/lib/vendors";
 import InfoDot from "./InfoDot";
+import VendorAvatar from "./VendorAvatar";
 
 const ROW_H = 54; // 막대 한 줄 높이(px)
 const FRAME_MS = 900;
@@ -67,6 +68,7 @@ export default function BarChartRace({ race }: { race: RaceData }) {
         <div className="flex items-center gap-2 rounded-xl border border-[var(--border)] bg-[var(--panel2)] px-3 py-2 text-sm">
           <span className="text-base">🏁</span>
           <span className="text-[var(--muted)]">선두</span>
+          <VendorAvatar vendor={leader.vendor} size={22} />
           <span
             className="font-display font-bold"
             style={{ color: vendorColor(leader.vendor) }}
@@ -107,7 +109,18 @@ export default function BarChartRace({ race }: { race: RaceData }) {
                   animate={{ width: `${pct}%` }}
                   transition={{ type: "spring", stiffness: 220, damping: 30 }}
                 />
-                <div className="relative flex h-full items-center justify-between px-3">
+                <div className="relative flex h-full items-center gap-2 px-3">
+                  {isLeader ? (
+                    <motion.span
+                      className="inline-flex"
+                      animate={{ y: [0, -3, 0] }}
+                      transition={{ repeat: Infinity, duration: 0.7, ease: "easeInOut" }}
+                    >
+                      <VendorAvatar vendor={e.vendor} size={26} />
+                    </motion.span>
+                  ) : (
+                    <VendorAvatar vendor={e.vendor} size={26} />
+                  )}
                   <span
                     className={
                       "truncate font-display text-sm font-bold " +
@@ -119,7 +132,7 @@ export default function BarChartRace({ race }: { race: RaceData }) {
                   </span>
                   <span
                     className={
-                      "tnum ml-2 shrink-0 text-sm font-bold " +
+                      "tnum ml-auto shrink-0 text-sm font-bold " +
                       (isLeader ? "text-[var(--on-accent)]" : "")
                     }
                   >
