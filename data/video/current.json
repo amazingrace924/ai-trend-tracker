@@ -1,21 +1,21 @@
 {
   "category": "video",
   "date": "2026-06-04",
-  "updatedAt": "2026-06-04T02:47:57.418Z",
+  "updatedAt": "2026-06-04T22:23:02.244Z",
   "models": [
     {
-      "id": "video-happyhorse-1-0-",
+      "id": "video-happyhorse-1-0",
       "name": "HappyHorse-1.0",
       "vendor": "Alibaba-ATH",
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-04",
-      "score": 1359,
+      "score": 1293,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1359"
+          "value": "1293"
         },
         {
           "label": "순위",
@@ -23,7 +23,7 @@
         },
         {
           "label": "투표수",
-          "value": "8,390"
+          "value": "5,502"
         },
         {
           "label": "제작사",
@@ -33,7 +33,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1359"
+          "value": "1293"
         },
         {
           "label": "순위",
@@ -41,7 +41,7 @@
         },
         {
           "label": "투표 수",
-          "value": "8,390"
+          "value": "5,502"
         },
         {
           "label": "출시일",
@@ -76,7 +76,7 @@
         },
         {
           "label": "투표수",
-          "value": "8,491"
+          "value": "8,521"
         },
         {
           "label": "제작사",
@@ -94,7 +94,7 @@
         },
         {
           "label": "투표 수",
-          "value": "8,491"
+          "value": "8,521"
         },
         {
           "label": "출시일",
@@ -116,12 +116,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-02",
-      "score": 1250,
+      "score": 1251,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1250"
+          "value": "1251"
         },
         {
           "label": "순위",
@@ -129,7 +129,7 @@
         },
         {
           "label": "투표수",
-          "value": "5,638"
+          "value": "5,670"
         },
         {
           "label": "제작사",
@@ -139,7 +139,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1250"
+          "value": "1251"
         },
         {
           "label": "순위",
@@ -147,7 +147,7 @@
         },
         {
           "label": "투표 수",
-          "value": "5,638"
+          "value": "5,670"
         },
         {
           "label": "출시일",
@@ -169,12 +169,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-02",
-      "score": 1239,
+      "score": 1237,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1239"
+          "value": "1237"
         },
         {
           "label": "순위",
@@ -182,7 +182,7 @@
         },
         {
           "label": "투표수",
-          "value": "5,357"
+          "value": "5,390"
         },
         {
           "label": "제작사",
@@ -192,7 +192,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1239"
+          "value": "1237"
         },
         {
           "label": "순위",
@@ -200,7 +200,7 @@
         },
         {
           "label": "투표 수",
-          "value": "5,357"
+          "value": "5,390"
         },
         {
           "label": "출시일",
@@ -222,12 +222,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-01",
-      "score": 1236,
+      "score": 1235,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1236"
+          "value": "1235"
         },
         {
           "label": "순위",
@@ -235,7 +235,7 @@
         },
         {
           "label": "투표수",
-          "value": "6,296"
+          "value": "6,332"
         },
         {
           "label": "제작사",
@@ -245,7 +245,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1236"
+          "value": "1235"
         },
         {
           "label": "순위",
@@ -253,7 +253,7 @@
         },
         {
           "label": "투표 수",
-          "value": "6,296"
+          "value": "6,332"
         },
         {
           "label": "출시일",
@@ -275,12 +275,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-04",
-      "score": 1233,
+      "score": 1232,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1233"
+          "value": "1232"
         },
         {
           "label": "순위",
@@ -288,7 +288,7 @@
         },
         {
           "label": "투표수",
-          "value": "5,296"
+          "value": "5,216"
         },
         {
           "label": "제작사",
@@ -298,7 +298,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1233"
+          "value": "1232"
         },
         {
           "label": "순위",
@@ -306,7 +306,7 @@
         },
         {
           "label": "투표 수",
-          "value": "5,296"
+          "value": "5,216"
         },
         {
           "label": "출시일",
@@ -341,7 +341,7 @@
         },
         {
           "label": "투표수",
-          "value": "6,448"
+          "value": "6,475"
         },
         {
           "label": "제작사",
@@ -359,7 +359,7 @@
         },
         {
           "label": "투표 수",
-          "value": "6,448"
+          "value": "6,475"
         },
         {
           "label": "출시일",
@@ -373,12 +373,12 @@
       "strengths": []
     },
     {
-      "id": "video-veo-3-1-preview",
-      "name": "Veo 3.1 Preview",
+      "id": "video-veo-3-preview",
+      "name": "Veo 3 Preview",
       "vendor": "Google",
       "category": "video",
       "license": "proprietary",
-      "releaseDate": "2025-10",
+      "releaseDate": "2025-05",
       "score": 1226,
       "scoreLabel": "Arena Elo",
       "highlights": [
@@ -392,7 +392,7 @@
         },
         {
           "label": "투표수",
-          "value": "4,915"
+          "value": "3,394"
         },
         {
           "label": "제작사",
@@ -410,11 +410,11 @@
         },
         {
           "label": "투표 수",
-          "value": "4,915"
+          "value": "3,394"
         },
         {
           "label": "출시일",
-          "value": "2025-10"
+          "value": "2025-05"
         },
         {
           "label": "제작사",
@@ -443,7 +443,7 @@
         },
         {
           "label": "투표수",
-          "value": "9,303"
+          "value": "9,338"
         },
         {
           "label": "제작사",
@@ -461,7 +461,7 @@
         },
         {
           "label": "투표 수",
-          "value": "9,303"
+          "value": "9,338"
         },
         {
           "label": "출시일",
@@ -475,12 +475,12 @@
       "strengths": []
     },
     {
-      "id": "video-veo-3-preview",
-      "name": "Veo 3 Preview",
+      "id": "video-veo-3-1-preview",
+      "name": "Veo 3.1 Preview",
       "vendor": "Google",
       "category": "video",
       "license": "proprietary",
-      "releaseDate": "2025-05",
+      "releaseDate": "2025-10",
       "score": 1226,
       "scoreLabel": "Arena Elo",
       "highlights": [
@@ -494,7 +494,7 @@
         },
         {
           "label": "투표수",
-          "value": "3,368"
+          "value": "4,944"
         },
         {
           "label": "제작사",
@@ -512,11 +512,11 @@
         },
         {
           "label": "투표 수",
-          "value": "3,368"
+          "value": "4,944"
         },
         {
           "label": "출시일",
-          "value": "2025-05"
+          "value": "2025-10"
         },
         {
           "label": "제작사",
