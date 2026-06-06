@@ -1,6 +1,14 @@
 [
   {
-    "id": "Hugging Face-0-nemotron-3-5-content-safety-customizable",
+    "id": "Hugging Face-0-five-labs-five-minds-building-a-multi-mo",
+    "title": "Five labs, five minds: building a multi-model finance drama on small models",
+    "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
+    "source": "Hugging Face",
+    "date": "2026-06-06T19:02:33.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Hugging Face-1-nemotron-3-5-content-safety-customizable",
     "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
     "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
     "source": "Hugging Face",
@@ -8,7 +16,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-1-eva-bench-data-2-0-3-domains-121-tools-2",
+    "id": "Hugging Face-2-eva-bench-data-2-0-3-domains-121-tools-2",
     "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
     "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
     "source": "Hugging Face",
@@ -32,7 +40,7 @@
     "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
   },
   {
-    "id": "Hugging Face-2-designing-the-hf-cli-as-an-agent-optimiz",
+    "id": "Hugging Face-3-designing-the-hf-cli-as-an-agent-optimiz",
     "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
     "url": "https://huggingface.co/blog/hf-cli-for-agents",
     "source": "Hugging Face",
@@ -56,7 +64,7 @@
     "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
   },
   {
-    "id": "Hugging Face-3-direct-preference-optimization-beyond-ch",
+    "id": "Hugging Face-4-direct-preference-optimization-beyond-ch",
     "title": "Direct Preference Optimization Beyond Chatbots",
     "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
     "source": "Hugging Face",
@@ -72,15 +80,7 @@
     "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
   },
   {
-    "id": "OpenAI-6-a-blueprint-for-democratic-governance-of",
-    "title": "A blueprint for democratic governance of frontier AI",
-    "url": "https://openai.com/index/frontier-safety-blueprint",
-    "source": "OpenAI",
-    "date": "2026-06-03T10:00:00.000Z",
-    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
-  },
-  {
-    "id": "OpenAI-5-openai-public-policy-agenda",
+    "id": "OpenAI-6-openai-public-policy-agenda",
     "title": "OpenAI public policy agenda",
     "url": "https://openai.com/index/public-policy-agenda",
     "source": "OpenAI",
@@ -88,7 +88,15 @@
     "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
   },
   {
-    "id": "Hugging Face-4-adding-mcp-tools-to-reachy-mini",
+    "id": "OpenAI-5-a-blueprint-for-democratic-governance-of",
+    "title": "A blueprint for democratic governance of frontier AI",
+    "url": "https://openai.com/index/frontier-safety-blueprint",
+    "source": "OpenAI",
+    "date": "2026-06-03T10:00:00.000Z",
+    "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
+  },
+  {
+    "id": "Hugging Face-5-adding-mcp-tools-to-reachy-mini",
     "title": "Adding MCP Tools to Reachy Mini",
     "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
     "source": "Hugging Face",
@@ -96,7 +104,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-5-holo3-1-fast-local-computer-use-agents",
+    "id": "Hugging Face-6-holo3-1-fast-local-computer-use-agents",
     "title": "Holo3.1: Fast & Local Computer Use Agents",
     "url": "https://huggingface.co/blog/Hcompany/holo31",
     "source": "Hugging Face",
@@ -144,7 +152,7 @@
     "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf."
   },
   {
-    "id": "Hugging Face-6-introducing-mellum2-a-12b-mixture-of-exp",
+    "id": "Hugging Face-7-introducing-mellum2-a-12b-mixture-of-exp",
     "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
     "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
     "source": "Hugging Face",
@@ -152,7 +160,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-7-beyond-llms-why-scalable-enterprise-ai-a",
+    "id": "Hugging Face-8-beyond-llms-why-scalable-enterprise-ai-a",
     "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
     "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
     "source": "Hugging Face",
@@ -184,7 +192,7 @@
     "summary": "Boston Children’s Hospital uses OpenAI technology to improve patient care, reduce operational burden, and help diagnose more than 40 rare disease cases."
   },
   {
-    "id": "Hugging Face-8-profiling-in-pytorch-part-1-a-beginner-s",
+    "id": "Hugging Face-9-profiling-in-pytorch-part-1-a-beginner-s",
     "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
     "url": "https://huggingface.co/blog/torch-profiler",
     "source": "Hugging Face",
@@ -192,7 +200,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-10-shipping-a-trillion-parameters-with-a-hu",
+    "id": "Hugging Face-11-shipping-a-trillion-parameters-with-a-hu",
     "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
     "url": "https://huggingface.co/blog/delta-weight-sync",
     "source": "Hugging Face",
@@ -200,7 +208,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-9-reachy-mini-goes-fully-local",
+    "id": "Hugging Face-10-reachy-mini-goes-fully-local",
     "title": "Reachy Mini goes fully local",
     "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
     "source": "Hugging Face",
@@ -208,7 +216,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-11-harness-scaffold-and-the-ai-agent-terms-",
+    "id": "Hugging Face-12-harness-scaffold-and-the-ai-agent-terms-",
     "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
     "url": "https://huggingface.co/blog/agent-glossary",
     "source": "Hugging Face",
@@ -224,7 +232,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-12-olmoearth-v1-1-a-more-efficient-family-o",
+    "id": "Hugging Face-13-olmoearth-v1-1-a-more-efficient-family-o",
     "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
     "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
     "source": "Hugging Face",
@@ -232,7 +240,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-13-introducing-the-ettin-reranker-family",
+    "id": "Hugging Face-14-introducing-the-ettin-reranker-family",
     "title": "Introducing the Ettin Reranker Family",
     "url": "https://huggingface.co/blog/ettin-reranker",
     "source": "Hugging Face",
@@ -246,14 +254,6 @@
     "source": "Google DeepMind",
     "date": "2026-05-18T18:21:39.000Z",
     "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells."
-  },
-  {
-    "id": "Hugging Face-14-paddleocr-3-5-running-ocr-and-document-p",
-    "title": "PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend",
-    "url": "https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers",
-    "source": "Hugging Face",
-    "date": "2026-05-18T15:12:46.000Z",
-    "summary": ""
   },
   {
     "id": "Google DeepMind-2-simulate-real-world-places-with-project-",
