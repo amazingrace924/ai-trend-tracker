@@ -1,6 +1,78 @@
 [
   {
-    "id": "OpenAI-0-confidential-submission-of-draft-s-1-to-",
+    "id": "Hugging Face-0-can-voice-agents-handle-bilingual-custom",
+    "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+    "source": "Hugging Face",
+    "date": "2026-06-09T19:38:28.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Hugging Face-1-introducing-north-mini-code-cohere-s-fir",
+    "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+    "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+    "source": "Hugging Face",
+    "date": "2026-06-09T15:56:23.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Google DeepMind-0-fluid-natural-voice-translation-with-gem",
+    "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
+    "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
+    "source": "Google DeepMind",
+    "date": "2026-06-09T15:16:25.000Z",
+    "summary": "Gemini 3.5 Live Translate brings near real-time, natural speech translation to Google AI Studio, Google Translate and Google Meet."
+  },
+  {
+    "id": "Google DeepMind-1-introducing-gemma-4-12b-a-unified-encode",
+    "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
+    "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
+    "source": "Google DeepMind",
+    "date": "2026-06-09T14:10:19.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Google DeepMind-2-powering-the-future-of-robotics-in-europ",
+    "title": "Powering the future of robotics in Europe",
+    "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
+    "source": "Google DeepMind",
+    "date": "2026-06-09T14:02:33.000Z",
+    "summary": ""
+  },
+  {
+    "id": "OpenAI-0-how-engineers-at-nextdoor-use-codex-to-b",
+    "title": "How engineers at Nextdoor use Codex to build without limits",
+    "url": "https://openai.com/index/nextdoor",
+    "source": "OpenAI",
+    "date": "2026-06-09T12:00:00.000Z",
+    "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes."
+  },
+  {
+    "id": "Hugging Face-2-how-an-agent-built-a-3d-paris-gallery-by",
+    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "source": "Hugging Face",
+    "date": "2026-06-09T10:46:19.000Z",
+    "summary": ""
+  },
+  {
+    "id": "OpenAI-1-what-codex-unlocks-for-notion",
+    "title": "What Codex unlocks for Notion",
+    "url": "https://openai.com/index/notion",
+    "source": "OpenAI",
+    "date": "2026-06-09T10:00:00.000Z",
+    "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams."
+  },
+  {
+    "id": "Hugging Face-3-migrating-your-github-ci-to-hugging-face",
+    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "source": "Hugging Face",
+    "date": "2026-06-09T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "id": "OpenAI-2-confidential-submission-of-draft-s-1-to-",
     "title": "Confidential submission of draft S-1 to the SEC",
     "url": "https://openai.com/index/openai-submits-confidential-s-1",
     "source": "OpenAI",
@@ -8,7 +80,15 @@
     "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action."
   },
   {
-    "id": "OpenAI-1-built-to-benefit-everyone-our-plan",
+    "id": "Google DeepMind-3-measuring-the-impact-of-learning-with-ai",
+    "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
+    "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
+    "source": "Google DeepMind",
+    "date": "2026-06-08T13:04:59.000Z",
+    "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning."
+  },
+  {
+    "id": "OpenAI-3-built-to-benefit-everyone-our-plan",
     "title": "Built to benefit everyone: our plan",
     "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
     "source": "OpenAI",
@@ -16,7 +96,7 @@
     "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone."
   },
   {
-    "id": "Hugging Face-0-the-open-source-community-is-backing-ope",
+    "id": "Hugging Face-4-the-open-source-community-is-backing-ope",
     "title": "The Open Source Community is backing OpenEnv for Agentic RL",
     "url": "https://huggingface.co/blog/openenv-agentic-rl",
     "source": "Hugging Face",
@@ -24,7 +104,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-2-introducing-the-openai-economic-research",
+    "id": "OpenAI-4-introducing-the-openai-economic-research",
     "title": "Introducing the OpenAI Economic Research Exchange",
     "url": "https://openai.com/index/economic-research-exchange",
     "source": "OpenAI",
@@ -32,7 +112,7 @@
     "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects."
   },
   {
-    "id": "Hugging Face-1-nemotron-3-5-content-safety-customizable",
+    "id": "Hugging Face-5-nemotron-3-5-content-safety-customizable",
     "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
     "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
     "source": "Hugging Face",
@@ -40,15 +120,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-2-eva-bench-data-2-0-3-domains-121-tools-2",
-    "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-    "source": "Hugging Face",
-    "date": "2026-06-04T12:24:58.000Z",
-    "summary": ""
-  },
-  {
-    "id": "OpenAI-3-how-endava-is-redesigning-software-deliv",
+    "id": "OpenAI-5-how-endava-is-redesigning-software-deliv",
     "title": "How Endava is redesigning software delivery around AI agents",
     "url": "https://openai.com/index/endava-frontiers",
     "source": "OpenAI",
@@ -56,7 +128,7 @@
     "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise."
   },
   {
-    "id": "OpenAI-4-dreaming-better-memory-for-a-more-helpfu",
+    "id": "OpenAI-6-dreaming-better-memory-for-a-more-helpfu",
     "title": "Dreaming: Better memory for a more helpful ChatGPT",
     "url": "https://openai.com/index/chatgpt-memory-dreaming",
     "source": "OpenAI",
@@ -64,7 +136,7 @@
     "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
   },
   {
-    "id": "Hugging Face-3-designing-the-hf-cli-as-an-agent-optimiz",
+    "id": "Hugging Face-6-designing-the-hf-cli-as-an-agent-optimiz",
     "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
     "url": "https://huggingface.co/blog/hf-cli-for-agents",
     "source": "Hugging Face",
@@ -72,7 +144,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-5-biodefense-in-the-intelligence-age",
+    "id": "OpenAI-7-biodefense-in-the-intelligence-age",
     "title": "Biodefense in the Intelligence Age",
     "url": "https://openai.com/index/biodefense-in-the-intelligence-age",
     "source": "OpenAI",
@@ -80,7 +152,7 @@
     "summary": "An action plan for AI-powered biological resilience"
   },
   {
-    "id": "OpenAI-6-introducing-new-capabilities-to-gpt-rosa",
+    "id": "OpenAI-8-introducing-new-capabilities-to-gpt-rosa",
     "title": "Introducing new capabilities to GPT-Rosalind",
     "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
     "source": "OpenAI",
@@ -88,7 +160,7 @@
     "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
   },
   {
-    "id": "Hugging Face-4-direct-preference-optimization-beyond-ch",
+    "id": "Hugging Face-7-direct-preference-optimization-beyond-ch",
     "title": "Direct Preference Optimization Beyond Chatbots",
     "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
     "source": "Hugging Face",
@@ -96,7 +168,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-7-how-wasmer-used-codex-to-build-a-node-js",
+    "id": "OpenAI-9-how-wasmer-used-codex-to-build-a-node-js",
     "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
     "url": "https://openai.com/index/wasmer",
     "source": "OpenAI",
@@ -104,7 +176,7 @@
     "summary": "See how Wasmer used Codex with GPT-5.5 to build a Node.js runtime for the edge, accelerating development 10x to 20x and shipping in weeks instead of months."
   },
   {
-    "id": "OpenAI-9-openai-public-policy-agenda",
+    "id": "OpenAI-11-openai-public-policy-agenda",
     "title": "OpenAI public policy agenda",
     "url": "https://openai.com/index/public-policy-agenda",
     "source": "OpenAI",
@@ -112,7 +184,7 @@
     "summary": "OpenAI outlines its public policy agenda for AI, including safety, youth protection, workforce transition, and global standards to ensure AI benefits society."
   },
   {
-    "id": "OpenAI-8-a-blueprint-for-democratic-governance-of",
+    "id": "OpenAI-10-a-blueprint-for-democratic-governance-of",
     "title": "A blueprint for democratic governance of frontier AI",
     "url": "https://openai.com/index/frontier-safety-blueprint",
     "source": "OpenAI",
@@ -120,7 +192,7 @@
     "summary": "OpenAI outlines a blueprint for U.S. governance of frontier AI, proposing a federal framework for safety, resilience, and national security."
   },
   {
-    "id": "Hugging Face-5-adding-mcp-tools-to-reachy-mini",
+    "id": "Hugging Face-8-adding-mcp-tools-to-reachy-mini",
     "title": "Adding MCP Tools to Reachy Mini",
     "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
     "source": "Hugging Face",
@@ -128,7 +200,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-6-holo3-1-fast-local-computer-use-agents",
+    "id": "Hugging Face-9-holo3-1-fast-local-computer-use-agents",
     "title": "Holo3.1: Fast & Local Computer Use Agents",
     "url": "https://huggingface.co/blog/Hcompany/holo31",
     "source": "Hugging Face",
@@ -136,7 +208,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-10-travelers-deploys-ai-powered-claims-coun",
+    "id": "OpenAI-12-travelers-deploys-ai-powered-claims-coun",
     "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
     "url": "https://openai.com/index/travelers",
     "source": "OpenAI",
@@ -144,7 +216,7 @@
     "summary": "Travelers built an AI-powered Claim Assistant with OpenAI to guide customers through filing claims, provide 24/7 support, and scale operations during peak demand."
   },
   {
-    "id": "OpenAI-11-codex-for-every-role-tool-and-workflow",
+    "id": "OpenAI-13-codex-for-every-role-tool-and-workflow",
     "title": "Codex for every role, tool, and workflow",
     "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
     "source": "OpenAI",
@@ -152,7 +224,7 @@
     "summary": "Discover new Codex plugins, sites, and annotations that help analysts, marketers, designers, investors, and other teams get more done with AI."
   },
   {
-    "id": "OpenAI-12-advancing-youth-safety-and-opportunity-t",
+    "id": "OpenAI-14-advancing-youth-safety-and-opportunity-t",
     "title": "Advancing youth safety and opportunity through global leadership",
     "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
     "source": "OpenAI",
@@ -160,23 +232,7 @@
     "summary": "OpenAI calls for global action on youth AI safety, proposing an international institute to strengthen safeguards, standards, and opportunities for young people."
   },
   {
-    "id": "OpenAI-13-codex-is-becoming-a-productivity-tool-fo",
-    "title": "Codex is becoming a productivity tool for everyone",
-    "url": "https://openai.com/index/codex-for-knowledge-work",
-    "source": "OpenAI",
-    "date": "2026-06-02T02:00:00.000Z",
-    "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation."
-  },
-  {
-    "id": "OpenAI-14-our-views-on-ai-policy-and-political-adv",
-    "title": "Our views on AI policy and political advocacy",
-    "url": "https://openai.com/index/our-views-on-ai-policy-and-political-advocacy",
-    "source": "OpenAI",
-    "date": "2026-06-01T17:00:00.000Z",
-    "summary": "Our approach to AI policy and political advocacy, transparency, support for thoughtful regulation and AI safety, and that no outside political group speaks on the company’s behalf."
-  },
-  {
-    "id": "Hugging Face-7-introducing-mellum2-a-12b-mixture-of-exp",
+    "id": "Hugging Face-10-introducing-mellum2-a-12b-mixture-of-exp",
     "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
     "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
     "source": "Hugging Face",
@@ -184,7 +240,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-8-beyond-llms-why-scalable-enterprise-ai-a",
+    "id": "Hugging Face-11-beyond-llms-why-scalable-enterprise-ai-a",
     "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
     "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
     "source": "Hugging Face",
@@ -192,7 +248,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-9-profiling-in-pytorch-part-1-a-beginner-s",
+    "id": "Hugging Face-12-profiling-in-pytorch-part-1-a-beginner-s",
     "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
     "url": "https://huggingface.co/blog/torch-profiler",
     "source": "Hugging Face",
@@ -200,7 +256,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-11-shipping-a-trillion-parameters-with-a-hu",
+    "id": "Hugging Face-14-shipping-a-trillion-parameters-with-a-hu",
     "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
     "url": "https://huggingface.co/blog/delta-weight-sync",
     "source": "Hugging Face",
@@ -208,7 +264,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-10-reachy-mini-goes-fully-local",
+    "id": "Hugging Face-13-reachy-mini-goes-fully-local",
     "title": "Reachy Mini goes fully local",
     "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
     "source": "Hugging Face",
@@ -216,15 +272,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-12-harness-scaffold-and-the-ai-agent-terms-",
-    "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-    "url": "https://huggingface.co/blog/agent-glossary",
-    "source": "Hugging Face",
-    "date": "2026-05-25T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "id": "Google DeepMind-0-we-re-launching-the-google-deepmind-acce",
+    "id": "Google DeepMind-4-we-re-launching-the-google-deepmind-acce",
     "title": "We’re launching the Google DeepMind Accelerator program in Asia Pacific to tackle environmental risks",
     "url": "https://deepmind.google/blog/were-launching-the-google-deepmind-accelerator-program-in-asia-pacific-to-tackle-environmental-risks/",
     "source": "Google DeepMind",
@@ -232,23 +280,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-13-olmoearth-v1-1-a-more-efficient-family-o",
-    "title": "OlmoEarth v1.1: A more efficient family of Earth observation models",
-    "url": "https://huggingface.co/blog/allenai/olmoearth-v1-1",
-    "source": "Hugging Face",
-    "date": "2026-05-19T18:38:09.000Z",
-    "summary": ""
-  },
-  {
-    "id": "Hugging Face-14-introducing-the-ettin-reranker-family",
-    "title": "Introducing the Ettin Reranker Family",
-    "url": "https://huggingface.co/blog/ettin-reranker",
-    "source": "Hugging Face",
-    "date": "2026-05-19T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "id": "Google DeepMind-1-fast-tracking-genetic-leads-to-reverse-c",
+    "id": "Google DeepMind-5-fast-tracking-genetic-leads-to-reverse-c",
     "title": "Fast-tracking genetic leads to reverse cellular aging",
     "url": "https://deepmind.google/blog/fast-tracking-genetic-leads-to-reverse-cellular-aging/",
     "source": "Google DeepMind",
@@ -256,7 +288,7 @@
     "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells."
   },
   {
-    "id": "Google DeepMind-2-simulate-real-world-places-with-project-",
+    "id": "Google DeepMind-6-simulate-real-world-places-with-project-",
     "title": "Simulate real-world places with Project Genie and Street View",
     "url": "https://deepmind.google/blog/simulate-real-world-places-with-project-genie-and-street-view/",
     "source": "Google DeepMind",
@@ -264,7 +296,7 @@
     "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View."
   },
   {
-    "id": "Google DeepMind-3-introducing-gemini-omni",
+    "id": "Google DeepMind-7-introducing-gemini-omni",
     "title": "Introducing Gemini Omni",
     "url": "https://deepmind.google/blog/introducing-gemini-omni/",
     "source": "Google DeepMind",
@@ -272,7 +304,7 @@
     "summary": ""
   },
   {
-    "id": "Google DeepMind-4-introducing-google-antigravity-2-0",
+    "id": "Google DeepMind-8-introducing-google-antigravity-2-0",
     "title": "Introducing Google Antigravity 2.0",
     "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
     "source": "Google DeepMind",
@@ -280,43 +312,11 @@
     "summary": ""
   },
   {
-    "id": "Google DeepMind-5-gemini-for-science-ai-experiments-and-to",
+    "id": "Google DeepMind-9-gemini-for-science-ai-experiments-and-to",
     "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
     "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
     "source": "Google DeepMind",
     "date": "2026-05-17T13:50:34.000Z",
     "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration."
-  },
-  {
-    "id": "Google DeepMind-6-making-it-easier-to-understand-how-conte",
-    "title": "Making it easier to understand how content was created and edited",
-    "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
-    "source": "Google DeepMind",
-    "date": "2026-05-17T13:43:50.000Z",
-    "summary": "We're expanding our tools to help you understand how content was created and edited across the web."
-  },
-  {
-    "id": "Google DeepMind-7-strengthening-singapore-s-ai-future-a-ne",
-    "title": "Strengthening Singapore’s AI Future: A New National Partnership",
-    "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
-    "source": "Google DeepMind",
-    "date": "2026-05-16T09:13:34.000Z",
-    "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more."
-  },
-  {
-    "id": "Google DeepMind-8-finding-the-molecular-switches-behind-ne",
-    "title": "Finding the molecular switches behind new infectious diseases",
-    "url": "https://deepmind.google/blog/finding-the-molecular-switches-behind-new-infectious-diseases/",
-    "source": "Google DeepMind",
-    "date": "2026-05-16T08:16:06.000Z",
-    "summary": "Clare Bryant uses Co-Scientist to identify genetic triggers in emerging infectious diseases."
-  },
-  {
-    "id": "Google DeepMind-9-opening-new-paths-in-aging-research",
-    "title": "Opening new paths in aging research",
-    "url": "https://deepmind.google/blog/opening-new-paths-in-aging-research/",
-    "source": "Google DeepMind",
-    "date": "2026-05-16T08:08:44.000Z",
-    "summary": "Calico Life Sciences uses Co-Scientist to connect scattered findings and generate new leads in aging research."
   }
 ]
