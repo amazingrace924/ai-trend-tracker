@@ -425,6 +425,59 @@
           "value": 56.7
         }
       ]
+    },
+    {
+      "date": "2026-06-10",
+      "entries": [
+        {
+          "id": "claude-fable-5",
+          "name": "Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",
+          "vendor": "Anthropic",
+          "value": 64.9
+        },
+        {
+          "id": "claude-opus-4-8",
+          "name": "Claude Opus 4.8 (Adaptive Reasoning, Max Effort)",
+          "vendor": "Anthropic",
+          "value": 61.4
+        },
+        {
+          "id": "gpt-5-5",
+          "name": "GPT-5.5 (xhigh)",
+          "vendor": "OpenAI",
+          "value": 60.2
+        },
+        {
+          "id": "gpt-5-5-high",
+          "name": "GPT-5.5 (high)",
+          "vendor": "OpenAI",
+          "value": 58.9
+        },
+        {
+          "id": "claude-opus-4-7",
+          "name": "Claude Opus 4.7 (Adaptive Reasoning, Max Effort)",
+          "vendor": "Anthropic",
+          "value": 57.3
+        },
+        {
+          "id": "gemini-3-1-pro-preview",
+          "name": "Gemini 3.1 Pro Preview",
+          "vendor": "Google",
+          "value": 57.2
+        },
+        {
+          "id": "gpt-5-4",
+          "name": "GPT-5.4 (xhigh)",
+          "vendor": "OpenAI",
+          "value": 56.8
+        },
+        {
+          "id": "gpt-5-5-medium",
+          "name": "GPT-5.5 (medium)",
+          "vendor": "OpenAI",
+          "value": 56.7
+        }
+      ]
     }
   ]
 }
