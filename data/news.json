@@ -1,6 +1,30 @@
 [
   {
-    "id": "Hugging Face-0-profiling-in-pytorch-part-2-from-nn-line",
+    "id": "Hugging Face-0-olmo-eval-an-evaluation-workbench-for-th",
+    "title": "olmo-eval: An evaluation workbench for the model development loop",
+    "url": "https://huggingface.co/blog/allenai/olmo-eval",
+    "source": "Hugging Face",
+    "date": "2026-06-12T15:56:10.000Z",
+    "summary": ""
+  },
+  {
+    "id": "OpenAI-0-new-openai-academy-courses-for-the-next-",
+    "title": "New OpenAI Academy courses for the next era of work",
+    "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
+    "source": "OpenAI",
+    "date": "2026-06-12T10:00:00.000Z",
+    "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work."
+  },
+  {
+    "id": "OpenAI-1-how-preply-combines-ai-and-human-tutors-",
+    "title": "How Preply combines AI and human tutors to personalize learning",
+    "url": "https://openai.com/index/preply",
+    "source": "OpenAI",
+    "date": "2026-06-12T00:00:00.000Z",
+    "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
+  },
+  {
+    "id": "Hugging Face-1-profiling-in-pytorch-part-2-from-nn-line",
     "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
     "url": "https://huggingface.co/blog/torch-mlp-fusion",
     "source": "Hugging Face",
@@ -8,23 +32,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-3-bbva-puts-ai-at-the-core-of-banking-with",
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "url": "https://openai.com/index/bbva",
-    "source": "OpenAI",
-    "date": "2026-06-11T00:00:00.000Z",
-    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
-  },
-  {
-    "id": "OpenAI-2-how-an-astrophysicist-uses-codex-to-help",
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
-    "source": "OpenAI",
-    "date": "2026-06-11T00:00:00.000Z",
-    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
-  },
-  {
-    "id": "OpenAI-1-supporting-europe-s-work-in-ensuring-a-t",
+    "id": "OpenAI-5-supporting-europe-s-work-in-ensuring-a-t",
     "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
     "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
@@ -32,7 +40,23 @@
     "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
   },
   {
-    "id": "OpenAI-0-openai-to-acquire-ona",
+    "id": "OpenAI-4-bbva-puts-ai-at-the-core-of-banking-with",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "source": "OpenAI",
+    "date": "2026-06-11T00:00:00.000Z",
+    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
+  },
+  {
+    "id": "OpenAI-3-how-an-astrophysicist-uses-codex-to-help",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "source": "OpenAI",
+    "date": "2026-06-11T00:00:00.000Z",
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
+  },
+  {
+    "id": "OpenAI-2-openai-to-acquire-ona",
     "title": "OpenAI to acquire Ona",
     "url": "https://openai.com/index/openai-to-acquire-ona",
     "source": "OpenAI",
@@ -40,7 +64,7 @@
     "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
   },
   {
-    "id": "OpenAI-4-access-openai-models-and-codex-through-y",
+    "id": "OpenAI-6-access-openai-models-and-codex-through-y",
     "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
     "url": "https://openai.com/index/openai-on-oracle-cloud",
     "source": "OpenAI",
@@ -56,7 +80,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-5-prc-linked-influence-operations-are-targ",
+    "id": "OpenAI-7-prc-linked-influence-operations-are-targ",
     "title": "PRC-linked influence operations are targeting AI debates in the US",
     "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
     "source": "OpenAI",
@@ -72,7 +96,7 @@
     "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research."
   },
   {
-    "id": "OpenAI-6-from-data-to-decisions-how-lseg-is-scali",
+    "id": "OpenAI-8-from-data-to-decisions-how-lseg-is-scali",
     "title": "From data to decisions: how LSEG is scaling trusted AI",
     "url": "https://openai.com/index/lseg",
     "source": "OpenAI",
@@ -80,7 +104,7 @@
     "summary": "See how LSEG uses OpenAI to scale trusted AI across its global business, accelerating insights, shrinking release cycles, and empowering 4,000 employees."
   },
   {
-    "id": "Hugging Face-1-introducing-north-mini-code-cohere-s-fir",
+    "id": "Hugging Face-2-introducing-north-mini-code-cohere-s-fir",
     "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
     "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
     "source": "Hugging Face",
@@ -112,7 +136,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-7-how-engineers-at-nextdoor-use-codex-to-b",
+    "id": "OpenAI-9-how-engineers-at-nextdoor-use-codex-to-b",
     "title": "How engineers at Nextdoor use Codex to build without limits",
     "url": "https://openai.com/index/nextdoor",
     "source": "OpenAI",
@@ -120,7 +144,7 @@
     "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes."
   },
   {
-    "id": "Hugging Face-2-how-an-agent-built-a-3d-paris-gallery-by",
+    "id": "Hugging Face-3-how-an-agent-built-a-3d-paris-gallery-by",
     "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
     "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
     "source": "Hugging Face",
@@ -128,7 +152,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-8-what-codex-unlocks-for-notion",
+    "id": "OpenAI-10-what-codex-unlocks-for-notion",
     "title": "What Codex unlocks for Notion",
     "url": "https://openai.com/index/notion",
     "source": "OpenAI",
@@ -136,7 +160,7 @@
     "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams."
   },
   {
-    "id": "Hugging Face-3-migrating-your-github-ci-to-hugging-face",
+    "id": "Hugging Face-4-migrating-your-github-ci-to-hugging-face",
     "title": "Migrating Your GitHub CI to Hugging Face Jobs",
     "url": "https://huggingface.co/blog/github-ci-hf-jobs",
     "source": "Hugging Face",
@@ -144,7 +168,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-9-industrial-policy-for-the-intelligence-a",
+    "id": "OpenAI-11-industrial-policy-for-the-intelligence-a",
     "title": "Industrial policy for the Intelligence Age",
     "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
     "source": "OpenAI",
@@ -152,7 +176,7 @@
     "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves."
   },
   {
-    "id": "OpenAI-10-confidential-submission-of-draft-s-1-to-",
+    "id": "OpenAI-12-confidential-submission-of-draft-s-1-to-",
     "title": "Confidential submission of draft S-1 to the SEC",
     "url": "https://openai.com/index/openai-submits-confidential-s-1",
     "source": "OpenAI",
@@ -168,7 +192,7 @@
     "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning."
   },
   {
-    "id": "OpenAI-11-built-to-benefit-everyone-our-plan",
+    "id": "OpenAI-13-built-to-benefit-everyone-our-plan",
     "title": "Built to benefit everyone: our plan",
     "url": "https://openai.com/index/built-to-benefit-everyone-our-plan",
     "source": "OpenAI",
@@ -176,7 +200,7 @@
     "summary": "A vision for the future of AI, focusing on access, safety, and shared prosperity as OpenAI works to ensure AGI benefits everyone."
   },
   {
-    "id": "Hugging Face-4-the-open-source-community-is-backing-ope",
+    "id": "Hugging Face-5-the-open-source-community-is-backing-ope",
     "title": "The Open Source Community is backing OpenEnv for Agentic RL",
     "url": "https://huggingface.co/blog/openenv-agentic-rl",
     "source": "Hugging Face",
@@ -184,7 +208,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-12-introducing-the-openai-economic-research",
+    "id": "OpenAI-14-introducing-the-openai-economic-research",
     "title": "Introducing the OpenAI Economic Research Exchange",
     "url": "https://openai.com/index/economic-research-exchange",
     "source": "OpenAI",
@@ -192,7 +216,7 @@
     "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects."
   },
   {
-    "id": "Hugging Face-5-nemotron-3-5-content-safety-customizable",
+    "id": "Hugging Face-6-nemotron-3-5-content-safety-customizable",
     "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
     "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
     "source": "Hugging Face",
@@ -200,23 +224,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-13-how-endava-is-redesigning-software-deliv",
-    "title": "How Endava is redesigning software delivery around AI agents",
-    "url": "https://openai.com/index/endava-frontiers",
-    "source": "OpenAI",
-    "date": "2026-06-04T12:00:00.000Z",
-    "summary": "Learn how Endava is using AI agents, ChatGPT Enterprise, and Codex to accelerate software delivery, automate workflows, and build an AI-native culture across the enterprise."
-  },
-  {
-    "id": "OpenAI-14-dreaming-better-memory-for-a-more-helpfu",
-    "title": "Dreaming: Better memory for a more helpful ChatGPT",
-    "url": "https://openai.com/index/chatgpt-memory-dreaming",
-    "source": "OpenAI",
-    "date": "2026-06-04T09:00:00.000Z",
-    "summary": "ChatGPT introduces a new memory system to better remember preferences, keeping context fresh and relevant across conversations."
-  },
-  {
-    "id": "Hugging Face-6-designing-the-hf-cli-as-an-agent-optimiz",
+    "id": "Hugging Face-7-designing-the-hf-cli-as-an-agent-optimiz",
     "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
     "url": "https://huggingface.co/blog/hf-cli-for-agents",
     "source": "Hugging Face",
@@ -224,7 +232,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-7-direct-preference-optimization-beyond-ch",
+    "id": "Hugging Face-8-direct-preference-optimization-beyond-ch",
     "title": "Direct Preference Optimization Beyond Chatbots",
     "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
     "source": "Hugging Face",
@@ -232,7 +240,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-8-adding-mcp-tools-to-reachy-mini",
+    "id": "Hugging Face-9-adding-mcp-tools-to-reachy-mini",
     "title": "Adding MCP Tools to Reachy Mini",
     "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
     "source": "Hugging Face",
@@ -240,7 +248,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-9-holo3-1-fast-local-computer-use-agents",
+    "id": "Hugging Face-10-holo3-1-fast-local-computer-use-agents",
     "title": "Holo3.1: Fast & Local Computer Use Agents",
     "url": "https://huggingface.co/blog/Hcompany/holo31",
     "source": "Hugging Face",
@@ -248,7 +256,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-10-introducing-mellum2-a-12b-mixture-of-exp",
+    "id": "Hugging Face-11-introducing-mellum2-a-12b-mixture-of-exp",
     "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
     "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
     "source": "Hugging Face",
@@ -256,7 +264,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-11-beyond-llms-why-scalable-enterprise-ai-a",
+    "id": "Hugging Face-12-beyond-llms-why-scalable-enterprise-ai-a",
     "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
     "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
     "source": "Hugging Face",
@@ -264,7 +272,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-12-profiling-in-pytorch-part-1-a-beginner-s",
+    "id": "Hugging Face-13-profiling-in-pytorch-part-1-a-beginner-s",
     "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
     "url": "https://huggingface.co/blog/torch-profiler",
     "source": "Hugging Face",
@@ -272,15 +280,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-14-shipping-a-trillion-parameters-with-a-hu",
-    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-    "url": "https://huggingface.co/blog/delta-weight-sync",
-    "source": "Hugging Face",
-    "date": "2026-05-27T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "id": "Hugging Face-13-reachy-mini-goes-fully-local",
+    "id": "Hugging Face-14-reachy-mini-goes-fully-local",
     "title": "Reachy Mini goes fully local",
     "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
     "source": "Hugging Face",

@@ -531,6 +531,59 @@
           "value": 1177
         }
       ]
+    },
+    {
+      "date": "2026-06-12",
+      "entries": [
+        {
+          "id": "voice-fun-realtime-tts",
+          "name": "Fun-Realtime-TTS",
+          "vendor": "Alibaba",
+          "value": 1226
+        },
+        {
+          "id": "voice-gemini-3-1-tts",
+          "name": "Gemini 3.1 Flash TTS",
+          "vendor": "Google",
+          "value": 1215
+        },
+        {
+          "id": "voice-realtime-tts-2-research-preview",
+          "name": "Realtime TTS-2 - Research Preview",
+          "vendor": "Inworld",
+          "value": 1208
+        },
+        {
+          "id": "voice-sonic-3-5",
+          "name": "Sonic 3.5",
+          "vendor": "Cartesia",
+          "value": 1197
+        },
+        {
+          "id": "voice-xai-text-to-speech",
+          "name": "xAI Text to Speech",
+          "vendor": "xAI",
+          "value": 1196
+        },
+        {
+          "id": "voice-realtime-tts-1-5-max",
+          "name": "Realtime TTS 1.5 Max",
+          "vendor": "Inworld",
+          "value": 1195
+        },
+        {
+          "id": "voice-async-flash-v1-5",
+          "name": "Async Flash v1.5",
+          "vendor": "async",
+          "value": 1181
+        },
+        {
+          "id": "voice-step-audio-2.5-tts",
+          "name": "StepAudio 2.5 TTS",
+          "vendor": "StepFun",
+          "value": 1177
+        }
+      ]
     }
   ]
 }
