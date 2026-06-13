@@ -32,23 +32,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-5-supporting-europe-s-work-in-ensuring-a-t",
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "source": "OpenAI",
-    "date": "2026-06-11T00:00:00.000Z",
-    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
-  },
-  {
-    "id": "OpenAI-4-bbva-puts-ai-at-the-core-of-banking-with",
-    "title": "BBVA puts AI at the core of banking with OpenAI",
-    "url": "https://openai.com/index/bbva",
-    "source": "OpenAI",
-    "date": "2026-06-11T00:00:00.000Z",
-    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
-  },
-  {
-    "id": "OpenAI-3-how-an-astrophysicist-uses-codex-to-help",
+    "id": "OpenAI-5-how-an-astrophysicist-uses-codex-to-help",
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "source": "OpenAI",
@@ -56,12 +40,28 @@
     "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
   },
   {
-    "id": "OpenAI-2-openai-to-acquire-ona",
+    "id": "OpenAI-4-openai-to-acquire-ona",
     "title": "OpenAI to acquire Ona",
     "url": "https://openai.com/index/openai-to-acquire-ona",
     "source": "OpenAI",
     "date": "2026-06-11T00:00:00.000Z",
     "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
+  },
+  {
+    "id": "OpenAI-3-bbva-puts-ai-at-the-core-of-banking-with",
+    "title": "BBVA puts AI at the core of banking with OpenAI",
+    "url": "https://openai.com/index/bbva",
+    "source": "OpenAI",
+    "date": "2026-06-11T00:00:00.000Z",
+    "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
+  },
+  {
+    "id": "OpenAI-2-supporting-europe-s-work-in-ensuring-a-t",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "source": "OpenAI",
+    "date": "2026-06-11T00:00:00.000Z",
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
   },
   {
     "id": "OpenAI-6-access-openai-models-and-codex-through-y",
