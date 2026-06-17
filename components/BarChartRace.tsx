@@ -7,7 +7,7 @@ import { vendorColor } from "@/lib/vendors";
 import InfoDot from "./InfoDot";
 
 const ROW_H = 54; // 막대 한 줄 높이(px)
-const FRAME_MS = 900;
+const FRAME_MS = 380; // 프레임당 재생 간격 — 짧을수록 빠르게 넘어간다
 
 export default function BarChartRace({ race }: { race: RaceData }) {
   const frames = race.frames;
@@ -90,7 +90,7 @@ export default function BarChartRace({ race }: { race: RaceData }) {
                       : { background: `${color}2e`, borderRight: `4px solid ${color}` }
                   }
                   animate={{ width: `${pct}%` }}
-                  transition={{ type: "spring", stiffness: 220, damping: 30 }}
+                  transition={{ type: "spring", stiffness: 320, damping: 32 }}
                 />
                 <div className="relative flex h-full items-center justify-between px-3">
                   <span
