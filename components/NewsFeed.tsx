@@ -5,16 +5,17 @@ import type { NewsItem } from "@/lib/types";
 import { fmtDate } from "@/lib/format";
 import { fetchNewsClient } from "@/lib/fetchNewsClient";
 
-function RefreshIcon({ className = "", spinning = false }: { className?: string; spinning?: boolean }) {
+function RefreshIcon({ className = "" }: { className?: string }) {
   return (
     <svg
       viewBox="0 0 24 24"
-      className={className + (spinning ? " animate-spin" : "")}
+      className={className}
       fill="none"
       stroke="currentColor"
-      strokeWidth="2.2"
+      strokeWidth="2.3"
       strokeLinecap="round"
       strokeLinejoin="round"
+      aria-hidden="true"
     >
       <path d="M21 12a9 9 0 1 1-2.64-6.36" />
       <path d="M21 3v6h-6" />
@@ -25,6 +26,7 @@ function RefreshIcon({ className = "", spinning = false }: { className?: string;
 // 공식 블로그 RSS를 모은 최신 소식 타임라인 + 클라이언트 새로고침.
 // 초기 목록은 빌드 타임 데이터(서버 prop)이고, 새로고침 버튼을 누르면
 // 브라우저가 직접 RSS를 받아 새 소식을 병합한다(정적 사이트라 서버가 없음).
+// 컨트롤 디자인은 카테고리 라이브 화면(CategoryLive)과 통일한다.
 export default function NewsFeed({ items: initial }: { items: NewsItem[] }) {
   const [items, setItems] = useState<NewsItem[]>(initial);
   const [loading, setLoading] = useState(false);
@@ -44,10 +46,7 @@ export default function NewsFeed({ items: initial }: { items: NewsItem[] }) {
         const added = fresh.filter((n) => !seen.has(n.url));
         setNewUrls(new Set(added.map((n) => n.url)));
         // 새 항목 + 기존 항목을 합쳐 최신순 정렬.
-        const merged = [...added, ...prev].sort((a, b) =>
-          a.date < b.date ? 1 : -1,
-        );
-        return merged;
+        return [...added, ...prev].sort((a, b) => (a.date < b.date ? 1 : -1));
       });
       setUpdatedAt(
         new Date().toLocaleTimeString("ko-KR", {
@@ -56,7 +55,8 @@ export default function NewsFeed({ items: initial }: { items: NewsItem[] }) {
         }),
       );
     } catch {
-      setError("소식을 불러오지 못했습니다. 잠시 후 다시 시도해 주세요.");
+      setUpdatedAt(null);
+      setError("소식을 불러오지 못했어요. 잠시 후 다시 시도해 주세요.");
     } finally {
       setLoading(false);
     }
@@ -65,32 +65,42 @@ export default function NewsFeed({ items: initial }: { items: NewsItem[] }) {
   const newCount = newUrls.size;
 
   return (
-    <div className="space-y-4">
-      {/* 새로고침 바 */}
+    <div className="space-y-6">
+      {/* 새로고침 컨트롤 — 카테고리 화면과 동일한 디자인 언어 */}
       <div className="flex flex-wrap items-center gap-3">
         <button
           onClick={refresh}
           disabled={loading}
-          className="inline-flex items-center gap-2 rounded-lg border border-[var(--border-strong)] bg-[var(--panel2)] px-3.5 py-2 text-sm font-semibold text-[var(--text)] transition hover:border-[var(--accent)] hover:text-[var(--accent)] disabled:cursor-not-allowed disabled:opacity-60"
+          title="공식 블로그 RSS에서 최신 소식을 다시 받아와요"
+          className="grad-bar group inline-flex items-center gap-2 rounded-full px-5 py-2.5 text-sm font-bold text-white shadow-[var(--shadow)] transition hover:-translate-y-0.5 hover:opacity-95 disabled:opacity-60"
         >
-          <RefreshIcon className="h-4 w-4" spinning={loading} />
-          {loading ? "불러오는 중…" : "새로고침"}
+          <RefreshIcon
+            className={
+              "h-4 w-4 " +
+              (loading
+                ? "animate-spin"
+                : "transition-transform duration-500 group-hover:rotate-180")
+            }
+          />
+          {loading ? "갱신 중…" : "새로고침"}
         </button>
 
-        {!loading && updatedAt && (
-          <span className="text-xs text-[var(--muted)]">
-            {newCount > 0 ? (
-              <span className="font-semibold text-[var(--accent)]">
-                새 소식 {newCount}건
-              </span>
-            ) : (
-              "새 소식 없음"
-            )}{" "}
-            · {updatedAt} 업데이트
+        {updatedAt && !loading && !error && (
+          <span className="inline-flex items-center gap-1.5 rounded-full border border-[var(--border)] bg-[var(--panel)] px-3 py-1 text-xs font-medium text-[var(--muted)]">
+            <span className="relative flex h-2 w-2">
+              <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-green-400 opacity-60" />
+              <span className="relative inline-flex h-2 w-2 rounded-full bg-green-400" />
+            </span>
+            {updatedAt} 갱신
           </span>
         )}
 
-        {error && <span className="text-xs text-[var(--danger,#e5484d)]">{error}</span>}
+        <StatusLine
+          loading={loading}
+          error={error}
+          done={!!updatedAt}
+          newCount={newCount}
+        />
       </div>
 
       {items.length === 0 ? (
@@ -117,7 +127,7 @@ export default function NewsFeed({ items: initial }: { items: NewsItem[] }) {
                       {n.source}
                     </span>
                     {isNew && (
-                      <span className="grad-bar rounded-md px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-[var(--on-accent)]">
+                      <span className="grad-bar rounded-md px-2 py-0.5 text-[10px] font-bold uppercase tracking-wide text-white">
                         New
                       </span>
                     )}
@@ -144,4 +154,35 @@ export default function NewsFeed({ items: initial }: { items: NewsItem[] }) {
       )}
     </div>
   );
+}
+
+// 카테고리 라이브의 StatusLine과 동일한 톤(진행=뮤트, 성공=초록, 실패=빨강).
+function StatusLine({
+  loading,
+  error,
+  done,
+  newCount,
+}: {
+  loading: boolean;
+  error: string | null;
+  done: boolean;
+  newCount: number;
+}) {
+  if (loading)
+    return (
+      <span className="text-xs font-semibold text-[var(--muted)]">
+        최신 소식 불러오는 중…
+      </span>
+    );
+  if (error)
+    return <span className="text-xs font-semibold text-red-500">{error}</span>;
+  if (done)
+    return (
+      <span className="text-xs font-semibold text-green-500">
+        {newCount > 0
+          ? `✓ 새 소식 ${newCount}건 반영 완료!`
+          : "✓ 확인 완료 — 이미 최신이에요"}
+      </span>
+    );
+  return null;
 }
