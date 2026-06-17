@@ -152,7 +152,7 @@
     "date": "2026-06-11T00:00:00.000Z",
     "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
     "titleKo": "OpenAI, Ona 인수",
-    "summaryKo": "OpenAI는 Ona를 인수하여 Codex를 안전하고 지속적인 클라우드 환경으로 확장하여 기업 워크플로 전반에서 장기 실행 AI 에이전트를 지원할 계획입니다."
+    "summaryKo": "OpenAI는 Ona를 인수하여 Codex를 안전하고 지속적인 클라우드 환경으로 확장하여 기업 워크플로 전반에 걸쳐 장기 실행 AI 에이전트를 지원할 계획입니다."
   },
   {
     "id": "OpenAI-10-access-openai-models-and-codex-through-y",
@@ -161,7 +161,8 @@
     "source": "OpenAI",
     "date": "2026-06-10T20:00:00.000Z",
     "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-    "titleKo": "Oracle Cloud 약정을 통해 OpenAI 모델 및 Codex에 액세스하세요."
+    "titleKo": "Oracle Cloud 약정을 통해 OpenAI 모델 및 Codex에 액세스하세요.",
+    "summaryKo": "엔터프라이즈 보안 및 거버넌스를 통해 AI를 구축하고 배포하기 위한 기존 약정을 사용하여 Oracle Cloud를 통해 OpenAI 모델 및 Codex에 액세스하세요."
   },
   {
     "id": "Google DeepMind-1-diffusiongemma-4x-faster-text-generation",
@@ -189,7 +190,8 @@
     "source": "Google DeepMind",
     "date": "2026-06-10T10:21:19.000Z",
     "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
-    "titleKo": "멀티 에이전트 AI 안전 연구에 투자"
+    "titleKo": "멀티 에이전트 AI 안전 연구에 투자",
+    "summaryKo": "Google DeepMind와 파트너는 다중 에이전트 안전 연구를 위해 1,000만 달러의 자금 조달 요청을 발표했습니다."
   },
   {
     "id": "OpenAI-12-from-data-to-decisions-how-lseg-is-scali",
@@ -236,7 +238,8 @@
     "source": "OpenAI",
     "date": "2026-06-09T12:00:00.000Z",
     "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-    "titleKo": "Nextdoor의 엔지니어가 Codex를 사용하여 제한 없이 구축하는 방법"
+    "titleKo": "Nextdoor의 엔지니어가 Codex를 사용하여 제한 없이 구축하는 방법",
+    "summaryKo": "Nextdoor의 엔지니어가 GPT-5.5와 함께 Codex를 사용하여 재현하기 어려운 문제를 조사하고, 플랫폼 전반에 걸쳐 구축하고, 제품 결과에 집중하는 방법."
   },
   {
     "id": "Hugging Face-5-how-an-agent-built-a-3d-paris-gallery-by",
@@ -254,7 +257,8 @@
     "source": "OpenAI",
     "date": "2026-06-09T10:00:00.000Z",
     "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-    "titleKo": "Codex가 Notion을 위해 잠금 해제하는 것"
+    "titleKo": "Codex가 Notion을 위해 잠금 해제하는 것",
+    "summaryKo": "Notion이 Codex를 사용하여 일회성 사양을 만들고, 웹용 AI 음성 입력을 구축하고, 소규모 팀 전체에 엔지니어링 역량을 배가하는 방법입니다."
   },
   {
     "id": "Hugging Face-6-migrating-your-github-ci-to-hugging-face",
@@ -272,7 +276,8 @@
     "source": "Google DeepMind",
     "date": "2026-06-08T13:04:59.000Z",
     "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
-    "titleKo": "시에라리온 및 그 외 지역에서 AI를 통한 학습의 영향 측정"
+    "titleKo": "시에라리온 및 그 외 지역에서 AI를 통한 학습의 영향 측정",
+    "summaryKo": "무작위 대조 시험의 결과는 참여도를 높이고 학습을 가속화하는 Gemini의 안내 학습 기능의 잠재력을 보여줍니다."
   },
   {
     "id": "Hugging Face-7-the-open-source-community-is-backing-ope",
@@ -362,7 +367,8 @@
     "source": "Google DeepMind",
     "date": "2026-05-18T18:21:39.000Z",
     "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
-    "titleKo": "빠르게 추적되는 유전적 요인으로 인해 세포 노화가 역전됩니다"
+    "titleKo": "빠르게 추적되는 유전적 요인으로 인해 세포 노화가 역전됩니다",
+    "summaryKo": "생물학자들은 Co-Scientist를 사용하여 인간 세포를 성공적으로 젊어지게 하는 새로운 요소를 찾습니다."
   },
   {
     "id": "Google DeepMind-9-simulate-real-world-places-with-project-",
@@ -371,6 +377,7 @@
     "source": "Google DeepMind",
     "date": "2026-05-17T19:53:18.000Z",
     "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
+    "titleKo": "Project Genie와 스트리트 뷰로 실제 장소를 시뮬레이션하세요.",
     "summaryKo": "Google은 Google AI Ultra 가입자에 대한 액세스를 전 세계적으로 확대하고 스트리트 뷰에서 제공하는 새로운 기능을 도입하고 있습니다."
   }
 ]
