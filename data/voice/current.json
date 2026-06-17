@@ -1,7 +1,7 @@
 {
   "category": "voice",
   "date": "2026-06-17",
-  "updatedAt": "2026-06-17T15:27:40.663Z",
+  "updatedAt": "2026-06-17T21:23:35.399Z",
   "models": [
     {
       "id": "voice-fun-realtime-tts",
@@ -9,12 +9,12 @@
       "vendor": "Alibaba",
       "category": "voice",
       "license": "proprietary",
-      "score": 1225,
+      "score": 1224,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1225"
+          "value": "1224"
         },
         {
           "label": "순위",
@@ -32,7 +32,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1225"
+          "value": "1224"
         },
         {
           "label": "순위",
@@ -61,12 +61,12 @@
       "vendor": "Google",
       "category": "voice",
       "license": "proprietary",
-      "score": 1220,
+      "score": 1222,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1220"
+          "value": "1222"
         },
         {
           "label": "순위",
@@ -84,7 +84,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1220"
+          "value": "1222"
         },
         {
           "label": "순위",
@@ -113,12 +113,12 @@
       "vendor": "Inworld",
       "category": "voice",
       "license": "proprietary",
-      "score": 1213,
+      "score": 1212,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1213"
+          "value": "1212"
         },
         {
           "label": "순위",
@@ -136,7 +136,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1213"
+          "value": "1212"
         },
         {
           "label": "순위",
@@ -471,12 +471,12 @@
       "vendor": "MiniMax",
       "category": "voice",
       "license": "proprietary",
-      "score": 1175,
+      "score": 1174,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1175"
+          "value": "1174"
         },
         {
           "label": "순위",
@@ -494,7 +494,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1175"
+          "value": "1174"
         },
         {
           "label": "순위",

@@ -1,7 +1,7 @@
 {
   "category": "llm",
   "date": "2026-06-17",
-  "updatedAt": "2026-06-17T15:27:40.025Z",
+  "updatedAt": "2026-06-17T21:23:34.710Z",
   "models": [
     {
       "id": "claude-fable-5",
@@ -139,7 +139,7 @@
         },
         {
           "label": "속도",
-          "value": "63/s"
+          "value": "64/s"
         },
         {
           "label": "출력가",
@@ -165,11 +165,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "63 tok/s"
+          "value": "64 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "59.75s"
+          "value": "58.14s"
         },
         {
           "label": "입력 가격(1M)",
@@ -264,7 +264,7 @@
         },
         {
           "label": "속도",
-          "value": "55/s"
+          "value": "54/s"
         },
         {
           "label": "출력가",
@@ -290,11 +290,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "55 tok/s"
+          "value": "54 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "20.1s"
+          "value": "18.32s"
         },
         {
           "label": "입력 가격(1M)",
@@ -360,7 +360,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "91.31s"
+          "value": "102.3s"
         },
         {
           "label": "입력 가격(1M)",
@@ -396,7 +396,7 @@
         },
         {
           "label": "속도",
-          "value": "112/s"
+          "value": "111/s"
         },
         {
           "label": "출력가",
@@ -422,11 +422,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "112 tok/s"
+          "value": "111 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "2.13s"
+          "value": "2.15s"
         },
         {
           "label": "입력 가격(1M)",
@@ -462,7 +462,7 @@
         },
         {
           "label": "속도",
-          "value": "216/s"
+          "value": "226/s"
         },
         {
           "label": "출력가",
@@ -488,7 +488,7 @@
         },
         {
           "label": "출력 속도",
-          "value": "216 tok/s"
+          "value": "226 tok/s"
         },
         {
           "label": "첫 토큰 지연",
@@ -528,7 +528,7 @@
         },
         {
           "label": "속도",
-          "value": "66/s"
+          "value": "68/s"
         },
         {
           "label": "출력가",
@@ -554,11 +554,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "66 tok/s"
+          "value": "68 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "47.94s"
+          "value": "57.42s"
         },
         {
           "label": "입력 가격(1M)",
@@ -587,7 +587,7 @@
         },
         {
           "label": "속도",
-          "value": "57/s"
+          "value": "59/s"
         },
         {
           "label": "출력가",
@@ -613,11 +613,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "57 tok/s"
+          "value": "59 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "5.01s"
+          "value": "7.47s"
         },
         {
           "label": "입력 가격(1M)",
@@ -652,7 +652,7 @@
         },
         {
           "label": "속도",
-          "value": "124/s"
+          "value": "127/s"
         },
         {
           "label": "출력가",
@@ -678,11 +678,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "124 tok/s"
+          "value": "127 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "27.58s"
+          "value": "31.97s"
         },
         {
           "label": "입력 가격(1M)",

@@ -1,5 +1,61 @@
 [
   {
+    "id": "Hugging Face-0-molmomotion-language-guided-3d-motion-fo",
+    "title": "MolmoMotion: Language-guided 3D motion forecasting",
+    "url": "https://huggingface.co/blog/allenai/molmomotion",
+    "source": "Hugging Face",
+    "date": "2026-06-17T15:26:44.000Z",
+    "summary": "",
+    "titleKo": "MolmoMotion: 언어 기반 3D 모션 예측"
+  },
+  {
+    "id": "Hugging Face-1-from-the-hugging-face-hub-to-robot-hardw",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "source": "Hugging Face",
+    "date": "2026-06-17T10:18:05.000Z",
+    "summary": "",
+    "titleKo": "Hugging Face Hub부터 Strands Agents 및 LeRobot을 사용한 로봇 하드웨어까지"
+  },
+  {
+    "id": "OpenAI-0-a-near-autonomous-ai-chemist-improves-a-",
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "url": "https://openai.com/index/ai-chemist-improves-reaction",
+    "source": "OpenAI",
+    "date": "2026-06-17T10:00:00.000Z",
+    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "titleKo": "거의 자율적인 AI 화학자는 의약화학 분야의 까다로운 반응을 개선합니다.",
+    "summaryKo": "OpenAI와 Molecule.one은 GPT-5.4를 사용하는 거의 자율적인 AI 화학자가 핵심 약물 제조 반응을 개선하여 의약 화학 연구를 발전시키는 방법을 보여줍니다."
+  },
+  {
+    "id": "Hugging Face-2-glm-5-2-built-for-long-horizon-tasks",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "source": "Hugging Face",
+    "date": "2026-06-17T09:01:25.000Z",
+    "summary": "",
+    "titleKo": "GLM-5.2: 장거리 작업을 위해 구축됨"
+  },
+  {
+    "id": "Hugging Face-3-agentic-resource-discovery-let-agents-se",
+    "title": "Agentic Resource Discovery: Let agents search",
+    "url": "https://huggingface.co/blog/agentic-resource-discovery-launch",
+    "source": "Hugging Face",
+    "date": "2026-06-17T00:00:00.000Z",
+    "summary": "",
+    "titleKo": "에이전트 리소스 검색: 에이전트가 검색하도록 허용"
+  },
+  {
+    "id": "OpenAI-1-introducing-lifescibench",
+    "title": "Introducing LifeSciBench",
+    "url": "https://openai.com/index/introducing-life-sci-bench",
+    "source": "OpenAI",
+    "date": "2026-06-17T00:00:00.000Z",
+    "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+    "titleKo": "LifeSciBench 소개",
+    "summaryKo": "AI 시스템이 실제 생명 과학 연구 작업 및 결정을 처리하는 방법을 평가하기 위해 전문가가 작성하고 전문가가 검토한 벤치마크인 LifeSciBench를 소개합니다."
+  },
+  {
     "id": "Google DeepMind-0-unlocking-uk-house-building-with-ai-acce",
     "title": "Unlocking UK house-building with AI-accelerated planning",
     "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
@@ -10,7 +66,7 @@
     "summaryKo": "영국 정부는 Google DeepMind와 협력하여 더 빠른 주택 결정을 목표로 하는 새로운 AI 기반 프로토타입을 구축합니다."
   },
   {
-    "id": "OpenAI-0-predicting-model-behavior-before-release",
+    "id": "OpenAI-2-predicting-model-behavior-before-release",
     "title": "Predicting model behavior before release by simulating deployment",
     "url": "https://openai.com/index/deployment-simulation",
     "source": "OpenAI",
@@ -20,7 +76,7 @@
     "summaryKo": "OpenAI는 실제 대화 데이터를 사용하여 AI 모델 동작을 배포하기 전에 예측하여 안전성과 평가 정확도를 향상시키는 방법인 배포 시뮬레이션을 도입합니다."
   },
   {
-    "id": "OpenAI-1-introducing-the-openai-partner-network",
+    "id": "OpenAI-3-introducing-the-openai-partner-network",
     "title": "Introducing the OpenAI Partner Network",
     "url": "https://openai.com/index/introducing-openai-partner-network",
     "source": "OpenAI",
@@ -30,17 +86,17 @@
     "summaryKo": "OpenAI는 글로벌 파트너가 엔터프라이즈 AI 채택, 배포 및 혁신을 가속화할 수 있도록 1억 5천만 달러를 투자하는 파트너 네트워크를 출시합니다."
   },
   {
-    "id": "OpenAI-2-new-openai-academy-courses-for-the-next-",
+    "id": "OpenAI-4-new-openai-academy-courses-for-the-next-",
     "title": "New OpenAI Academy courses for the next era of work",
     "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
     "source": "OpenAI",
     "date": "2026-06-12T10:00:00.000Z",
     "summary": "OpenAI introduces three Academy courses that help people build practical AI skills, create repeatable workflows, and apply agents in everyday work.",
     "titleKo": "차세대 업무를 위한 새로운 OpenAI Academy 과정",
-    "summaryKo": "OpenAI는 사람들이 실용적인 AI 기술을 구축하고, 반복 가능한 워크플로를 만들고, 일상 업무에 에이전트를 적용하는 데 도움이 되는 세 가지 아카데미 과정을 소개합니다."
+    "summaryKo": "OpenAI는 사람들이 실용적인 AI 기술을 구축하고, 반복 가능한 워크플로를 생성하고, 일상 업무에 에이전트를 적용하는 데 도움이 되는 세 가지 아카데미 과정을 소개합니다."
   },
   {
-    "id": "OpenAI-3-how-preply-combines-ai-and-human-tutors-",
+    "id": "OpenAI-5-how-preply-combines-ai-and-human-tutors-",
     "title": "How Preply combines AI and human tutors to personalize learning",
     "url": "https://openai.com/index/preply",
     "source": "OpenAI",
@@ -50,27 +106,16 @@
     "summaryKo": "Preply는 OpenAI를 사용하여 AI로 생성된 강의 요약을 시작하고 맞춤형 피드백과 언어 학습 연습을 제공합니다."
   },
   {
-    "id": "OpenAI-7-supporting-europe-s-work-in-ensuring-a-t",
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "source": "OpenAI",
+    "id": "Hugging Face-4-profiling-in-pytorch-part-2-from-nn-line",
+    "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+    "url": "https://huggingface.co/blog/torch-mlp-fusion",
+    "source": "Hugging Face",
     "date": "2026-06-11T00:00:00.000Z",
-    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
-    "titleKo": "신뢰할 수 있는 AI 생태계를 보장하기 위한 유럽의 노력을 지원합니다.",
-    "summaryKo": "OpenAI는 AI 콘텐츠 투명성에 대한 EU 실천 강령을 지원하고 사람들이 AI 생성 콘텐츠를 이해하는 데 도움이 되는 출처 표준 및 도구를 발전시킵니다."
+    "summary": "",
+    "titleKo": "PyTorch 프로파일링(2부): nn.Linear에서 Fused MLP까지"
   },
   {
-    "id": "OpenAI-6-openai-to-acquire-ona",
-    "title": "OpenAI to acquire Ona",
-    "url": "https://openai.com/index/openai-to-acquire-ona",
-    "source": "OpenAI",
-    "date": "2026-06-11T00:00:00.000Z",
-    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
-    "titleKo": "OpenAI, Ona 인수",
-    "summaryKo": "OpenAI는 Ona를 인수하여 Codex를 안전하고 지속적인 클라우드 환경으로 확장하여 기업 워크플로 전반에 걸쳐 장기 실행 AI 에이전트를 지원할 계획입니다."
-  },
-  {
-    "id": "OpenAI-5-bbva-puts-ai-at-the-core-of-banking-with",
+    "id": "OpenAI-9-bbva-puts-ai-at-the-core-of-banking-with",
     "title": "BBVA puts AI at the core of banking with OpenAI",
     "url": "https://openai.com/index/bbva",
     "source": "OpenAI",
@@ -80,7 +125,17 @@
     "summaryKo": "BBVA가 ChatGPT Enterprise를 직원 100,000명으로 확장하고 OpenAI와 협력하여 전 세계적으로 AI 기반 은행 혁신을 가속화한 방법을 알아보세요."
   },
   {
-    "id": "OpenAI-4-how-an-astrophysicist-uses-codex-to-help",
+    "id": "OpenAI-8-supporting-europe-s-work-in-ensuring-a-t",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+    "source": "OpenAI",
+    "date": "2026-06-11T00:00:00.000Z",
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content.",
+    "titleKo": "신뢰할 수 있는 AI 생태계를 보장하기 위한 유럽의 노력을 지원합니다.",
+    "summaryKo": "OpenAI는 AI 콘텐츠 투명성에 대한 EU 실천 강령을 지원하고 사람들이 AI 생성 콘텐츠를 이해하는 데 도움이 되는 출처 표준 및 도구를 발전시킵니다."
+  },
+  {
+    "id": "OpenAI-7-how-an-astrophysicist-uses-codex-to-help",
     "title": "How an astrophysicist uses Codex to help simulate black holes",
     "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
     "source": "OpenAI",
@@ -90,14 +145,23 @@
     "summaryKo": "천체 물리학자인 Chi-kwan Chan이 Codex를 사용하여 블랙홀 시뮬레이션을 구축하고 과학자들이 극한 물리학을 연구하고 아인슈타인의 일반 상대성 이론을 테스트하는 데 어떻게 도움이 되는지 알아보세요."
   },
   {
-    "id": "OpenAI-8-access-openai-models-and-codex-through-y",
+    "id": "OpenAI-6-openai-to-acquire-ona",
+    "title": "OpenAI to acquire Ona",
+    "url": "https://openai.com/index/openai-to-acquire-ona",
+    "source": "OpenAI",
+    "date": "2026-06-11T00:00:00.000Z",
+    "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows.",
+    "titleKo": "OpenAI, Ona 인수",
+    "summaryKo": "OpenAI는 Ona를 인수하여 Codex를 안전하고 지속적인 클라우드 환경으로 확장하여 기업 워크플로 전반에서 장기 실행 AI 에이전트를 지원할 계획입니다."
+  },
+  {
+    "id": "OpenAI-10-access-openai-models-and-codex-through-y",
     "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
     "url": "https://openai.com/index/openai-on-oracle-cloud",
     "source": "OpenAI",
     "date": "2026-06-10T20:00:00.000Z",
     "summary": "Access OpenAI models and Codex through Oracle Cloud, using existing commitments to build and deploy AI with enterprise security and governance.",
-    "titleKo": "Oracle Cloud 약정을 통해 OpenAI 모델 및 Codex에 액세스하세요.",
-    "summaryKo": "엔터프라이즈 보안 및 거버넌스를 통해 AI를 구축하고 배포하기 위한 기존 약정을 사용하여 Oracle Cloud를 통해 OpenAI 모델 및 Codex에 액세스하세요."
+    "titleKo": "Oracle Cloud 약정을 통해 OpenAI 모델 및 Codex에 액세스하세요."
   },
   {
     "id": "Google DeepMind-1-diffusiongemma-4x-faster-text-generation",
@@ -109,7 +173,7 @@
     "titleKo": "DiffusionGemma: 4배 더 빠른 텍스트 생성"
   },
   {
-    "id": "OpenAI-9-prc-linked-influence-operations-are-targ",
+    "id": "OpenAI-11-prc-linked-influence-operations-are-targ",
     "title": "PRC-linked influence operations are targeting AI debates in the US",
     "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
     "source": "OpenAI",
@@ -125,11 +189,10 @@
     "source": "Google DeepMind",
     "date": "2026-06-10T10:21:19.000Z",
     "summary": "Google DeepMind and partners announce a $10M funding call for multi-agent safety research.",
-    "titleKo": "멀티 에이전트 AI 안전 연구에 투자",
-    "summaryKo": "Google DeepMind와 파트너는 다중 에이전트 안전 연구를 위해 1,000만 달러의 자금 조달 요청을 발표했습니다."
+    "titleKo": "멀티 에이전트 AI 안전 연구에 투자"
   },
   {
-    "id": "OpenAI-10-from-data-to-decisions-how-lseg-is-scali",
+    "id": "OpenAI-12-from-data-to-decisions-how-lseg-is-scali",
     "title": "From data to decisions: how LSEG is scaling trusted AI",
     "url": "https://openai.com/index/lseg",
     "source": "OpenAI",
@@ -164,47 +227,43 @@
     "source": "Google DeepMind",
     "date": "2026-06-09T14:02:33.000Z",
     "summary": "",
-    "titleKo": "유럽 ​​로봇 공학의 미래를 주도하다"
+    "titleKo": "유럽 ​​로봇공학의 미래를 주도하다"
   },
   {
-    "id": "OpenAI-11-how-engineers-at-nextdoor-use-codex-to-b",
+    "id": "OpenAI-13-how-engineers-at-nextdoor-use-codex-to-b",
     "title": "How engineers at Nextdoor use Codex to build without limits",
     "url": "https://openai.com/index/nextdoor",
     "source": "OpenAI",
     "date": "2026-06-09T12:00:00.000Z",
     "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
-    "titleKo": "Nextdoor의 엔지니어가 Codex를 사용하여 제한 없이 구축하는 방법",
-    "summaryKo": "Nextdoor의 엔지니어가 GPT-5.5와 함께 Codex를 사용하여 재현하기 어려운 문제를 조사하고, 플랫폼 전반에 걸쳐 구축하고, 제품 결과에 집중하는 방법입니다."
+    "titleKo": "Nextdoor의 엔지니어가 Codex를 사용하여 제한 없이 구축하는 방법"
   },
   {
-    "id": "OpenAI-12-what-codex-unlocks-for-notion",
+    "id": "Hugging Face-5-how-an-agent-built-a-3d-paris-gallery-by",
+    "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+    "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+    "source": "Hugging Face",
+    "date": "2026-06-09T10:46:19.000Z",
+    "summary": "",
+    "titleKo": "에이전트가 포옹하는 두 얼굴 공간을 연결하여 3D 파리 갤러리를 구축한 방법"
+  },
+  {
+    "id": "OpenAI-14-what-codex-unlocks-for-notion",
     "title": "What Codex unlocks for Notion",
     "url": "https://openai.com/index/notion",
     "source": "OpenAI",
     "date": "2026-06-09T10:00:00.000Z",
     "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams.",
-    "titleKo": "Codex가 Notion을 위해 잠금 해제하는 것",
-    "summaryKo": "Notion이 Codex를 사용하여 일회성 사양을 만들고, 웹용 AI 음성 입력을 구축하고, 소규모 팀 전체에 엔지니어링 역량을 배가하는 방법입니다."
+    "titleKo": "Codex가 Notion을 위해 잠금 해제하는 것"
   },
   {
-    "id": "OpenAI-13-industrial-policy-for-the-intelligence-a",
-    "title": "Industrial policy for the Intelligence Age",
-    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-    "source": "OpenAI",
+    "id": "Hugging Face-6-migrating-your-github-ci-to-hugging-face",
+    "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+    "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+    "source": "Hugging Face",
     "date": "2026-06-09T00:00:00.000Z",
-    "summary": "Explore our ambitious, people-first industrial policy ideas for the AI era—focused on expanding opportunity, sharing prosperity, and building resilient institutions as advanced intelligence evolves.",
-    "titleKo": "지능시대를 위한 산업정책",
-    "summaryKo": "AI 시대를 위한 야심찬 사람 우선 산업 정책 아이디어를 살펴보세요. 고급 인텔리전스가 발전함에 따라 기회 확대, 번영 공유, 탄력적인 기관 구축에 중점을 두고 있습니다."
-  },
-  {
-    "id": "OpenAI-14-confidential-submission-of-draft-s-1-to-",
-    "title": "Confidential submission of draft S-1 to the SEC",
-    "url": "https://openai.com/index/openai-submits-confidential-s-1",
-    "source": "OpenAI",
-    "date": "2026-06-08T14:00:00.000Z",
-    "summary": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-    "titleKo": "S-1 초안을 SEC에 비밀로 제출",
-    "summaryKo": "OpenAI는 SEC에 기밀 S-1 제출을 확인했지만 아직 추가 조치 시기를 결정하지 않았습니다."
+    "summary": "",
+    "titleKo": "GitHub CI를 Hugging Face 작업으로 마이그레이션"
   },
   {
     "id": "Google DeepMind-6-measuring-the-impact-of-learning-with-ai",
@@ -213,8 +272,79 @@
     "source": "Google DeepMind",
     "date": "2026-06-08T13:04:59.000Z",
     "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
-    "titleKo": "시에라리온 및 그 외 지역에서 AI를 통한 학습의 영향 측정",
-    "summaryKo": "무작위 대조 시험의 결과는 참여도를 높이고 학습을 가속화하는 Gemini의 안내 학습 기능의 잠재력을 보여줍니다."
+    "titleKo": "시에라리온 및 그 외 지역에서 AI를 통한 학습의 영향 측정"
+  },
+  {
+    "id": "Hugging Face-7-the-open-source-community-is-backing-ope",
+    "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+    "url": "https://huggingface.co/blog/openenv-agentic-rl",
+    "source": "Hugging Face",
+    "date": "2026-06-08T00:00:00.000Z",
+    "summary": "",
+    "titleKo": "오픈 소스 커뮤니티는 Agentic RL용 OpenEnv를 지원합니다."
+  },
+  {
+    "id": "Hugging Face-8-nemotron-3-5-content-safety-customizable",
+    "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
+    "source": "Hugging Face",
+    "date": "2026-06-04T18:57:45.000Z",
+    "summary": "",
+    "titleKo": "Nemotron 3.5 콘텐츠 안전: 글로벌 기업 AI를 위한 맞춤형 다중 모드 안전"
+  },
+  {
+    "id": "Hugging Face-9-designing-the-hf-cli-as-an-agent-optimiz",
+    "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+    "url": "https://huggingface.co/blog/hf-cli-for-agents",
+    "source": "Hugging Face",
+    "date": "2026-06-04T00:00:00.000Z",
+    "summary": "",
+    "titleKo": "허브와 작업하기 위한 에이전트 최적화 방식으로 hf CLI 설계"
+  },
+  {
+    "id": "Hugging Face-10-direct-preference-optimization-beyond-ch",
+    "title": "Direct Preference Optimization Beyond Chatbots",
+    "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
+    "source": "Hugging Face",
+    "date": "2026-06-03T12:55:11.000Z",
+    "summary": "",
+    "titleKo": "챗봇을 넘어 직접 선호도 최적화"
+  },
+  {
+    "id": "Hugging Face-11-adding-mcp-tools-to-reachy-mini",
+    "title": "Adding MCP Tools to Reachy Mini",
+    "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
+    "source": "Hugging Face",
+    "date": "2026-06-03T00:00:00.000Z",
+    "summary": "",
+    "titleKo": "Reachy Mini에 MCP 도구 추가"
+  },
+  {
+    "id": "Hugging Face-12-holo3-1-fast-local-computer-use-agents",
+    "title": "Holo3.1: Fast & Local Computer Use Agents",
+    "url": "https://huggingface.co/blog/Hcompany/holo31",
+    "source": "Hugging Face",
+    "date": "2026-06-02T14:13:23.000Z",
+    "summary": "",
+    "titleKo": "Holo3.1: 빠른 및 로컬 컴퓨터 사용 에이전트"
+  },
+  {
+    "id": "Hugging Face-13-introducing-mellum2-a-12b-mixture-of-exp",
+    "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+    "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
+    "source": "Hugging Face",
+    "date": "2026-06-01T15:45:17.000Z",
+    "summary": "",
+    "titleKo": "Mellum2 소개: JetBrains의 12B 전문가 혼합 모델"
+  },
+  {
+    "id": "Hugging Face-14-beyond-llms-why-scalable-enterprise-ai-a",
+    "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+    "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
+    "source": "Hugging Face",
+    "date": "2026-06-01T13:51:18.000Z",
+    "summary": "",
+    "titleKo": "LLM을 넘어서: 확장 가능한 엔터프라이즈 AI 채택이 에이전트 로직에 의존하는 이유"
   },
   {
     "id": "Google DeepMind-7-we-re-launching-the-google-deepmind-acce",
@@ -223,7 +353,7 @@
     "source": "Google DeepMind",
     "date": "2026-05-21T19:46:42.000Z",
     "summary": "",
-    "titleKo": "환경 위험을 해결하기 위해 아시아 태평양 지역에서 Google DeepMind Accelerator 프로그램을 시작합니다."
+    "titleKo": "환경 위험에 대처하기 위해 아시아 태평양 지역에서 Google DeepMind Accelerator 프로그램을 시작합니다."
   },
   {
     "id": "Google DeepMind-8-fast-tracking-genetic-leads-to-reverse-c",
@@ -232,8 +362,7 @@
     "source": "Google DeepMind",
     "date": "2026-05-18T18:21:39.000Z",
     "summary": "Biologists use Co-Scientist to find novel factors that successfully rejuvenate human cells.",
-    "titleKo": "빠르게 추적되는 유전적 요인으로 인해 세포 노화가 역전됩니다",
-    "summaryKo": "생물학자들은 Co-Scientist를 사용하여 인간 세포를 성공적으로 젊어지게 하는 새로운 요소를 찾습니다."
+    "titleKo": "빠르게 추적되는 유전적 요인으로 인해 세포 노화가 역전됩니다"
   },
   {
     "id": "Google DeepMind-9-simulate-real-world-places-with-project-",
@@ -242,55 +371,6 @@
     "source": "Google DeepMind",
     "date": "2026-05-17T19:53:18.000Z",
     "summary": "We’re expanding access to Google AI Ultra subscribers globally and introducing a new capability powered by Street View.",
-    "titleKo": "Project Genie와 스트리트 뷰로 실제 장소를 시뮬레이션하세요.",
     "summaryKo": "Google은 Google AI Ultra 가입자에 대한 액세스를 전 세계적으로 확대하고 스트리트 뷰에서 제공하는 새로운 기능을 도입하고 있습니다."
-  },
-  {
-    "id": "Google DeepMind-10-introducing-gemini-omni",
-    "title": "Introducing Gemini Omni",
-    "url": "https://deepmind.google/blog/introducing-gemini-omni/",
-    "source": "Google DeepMind",
-    "date": "2026-05-17T19:50:57.000Z",
-    "summary": "",
-    "titleKo": "Gemini 옴니 소개"
-  },
-  {
-    "id": "Google DeepMind-11-introducing-google-antigravity-2-0",
-    "title": "Introducing Google Antigravity 2.0",
-    "url": "https://deepmind.google/blog/introducing-google-antigravity-2-0/",
-    "source": "Google DeepMind",
-    "date": "2026-05-17T19:43:45.000Z",
-    "summary": "",
-    "titleKo": "구글 안티그래비티 2.0 소개"
-  },
-  {
-    "id": "Google DeepMind-12-gemini-for-science-ai-experiments-and-to",
-    "title": "Gemini for Science: AI experiments and tools for a new era of discovery",
-    "url": "https://deepmind.google/blog/gemini-for-science-ai-experiments-and-tools-for-a-new-era-of-discovery/",
-    "source": "Google DeepMind",
-    "date": "2026-05-17T13:50:34.000Z",
-    "summary": "A collection of science tools and experiments to expand the scale and precision of scientific exploration.",
-    "titleKo": "Gemini for Science: 새로운 발견 시대를 위한 AI 실험 및 도구",
-    "summaryKo": "과학적 탐구의 규모와 정확성을 확장하기 위한 과학 도구 및 실험 모음입니다."
-  },
-  {
-    "id": "Google DeepMind-13-making-it-easier-to-understand-how-conte",
-    "title": "Making it easier to understand how content was created and edited",
-    "url": "https://deepmind.google/blog/making-it-easier-to-understand-how-content-was-created-and-edited/",
-    "source": "Google DeepMind",
-    "date": "2026-05-17T13:43:50.000Z",
-    "summary": "We're expanding our tools to help you understand how content was created and edited across the web.",
-    "titleKo": "콘텐츠가 어떻게 생성되고 편집되었는지 더 쉽게 이해할 수 있도록 하기",
-    "summaryKo": "우리는 웹에서 콘텐츠가 어떻게 생성되고 편집되었는지 이해하는 데 도움이 되는 도구를 확장하고 있습니다."
-  },
-  {
-    "id": "Google DeepMind-14-strengthening-singapore-s-ai-future-a-ne",
-    "title": "Strengthening Singapore’s AI Future: A New National Partnership",
-    "url": "https://deepmind.google/blog/strengthening-singapores-ai-future-a-new-national-partnership/",
-    "source": "Google DeepMind",
-    "date": "2026-05-16T09:13:34.000Z",
-    "summary": "Google DeepMind and Singapore partner to apply frontier AI to address complex challenges across health, education, and sustainability and more.",
-    "titleKo": "싱가포르의 AI 미래 강화: 새로운 국가 파트너십",
-    "summaryKo": "Google DeepMind와 싱가포르는 파트너십을 맺고 첨단 AI를 적용하여 건강, 교육, 지속 가능성 등의 복잡한 문제를 해결합니다."
   }
 ]

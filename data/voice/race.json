@@ -804,19 +804,19 @@
           "id": "voice-fun-realtime-tts",
           "name": "Fun-Realtime-TTS",
           "vendor": "Alibaba",
-          "value": 1225
+          "value": 1224
         },
         {
           "id": "voice-gemini-3-1-tts",
           "name": "Gemini 3.1 Flash TTS",
           "vendor": "Google",
-          "value": 1220
+          "value": 1222
         },
         {
           "id": "voice-realtime-tts-2-research-preview",
           "name": "Realtime TTS-2 - Research Preview",
           "vendor": "Inworld",
-          "value": 1213
+          "value": 1212
         },
         {
           "id": "voice-sonic-3-5",
