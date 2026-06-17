@@ -1,5 +1,6 @@
 import { XMLParser } from "fast-xml-parser";
 import type { NewsItem } from "./types";
+import { translateToKo } from "./translate";
 
 // 공식 AI 블로그 RSS를 모아 최신 출시·업데이트 소식 피드를 만든다.
 // 빌드 타임에만 실행되며, 실패한 소스는 건너뛰고 나머지로 진행한다.
@@ -66,5 +67,16 @@ export async function fetchNews(): Promise<NewsItem[]> {
     .filter((n) => n.title && n.url)
     .sort((a, b) => (a.date < b.date ? 1 : -1))
     .slice(0, 40);
+
+  // 제목·요약을 한국어로 자동 번역해 *Ko 필드에 채운다.
+  // 한 번에 모아 번역(제목+요약 인터리브)하고, 실패분은 원문이 그대로 돌아온다.
+  const titlesKo = await translateToKo(items.map((n) => n.title));
+  const summariesKo = await translateToKo(items.map((n) => n.summary ?? ""));
+  items.forEach((n, i) => {
+    if (titlesKo[i] && titlesKo[i] !== n.title) n.titleKo = titlesKo[i];
+    if (n.summary && summariesKo[i] && summariesKo[i] !== n.summary)
+      n.summaryKo = summariesKo[i];
+  });
+
   return items;
 }

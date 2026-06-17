@@ -11,7 +11,7 @@ export default function NewsPage() {
         <div className="eyebrow text-[var(--accent)]">📰 NEWS FEED</div>
         <h1 className="text-3xl font-bold sm:text-4xl">최신 소식</h1>
         <p className="max-w-2xl text-sm leading-relaxed text-[var(--muted)]">
-          OpenAI·Google·Hugging Face 등 공식 블로그 RSS에서 신규 모델 출시·업데이트 소식을 매일 모읍니다.
+          OpenAI·Google·Hugging Face 등 공식 블로그 RSS에서 신규 모델 출시·업데이트 소식을 매일 모읍니다. 제목·요약은 자동 번역되며, 원문은 카드를 눌러 확인할 수 있습니다.
         </p>
       </div>
       <NewsFeed items={items} />

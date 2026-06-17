@@ -51,9 +51,11 @@ export interface RaceData {
 
 export interface NewsItem {
   id: string;
-  title: string;
+  title: string; // 원문(영어) 제목
+  titleKo?: string; // 빌드 타임 자동 번역된 한국어 제목(실패 시 미설정)
   url: string;
   source: string;
   date: string; // ISO
-  summary?: string;
+  summary?: string; // 원문(영어) 요약
+  summaryKo?: string; // 자동 번역된 한국어 요약
 }
