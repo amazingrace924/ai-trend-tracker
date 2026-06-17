@@ -40,6 +40,7 @@ export default function CategoryView({ category }: { category: Category }) {
         initialCurrent={current}
         initialRace={race}
         deltas={deltas}
+        live={meta.live !== false}
       />
     </div>
   );

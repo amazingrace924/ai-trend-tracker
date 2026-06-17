@@ -9,6 +9,7 @@ export interface CategoryMeta {
   blurb: string; // 카테고리 설명 한 줄
   explainer: string; // 지표를 쉬운 말로(항상 노출)
   analogy: string; // 초보자 모드용 비유
+  live?: boolean; // 라이브 갱신 소스 보유 여부(미지정=true). 음악은 깔끔한 API가 없어 false.
 }
 
 export const CATEGORIES: CategoryMeta[] = [
@@ -47,6 +48,7 @@ export const CATEGORIES: CategoryMeta[] = [
     blurb: "음악 생성 — Suno·Udio 등 (초기 큐레이션 데이터).",
     explainer: "사람 선호 기반 점수예요. (음악은 초기 큐레이션 데이터)",
     analogy: "어느 곡이 더 듣기 좋은지 사람이 고른 결과로 매겨요.",
+    live: false, // Suno/Udio 등 깔끔한 실시간 Elo 소스가 없어 기준 데이터로 고정.
   },
   {
     id: "voice",

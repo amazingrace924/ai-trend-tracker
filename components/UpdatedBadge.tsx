@@ -1,7 +1,25 @@
 import { fmtRelative } from "@/lib/format";
 
 // 마지막 갱신 시각 배지 — "매일 자동 갱신" 신뢰를 시각화.
-export default function UpdatedBadge({ updatedAt }: { updatedAt: string }) {
+// live=false(예: 음악)는 갱신될 라이브 소스가 없으므로 정직하게 '기준 데이터'로 표시한다.
+export default function UpdatedBadge({
+  updatedAt,
+  live = true,
+}: {
+  updatedAt: string;
+  live?: boolean;
+}) {
+  if (!live) {
+    return (
+      <span
+        className="inline-flex items-center gap-1.5 rounded-full border border-[var(--border)] bg-[var(--panel)] px-3 py-1 text-xs font-medium text-[var(--muted)]"
+        title="음악은 실시간 갱신 소스가 없어 기준(큐레이션) 데이터로 고정돼 있어요."
+      >
+        <span className="inline-flex h-2 w-2 rounded-full bg-[var(--muted)] opacity-60" />
+        라이브 소스 없음 · 기준 데이터
+      </span>
+    );
+  }
   const rel = fmtRelative(updatedAt);
   return (
     <span className="inline-flex items-center gap-1.5 rounded-full border border-[var(--border)] bg-[var(--panel)] px-3 py-1 text-xs font-medium text-[var(--muted)]">

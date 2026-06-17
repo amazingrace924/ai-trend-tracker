@@ -15,7 +15,8 @@ type Status =
   | "collecting" // AA 새 수집 확인 중
   | "done" // 최신 반영(쿨다운 등으로 새 수집은 생략)
   | "fresh" // 새 측정값까지 반영
-  | "synced"; // 확인 완료, 이미 최신
+  | "synced" // 확인 완료, 이미 최신
+  | "nolive"; // 라이브 갱신 소스가 없는 카테고리(예: 음악)
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
@@ -45,6 +46,7 @@ export default function CategoryLive({
   initialCurrent,
   initialRace,
   deltas,
+  live = true,
 }: {
   category: Category;
   label: string;
@@ -52,6 +54,7 @@ export default function CategoryLive({
   initialCurrent: Snapshot;
   initialRace: RaceData;
   deltas: Record<string, RankDelta>;
+  live?: boolean;
 }) {
   const [current, setCurrent] = useState(initialCurrent);
   const [race, setRace] = useState(initialRace);
@@ -99,6 +102,12 @@ export default function CategoryLive({
       base = (await applyLatest()).updatedAt;
     } catch {
       /* 무시하고 계속 */
+    }
+
+    // 라이브 소스가 없는 카테고리(음악)는 새 수집을 시도하지 않고 솔직히 안내한다.
+    if (!live) {
+      setStatus("nolive");
+      return;
     }
 
     // 2) AA 새 수집 트리거(쿨다운/실패 시 새 수집 단계는 생략)
@@ -156,7 +165,7 @@ export default function CategoryLive({
           />
           {busy ? "갱신 중…" : "새로고침"}
         </button>
-        <UpdatedBadge updatedAt={current.updatedAt} />
+        <UpdatedBadge updatedAt={current.updatedAt} live={live} />
         <StatusLine status={status} />
       </div>
 
@@ -188,6 +197,7 @@ function StatusLine({ status }: { status: Status }) {
     done: { text: "✓ 최신 데이터로 갱신됨", cls: "text-green-500" },
     fresh: { text: "✓ 새 측정값까지 반영 완료!", cls: "text-green-500" },
     synced: { text: "✓ 확인 완료 — 이미 최신이에요", cls: "text-green-500" },
+    nolive: { text: "음악은 실시간 갱신 소스가 없어 기준 데이터로 고정돼 있어요", cls: "text-[var(--muted)]" },
   };
   const s = map[status];
   if (!s) return null;
