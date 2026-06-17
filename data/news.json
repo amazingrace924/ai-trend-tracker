@@ -1,5 +1,21 @@
 [
   {
+    "id": "Hugging Face-0-from-the-hugging-face-hub-to-robot-hardw",
+    "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+    "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+    "source": "Hugging Face",
+    "date": "2026-06-17T10:18:05.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Hugging Face-1-glm-5-2-built-for-long-horizon-tasks",
+    "title": "GLM-5.2: Built for Long-Horizon Tasks",
+    "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+    "source": "Hugging Face",
+    "date": "2026-06-17T09:01:25.000Z",
+    "summary": ""
+  },
+  {
     "id": "Google DeepMind-0-unlocking-uk-house-building-with-ai-acce",
     "title": "Unlocking UK house-building with AI-accelerated planning",
     "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
@@ -24,7 +40,7 @@
     "summary": "OpenAI launches the Partner Network, investing $150M to help global partners accelerate enterprise AI adoption, deployment, and transformation."
   },
   {
-    "id": "Hugging Face-0-olmo-eval-an-evaluation-workbench-for-th",
+    "id": "Hugging Face-2-olmo-eval-an-evaluation-workbench-for-th",
     "title": "olmo-eval: An evaluation workbench for the model development loop",
     "url": "https://huggingface.co/blog/allenai/olmo-eval",
     "source": "Hugging Face",
@@ -48,7 +64,7 @@
     "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
   },
   {
-    "id": "Hugging Face-1-profiling-in-pytorch-part-2-from-nn-line",
+    "id": "Hugging Face-3-profiling-in-pytorch-part-2-from-nn-line",
     "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
     "url": "https://huggingface.co/blog/torch-mlp-fusion",
     "source": "Hugging Face",
@@ -56,12 +72,12 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-7-how-an-astrophysicist-uses-codex-to-help",
-    "title": "How an astrophysicist uses Codex to help simulate black holes",
-    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "id": "OpenAI-7-supporting-europe-s-work-in-ensuring-a-t",
+    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
+    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
     "source": "OpenAI",
     "date": "2026-06-11T00:00:00.000Z",
-    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
+    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
   },
   {
     "id": "OpenAI-6-openai-to-acquire-ona",
@@ -72,20 +88,20 @@
     "summary": "OpenAI plans to acquire Ona to expand Codex with secure, persistent cloud environments, enabling long-running AI agents across enterprise workflows."
   },
   {
-    "id": "OpenAI-5-supporting-europe-s-work-in-ensuring-a-t",
-    "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem",
-    "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-    "source": "OpenAI",
-    "date": "2026-06-11T00:00:00.000Z",
-    "summary": "OpenAI supports the EU Code of Practice on AI content transparency, advancing provenance standards and tools to help people understand AI-generated content."
-  },
-  {
-    "id": "OpenAI-4-bbva-puts-ai-at-the-core-of-banking-with",
+    "id": "OpenAI-5-bbva-puts-ai-at-the-core-of-banking-with",
     "title": "BBVA puts AI at the core of banking with OpenAI",
     "url": "https://openai.com/index/bbva",
     "source": "OpenAI",
     "date": "2026-06-11T00:00:00.000Z",
     "summary": "Learn how BBVA scaled ChatGPT Enterprise to 100,000 employees and partnered with OpenAI to accelerate AI-powered banking transformation worldwide."
+  },
+  {
+    "id": "OpenAI-4-how-an-astrophysicist-uses-codex-to-help",
+    "title": "How an astrophysicist uses Codex to help simulate black holes",
+    "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+    "source": "OpenAI",
+    "date": "2026-06-11T00:00:00.000Z",
+    "summary": "Discover how astrophysicist Chi-kwan Chan uses Codex to build black hole simulations, helping scientists study extreme physics and test Einstein’s theory of general relativity."
   },
   {
     "id": "OpenAI-8-access-openai-models-and-codex-through-y",
@@ -160,7 +176,7 @@
     "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes."
   },
   {
-    "id": "Hugging Face-2-how-an-agent-built-a-3d-paris-gallery-by",
+    "id": "Hugging Face-4-how-an-agent-built-a-3d-paris-gallery-by",
     "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
     "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
     "source": "Hugging Face",
@@ -176,7 +192,7 @@
     "summary": "How Notion uses Codex to one-shot specs, build AI Voice Input for the web, and multiply engineering power across small teams."
   },
   {
-    "id": "Hugging Face-3-migrating-your-github-ci-to-hugging-face",
+    "id": "Hugging Face-5-migrating-your-github-ci-to-hugging-face",
     "title": "Migrating Your GitHub CI to Hugging Face Jobs",
     "url": "https://huggingface.co/blog/github-ci-hf-jobs",
     "source": "Hugging Face",
@@ -208,7 +224,7 @@
     "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning."
   },
   {
-    "id": "Hugging Face-4-the-open-source-community-is-backing-ope",
+    "id": "Hugging Face-6-the-open-source-community-is-backing-ope",
     "title": "The Open Source Community is backing OpenEnv for Agentic RL",
     "url": "https://huggingface.co/blog/openenv-agentic-rl",
     "source": "Hugging Face",
@@ -216,7 +232,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-5-nemotron-3-5-content-safety-customizable",
+    "id": "Hugging Face-7-nemotron-3-5-content-safety-customizable",
     "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
     "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
     "source": "Hugging Face",
@@ -224,7 +240,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-6-designing-the-hf-cli-as-an-agent-optimiz",
+    "id": "Hugging Face-8-designing-the-hf-cli-as-an-agent-optimiz",
     "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
     "url": "https://huggingface.co/blog/hf-cli-for-agents",
     "source": "Hugging Face",
@@ -232,7 +248,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-7-direct-preference-optimization-beyond-ch",
+    "id": "Hugging Face-9-direct-preference-optimization-beyond-ch",
     "title": "Direct Preference Optimization Beyond Chatbots",
     "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
     "source": "Hugging Face",
@@ -240,7 +256,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-8-adding-mcp-tools-to-reachy-mini",
+    "id": "Hugging Face-10-adding-mcp-tools-to-reachy-mini",
     "title": "Adding MCP Tools to Reachy Mini",
     "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
     "source": "Hugging Face",
@@ -248,7 +264,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-9-holo3-1-fast-local-computer-use-agents",
+    "id": "Hugging Face-11-holo3-1-fast-local-computer-use-agents",
     "title": "Holo3.1: Fast & Local Computer Use Agents",
     "url": "https://huggingface.co/blog/Hcompany/holo31",
     "source": "Hugging Face",
@@ -256,7 +272,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-10-introducing-mellum2-a-12b-mixture-of-exp",
+    "id": "Hugging Face-12-introducing-mellum2-a-12b-mixture-of-exp",
     "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
     "url": "https://huggingface.co/blog/JetBrains/mellum2-launch",
     "source": "Hugging Face",
@@ -264,7 +280,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-11-beyond-llms-why-scalable-enterprise-ai-a",
+    "id": "Hugging Face-13-beyond-llms-why-scalable-enterprise-ai-a",
     "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
     "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption",
     "source": "Hugging Face",
@@ -272,27 +288,11 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-12-profiling-in-pytorch-part-1-a-beginner-s",
+    "id": "Hugging Face-14-profiling-in-pytorch-part-1-a-beginner-s",
     "title": "Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler",
     "url": "https://huggingface.co/blog/torch-profiler",
     "source": "Hugging Face",
     "date": "2026-05-29T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "id": "Hugging Face-14-shipping-a-trillion-parameters-with-a-hu",
-    "title": "Shipping a Trillion Parameters With a Hub Bucket: Delta Weight Sync in TRL",
-    "url": "https://huggingface.co/blog/delta-weight-sync",
-    "source": "Hugging Face",
-    "date": "2026-05-27T00:00:00.000Z",
-    "summary": ""
-  },
-  {
-    "id": "Hugging Face-13-reachy-mini-goes-fully-local",
-    "title": "Reachy Mini goes fully local",
-    "url": "https://huggingface.co/blog/local-reachy-mini-conversation",
-    "source": "Hugging Face",
-    "date": "2026-05-27T00:00:00.000Z",
     "summary": ""
   },
   {
