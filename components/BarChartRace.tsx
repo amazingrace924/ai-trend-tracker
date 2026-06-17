@@ -46,7 +46,6 @@ export default function BarChartRace({ race }: { race: RaceData }) {
 
   const frame = frames[i];
   const ranked = [...frame.entries].sort((a, b) => b.value - a.value);
-  const leader = ranked[0];
 
   function restart() {
     setI(0);
@@ -57,30 +56,16 @@ export default function BarChartRace({ race }: { race: RaceData }) {
     <div className="card overflow-hidden p-5 sm:p-6">
       <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
         <div>
-          <div className="eyebrow flex items-center gap-1.5 text-[var(--accent)]">
-            <span className="inline-block h-2 w-2 animate-pulse rounded-full bg-[var(--accent)]" />
-            LIVE RACE · {race.metricLabel}
+          <div className="eyebrow flex items-center gap-1.5 text-[var(--muted)]">
+            순위 추이 · {race.metricLabel}
             <InfoDot label={race.metricLabel} align="left" />
           </div>
           <div className="tnum mt-1 text-2xl font-bold">{frame.date}</div>
         </div>
-        <div className="flex items-center gap-2 rounded-xl border border-[var(--border)] bg-[var(--panel2)] px-3 py-2 text-sm">
-          <span className="text-base">🏁</span>
-          <span className="text-[var(--muted)]">선두</span>
-          <span
-            className="font-display font-bold"
-            style={{ color: vendorColor(leader.vendor) }}
-          >
-            {leader.name}
-          </span>
-          <span className="tnum font-bold">{leader.value.toFixed(1)}</span>
-        </div>
       </div>
 
-      {/* 막대들: 순서가 바뀌면 Framer Motion layout이 위치를 부드럽게 이동시켜 '경주'처럼 보인다 */}
+      {/* 막대들: 순서가 바뀌면 Framer Motion layout이 위치를 부드럽게 이동시킨다 */}
       <div className="relative" style={{ height: ranked.length * ROW_H }}>
-        {/* 결승선(체커) */}
-        <div className="checker absolute right-0 top-0 h-full w-1.5 rounded-full opacity-40" />
         {ranked.map((e, rank) => {
           const pct = (e.value / maxValue) * 100;
           const color = vendorColor(e.vendor);
@@ -115,7 +100,6 @@ export default function BarChartRace({ race }: { race: RaceData }) {
                     }
                   >
                     {e.name}
-                    {isLeader && <span className="ml-1.5">🔥</span>}
                   </span>
                   <span
                     className={

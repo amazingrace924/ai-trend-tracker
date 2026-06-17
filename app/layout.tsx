@@ -23,7 +23,7 @@ export const metadata: Metadata = {
 };
 
 // FOUC 방지: 페인트 전에 테마/초보자 모드를 data 속성으로 확정한다.
-const bootInit = `(function(){try{var t=localStorage.getItem('theme');if(!t){t=window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';}document.documentElement.dataset.theme=t;document.documentElement.dataset.beginner=localStorage.getItem('beginner')==='on'?'on':'off';}catch(e){document.documentElement.dataset.theme='dark';}})();`;
+const bootInit = `(function(){try{var t=localStorage.getItem('theme');if(t!=='light'&&t!=='dark'){t='light';}document.documentElement.dataset.theme=t;document.documentElement.dataset.beginner=localStorage.getItem('beginner')==='on'?'on':'off';}catch(e){document.documentElement.dataset.theme='light';}})();`;
 
 export default function RootLayout({
   children,

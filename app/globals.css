@@ -147,37 +147,6 @@ h3,
   opacity: 0.5;
 }
 
-/* ── 그랑프리(레이싱) 모션 ── */
-@keyframes confettiFall {
-  0% { transform: translateY(-12px) rotate(0deg); opacity: 1; }
-  100% { transform: translateY(260px) rotate(560deg); opacity: 0; }
-}
-.confetti-piece {
-  position: absolute;
-  top: 0;
-  width: 8px;
-  height: 13px;
-  border-radius: 2px;
-  animation: confettiFall 1.8s ease-in forwards;
-}
-@keyframes roadScroll {
-  from { background-position: 0 center; }
-  to { background-position: -32px center; }
-}
-.road {
-  background-image: repeating-linear-gradient(
-    to right,
-    rgba(255, 255, 255, 0.22) 0 16px,
-    transparent 16px 32px
-  );
-  background-repeat: repeat-x;
-  background-size: 32px 2px;
-  background-position: 0 center;
-}
-.road-run {
-  animation: roadScroll 0.3s linear infinite;
-}
-
 /* 스크롤바(다크에서 과하지 않게) */
 ::-webkit-scrollbar {
   height: 8px;

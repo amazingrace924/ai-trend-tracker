@@ -40,11 +40,11 @@ function MoonIcon({ className = "" }: { className?: string }) {
 // 슬라이딩 스위치형 라이트/다크 토글. 초기 테마는 layout 인라인 스크립트가 설정했고,
 // 여기선 data-theme를 읽어 동기화 + 클릭 시 토글 + localStorage 저장.
 export default function ThemeToggle() {
-  const [theme, setTheme] = useState<Theme>("dark");
+  const [theme, setTheme] = useState<Theme>("light");
   const [mounted, setMounted] = useState(false);
 
   useEffect(() => {
-    const current = (document.documentElement.dataset.theme as Theme) ?? "dark";
+    const current = (document.documentElement.dataset.theme as Theme) ?? "light";
     setTheme(current);
     setMounted(true);
   }, []);
