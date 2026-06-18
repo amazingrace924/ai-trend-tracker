@@ -1,7 +1,7 @@
 {
   "category": "llm",
   "date": "2026-06-18",
-  "updatedAt": "2026-06-18T01:20:23.630Z",
+  "updatedAt": "2026-06-18T09:12:45.714Z",
   "models": [
     {
       "id": "claude-fable-5",
@@ -15,7 +15,7 @@
       "highlights": [
         {
           "label": "코딩",
-          "value": "62"
+          "value": "77"
         },
         {
           "label": "속도",
@@ -37,7 +37,7 @@
         },
         {
           "label": "코딩 지수",
-          "value": "62"
+          "value": "77"
         },
         {
           "label": "GPQA Diamond",
@@ -78,7 +78,7 @@
         },
         {
           "label": "속도",
-          "value": "65/s"
+          "value": "67/s"
         },
         {
           "label": "출력가",
@@ -104,11 +104,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "65 tok/s"
+          "value": "67 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "34.55s"
+          "value": "32.22s"
         },
         {
           "label": "입력 가격(1M)",
@@ -119,9 +119,7 @@
           "value": "$25"
         }
       ],
-      "strengths": [
-        "코딩 강자"
-      ]
+      "strengths": []
     },
     {
       "id": "gpt-5-5",
@@ -135,11 +133,11 @@
       "highlights": [
         {
           "label": "코딩",
-          "value": "59"
+          "value": "75"
         },
         {
           "label": "속도",
-          "value": "59/s"
+          "value": "61/s"
         },
         {
           "label": "출력가",
@@ -157,7 +155,7 @@
         },
         {
           "label": "코딩 지수",
-          "value": "59"
+          "value": "75"
         },
         {
           "label": "GPQA Diamond",
@@ -165,11 +163,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "59 tok/s"
+          "value": "61 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "58.14s"
+          "value": "56.58s"
         },
         {
           "label": "입력 가격(1M)",
@@ -205,7 +203,7 @@
         },
         {
           "label": "속도",
-          "value": "52/s"
+          "value": "54/s"
         },
         {
           "label": "출력가",
@@ -231,7 +229,7 @@
         },
         {
           "label": "출력 속도",
-          "value": "52 tok/s"
+          "value": "54 tok/s"
         },
         {
           "label": "첫 토큰 지연",
@@ -264,7 +262,7 @@
         },
         {
           "label": "속도",
-          "value": "52/s"
+          "value": "54/s"
         },
         {
           "label": "출력가",
@@ -290,11 +288,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "52 tok/s"
+          "value": "54 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "17.91s"
+          "value": "15.27s"
         },
         {
           "label": "입력 가격(1M)",
@@ -310,7 +308,6 @@
         }
       ],
       "strengths": [
-        "코딩 강자",
         "고난도 추론"
       ]
     },
@@ -376,7 +373,6 @@
         }
       ],
       "strengths": [
-        "코딩 강자",
         "초고속"
       ]
     },
@@ -392,11 +388,11 @@
       "highlights": [
         {
           "label": "코딩",
-          "value": "51"
+          "value": "67"
         },
         {
           "label": "속도",
-          "value": "104/s"
+          "value": "100/s"
         },
         {
           "label": "출력가",
@@ -414,7 +410,7 @@
         },
         {
           "label": "코딩 지수",
-          "value": "51"
+          "value": "67"
         },
         {
           "label": "GPQA Diamond",
@@ -422,7 +418,7 @@
         },
         {
           "label": "출력 속도",
-          "value": "104 tok/s"
+          "value": "100 tok/s"
         },
         {
           "label": "첫 토큰 지연",
@@ -443,6 +439,7 @@
       ],
       "strengths": [
         "가성비",
+        "코딩 강자",
         "초고속"
       ]
     },
@@ -462,7 +459,7 @@
         },
         {
           "label": "속도",
-          "value": "214/s"
+          "value": "223/s"
         },
         {
           "label": "출력가",
@@ -488,11 +485,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "214 tok/s"
+          "value": "223 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "15.11s"
+          "value": "16.45s"
         },
         {
           "label": "입력 가격(1M)",
@@ -528,7 +525,7 @@
         },
         {
           "label": "속도",
-          "value": "63/s"
+          "value": "65/s"
         },
         {
           "label": "출력가",
@@ -554,11 +551,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "63 tok/s"
+          "value": "65 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "58.4s"
+          "value": "82.01s"
         },
         {
           "label": "입력 가격(1M)",
@@ -583,11 +580,11 @@
       "highlights": [
         {
           "label": "코딩",
-          "value": "56"
+          "value": "—"
         },
         {
           "label": "속도",
-          "value": "57/s"
+          "value": "59/s"
         },
         {
           "label": "출력가",
@@ -604,16 +601,12 @@
           "value": "47.1"
         },
         {
-          "label": "코딩 지수",
-          "value": "56"
-        },
-        {
           "label": "GPQA Diamond",
           "value": "93%"
         },
         {
           "label": "출력 속도",
-          "value": "57 tok/s"
+          "value": "59 tok/s"
         },
         {
           "label": "첫 토큰 지연",
@@ -648,11 +641,11 @@
       "highlights": [
         {
           "label": "코딩",
-          "value": "56"
+          "value": "69"
         },
         {
           "label": "속도",
-          "value": "125/s"
+          "value": "127/s"
         },
         {
           "label": "출력가",
@@ -670,7 +663,7 @@
         },
         {
           "label": "코딩 지수",
-          "value": "56"
+          "value": "69"
         },
         {
           "label": "GPQA Diamond",
@@ -678,11 +671,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "125 tok/s"
+          "value": "127 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "29.69s"
+          "value": "29.49s"
         },
         {
           "label": "입력 가격(1M)",
@@ -698,6 +691,7 @@
         }
       ],
       "strengths": [
+        "코딩 강자",
         "고난도 추론",
         "초고속"
       ]
@@ -748,7 +742,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "1.66s"
+          "value": "1.69s"
         },
         {
           "label": "입력 가격(1M)",
