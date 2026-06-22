@@ -1,7 +1,7 @@
 {
   "category": "image",
   "date": "2026-06-22",
-  "updatedAt": "2026-06-22T03:50:38.211Z",
+  "updatedAt": "2026-06-22T22:48:48.204Z",
   "models": [
     {
       "id": "image-gpt-image-2",
@@ -10,12 +10,12 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-04",
-      "score": 1339,
+      "score": 1338,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1339"
+          "value": "1338"
         },
         {
           "label": "순위",
@@ -23,7 +23,7 @@
         },
         {
           "label": "투표수",
-          "value": "11,518"
+          "value": "11,556"
         },
         {
           "label": "제작사",
@@ -33,7 +33,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1339"
+          "value": "1338"
         },
         {
           "label": "순위",
@@ -41,7 +41,7 @@
         },
         {
           "label": "투표 수",
-          "value": "11,518"
+          "value": "11,556"
         },
         {
           "label": "출시일",
@@ -54,6 +54,59 @@
       ],
       "strengths": [
         "품질 1위"
+      ]
+    },
+    {
+      "id": "image-mai-image-2-5",
+      "name": "MAI-Image-2.5",
+      "vendor": "Microsoft",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-06",
+      "score": 1278,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1278"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표수",
+          "value": "2,764"
+        },
+        {
+          "label": "제작사",
+          "value": "Microsoft"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1278"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표 수",
+          "value": "2,764"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-06"
+        },
+        {
+          "label": "제작사",
+          "value": "Microsoft"
+        }
+      ],
+      "strengths": [
+        "상위권"
       ]
     },
     {
@@ -72,11 +125,11 @@
         },
         {
           "label": "순위",
-          "value": "#2"
+          "value": "#3"
         },
         {
           "label": "투표수",
-          "value": "6,474"
+          "value": "6,499"
         },
         {
           "label": "제작사",
@@ -90,11 +143,11 @@
         },
         {
           "label": "순위",
-          "value": "#2"
+          "value": "#3"
         },
         {
           "label": "투표 수",
-          "value": "6,474"
+          "value": "6,499"
         },
         {
           "label": "출시일",
@@ -116,20 +169,20 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-06",
-      "score": 1265,
+      "score": 1264,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1265"
+          "value": "1264"
         },
         {
           "label": "순위",
-          "value": "#3"
+          "value": "#4"
         },
         {
           "label": "투표수",
-          "value": "5,323"
+          "value": "5,351"
         },
         {
           "label": "제작사",
@@ -139,15 +192,15 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1265"
+          "value": "1264"
         },
         {
           "label": "순위",
-          "value": "#3"
+          "value": "#4"
         },
         {
           "label": "투표 수",
-          "value": "5,323"
+          "value": "5,351"
         },
         {
           "label": "출시일",
@@ -178,11 +231,11 @@
         },
         {
           "label": "순위",
-          "value": "#4"
+          "value": "#5"
         },
         {
           "label": "투표수",
-          "value": "8,815"
+          "value": "8,847"
         },
         {
           "label": "제작사",
@@ -196,11 +249,11 @@
         },
         {
           "label": "순위",
-          "value": "#4"
+          "value": "#5"
         },
         {
           "label": "투표 수",
-          "value": "8,815"
+          "value": "8,847"
         },
         {
           "label": "출시일",
@@ -222,20 +275,20 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-02",
-      "score": 1254,
+      "score": 1253,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1254"
+          "value": "1253"
         },
         {
           "label": "순위",
-          "value": "#5"
+          "value": "#6"
         },
         {
           "label": "투표수",
-          "value": "6,369"
+          "value": "6,370"
         },
         {
           "label": "제작사",
@@ -245,15 +298,15 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1254"
+          "value": "1253"
         },
         {
           "label": "순위",
-          "value": "#5"
+          "value": "#6"
         },
         {
           "label": "투표 수",
-          "value": "6,369"
+          "value": "6,370"
         },
         {
           "label": "출시일",
@@ -284,11 +337,11 @@
         },
         {
           "label": "순위",
-          "value": "#6"
+          "value": "#7"
         },
         {
           "label": "투표수",
-          "value": "3,256"
+          "value": "3,301"
         },
         {
           "label": "제작사",
@@ -302,11 +355,11 @@
         },
         {
           "label": "순위",
-          "value": "#6"
+          "value": "#7"
         },
         {
           "label": "투표 수",
-          "value": "3,256"
+          "value": "3,301"
         },
         {
           "label": "출시일",
@@ -317,9 +370,7 @@
           "value": "NVIDIA"
         }
       ],
-      "strengths": [
-        "상위권"
-      ]
+      "strengths": []
     },
     {
       "id": "image-gemini_nano-banana-pro",
@@ -328,20 +379,20 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2025-11",
-      "score": 1220,
+      "score": 1219,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1220"
+          "value": "1219"
         },
         {
           "label": "순위",
-          "value": "#7"
+          "value": "#8"
         },
         {
           "label": "투표수",
-          "value": "5,796"
+          "value": "5,845"
         },
         {
           "label": "제작사",
@@ -351,15 +402,15 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1220"
+          "value": "1219"
         },
         {
           "label": "순위",
-          "value": "#7"
+          "value": "#8"
         },
         {
           "label": "투표 수",
-          "value": "5,796"
+          "value": "5,845"
         },
         {
           "label": "출시일",
@@ -373,26 +424,77 @@
       "strengths": []
     },
     {
+      "id": "image-mai-image-2-5-flash",
+      "name": "MAI-Image-2.5-Flash",
+      "vendor": "Microsoft",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-06",
+      "score": 1214,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1214"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표수",
+          "value": "2,742"
+        },
+        {
+          "label": "제작사",
+          "value": "Microsoft"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1214"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표 수",
+          "value": "2,742"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-06"
+        },
+        {
+          "label": "제작사",
+          "value": "Microsoft"
+        }
+      ],
+      "strengths": []
+    },
+    {
       "id": "image-krea-2-medium",
       "name": "Krea 2 Medium",
       "vendor": "Krea",
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-05",
-      "score": 1208,
+      "score": 1209,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1208"
+          "value": "1209"
         },
         {
           "label": "순위",
-          "value": "#8"
+          "value": "#10"
         },
         {
           "label": "투표수",
-          "value": "3,462"
+          "value": "3,527"
         },
         {
           "label": "제작사",
@@ -402,15 +504,15 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1208"
+          "value": "1209"
         },
         {
           "label": "순위",
-          "value": "#8"
+          "value": "#10"
         },
         {
           "label": "투표 수",
-          "value": "3,462"
+          "value": "3,527"
         },
         {
           "label": "출시일",
@@ -419,108 +521,6 @@
         {
           "label": "제작사",
           "value": "Krea"
-        }
-      ],
-      "strengths": []
-    },
-    {
-      "id": "image-recraft-v4-1-utility-pro",
-      "name": "Recraft V4.1 Utility Pro",
-      "vendor": "Recraft",
-      "category": "image",
-      "license": "proprietary",
-      "releaseDate": "2026-05",
-      "score": 1205,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1205"
-        },
-        {
-          "label": "순위",
-          "value": "#9"
-        },
-        {
-          "label": "투표수",
-          "value": "3,467"
-        },
-        {
-          "label": "제작사",
-          "value": "Recraft"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1205"
-        },
-        {
-          "label": "순위",
-          "value": "#9"
-        },
-        {
-          "label": "투표 수",
-          "value": "3,467"
-        },
-        {
-          "label": "출시일",
-          "value": "2026-05"
-        },
-        {
-          "label": "제작사",
-          "value": "Recraft"
-        }
-      ],
-      "strengths": []
-    },
-    {
-      "id": "image-grok-imagine-image-quality",
-      "name": "grok-imagine-image-quality",
-      "vendor": "xAI",
-      "category": "image",
-      "license": "proprietary",
-      "releaseDate": "2026-04",
-      "score": 1201,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1201"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표수",
-          "value": "4,378"
-        },
-        {
-          "label": "제작사",
-          "value": "xAI"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1201"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표 수",
-          "value": "4,378"
-        },
-        {
-          "label": "출시일",
-          "value": "2026-04"
-        },
-        {
-          "label": "제작사",
-          "value": "xAI"
         }
       ],
       "strengths": []
