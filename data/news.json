@@ -1,6 +1,35 @@
 [
   {
-    "id": "OpenAI-0-previewing-gpt-5-6-sol-a-next-generation",
+    "id": "Hugging Face-0-discoformer-one-transformer-for-density-",
+    "title": "DiScoFormer: One transformer for density and score, across distributions",
+    "url": "https://huggingface.co/blog/allenai/discoformer",
+    "source": "Hugging Face",
+    "date": "2026-06-29T18:02:48.000Z",
+    "summary": "",
+    "titleKo": "DiScoFormer: 분포 전반에 걸쳐 밀도 및 점수를 위한 단일 변환기"
+  },
+  {
+    "id": "OpenAI-0-mapping-europe-s-ai-workforce-opportunit",
+    "title": "Mapping Europe’s AI Workforce Opportunity",
+    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+    "source": "OpenAI",
+    "date": "2026-06-29T07:00:00.000Z",
+    "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
+    "titleKo": "유럽의 AI 인력 기회 매핑",
+    "summaryKo": "새로운 OpenAI 보고서는 AI가 EU 전역에서 일자리를 어떻게 재구성할 수 있는지 보여주며 어떤 직업이 자동화, 성장 또는 워크플로 변화에 직면할 수 있는지 강조합니다."
+  },
+  {
+    "id": "OpenAI-1-hp-inc-launches-frontier-strategic-partn",
+    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+    "url": "https://openai.com/index/hp-frontier-partnership",
+    "source": "OpenAI",
+    "date": "2026-06-28T17:00:00.000Z",
+    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
+    "titleKo": "HP Inc., OpenAI와 Frontier 전략적 파트너십 개시",
+    "summaryKo": "HP Inc.는 OpenAI Frontier 파트너십을 확장하여 고객 경험, 소프트웨어 개발, 기업 운영 전반에 걸쳐 AI를 배포합니다."
+  },
+  {
+    "id": "OpenAI-2-previewing-gpt-5-6-sol-a-next-generation",
     "title": "Previewing GPT-5.6 Sol: a next-generation model",
     "url": "https://openai.com/index/previewing-gpt-5-6-sol",
     "source": "OpenAI",
@@ -10,7 +39,7 @@
     "summaryKo": "OpenAI는 코딩, 과학, 사이버 보안 분야에서 더욱 강력한 기능과 가장 진보된 안전 스택을 결합한 차세대 모델인 GPT-5.6 Sol을 미리 선보입니다."
   },
   {
-    "id": "Hugging Face-0-run-a-vllm-server-on-hf-jobs-in-one-comm",
+    "id": "Hugging Face-1-run-a-vllm-server-on-hf-jobs-in-one-comm",
     "title": "Run a vLLM Server on HF Jobs in One Command",
     "url": "https://huggingface.co/blog/vllm-jobs",
     "source": "Hugging Face",
@@ -19,16 +48,7 @@
     "titleKo": "하나의 명령으로 HF 작업에서 vLLM 서버 실행"
   },
   {
-    "id": "Hugging Face-1-which-tokens-does-a-hybrid-model-predict",
-    "title": "Which tokens does a hybrid model predict better?",
-    "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-    "source": "Hugging Face",
-    "date": "2026-06-25T16:11:42.000Z",
-    "summary": "",
-    "titleKo": "하이브리드 모델은 어떤 토큰을 더 잘 예측합니까?"
-  },
-  {
-    "id": "OpenAI-1-how-agents-are-transforming-work",
+    "id": "OpenAI-3-how-agents-are-transforming-work",
     "title": "How agents are transforming work",
     "url": "https://openai.com/index/how-agents-are-transforming-work",
     "source": "OpenAI",
@@ -56,7 +76,7 @@
     "titleKo": "NVIDIA NeMo AutoModel을 통한 Transformer 미세 조정 가속화"
   },
   {
-    "id": "OpenAI-2-openai-and-broadcom-unveil-llm-optimized",
+    "id": "OpenAI-4-openai-and-broadcom-unveil-llm-optimized",
     "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
     "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
     "source": "OpenAI",
@@ -75,7 +95,7 @@
     "titleKo": "FFASR 리더보드 소개: 실제 세계에서 ASR 벤치마킹"
   },
   {
-    "id": "OpenAI-4-how-gpt-5-helped-immunologist-derya-unut",
+    "id": "OpenAI-6-how-gpt-5-helped-immunologist-derya-unut",
     "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
     "url": "https://openai.com/index/gpt-5-immunology-mystery",
     "source": "OpenAI",
@@ -85,7 +105,7 @@
     "summaryKo": "GPT-5 Pro는 T 세포 행동에 대한 통찰력을 제공하여 3년간의 면역학 미스터리를 해결하는 데 도움을 주었습니다. 이 획기적인 발전은 암과 자가면역 연구를 지원할 수 있습니다."
   },
   {
-    "id": "OpenAI-3-helping-build-shared-standards-for-advan",
+    "id": "OpenAI-5-helping-build-shared-standards-for-advan",
     "title": "Helping build shared standards for advanced AI",
     "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai",
     "source": "OpenAI",
@@ -119,10 +139,10 @@
     "source": "Hugging Face",
     "date": "2026-06-23T00:00:00.000Z",
     "summary": "",
-    "titleKo": "AI, 개방형 도구 및 인간이 루프에 참여하는 Huggingface_hub를 매주 배송합니다."
+    "titleKo": "AI, 개방형 도구, 인간이 루프에 참여하는 Huggingface_hub를 매주 배송합니다."
   },
   {
-    "id": "OpenAI-5-how-omio-is-building-the-future-of-conve",
+    "id": "OpenAI-7-how-omio-is-building-the-future-of-conve",
     "title": "How Omio is building the future of conversational travel",
     "url": "https://openai.com/index/omio",
     "source": "OpenAI",
@@ -141,17 +161,7 @@
     "titleKo": "포옹 얼굴의 PP-OCRv6: 1.5M에서 34.5M까지 50개 언어 OCR"
   },
   {
-    "id": "OpenAI-7-daybreak-tools-for-securing-every-organi",
-    "title": "Daybreak: Tools for securing every organization in the world",
-    "url": "https://openai.com/index/daybreak-securing-the-world",
-    "source": "OpenAI",
-    "date": "2026-06-22T10:00:00.000Z",
-    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-    "titleKo": "Daybreak: 전 세계 모든 조직의 보안을 위한 도구",
-    "summaryKo": "OpenAI는 Codex Security 및 GPT-5.5-Cyber를 포함한 새로운 Daybreak 도구를 도입하여 조직이 대규모로 취약점을 찾아 검증하고 패치하는 데 도움을 줍니다."
-  },
-  {
-    "id": "OpenAI-6-patch-the-planet-a-daybreak-initiative-t",
+    "id": "OpenAI-9-patch-the-planet-a-daybreak-initiative-t",
     "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
     "url": "https://openai.com/index/patch-the-planet",
     "source": "OpenAI",
@@ -159,6 +169,16 @@
     "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
     "titleKo": "Patch the Planet: 오픈 소스 관리자를 지원하기 위한 Daybreak 이니셔티브",
     "summaryKo": "OpenAI는 오픈 소스 유지관리자가 AI 및 전문가 검토를 통해 취약점을 찾고, 검증하고, 수정할 수 있도록 돕는 Daybreak 이니셔티브인 Patch the Planet을 소개합니다."
+  },
+  {
+    "id": "OpenAI-8-daybreak-tools-for-securing-every-organi",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "source": "OpenAI",
+    "date": "2026-06-22T10:00:00.000Z",
+    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "titleKo": "Daybreak: 전 세계 모든 조직의 보안을 유지하기 위한 도구",
+    "summaryKo": "OpenAI는 Codex Security 및 GPT-5.5-Cyber를 포함한 새로운 Daybreak 도구를 도입하여 조직이 대규모로 취약점을 찾아 검증하고 패치하는 데 도움을 줍니다."
   },
   {
     "id": "Hugging Face-8-we-got-local-models-to-triage-the-opencl",
@@ -170,7 +190,7 @@
     "titleKo": "OpenClaw 저장소를 무료로 선별할 수 있는 현지 모델이 있습니다!*"
   },
   {
-    "id": "OpenAI-8-codex-maxxing-for-long-running-work",
+    "id": "OpenAI-10-codex-maxxing-for-long-running-work",
     "title": "Codex-maxxing for long-running work",
     "url": "https://openai.com/index/codex-maxxing-long-running-work",
     "source": "OpenAI",
@@ -180,7 +200,7 @@
     "summaryKo": "Jason Liu가 Codex를 사용하여 컨텍스트를 보존하고, 복잡한 프로젝트를 관리하고, 단일 프롬프트를 넘어 작업을 계속하도록 돕는 방법을 알아보세요."
   },
   {
-    "id": "OpenAI-9-samsung-electronics-brings-chatgpt-and-c",
+    "id": "OpenAI-11-samsung-electronics-brings-chatgpt-and-c",
     "title": "Samsung Electronics brings ChatGPT and Codex to employees",
     "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
     "source": "OpenAI",
@@ -196,10 +216,10 @@
     "source": "Hugging Face",
     "date": "2026-06-18T18:13:13.000Z",
     "summary": "",
-    "titleKo": "모자이크리크스(MosaicLeaks): 연구 대리인이 비밀을 지킬 수 있나요?"
+    "titleKo": "mosaicLeaks: 연구 대리인이 비밀을 지킬 수 있나요?"
   },
   {
-    "id": "OpenAI-10-new-usage-analytics-and-updated-spend-co",
+    "id": "OpenAI-12-new-usage-analytics-and-updated-spend-co",
     "title": "New usage analytics and updated spend controls for enterprises",
     "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
     "source": "OpenAI",
@@ -209,7 +229,7 @@
     "summaryKo": "OpenAI는 ChatGPT Enterprise에 대한 새로운 지출 제어 및 사용 분석을 도입하여 조직이 자신 있게 비용을 관리하고 AI를 확장할 수 있도록 돕습니다."
   },
   {
-    "id": "OpenAI-11-improving-health-intelligence-in-chatgpt",
+    "id": "OpenAI-13-improving-health-intelligence-in-chatgpt",
     "title": "Improving health intelligence in ChatGPT",
     "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
     "source": "OpenAI",
@@ -219,7 +239,7 @@
     "summaryKo": "GPT-5.5 Instant가 더 강력한 추론, 더 나은 상황, 더 명확한 의사소통, 의사 정보 평가를 통해 ChatGPT의 건강 및 웰니스 응답을 어떻게 개선하는지 알아보세요."
   },
   {
-    "id": "OpenAI-12-using-ai-to-help-physicians-diagnose-rar",
+    "id": "OpenAI-14-using-ai-to-help-physicians-diagnose-rar",
     "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
     "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
     "source": "OpenAI",
@@ -253,17 +273,7 @@
     "source": "Hugging Face",
     "date": "2026-06-17T10:18:05.000Z",
     "summary": "",
-    "titleKo": "Hugging Face Hub부터 Strands Agents 및 LeRobot을 사용한 로봇 하드웨어까지"
-  },
-  {
-    "id": "OpenAI-13-a-near-autonomous-ai-chemist-improves-a-",
-    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-    "url": "https://openai.com/index/ai-chemist-improves-reaction",
-    "source": "OpenAI",
-    "date": "2026-06-17T10:00:00.000Z",
-    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
-    "titleKo": "거의 자율적인 AI 화학자가 의약화학 분야의 까다로운 반응을 개선합니다.",
-    "summaryKo": "OpenAI와 Molecule.one은 GPT-5.4를 사용하는 거의 자율적인 AI 화학자가 핵심 약물 제조 반응을 개선하여 의약 화학 연구를 발전시키는 방법을 보여줍니다."
+    "titleKo": "Hugging Face Hub부터 Strands Agents 및 LeRobot을 갖춘 로봇 하드웨어까지"
   },
   {
     "id": "Hugging Face-13-glm-5-2-built-for-long-horizon-tasks",
@@ -282,16 +292,6 @@
     "date": "2026-06-17T00:00:00.000Z",
     "summary": "",
     "titleKo": "에이전트 리소스 검색: 에이전트가 검색하도록 허용"
-  },
-  {
-    "id": "OpenAI-14-introducing-lifescibench",
-    "title": "Introducing LifeSciBench",
-    "url": "https://openai.com/index/introducing-life-sci-bench",
-    "source": "OpenAI",
-    "date": "2026-06-17T00:00:00.000Z",
-    "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-    "titleKo": "LifeSciBench 소개",
-    "summaryKo": "AI 시스템이 실제 생명 과학 연구 작업 및 결정을 처리하는 방법을 평가하기 위해 전문가가 작성하고 전문가가 검토한 벤치마크인 LifeSciBench를 소개합니다."
   },
   {
     "id": "Google DeepMind-1-unlocking-uk-house-building-with-ai-acce",
@@ -377,6 +377,6 @@
     "source": "Google DeepMind",
     "date": "2026-05-21T19:46:42.000Z",
     "summary": "",
-    "titleKo": "환경 위험을 해결하기 위해 아시아 태평양 지역에서 Google DeepMind Accelerator 프로그램을 시작합니다."
+    "titleKo": "환경 위험에 대처하기 위해 아시아 태평양 지역에서 Google DeepMind Accelerator 프로그램을 시작합니다."
   }
 ]
