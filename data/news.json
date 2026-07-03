@@ -1,5 +1,14 @@
 [
   {
+    "id": "Google DeepMind-0-google-deepmind-and-a24-announce-first-o",
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "source": "Google DeepMind",
+    "date": "2026-07-03T14:25:43.000Z",
+    "summary": "",
+    "titleKo": "Google DeepMind와 A24, 최초의 연구 파트너십 발표"
+  },
+  {
     "id": "Hugging Face-0-hugging-face-and-cerebras-bring-gemma-4-",
     "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
     "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
@@ -18,7 +27,7 @@
     "titleKo": "ScarfBench: Enterprise Java Framework 마이그레이션을 위한 AI 에이전트 벤치마킹"
   },
   {
-    "id": "Google DeepMind-0-start-building-with-nano-banana-2-lite-a",
+    "id": "Google DeepMind-1-start-building-with-nano-banana-2-lite-a",
     "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
     "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
     "source": "Google DeepMind",
@@ -142,7 +151,7 @@
     "summaryKo": "새로운 OpenAI 연구 논문은 AI 에이전트가 업무를 어떻게 변화시켜 더 길고 복잡한 작업을 가능하게 하며 역할 전반에 걸쳐 생산성을 확대하는지 보여줍니다."
   },
   {
-    "id": "Google DeepMind-1-introducing-computer-use-in-gemini-3-5-f",
+    "id": "Google DeepMind-2-introducing-computer-use-in-gemini-3-5-f",
     "title": "Introducing computer use in Gemini 3.5 Flash",
     "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
     "source": "Google DeepMind",
@@ -167,7 +176,7 @@
     "date": "2026-06-24T06:00:00.000Z",
     "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
     "titleKo": "OpenAI와 Broadcom, LLM에 최적화된 추론 칩 공개",
-    "summaryKo": "OpenAI와 Broadcom은 AI 시스템 전반에서 성능, 효율성 및 확장성을 개선하기 위해 LLM 추론용으로 제작된 맞춤형 AI 칩인 Jalapeño를 출시합니다."
+    "summaryKo": "OpenAI와 Broadcom은 AI 시스템 전반에 걸쳐 성능, 효율성 및 확장성을 개선하기 위해 LLM 추론용으로 제작된 맞춤형 AI 칩인 Jalapeño를 출시합니다."
   },
   {
     "id": "Hugging Face-7-introducing-the-ffasr-leaderboard-benchm",
@@ -214,7 +223,7 @@
     "source": "Hugging Face",
     "date": "2026-06-23T00:00:00.000Z",
     "summary": "",
-    "titleKo": "AI, 개방형 도구, 인간이 루프에 참여하는 Huggingface_hub를 매주 배송합니다."
+    "titleKo": "AI, 개방형 도구 및 인간이 루프에 참여하는 Huggingface_hub를 매주 배송합니다."
   },
   {
     "id": "OpenAI-11-how-omio-is-building-the-future-of-conve",
@@ -233,7 +242,7 @@
     "source": "Hugging Face",
     "date": "2026-06-22T13:18:56.000Z",
     "summary": "",
-    "titleKo": "포옹 얼굴의 PP-OCRv6: 1.5M에서 34.5M까지 50개 언어 OCR"
+    "titleKo": "포옹하는 얼굴의 PP-OCRv6: 1.5M에서 34.5M까지 50개 언어 OCR"
   },
   {
     "id": "OpenAI-13-daybreak-tools-for-securing-every-organi",
@@ -242,7 +251,7 @@
     "source": "OpenAI",
     "date": "2026-06-22T10:00:00.000Z",
     "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-    "titleKo": "Daybreak: 전 세계 모든 조직의 보안을 위한 도구",
+    "titleKo": "Daybreak: 전 세계 모든 조직의 보안을 유지하기 위한 도구",
     "summaryKo": "OpenAI는 Codex Security 및 GPT-5.5-Cyber를 포함한 새로운 Daybreak 도구를 도입하여 조직이 대규모로 취약점을 찾아 검증하고 패치하는 데 도움을 줍니다."
   },
   {
@@ -253,7 +262,7 @@
     "date": "2026-06-22T10:00:00.000Z",
     "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
     "titleKo": "Patch the Planet: 오픈 소스 관리자를 지원하기 위한 Daybreak 이니셔티브",
-    "summaryKo": "OpenAI는 오픈 소스 유지관리자가 AI 및 전문가 검토를 통해 취약점을 찾고, 검증하고, 수정할 수 있도록 돕는 Daybreak 이니셔티브인 Patch the Planet을 소개합니다."
+    "summaryKo": "OpenAI는 오픈 소스 유지관리자가 AI 및 전문가 검토를 통해 취약점을 찾고, 검증하고, 수정할 수 있도록 지원하는 Daybreak 이니셔티브인 Patch the Planet을 소개합니다."
   },
   {
     "id": "Hugging Face-11-we-got-local-models-to-triage-the-opencl",
@@ -281,7 +290,7 @@
     "source": "Hugging Face",
     "date": "2026-06-18T18:13:13.000Z",
     "summary": "",
-    "titleKo": "mosaicLeaks: 연구 대리인이 비밀을 지킬 수 있나요?"
+    "titleKo": "모자이크리크스(MosaicLeaks): 연구 대리인이 비밀을 지킬 수 있나요?"
   },
   {
     "id": "Hugging Face-14-is-it-agentic-enough-benchmarking-open-m",
@@ -302,7 +311,7 @@
     "titleKo": "LoRA를 넘어서: 가장 인기 있는 미세 조정 기술을 이길 수 있습니까?"
   },
   {
-    "id": "Google DeepMind-2-unlocking-uk-house-building-with-ai-acce",
+    "id": "Google DeepMind-3-unlocking-uk-house-building-with-ai-acce",
     "title": "Unlocking UK house-building with AI-accelerated planning",
     "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
     "source": "Google DeepMind",
@@ -312,7 +321,7 @@
     "summaryKo": "영국 정부는 Google DeepMind와 협력하여 더 빠른 주택 결정을 목표로 하는 새로운 AI 기반 프로토타입을 구축합니다."
   },
   {
-    "id": "Google DeepMind-3-securing-the-future-of-ai-agents",
+    "id": "Google DeepMind-4-securing-the-future-of-ai-agents",
     "title": "Securing the future of AI agents",
     "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
     "source": "Google DeepMind",
@@ -322,7 +331,7 @@
     "summaryKo": "기존 보호 장치와 실시간 모니터링을 결합한 AI 제어 로드맵으로 내부 시스템을 보호합니다."
   },
   {
-    "id": "Google DeepMind-4-diffusiongemma-4x-faster-text-generation",
+    "id": "Google DeepMind-5-diffusiongemma-4x-faster-text-generation",
     "title": "DiffusionGemma: 4x faster text generation",
     "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
     "source": "Google DeepMind",
@@ -331,7 +340,7 @@
     "titleKo": "DiffusionGemma: 4배 더 빠른 텍스트 생성"
   },
   {
-    "id": "Google DeepMind-5-investing-in-multi-agent-ai-safety-resea",
+    "id": "Google DeepMind-6-investing-in-multi-agent-ai-safety-resea",
     "title": "Investing in multi-agent AI safety research",
     "url": "https://deepmind.google/blog/investing-in-multi-agent-ai-safety-research/",
     "source": "Google DeepMind",
@@ -341,7 +350,7 @@
     "summaryKo": "Google DeepMind와 파트너는 다중 에이전트 안전 연구를 위해 1,000만 달러의 자금 조달 요청을 발표했습니다."
   },
   {
-    "id": "Google DeepMind-6-fluid-natural-voice-translation-with-gem",
+    "id": "Google DeepMind-7-fluid-natural-voice-translation-with-gem",
     "title": "Fluid, natural voice translation with Gemini 3.5 Live Translate",
     "url": "https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/",
     "source": "Google DeepMind",
@@ -351,7 +360,7 @@
     "summaryKo": "Gemini 3.5 Live Translate는 Google AI Studio, Google Translate 및 Google Meet에 거의 실시간에 가까운 자연스러운 음성 번역을 제공합니다."
   },
   {
-    "id": "Google DeepMind-7-introducing-gemma-4-12b-a-unified-encode",
+    "id": "Google DeepMind-8-introducing-gemma-4-12b-a-unified-encode",
     "title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
     "url": "https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/",
     "source": "Google DeepMind",
@@ -360,22 +369,12 @@
     "titleKo": "Gemma 4 12B 소개: 인코더가 필요 없는 통합 다중 모드 모델"
   },
   {
-    "id": "Google DeepMind-8-powering-the-future-of-robotics-in-europ",
+    "id": "Google DeepMind-9-powering-the-future-of-robotics-in-europ",
     "title": "Powering the future of robotics in Europe",
     "url": "https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/",
     "source": "Google DeepMind",
     "date": "2026-06-09T14:02:33.000Z",
     "summary": "",
     "titleKo": "유럽 ​​로봇공학의 미래를 주도하다"
-  },
-  {
-    "id": "Google DeepMind-9-measuring-the-impact-of-learning-with-ai",
-    "title": "Measuring the impact of learning with AI in Sierra Leone and beyond",
-    "url": "https://deepmind.google/blog/measuring-the-impact-of-learning-with-ai-in-sierra-leone-and-beyond/",
-    "source": "Google DeepMind",
-    "date": "2026-06-08T13:04:59.000Z",
-    "summary": "Results from a randomized controlled trial show the potential of Gemini’s Guided Learning feature to boost engagement and accelerate learning.",
-    "titleKo": "시에라리온 및 그 외 지역에서 AI를 통한 학습의 영향 측정",
-    "summaryKo": "무작위 대조 시험의 결과는 참여도를 높이고 학습을 가속화하는 Gemini의 안내 학습 기능의 잠재력을 보여줍니다."
   }
 ]
