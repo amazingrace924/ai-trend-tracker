@@ -223,7 +223,7 @@
     "source": "Hugging Face",
     "date": "2026-06-23T00:00:00.000Z",
     "summary": "",
-    "titleKo": "AI, 개방형 도구 및 인간이 루프에 참여하는 Huggingface_hub를 매주 배송합니다."
+    "titleKo": "AI, 개방형 도구, 인간이 루프에 참여하는 Huggingface_hub를 매주 배송합니다."
   },
   {
     "id": "OpenAI-11-how-omio-is-building-the-future-of-conve",
@@ -242,7 +242,7 @@
     "source": "Hugging Face",
     "date": "2026-06-22T13:18:56.000Z",
     "summary": "",
-    "titleKo": "포옹하는 얼굴의 PP-OCRv6: 1.5M에서 34.5M까지 50개 언어 OCR"
+    "titleKo": "포옹 얼굴의 PP-OCRv6: 1.5M에서 34.5M까지 50개 언어 OCR"
   },
   {
     "id": "OpenAI-13-daybreak-tools-for-securing-every-organi",
@@ -251,7 +251,7 @@
     "source": "OpenAI",
     "date": "2026-06-22T10:00:00.000Z",
     "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
-    "titleKo": "Daybreak: 전 세계 모든 조직의 보안을 유지하기 위한 도구",
+    "titleKo": "Daybreak: 전 세계 모든 조직의 보안을 위한 도구",
     "summaryKo": "OpenAI는 Codex Security 및 GPT-5.5-Cyber를 포함한 새로운 Daybreak 도구를 도입하여 조직이 대규모로 취약점을 찾아 검증하고 패치하는 데 도움을 줍니다."
   },
   {
@@ -262,7 +262,7 @@
     "date": "2026-06-22T10:00:00.000Z",
     "summary": "OpenAI introduces Patch the Planet, a Daybreak initiative helping open-source maintainers find, validate, and fix vulnerabilities with AI and expert review.",
     "titleKo": "Patch the Planet: 오픈 소스 관리자를 지원하기 위한 Daybreak 이니셔티브",
-    "summaryKo": "OpenAI는 오픈 소스 유지관리자가 AI 및 전문가 검토를 통해 취약점을 찾고, 검증하고, 수정할 수 있도록 지원하는 Daybreak 이니셔티브인 Patch the Planet을 소개합니다."
+    "summaryKo": "OpenAI는 오픈 소스 유지관리자가 AI 및 전문가 검토를 통해 취약점을 찾고, 검증하고, 수정할 수 있도록 돕는 Daybreak 이니셔티브인 Patch the Planet을 소개합니다."
   },
   {
     "id": "Hugging Face-11-we-got-local-models-to-triage-the-opencl",
@@ -290,7 +290,7 @@
     "source": "Hugging Face",
     "date": "2026-06-18T18:13:13.000Z",
     "summary": "",
-    "titleKo": "모자이크리크스(MosaicLeaks): 연구 대리인이 비밀을 지킬 수 있나요?"
+    "titleKo": "mosaicLeaks: 연구 대리인이 비밀을 지킬 수 있나요?"
   },
   {
     "id": "Hugging Face-14-is-it-agentic-enough-benchmarking-open-m",
@@ -375,6 +375,6 @@
     "source": "Google DeepMind",
     "date": "2026-06-09T14:02:33.000Z",
     "summary": "",
-    "titleKo": "유럽 ​​로봇공학의 미래를 주도하다"
+    "titleKo": "유럽 ​​로봇 공학의 미래를 주도하다"
   }
 ]

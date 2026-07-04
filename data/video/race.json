@@ -1697,6 +1697,59 @@
           "value": 1225
         }
       ]
+    },
+    {
+      "date": "2026-07-04",
+      "entries": [
+        {
+          "id": "video-happyhorse-1-0",
+          "name": "HappyHorse-1.0",
+          "vendor": "Alibaba-ATH",
+          "value": 1289
+        },
+        {
+          "id": "video-happyhorse-1-1",
+          "name": "HappyHorse-1.1",
+          "vendor": "Alibaba-ATH",
+          "value": 1282
+        },
+        {
+          "id": "video-seedance-2-0",
+          "name": "Dreamina Seedance 2.0 720p",
+          "vendor": "ByteDance Seed",
+          "value": 1271
+        },
+        {
+          "id": "video-kling-3-0-pro",
+          "name": "Kling 3.0 1080p (Pro)",
+          "vendor": "KlingAI",
+          "value": 1248
+        },
+        {
+          "id": "video-kling-o3-pro",
+          "name": "Kling 3.0 Omni 1080p (Pro)",
+          "vendor": "KlingAI",
+          "value": 1234
+        },
+        {
+          "id": "video-grok-imagine-video",
+          "name": "grok-imagine-video",
+          "vendor": "xAI",
+          "value": 1231
+        },
+        {
+          "id": "video-bach-1-0-preview",
+          "name": "Bach-1.0 Preview",
+          "vendor": "Video Rebirth",
+          "value": 1228
+        },
+        {
+          "id": "video-vidu-q3-pro",
+          "name": "Vidu Q3 Pro",
+          "vendor": "Vidu",
+          "value": 1225
+        }
+      ]
     }
   ]
 }
