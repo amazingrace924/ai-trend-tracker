@@ -1,7 +1,7 @@
 {
   "category": "llm",
   "date": "2026-07-08",
-  "updatedAt": "2026-07-08T12:17:55.182Z",
+  "updatedAt": "2026-07-08T22:09:08.504Z",
   "models": [
     {
       "id": "claude-fable-5",
@@ -49,7 +49,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "54.83s"
+          "value": "55.94s"
         },
         {
           "label": "입력 가격(1M)",
@@ -116,7 +116,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "19.82s"
+          "value": "28.17s"
         },
         {
           "label": "입력 가격(1M)",
@@ -147,7 +147,7 @@
         },
         {
           "label": "속도",
-          "value": "75/s"
+          "value": "71/s"
         },
         {
           "label": "출력가",
@@ -173,11 +173,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "75 tok/s"
+          "value": "71 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "30.45s"
+          "value": "52.79s"
         },
         {
           "label": "입력 가격(1M)",
@@ -195,6 +195,69 @@
       "strengths": [
         "코딩 강자",
         "고난도 추론"
+      ]
+    },
+    {
+      "id": "grok-4-5",
+      "name": "Grok 4.5 (high)",
+      "vendor": "SpaceXAI",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-07-08",
+      "score": 53.8,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "72"
+        },
+        {
+          "label": "속도",
+          "value": "89/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$6"
+        },
+        {
+          "label": "추론",
+          "value": "93%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "53.8"
+        },
+        {
+          "label": "코딩 지수",
+          "value": "72"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "93%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "89 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "26.92s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$2"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$6"
+        }
+      ],
+      "strengths": [
+        "가성비",
+        "고난도 추론",
+        "초고속"
       ]
     },
     {
@@ -274,7 +337,7 @@
         },
         {
           "label": "속도",
-          "value": "88/s"
+          "value": "79/s"
         },
         {
           "label": "출력가",
@@ -300,11 +363,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "88 tok/s"
+          "value": "79 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "143.75s"
+          "value": "141.47s"
         },
         {
           "label": "입력 가격(1M)",
@@ -315,9 +378,7 @@
           "value": "$10"
         }
       ],
-      "strengths": [
-        "가성비"
-      ]
+      "strengths": []
     },
     {
       "id": "gpt-5-5-high",
@@ -335,7 +396,7 @@
         },
         {
           "label": "속도",
-          "value": "74/s"
+          "value": "71/s"
         },
         {
           "label": "출력가",
@@ -361,11 +422,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "74 tok/s"
+          "value": "71 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "18.33s"
+          "value": "20.8s"
         },
         {
           "label": "입력 가격(1M)",
@@ -400,7 +461,7 @@
         },
         {
           "label": "속도",
-          "value": "184/s"
+          "value": "169/s"
         },
         {
           "label": "출력가",
@@ -426,11 +487,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "184 tok/s"
+          "value": "169 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "97.04s"
+          "value": "130.02s"
         },
         {
           "label": "입력 가격(1M)",
@@ -465,7 +526,7 @@
         },
         {
           "label": "속도",
-          "value": "191/s"
+          "value": "188/s"
         },
         {
           "label": "출력가",
@@ -491,11 +552,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "191 tok/s"
+          "value": "188 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "0.89s"
+          "value": "0.91s"
         },
         {
           "label": "입력 가격(1M)",
@@ -531,7 +592,7 @@
         },
         {
           "label": "속도",
-          "value": "72/s"
+          "value": "68/s"
         },
         {
           "label": "출력가",
@@ -557,11 +618,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "72 tok/s"
+          "value": "68 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "5.76s"
+          "value": "4.88s"
         },
         {
           "label": "입력 가격(1M)",
@@ -626,7 +687,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "13.94s"
+          "value": "15.24s"
         },
         {
           "label": "입력 가격(1M)",
@@ -662,7 +723,7 @@
         },
         {
           "label": "속도",
-          "value": "75/s"
+          "value": "74/s"
         },
         {
           "label": "출력가",
@@ -688,11 +749,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "75 tok/s"
+          "value": "74 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "46.62s"
+          "value": "48.79s"
         },
         {
           "label": "입력 가격(1M)",
@@ -704,72 +765,6 @@
         }
       ],
       "strengths": []
-    },
-    {
-      "id": "gemini-3-1-pro-preview",
-      "name": "Gemini 3.1 Pro Preview",
-      "vendor": "Google",
-      "category": "llm",
-      "license": "proprietary",
-      "releaseDate": "2026-02-19",
-      "score": 46.5,
-      "scoreLabel": "Intelligence Index",
-      "highlights": [
-        {
-          "label": "코딩",
-          "value": "69"
-        },
-        {
-          "label": "속도",
-          "value": "131/s"
-        },
-        {
-          "label": "출력가",
-          "value": "$12"
-        },
-        {
-          "label": "추론",
-          "value": "94%"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Intelligence Index",
-          "value": "46.5"
-        },
-        {
-          "label": "코딩 지수",
-          "value": "69"
-        },
-        {
-          "label": "GPQA Diamond",
-          "value": "94%"
-        },
-        {
-          "label": "출력 속도",
-          "value": "131 tok/s"
-        },
-        {
-          "label": "첫 토큰 지연",
-          "value": "23.7s"
-        },
-        {
-          "label": "입력 가격(1M)",
-          "value": "$2"
-        },
-        {
-          "label": "출력 가격(1M)",
-          "value": "$12"
-        },
-        {
-          "label": "사람 투표 Elo",
-          "value": "1486"
-        }
-      ],
-      "strengths": [
-        "고난도 추론",
-        "초고속"
-      ]
     }
   ]
 }

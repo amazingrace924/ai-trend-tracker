@@ -1917,7 +1917,7 @@
           "id": "voice-simba-3-2",
           "name": "Simba 3.2",
           "vendor": "SpeechifyAI",
-          "value": 1233
+          "value": 1234
         },
         {
           "id": "voice-gemini-3-1-tts",
@@ -1929,37 +1929,37 @@
           "id": "voice-sonic-3-5",
           "name": "Sonic 3.5",
           "vendor": "Cartesia",
-          "value": 1208
+          "value": 1207
         },
         {
           "id": "voice-fun-realtime-tts",
           "name": "Fun-Realtime-TTS",
           "vendor": "Alibaba",
-          "value": 1204
-        },
-        {
-          "id": "voice-realtime-tts-1-5-max",
-          "name": "Realtime TTS 1.5 Max",
-          "vendor": "Inworld",
-          "value": 1201
+          "value": 1205
         },
         {
           "id": "voice-realtime-tts-2-research-preview",
           "name": "Realtime TTS-2 - Research Preview",
           "vendor": "Inworld",
-          "value": 1200
+          "value": 1205
+        },
+        {
+          "id": "voice-realtime-tts-1-5-max",
+          "name": "Realtime TTS 1.5 Max",
+          "vendor": "Inworld",
+          "value": 1204
         },
         {
           "id": "voice-xai-text-to-speech",
           "name": "xAI Text to Speech",
           "vendor": "SpaceXAI",
-          "value": 1190
+          "value": 1189
         },
         {
           "id": "voice-speech-2-8-hd",
           "name": "Speech 2.8 HD",
           "vendor": "MiniMax",
-          "value": 1184
+          "value": 1185
         }
       ]
     }

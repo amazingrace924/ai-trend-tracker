@@ -1,7 +1,7 @@
 {
   "category": "voice",
   "date": "2026-07-08",
-  "updatedAt": "2026-07-08T12:17:55.867Z",
+  "updatedAt": "2026-07-08T22:09:08.995Z",
   "models": [
     {
       "id": "voice-simba-3-2",
@@ -9,12 +9,12 @@
       "vendor": "SpeechifyAI",
       "category": "voice",
       "license": "proprietary",
-      "score": 1233,
+      "score": 1234,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1233"
+          "value": "1234"
         },
         {
           "label": "순위",
@@ -32,7 +32,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1233"
+          "value": "1234"
         },
         {
           "label": "순위",
@@ -113,12 +113,12 @@
       "vendor": "Cartesia",
       "category": "voice",
       "license": "proprietary",
-      "score": 1208,
+      "score": 1207,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1208"
+          "value": "1207"
         },
         {
           "label": "순위",
@@ -136,7 +136,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1208"
+          "value": "1207"
         },
         {
           "label": "순위",
@@ -165,12 +165,12 @@
       "vendor": "Alibaba",
       "category": "voice",
       "license": "proprietary",
-      "score": 1204,
+      "score": 1205,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1204"
+          "value": "1205"
         },
         {
           "label": "순위",
@@ -188,7 +188,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1204"
+          "value": "1205"
         },
         {
           "label": "순위",
@@ -205,58 +205,6 @@
         {
           "label": "제작사",
           "value": "Alibaba"
-        }
-      ],
-      "strengths": [
-        "상위권"
-      ]
-    },
-    {
-      "id": "voice-realtime-tts-1-5-max",
-      "name": "Realtime TTS 1.5 Max",
-      "vendor": "Inworld",
-      "category": "voice",
-      "license": "proprietary",
-      "score": 1201,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1201"
-        },
-        {
-          "label": "순위",
-          "value": "#5"
-        },
-        {
-          "label": "투표수",
-          "value": "—"
-        },
-        {
-          "label": "제작사",
-          "value": "Inworld"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1201"
-        },
-        {
-          "label": "순위",
-          "value": "#5"
-        },
-        {
-          "label": "투표 수",
-          "value": "—"
-        },
-        {
-          "label": "출시일",
-          "value": "—"
-        },
-        {
-          "label": "제작사",
-          "value": "Inworld"
         }
       ],
       "strengths": [
@@ -269,12 +217,64 @@
       "vendor": "Inworld",
       "category": "voice",
       "license": "proprietary",
-      "score": 1200,
+      "score": 1205,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1200"
+          "value": "1205"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Inworld"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1205"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Inworld"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "voice-realtime-tts-1-5-max",
+      "name": "Realtime TTS 1.5 Max",
+      "vendor": "Inworld",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1204,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1204"
         },
         {
           "label": "순위",
@@ -292,7 +292,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1200"
+          "value": "1204"
         },
         {
           "label": "순위",
@@ -321,12 +321,12 @@
       "vendor": "SpaceXAI",
       "category": "voice",
       "license": "proprietary",
-      "score": 1190,
+      "score": 1189,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1190"
+          "value": "1189"
         },
         {
           "label": "순위",
@@ -344,7 +344,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1190"
+          "value": "1189"
         },
         {
           "label": "순위",
@@ -371,12 +371,12 @@
       "vendor": "MiniMax",
       "category": "voice",
       "license": "proprietary",
-      "score": 1184,
+      "score": 1185,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1184"
+          "value": "1185"
         },
         {
           "label": "순위",
@@ -394,7 +394,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1184"
+          "value": "1185"
         },
         {
           "label": "순위",
@@ -421,12 +421,12 @@
       "vendor": "async",
       "category": "voice",
       "license": "proprietary",
-      "score": 1183,
+      "score": 1182,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1183"
+          "value": "1182"
         },
         {
           "label": "순위",
@@ -444,7 +444,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1183"
+          "value": "1182"
         },
         {
           "label": "순위",
@@ -466,17 +466,17 @@
       "strengths": []
     },
     {
-      "id": "voice-step-audio-2.5-tts",
-      "name": "StepAudio 2.5 TTS",
-      "vendor": "StepFun",
+      "id": "voice-luna-tts",
+      "name": "Luna TTS",
+      "vendor": "VUI Labs",
       "category": "voice",
       "license": "proprietary",
-      "score": 1174,
+      "score": 1176,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1174"
+          "value": "1176"
         },
         {
           "label": "순위",
@@ -488,13 +488,13 @@
         },
         {
           "label": "제작사",
-          "value": "StepFun"
+          "value": "VUI Labs"
         }
       ],
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1174"
+          "value": "1176"
         },
         {
           "label": "순위",
@@ -510,7 +510,7 @@
         },
         {
           "label": "제작사",
-          "value": "StepFun"
+          "value": "VUI Labs"
         }
       ],
       "strengths": []
