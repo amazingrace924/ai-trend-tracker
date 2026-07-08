@@ -1909,6 +1909,59 @@
           "value": 1227
         }
       ]
+    },
+    {
+      "date": "2026-07-08",
+      "entries": [
+        {
+          "id": "image-gpt-image-2",
+          "name": "GPT Image 2 (high)",
+          "vendor": "OpenAI",
+          "value": 1339
+        },
+        {
+          "id": "image-reve-2",
+          "name": "Reve 2.0",
+          "vendor": "Reve",
+          "value": 1281
+        },
+        {
+          "id": "image-mai-image-2-5",
+          "name": "MAI-Image-2.5",
+          "vendor": "Microsoft AI",
+          "value": 1271
+        },
+        {
+          "id": "image-hidream-o1-image-1-5",
+          "name": "HiDream-O1-Image-1.5",
+          "vendor": "HiDream",
+          "value": 1265
+        },
+        {
+          "id": "image-openai-gpt_image-1-5",
+          "name": "GPT Image 1.5 (high)",
+          "vendor": "OpenAI",
+          "value": 1260
+        },
+        {
+          "id": "image-nano-banana-2",
+          "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
+          "vendor": "Google",
+          "value": 1255
+        },
+        {
+          "id": "image-sourceful_riverflow-2",
+          "name": "Riverflow 2.0",
+          "vendor": "Sourceful",
+          "value": 1252
+        },
+        {
+          "id": "image-cosmos3-super-text2image-agentic",
+          "name": "Cosmos3-Super-Text2Image (agentic)",
+          "vendor": "NVIDIA",
+          "value": 1227
+        }
+      ]
     }
   ]
 }

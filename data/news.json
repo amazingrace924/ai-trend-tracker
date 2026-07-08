@@ -36,6 +36,16 @@
     "titleKo": "모든 클라우드에서 AI 워크로드를 실행하고 Hugging Face에 저장: SkyPilot을 통한 제로 송신 스토리지"
   },
   {
+    "id": "OpenAI-1-mufg-aims-to-become-ai-native-with-opena",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
+    "source": "OpenAI",
+    "date": "2026-07-07T00:00:00.000Z",
+    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "titleKo": "MUFG는 OpenAI를 통해 AI 네이티브화를 목표로 합니다.",
+    "summaryKo": "MUFG는 ChatGPT Enterprise를 사용하여 AI 기반 조직을 구축하고 워크플로를 개선하며 새로운 AI 기반 금융 서비스를 대규모로 제공합니다."
+  },
+  {
     "id": "OpenAI-0-australian-payments-plus-moves-faster-wi",
     "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
     "url": "https://openai.com/index/australian-payments-plus",
@@ -109,7 +119,7 @@
     "titleKo": "전문화가 불가피한 이유"
   },
   {
-    "id": "OpenAI-1-how-chatgpt-adoption-has-expanded",
+    "id": "OpenAI-2-how-chatgpt-adoption-has-expanded",
     "title": "How ChatGPT adoption has expanded",
     "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "source": "OpenAI",
@@ -128,7 +138,7 @@
     "titleKo": "포옹 얼굴 모델 페이지에 모든 평가 결과 표시"
   },
   {
-    "id": "OpenAI-4-inside-genebench-pro",
+    "id": "OpenAI-5-inside-genebench-pro",
     "title": "Inside Genebench-Pro",
     "url": "https://openai.com/index/genebench-pro/case-studies",
     "source": "OpenAI",
@@ -137,7 +147,7 @@
     "titleKo": "Genebench-Pro 내부"
   },
   {
-    "id": "OpenAI-3-introducing-genebench-pro",
+    "id": "OpenAI-4-introducing-genebench-pro",
     "title": "Introducing GeneBench-Pro",
     "url": "https://openai.com/index/introducing-genebench-pro",
     "source": "OpenAI",
@@ -147,7 +157,7 @@
     "summaryKo": "복잡한 실제 데이터 세트를 사용하여 유전체학, 생물학 및 과학 연구에서 AI 성능을 테스트하는 새로운 벤치마크인 GeneBench-Pro를 소개합니다."
   },
   {
-    "id": "OpenAI-2-core-dump-epidemiology-fixing-an-18-year",
+    "id": "OpenAI-3-core-dump-epidemiology-fixing-an-18-year",
     "title": "Core dump epidemiology: fixing an 18-year-old bug",
     "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "source": "OpenAI",
@@ -166,7 +176,7 @@
     "titleKo": "DiScoFormer: 분포 전반에 걸쳐 밀도 및 점수를 위한 단일 변환기"
   },
   {
-    "id": "OpenAI-5-mapping-europe-s-ai-workforce-opportunit",
+    "id": "OpenAI-6-mapping-europe-s-ai-workforce-opportunit",
     "title": "Mapping Europe’s AI Workforce Opportunity",
     "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
     "source": "OpenAI",
@@ -176,7 +186,7 @@
     "summaryKo": "새로운 OpenAI 보고서는 AI가 EU 전역에서 일자리를 어떻게 재구성할 수 있는지 보여주며 어떤 직업이 자동화, 성장 또는 워크플로 변화에 직면할 수 있는지 강조합니다."
   },
   {
-    "id": "OpenAI-6-hp-inc-launches-frontier-strategic-partn",
+    "id": "OpenAI-7-hp-inc-launches-frontier-strategic-partn",
     "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
     "url": "https://openai.com/index/hp-frontier-partnership",
     "source": "OpenAI",
@@ -186,7 +196,7 @@
     "summaryKo": "HP Inc.는 OpenAI Frontier 파트너십을 확장하여 고객 경험, 소프트웨어 개발, 기업 운영 전반에 걸쳐 AI를 배포합니다."
   },
   {
-    "id": "OpenAI-7-previewing-gpt-5-6-sol-a-next-generation",
+    "id": "OpenAI-8-previewing-gpt-5-6-sol-a-next-generation",
     "title": "Previewing GPT-5.6 Sol: a next-generation model",
     "url": "https://openai.com/index/previewing-gpt-5-6-sol",
     "source": "OpenAI",
@@ -203,16 +213,6 @@
     "date": "2026-06-26T00:00:00.000Z",
     "summary": "",
     "titleKo": "하나의 명령으로 HF 작업에서 vLLM 서버 실행"
-  },
-  {
-    "id": "OpenAI-8-designing-organisations-that-can-keep-up",
-    "title": "Designing Organisations That Can Keep Up With AI",
-    "url": "https://openai.com/deployco/news/designing-organisations-that-can-keep-up-with-ai",
-    "source": "OpenAI",
-    "date": "2026-06-25T12:00:00.000Z",
-    "summary": "Why organisational latency is becoming the biggest barrier to fully realising AI’s benefits",
-    "titleKo": "AI를 따라갈 수 있는 조직 설계",
-    "summaryKo": "조직의 지연 시간이 AI의 이점을 완전히 실현하는 데 가장 큰 장애물이 되는 이유"
   },
   {
     "id": "OpenAI-9-how-agents-are-transforming-work",
@@ -262,7 +262,7 @@
     "titleKo": "FFASR 리더보드 소개: 실제 세계에서 ASR 벤치마킹"
   },
   {
-    "id": "OpenAI-13-how-gpt-5-helped-immunologist-derya-unut",
+    "id": "OpenAI-12-how-gpt-5-helped-immunologist-derya-unut",
     "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
     "url": "https://openai.com/index/gpt-5-immunology-mystery",
     "source": "OpenAI",
@@ -282,16 +282,6 @@
     "summaryKo": "OpenAI는 고급 AI에 대한 공유 표준을 구축하고 Appia Foundation을 통해 평가 프레임워크, 안전 관행 및 글로벌 협력을 지원합니다."
   },
   {
-    "id": "OpenAI-12-meta-harness-r-d-enterprise-grade-self-i",
-    "title": "Meta-Harness R&D: Enterprise-Grade Self-Improvement for Long-Horizon AI Workflows",
-    "url": "https://openai.com/deployco/news/meta-harness-enterprise-self-improvement-long-horizon-ai-workflows",
-    "source": "OpenAI",
-    "date": "2026-06-23T12:00:00.000Z",
-    "summary": "How autonomous code improvement can be made disciplined enough for enterprise use",
-    "titleKo": "Meta-Harness R&D: 장기적인 AI 워크플로우를 위한 엔터프라이즈급 자체 개선",
-    "summaryKo": "자율적 코드 개선이 기업용으로 충분히 규율화될 수 있는 방법"
-  },
-  {
     "id": "Hugging Face-14-shipping-huggingface-hub-every-week-with",
     "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
     "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
@@ -301,7 +291,7 @@
     "titleKo": "AI, 개방형 도구, 인간이 루프에 참여하는 Huggingface_hub를 매주 배송합니다."
   },
   {
-    "id": "OpenAI-14-how-omio-is-building-the-future-of-conve",
+    "id": "OpenAI-13-how-omio-is-building-the-future-of-conve",
     "title": "How Omio is building the future of conversational travel",
     "url": "https://openai.com/index/omio",
     "source": "OpenAI",
@@ -309,6 +299,16 @@
     "summary": "Discover how Omio uses OpenAI to power conversational travel experiences, accelerate product development, and transform into an AI-native company.",
     "titleKo": "Omio가 대화형 여행의 미래를 구축하는 방법",
     "summaryKo": "Omio가 OpenAI를 사용하여 대화형 여행 경험을 강화하고 제품 개발을 가속화하며 AI 기반 회사로 변모하는 방법을 알아보세요."
+  },
+  {
+    "id": "OpenAI-14-daybreak-tools-for-securing-every-organi",
+    "title": "Daybreak: Tools for securing every organization in the world",
+    "url": "https://openai.com/index/daybreak-securing-the-world",
+    "source": "OpenAI",
+    "date": "2026-06-22T10:00:00.000Z",
+    "summary": "OpenAI introduces new Daybreak tools, including Codex Security and GPT-5.5-Cyber, to help organizations find, validate, and patch vulnerabilities at scale.",
+    "titleKo": "Daybreak: 전 세계 모든 조직의 보안을 위한 도구",
+    "summaryKo": "OpenAI는 Codex Security 및 GPT-5.5-Cyber를 포함한 새로운 Daybreak 도구를 도입하여 조직이 대규모로 취약점을 찾아 검증하고 패치하는 데 도움을 줍니다."
   },
   {
     "id": "Google DeepMind-3-unlocking-uk-house-building-with-ai-acce",
@@ -375,6 +375,6 @@
     "source": "Google DeepMind",
     "date": "2026-06-09T14:02:33.000Z",
     "summary": "",
-    "titleKo": "유럽 ​​로봇 공학의 미래를 주도하다"
+    "titleKo": "유럽 ​​로봇공학의 미래를 주도하다"
   }
 ]
