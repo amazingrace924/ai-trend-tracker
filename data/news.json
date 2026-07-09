@@ -1,5 +1,45 @@
 [
   {
+    "id": "OpenAI-0-gpt-5-6-is-now-the-preferred-model-in-mi",
+    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+    "source": "OpenAI",
+    "date": "2026-07-09T13:00:00.000Z",
+    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+    "titleKo": "GPT-5.6은 이제 Microsoft 365 Copilot의 기본 모델입니다.",
+    "summaryKo": "GPT-5.6이 Word, Excel, PowerPoint, Chat, Cowork 전반에 걸쳐 더욱 강력한 AI 기능을 통해 Microsoft 365 Copilot을 강화하여 보다 빠르고 고품질의 작업을 수행하는 방법을 알아보세요."
+  },
+  {
+    "id": "OpenAI-3-gpt-5-6-frontier-intelligence-that-scale",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "url": "https://openai.com/index/gpt-5-6",
+    "source": "OpenAI",
+    "date": "2026-07-09T10:00:00.000Z",
+    "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "titleKo": "GPT-5.6: 당신의 야망에 맞춰 확장되는 프론티어 인텔리전스",
+    "summaryKo": "모든 토큰의 더 많은 인텔리전스, 달러당 더 강력한 성능, 가장 어려운 작업에 필요한 더 많은 기능을 제공합니다."
+  },
+  {
+    "id": "OpenAI-2-gpt-5-5-bio-bug-bounty",
+    "title": "GPT-5.5 Bio Bug Bounty",
+    "url": "https://openai.com/index/bio-bug-bounty",
+    "source": "OpenAI",
+    "date": "2026-07-09T10:00:00.000Z",
+    "summary": "Details about the OpenAI Bio Bounty program",
+    "titleKo": "GPT-5.5 바이오 버그 바운티",
+    "summaryKo": "OpenAI Bio Bounty 프로그램에 대한 세부 정보"
+  },
+  {
+    "id": "OpenAI-1-chatgpt-is-now-a-partner-for-your-most-a",
+    "title": "ChatGPT is now a partner for your most ambitious work",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
+    "source": "OpenAI",
+    "date": "2026-07-09T10:00:00.000Z",
+    "summary": "ChatGPT Work is an agent that can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work.",
+    "titleKo": "ChatGPT는 이제 가장 야심찬 작업을 위한 파트너입니다",
+    "summaryKo": "ChatGPT Work는 앱과 파일 전반에 걸쳐 조치를 취하고, 필요한 경우 몇 시간 동안 프로젝트에 머물며, 목표를 완료된 작업으로 전환할 수 있는 에이전트입니다."
+  },
+  {
     "id": "Hugging Face-0-data-for-agents",
     "title": "Data for Agents",
     "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
@@ -9,7 +49,7 @@
     "titleKo": "에이전트를 위한 데이터"
   },
   {
-    "id": "OpenAI-0-our-approach-to-government-and-national-",
+    "id": "OpenAI-4-our-approach-to-government-and-national-",
     "title": "Our approach to government and national security partnerships",
     "url": "https://openai.com/index/government-national-security-partnerships",
     "source": "OpenAI",
@@ -19,7 +59,7 @@
     "summaryKo": "책임 있는 AI 사용, 민주적 책임 및 공공 안전에 대한 원칙을 통해 OpenAI가 정부 및 국가 보안 파트너십에 접근하는 방법을 알아보세요."
   },
   {
-    "id": "OpenAI-1-separating-signal-from-noise-in-coding-e",
+    "id": "OpenAI-5-separating-signal-from-noise-in-coding-e",
     "title": "Separating signal from noise in coding evaluations",
     "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
     "source": "OpenAI",
@@ -29,7 +69,7 @@
     "summaryKo": "OpenAI의 새로운 분석에서는 인기 있는 코딩 벤치마크인 SWE-Bench Pro의 문제를 밝혀 AI 모델 평가의 신뢰성과 정확성에 대한 우려를 불러일으켰습니다."
   },
   {
-    "id": "OpenAI-2-helping-k-12-educators-build-practical-a",
+    "id": "OpenAI-6-helping-k-12-educators-build-practical-a",
     "title": "Helping K–12 educators build practical AI skills",
     "url": "https://openai.com/index/k-12-educators-practical-skills",
     "source": "OpenAI",
@@ -48,7 +88,7 @@
     "titleKo": "기본 속도 vLLM 변환기 모델링 백엔드"
   },
   {
-    "id": "OpenAI-3-introducing-gpt-live",
+    "id": "OpenAI-7-introducing-gpt-live",
     "title": "Introducing GPT-Live",
     "url": "https://openai.com/index/introducing-gpt-live",
     "source": "OpenAI",
@@ -94,17 +134,7 @@
     "titleKo": "모든 클라우드에서 AI 워크로드를 실행하고 Hugging Face에 저장: SkyPilot을 통한 제로 송신 스토리지"
   },
   {
-    "id": "OpenAI-5-mufg-aims-to-become-ai-native-with-opena",
-    "title": "MUFG aims to become AI-native with OpenAI",
-    "url": "https://openai.com/index/mufg",
-    "source": "OpenAI",
-    "date": "2026-07-07T00:00:00.000Z",
-    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
-    "titleKo": "MUFG는 OpenAI를 통해 AI 네이티브화를 목표로 합니다.",
-    "summaryKo": "MUFG는 ChatGPT Enterprise를 사용하여 AI 기반 조직을 구축하고 워크플로를 개선하며 새로운 AI 기반 금융 서비스를 대규모로 제공합니다."
-  },
-  {
-    "id": "OpenAI-4-australian-payments-plus-moves-faster-wi",
+    "id": "OpenAI-9-australian-payments-plus-moves-faster-wi",
     "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
     "url": "https://openai.com/index/australian-payments-plus",
     "source": "OpenAI",
@@ -112,6 +142,16 @@
     "summary": "See how Australian Payments Plus uses ChatGPT Enterprise and Codex to move faster through payments complexity. AP+ saves time, improves quality, and keeps human judgment central.",
     "titleKo": "Australian Payments Plus는 ChatGPT 및 Codex를 통해 더욱 빠르게 발전합니다.",
     "summaryKo": "Australian Payments Plus가 어떻게 ChatGPT Enterprise 및 Codex를 사용하여 결제 복잡성을 더욱 빠르게 처리하는지 알아보세요. AP+는 시간을 절약하고, 품질을 향상시키며, 인간의 판단을 중심으로 유지합니다."
+  },
+  {
+    "id": "OpenAI-8-mufg-aims-to-become-ai-native-with-opena",
+    "title": "MUFG aims to become AI-native with OpenAI",
+    "url": "https://openai.com/index/mufg",
+    "source": "OpenAI",
+    "date": "2026-07-07T00:00:00.000Z",
+    "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+    "titleKo": "MUFG는 OpenAI를 통해 AI 네이티브화를 목표로 합니다.",
+    "summaryKo": "MUFG는 ChatGPT Enterprise를 사용하여 AI 기반 조직을 구축하고 워크플로를 개선하며 새로운 AI 기반 금융 서비스를 대규모로 제공합니다."
   },
   {
     "id": "Hugging Face-6-prx-part-4-our-data-strategy",
@@ -177,7 +217,7 @@
     "titleKo": "전문화가 불가피한 이유"
   },
   {
-    "id": "OpenAI-6-how-chatgpt-adoption-has-expanded",
+    "id": "OpenAI-10-how-chatgpt-adoption-has-expanded",
     "title": "How ChatGPT adoption has expanded",
     "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "source": "OpenAI",
@@ -196,7 +236,16 @@
     "titleKo": "포옹 얼굴 모델 페이지에 모든 평가 결과 표시"
   },
   {
-    "id": "OpenAI-9-core-dump-epidemiology-fixing-an-18-year",
+    "id": "OpenAI-13-inside-genebench-pro",
+    "title": "Inside Genebench-Pro",
+    "url": "https://openai.com/index/genebench-pro/case-studies",
+    "source": "OpenAI",
+    "date": "2026-06-30T00:00:00.000Z",
+    "summary": "",
+    "titleKo": "Genebench-Pro 내부"
+  },
+  {
+    "id": "OpenAI-12-core-dump-epidemiology-fixing-an-18-year",
     "title": "Core dump epidemiology: fixing an 18-year-old bug",
     "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
     "source": "OpenAI",
@@ -206,16 +255,7 @@
     "summaryKo": "OpenAI 엔지니어는 대규모 코어 덤프 분석을 사용하여 드물게 발생하는 인프라 충돌을 디버깅하고 하드웨어 결함과 오랫동안 지속된 소프트웨어 버그를 모두 찾아냈습니다."
   },
   {
-    "id": "OpenAI-8-inside-genebench-pro",
-    "title": "Inside Genebench-Pro",
-    "url": "https://openai.com/index/genebench-pro/case-studies",
-    "source": "OpenAI",
-    "date": "2026-06-30T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "Genebench-Pro 내부"
-  },
-  {
-    "id": "OpenAI-7-introducing-genebench-pro",
+    "id": "OpenAI-11-introducing-genebench-pro",
     "title": "Introducing GeneBench-Pro",
     "url": "https://openai.com/index/introducing-genebench-pro",
     "source": "OpenAI",
@@ -234,7 +274,7 @@
     "titleKo": "DiScoFormer: 분포 전반에 걸쳐 밀도 및 점수를 위한 단일 변환기"
   },
   {
-    "id": "OpenAI-10-mapping-europe-s-ai-workforce-opportunit",
+    "id": "OpenAI-14-mapping-europe-s-ai-workforce-opportunit",
     "title": "Mapping Europe’s AI Workforce Opportunity",
     "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
     "source": "OpenAI",
@@ -244,26 +284,6 @@
     "summaryKo": "새로운 OpenAI 보고서는 AI가 EU 전역에서 일자리를 어떻게 재구성할 수 있는지 보여주며 어떤 직업이 자동화, 성장 또는 워크플로 변화에 직면할 수 있는지 강조합니다."
   },
   {
-    "id": "OpenAI-11-hp-inc-launches-frontier-strategic-partn",
-    "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-    "url": "https://openai.com/index/hp-frontier-partnership",
-    "source": "OpenAI",
-    "date": "2026-06-28T17:00:00.000Z",
-    "summary": "HP Inc. scales its OpenAI Frontier partnership to deploy AI across customer experiences, software development, and enterprise operations.",
-    "titleKo": "HP Inc., OpenAI와 Frontier 전략적 파트너십 개시",
-    "summaryKo": "HP Inc.는 OpenAI Frontier 파트너십을 확장하여 고객 경험, 소프트웨어 개발, 기업 운영 전반에 걸쳐 AI를 배포합니다."
-  },
-  {
-    "id": "OpenAI-12-previewing-gpt-5-6-sol-a-next-generation",
-    "title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-    "source": "OpenAI",
-    "date": "2026-06-26T10:00:00.000Z",
-    "summary": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-    "titleKo": "GPT-5.6 Sol 미리보기: 차세대 모델",
-    "summaryKo": "OpenAI는 코딩, 과학, 사이버 보안 분야에서 더욱 강력한 기능과 가장 진보된 안전 스택을 결합한 차세대 모델인 GPT-5.6 Sol을 미리 선보입니다."
-  },
-  {
     "id": "Hugging Face-13-run-a-vllm-server-on-hf-jobs-in-one-comm",
     "title": "Run a vLLM Server on HF Jobs in One Command",
     "url": "https://huggingface.co/blog/vllm-jobs",
@@ -271,16 +291,6 @@
     "date": "2026-06-26T00:00:00.000Z",
     "summary": "",
     "titleKo": "하나의 명령으로 HF 작업에서 vLLM 서버 실행"
-  },
-  {
-    "id": "OpenAI-13-how-agents-are-transforming-work",
-    "title": "How agents are transforming work",
-    "url": "https://openai.com/index/how-agents-are-transforming-work",
-    "source": "OpenAI",
-    "date": "2026-06-25T02:00:00.000Z",
-    "summary": "A new OpenAI research paper shows how AI agents are transforming work, enabling longer, more complex tasks and expanding productivity across roles.",
-    "titleKo": "상담원이 업무를 혁신하는 방법",
-    "summaryKo": "새로운 OpenAI 연구 논문은 AI 에이전트가 업무를 어떻게 변화시켜 더 길고 복잡한 작업을 가능하게 하며 역할 전반에 걸쳐 생산성을 확대하는지 보여줍니다."
   },
   {
     "id": "Google DeepMind-2-introducing-computer-use-in-gemini-3-5-f",
@@ -299,16 +309,6 @@
     "date": "2026-06-24T16:00:13.000Z",
     "summary": "",
     "titleKo": "NVIDIA NeMo AutoModel을 통한 Transformer 미세 조정 가속화"
-  },
-  {
-    "id": "OpenAI-14-openai-and-broadcom-unveil-llm-optimized",
-    "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
-    "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
-    "source": "OpenAI",
-    "date": "2026-06-24T06:00:00.000Z",
-    "summary": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
-    "titleKo": "OpenAI와 Broadcom, LLM에 최적화된 추론 칩 공개",
-    "summaryKo": "OpenAI와 Broadcom은 AI 시스템 전반에서 성능, 효율성 및 확장성을 개선하기 위해 LLM 추론용으로 제작된 맞춤형 AI 칩인 Jalapeño를 출시합니다."
   },
   {
     "id": "Google DeepMind-3-unlocking-uk-house-building-with-ai-acce",
