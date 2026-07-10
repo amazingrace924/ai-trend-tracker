@@ -1,6 +1,25 @@
 [
   {
-    "id": "OpenAI-0-gpt-5-6-is-now-the-preferred-model-in-mi",
+    "id": "OpenAI-0-how-deutsche-telekom-is-rewiring-telecom",
+    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+    "url": "https://openai.com/index/deutsche-telekom",
+    "source": "OpenAI",
+    "date": "2026-07-10T07:00:00.000Z",
+    "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
+    "titleKo": "Deutsche Telekom이 AI를 통해 통신을 재배선하는 방법",
+    "summaryKo": "Deutsche Telekom이 OpenAI를 통해 고객 서비스, 직원 워크플로, 네트워크 운영 및 음성의 미래를 변화시키는 AI 기반 통신사가 되는 방법."
+  },
+  {
+    "id": "Hugging Face-0-profiling-in-pytorch-part-3-attention-is",
+    "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+    "url": "https://huggingface.co/blog/torch-attention-profile",
+    "source": "Hugging Face",
+    "date": "2026-07-10T00:00:00.000Z",
+    "summary": "",
+    "titleKo": "PyTorch에서 프로파일링(3부): 프로파일링에는 관심이 전부입니다."
+  },
+  {
+    "id": "OpenAI-1-gpt-5-6-is-now-the-preferred-model-in-mi",
     "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
     "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
     "source": "OpenAI",
@@ -10,17 +29,7 @@
     "summaryKo": "GPT-5.6이 Word, Excel, PowerPoint, Chat, Cowork 전반에 걸쳐 더욱 강력한 AI 기능을 통해 Microsoft 365 Copilot을 강화하여 보다 빠르고 고품질의 작업을 수행하는 방법을 알아보세요."
   },
   {
-    "id": "OpenAI-3-gpt-5-6-frontier-intelligence-that-scale",
-    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-    "url": "https://openai.com/index/gpt-5-6",
-    "source": "OpenAI",
-    "date": "2026-07-09T10:00:00.000Z",
-    "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
-    "titleKo": "GPT-5.6: 당신의 야망에 맞춰 확장되는 프론티어 인텔리전스",
-    "summaryKo": "모든 토큰의 더 많은 인텔리전스, 달러당 더 강력한 성능, 가장 어려운 작업에 필요한 더 많은 기능을 제공합니다."
-  },
-  {
-    "id": "OpenAI-2-gpt-5-5-bio-bug-bounty",
+    "id": "OpenAI-4-gpt-5-5-bio-bug-bounty",
     "title": "GPT-5.5 Bio Bug Bounty",
     "url": "https://openai.com/index/bio-bug-bounty",
     "source": "OpenAI",
@@ -30,7 +39,7 @@
     "summaryKo": "OpenAI Bio Bounty 프로그램에 대한 세부 정보"
   },
   {
-    "id": "OpenAI-1-chatgpt-is-now-a-partner-for-your-most-a",
+    "id": "OpenAI-3-chatgpt-is-now-a-partner-for-your-most-a",
     "title": "ChatGPT is now a partner for your most ambitious work",
     "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
     "source": "OpenAI",
@@ -40,7 +49,17 @@
     "summaryKo": "ChatGPT Work는 앱과 파일 전반에 걸쳐 조치를 취하고, 필요한 경우 몇 시간 동안 프로젝트에 머물며, 목표를 완료된 작업으로 전환할 수 있는 에이전트입니다."
   },
   {
-    "id": "Hugging Face-0-data-for-agents",
+    "id": "OpenAI-2-gpt-5-6-frontier-intelligence-that-scale",
+    "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+    "url": "https://openai.com/index/gpt-5-6",
+    "source": "OpenAI",
+    "date": "2026-07-09T10:00:00.000Z",
+    "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
+    "titleKo": "GPT-5.6: 당신의 야망에 맞춰 확장되는 프론티어 인텔리전스",
+    "summaryKo": "모든 토큰의 더 많은 인텔리전스, 달러당 더 강력한 성능, 가장 어려운 작업에 필요한 더 많은 기능을 제공합니다."
+  },
+  {
+    "id": "Hugging Face-1-data-for-agents",
     "title": "Data for Agents",
     "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
     "source": "Hugging Face",
@@ -49,7 +68,7 @@
     "titleKo": "에이전트를 위한 데이터"
   },
   {
-    "id": "OpenAI-4-our-approach-to-government-and-national-",
+    "id": "OpenAI-5-our-approach-to-government-and-national-",
     "title": "Our approach to government and national security partnerships",
     "url": "https://openai.com/index/government-national-security-partnerships",
     "source": "OpenAI",
@@ -59,7 +78,7 @@
     "summaryKo": "책임 있는 AI 사용, 민주적 책임 및 공공 안전에 대한 원칙을 통해 OpenAI가 정부 및 국가 보안 파트너십에 접근하는 방법을 알아보세요."
   },
   {
-    "id": "OpenAI-5-separating-signal-from-noise-in-coding-e",
+    "id": "OpenAI-6-separating-signal-from-noise-in-coding-e",
     "title": "Separating signal from noise in coding evaluations",
     "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
     "source": "OpenAI",
@@ -69,7 +88,7 @@
     "summaryKo": "OpenAI의 새로운 분석에서는 인기 있는 코딩 벤치마크인 SWE-Bench Pro의 문제를 밝혀 AI 모델 평가의 신뢰성과 정확성에 대한 우려를 불러일으켰습니다."
   },
   {
-    "id": "OpenAI-6-helping-k-12-educators-build-practical-a",
+    "id": "OpenAI-7-helping-k-12-educators-build-practical-a",
     "title": "Helping K–12 educators build practical AI skills",
     "url": "https://openai.com/index/k-12-educators-practical-skills",
     "source": "OpenAI",
@@ -79,7 +98,7 @@
     "summaryKo": "OpenAI Academy와 Walton Family Foundation은 K~12 교육자가 교실에서 실용적인 AI 기술을 구축할 수 있도록 실습형 AI Skills Jam을 선보입니다."
   },
   {
-    "id": "Hugging Face-1-native-speed-vllm-transformers-modeling-",
+    "id": "Hugging Face-2-native-speed-vllm-transformers-modeling-",
     "title": "Native-speed vLLM transformers modeling backend",
     "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
     "source": "Hugging Face",
@@ -88,7 +107,7 @@
     "titleKo": "기본 속도 vLLM 변환기 모델링 백엔드"
   },
   {
-    "id": "OpenAI-7-introducing-gpt-live",
+    "id": "OpenAI-8-introducing-gpt-live",
     "title": "Introducing GPT-Live",
     "url": "https://openai.com/index/introducing-gpt-live",
     "source": "OpenAI",
@@ -98,7 +117,7 @@
     "summaryKo": "자연스러운 인간-AI ​​상호 작용을 위한 차세대 음성 모델이 이제 ChatGPT Voice를 지원합니다."
   },
   {
-    "id": "Hugging Face-2-from-hugging-face-to-amazon-sagemaker-st",
+    "id": "Hugging Face-3-from-hugging-face-to-amazon-sagemaker-st",
     "title": "From Hugging Face to Amazon SageMaker Studio in one click",
     "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
     "source": "Hugging Face",
@@ -107,7 +126,7 @@
     "titleKo": "한 번의 클릭으로 Hugging Face에서 Amazon SageMaker Studio까지"
   },
   {
-    "id": "Hugging Face-3-hugging-face-models-on-foundry-managed-c",
+    "id": "Hugging Face-4-hugging-face-models-on-foundry-managed-c",
     "title": "Hugging Face Models on Foundry Managed Compute",
     "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
     "source": "Hugging Face",
@@ -116,7 +135,7 @@
     "titleKo": "Foundry 관리형 컴퓨팅에서 얼굴 모델 포옹"
   },
   {
-    "id": "Hugging Face-5-lerobot-v0-6-0-imagine-evaluate-improve",
+    "id": "Hugging Face-6-lerobot-v0-6-0-imagine-evaluate-improve",
     "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
     "url": "https://huggingface.co/blog/lerobot-release-v060",
     "source": "Hugging Face",
@@ -125,7 +144,7 @@
     "titleKo": "LeRobot v0.6.0: 상상하고, 평가하고, 개선하세요"
   },
   {
-    "id": "Hugging Face-4-run-ai-workloads-on-any-cloud-store-on-h",
+    "id": "Hugging Face-5-run-ai-workloads-on-any-cloud-store-on-h",
     "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
     "url": "https://huggingface.co/blog/skypilot-hf-storage",
     "source": "Hugging Face",
@@ -134,7 +153,7 @@
     "titleKo": "모든 클라우드에서 AI 워크로드를 실행하고 Hugging Face에 저장: SkyPilot을 통한 제로 송신 스토리지"
   },
   {
-    "id": "OpenAI-9-australian-payments-plus-moves-faster-wi",
+    "id": "OpenAI-10-australian-payments-plus-moves-faster-wi",
     "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
     "url": "https://openai.com/index/australian-payments-plus",
     "source": "OpenAI",
@@ -144,7 +163,7 @@
     "summaryKo": "Australian Payments Plus가 어떻게 ChatGPT Enterprise 및 Codex를 사용하여 결제 복잡성을 더욱 빠르게 처리하는지 알아보세요. AP+는 시간을 절약하고, 품질을 향상시키며, 인간의 판단을 중심으로 유지합니다."
   },
   {
-    "id": "OpenAI-8-mufg-aims-to-become-ai-native-with-opena",
+    "id": "OpenAI-9-mufg-aims-to-become-ai-native-with-opena",
     "title": "MUFG aims to become AI-native with OpenAI",
     "url": "https://openai.com/index/mufg",
     "source": "OpenAI",
@@ -154,7 +173,7 @@
     "summaryKo": "MUFG는 ChatGPT Enterprise를 사용하여 AI 기반 조직을 구축하고 워크플로를 개선하며 새로운 AI 기반 금융 서비스를 대규모로 제공합니다."
   },
   {
-    "id": "Hugging Face-6-prx-part-4-our-data-strategy",
+    "id": "Hugging Face-7-prx-part-4-our-data-strategy",
     "title": "PRX Part 4: Our Data Strategy",
     "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
     "source": "Hugging Face",
@@ -163,7 +182,7 @@
     "titleKo": "PRX 파트 4: 데이터 전략"
   },
   {
-    "id": "Hugging Face-7--kernels-major-updates",
+    "id": "Hugging Face-8--kernels-major-updates",
     "title": "🤗 Kernels: Major Updates",
     "url": "https://huggingface.co/blog/revamped-kernels",
     "source": "Hugging Face",
@@ -181,7 +200,7 @@
     "titleKo": "Google DeepMind와 A24, 최초의 연구 파트너십 발표"
   },
   {
-    "id": "Hugging Face-8-hugging-face-and-cerebras-bring-gemma-4-",
+    "id": "Hugging Face-9-hugging-face-and-cerebras-bring-gemma-4-",
     "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
     "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
     "source": "Hugging Face",
@@ -190,7 +209,7 @@
     "titleKo": "Hugging Face와 Cerebras는 Gemma 4를 실시간 음성 AI로 구현합니다."
   },
   {
-    "id": "Hugging Face-9-scarfbench-benchmarking-ai-agents-for-en",
+    "id": "Hugging Face-10-scarfbench-benchmarking-ai-agents-for-en",
     "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
     "url": "https://huggingface.co/blog/ibm-research/scarfbench",
     "source": "Hugging Face",
@@ -208,7 +227,7 @@
     "titleKo": "Nano Banana 2 Lite 및 Gemini Omni Flash로 구축 시작하기"
   },
   {
-    "id": "Hugging Face-10-why-specialization-is-inevitable",
+    "id": "Hugging Face-11-why-specialization-is-inevitable",
     "title": "Why Specialization Is Inevitable",
     "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
     "source": "Hugging Face",
@@ -217,7 +236,7 @@
     "titleKo": "전문화가 불가피한 이유"
   },
   {
-    "id": "OpenAI-10-how-chatgpt-adoption-has-expanded",
+    "id": "OpenAI-11-how-chatgpt-adoption-has-expanded",
     "title": "How ChatGPT adoption has expanded",
     "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
     "source": "OpenAI",
@@ -227,7 +246,7 @@
     "summaryKo": "새로운 OpenAI 신호 데이터는 사용자가 사용량을 늘리고 더 많은 기능을 탐색하며 지역과 언어 전반에 걸쳐 성장을 주도하면서 ChatGPT 채택이 전 세계적으로 어떻게 증가하고 있는지 보여줍니다."
   },
   {
-    "id": "Hugging Face-11-featuring-every-eval-ever-results-on-hug",
+    "id": "Hugging Face-12-featuring-every-eval-ever-results-on-hug",
     "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
     "url": "https://huggingface.co/blog/eee-community-evals",
     "source": "Hugging Face",
@@ -236,13 +255,23 @@
     "titleKo": "포옹 얼굴 모델 페이지에 모든 평가 결과 표시"
   },
   {
-    "id": "OpenAI-13-inside-genebench-pro",
+    "id": "OpenAI-14-inside-genebench-pro",
     "title": "Inside Genebench-Pro",
     "url": "https://openai.com/index/genebench-pro/case-studies",
     "source": "OpenAI",
     "date": "2026-06-30T00:00:00.000Z",
     "summary": "",
     "titleKo": "Genebench-Pro 내부"
+  },
+  {
+    "id": "OpenAI-13-introducing-genebench-pro",
+    "title": "Introducing GeneBench-Pro",
+    "url": "https://openai.com/index/introducing-genebench-pro",
+    "source": "OpenAI",
+    "date": "2026-06-30T00:00:00.000Z",
+    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+    "titleKo": "GeneBench-Pro 소개",
+    "summaryKo": "복잡한 실제 데이터 세트를 사용하여 유전체학, 생물학 및 과학 연구에서 AI 성능을 테스트하는 새로운 벤치마크인 GeneBench-Pro를 소개합니다."
   },
   {
     "id": "OpenAI-12-core-dump-epidemiology-fixing-an-18-year",
@@ -255,17 +284,7 @@
     "summaryKo": "OpenAI 엔지니어는 대규모 코어 덤프 분석을 사용하여 드물게 발생하는 인프라 충돌을 디버깅하고 하드웨어 결함과 오랫동안 지속된 소프트웨어 버그를 모두 찾아냈습니다."
   },
   {
-    "id": "OpenAI-11-introducing-genebench-pro",
-    "title": "Introducing GeneBench-Pro",
-    "url": "https://openai.com/index/introducing-genebench-pro",
-    "source": "OpenAI",
-    "date": "2026-06-30T00:00:00.000Z",
-    "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
-    "titleKo": "GeneBench-Pro 소개",
-    "summaryKo": "복잡한 실제 데이터 세트를 사용하여 유전체학, 생물학 및 과학 연구에서 AI 성능을 테스트하는 새로운 벤치마크인 GeneBench-Pro를 소개합니다."
-  },
-  {
-    "id": "Hugging Face-12-discoformer-one-transformer-for-density-",
+    "id": "Hugging Face-13-discoformer-one-transformer-for-density-",
     "title": "DiScoFormer: One transformer for density and score, across distributions",
     "url": "https://huggingface.co/blog/allenai/discoformer",
     "source": "Hugging Face",
@@ -274,17 +293,7 @@
     "titleKo": "DiScoFormer: 분포 전반에 걸쳐 밀도 및 점수를 위한 단일 변환기"
   },
   {
-    "id": "OpenAI-14-mapping-europe-s-ai-workforce-opportunit",
-    "title": "Mapping Europe’s AI Workforce Opportunity",
-    "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-    "source": "OpenAI",
-    "date": "2026-06-29T07:00:00.000Z",
-    "summary": "A new OpenAI report maps how AI could reshape jobs across the EU, highlighting which occupations may face automation, growth, or workflow changes.",
-    "titleKo": "유럽의 AI 인력 기회 매핑",
-    "summaryKo": "새로운 OpenAI 보고서는 AI가 EU 전역에서 일자리를 어떻게 재구성할 수 있는지 보여주며 어떤 직업이 자동화, 성장 또는 워크플로 변화에 직면할 수 있는지 강조합니다."
-  },
-  {
-    "id": "Hugging Face-13-run-a-vllm-server-on-hf-jobs-in-one-comm",
+    "id": "Hugging Face-14-run-a-vllm-server-on-hf-jobs-in-one-comm",
     "title": "Run a vLLM Server on HF Jobs in One Command",
     "url": "https://huggingface.co/blog/vllm-jobs",
     "source": "Hugging Face",
@@ -300,15 +309,6 @@
     "date": "2026-06-24T16:30:01.000Z",
     "summary": "",
     "titleKo": "Gemini 3.5 Flash의 컴퓨터 사용 소개"
-  },
-  {
-    "id": "Hugging Face-14-accelerating-transformers-fine-tuning-wi",
-    "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
-    "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
-    "source": "Hugging Face",
-    "date": "2026-06-24T16:00:13.000Z",
-    "summary": "",
-    "titleKo": "NVIDIA NeMo AutoModel을 통한 Transformer 미세 조정 가속화"
   },
   {
     "id": "Google DeepMind-3-unlocking-uk-house-building-with-ai-acce",
