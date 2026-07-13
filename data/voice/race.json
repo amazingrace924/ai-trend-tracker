@@ -2174,6 +2174,59 @@
           "value": 1185
         }
       ]
+    },
+    {
+      "date": "2026-07-13",
+      "entries": [
+        {
+          "id": "voice-simba-3-2",
+          "name": "Simba 3.2",
+          "vendor": "SpeechifyAI",
+          "value": 1234
+        },
+        {
+          "id": "voice-gemini-3-1-tts",
+          "name": "Gemini 3.1 Flash TTS",
+          "vendor": "Google",
+          "value": 1214
+        },
+        {
+          "id": "voice-sonic-3-5",
+          "name": "Sonic 3.5",
+          "vendor": "Cartesia",
+          "value": 1207
+        },
+        {
+          "id": "voice-fun-realtime-tts",
+          "name": "Fun-Realtime-TTS",
+          "vendor": "Alibaba",
+          "value": 1205
+        },
+        {
+          "id": "voice-realtime-tts-2-research-preview",
+          "name": "Realtime TTS-2 - Research Preview",
+          "vendor": "Inworld",
+          "value": 1205
+        },
+        {
+          "id": "voice-realtime-tts-1-5-max",
+          "name": "Realtime TTS 1.5 Max",
+          "vendor": "Inworld",
+          "value": 1204
+        },
+        {
+          "id": "voice-xai-text-to-speech",
+          "name": "SpaceXAI TTS",
+          "vendor": "SpaceXAI",
+          "value": 1189
+        },
+        {
+          "id": "voice-speech-2-8-hd",
+          "name": "Speech 2.8 HD",
+          "vendor": "MiniMax",
+          "value": 1185
+        }
+      ]
     }
   ]
 }
