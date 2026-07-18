@@ -64,7 +64,7 @@
     "date": "2026-07-16T00:00:00.000Z",
     "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
     "titleKo": "Cars24가 OpenAI를 통해 대화를 확장하고 더 빠르게 구축하는 방법",
-    "summaryKo": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 100만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체의 팀에 에이전트 워크플로를 제공합니다."
+    "summaryKo": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 1백만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체 팀에 에이전트 워크플로를 제공합니다."
   },
   {
     "id": "Hugging Face-3-what-building-shippy-taught-us-about-bui",
@@ -102,7 +102,7 @@
     "date": "2026-07-15T10:00:00.000Z",
     "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
     "titleKo": "GPT-Red: 견고성을 위한 자기 개선 잠금 해제",
-    "summaryKo": "셀프 플레이를 사용하여 AI 안전성, 정렬 및 신속한 주입 견고성을 향상시키는 OpenAI의 자동화된 레드 팀 구성 시스템인 GPT-Red를 살펴보세요."
+    "summaryKo": "셀프 플레이를 사용하여 AI 안전, 정렬 및 신속한 주입 견고성을 향상시키는 OpenAI의 자동화된 레드 팀 구성 시스템인 GPT-Red를 살펴보세요."
   },
   {
     "id": "Hugging Face-6-introducing-real-world-voiceeq-measuring",
@@ -120,7 +120,7 @@
     "source": "Hugging Face",
     "date": "2026-07-15T00:00:00.000Z",
     "summary": "",
-    "titleKo": "Thinking Machines의 Inkling을 환영합니다."
+    "titleKo": "Thinkling Machines의 Inkling을 환영합니다"
   },
   {
     "id": "OpenAI-5-how-to-manage-ai-investments-in-the-agen",
@@ -293,7 +293,7 @@
     "source": "Hugging Face",
     "date": "2026-07-06T15:30:55.000Z",
     "summary": "",
-    "titleKo": "PRX 4부: 데이터 전략"
+    "titleKo": "PRX 파트 4: 데이터 전략"
   },
   {
     "id": "Hugging Face-14--kernels-major-updates",
