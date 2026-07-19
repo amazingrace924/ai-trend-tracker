@@ -54,7 +54,7 @@
     "source": "Hugging Face",
     "date": "2026-07-16T00:00:00.000Z",
     "summary": "",
-    "titleKo": "보안 사고 공개 - 2026년 7월"
+    "titleKo": "보안 사고 공개 — 2026년 7월"
   },
   {
     "id": "OpenAI-2-how-cars24-scales-conversations-and-buil",
@@ -64,7 +64,7 @@
     "date": "2026-07-16T00:00:00.000Z",
     "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
     "titleKo": "Cars24가 OpenAI를 통해 대화를 확장하고 더 빠르게 구축하는 방법",
-    "summaryKo": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 1백만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체 팀에 에이전트 워크플로를 제공합니다."
+    "summaryKo": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 100만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체의 팀에 에이전트 워크플로를 제공합니다."
   },
   {
     "id": "Hugging Face-3-what-building-shippy-taught-us-about-bui",
@@ -219,7 +219,7 @@
     "date": "2026-07-09T10:00:00.000Z",
     "summary": "More intelligence from every token, stronger performance per dollar, and more capability on demand for your hardest work.",
     "titleKo": "GPT-5.6: 당신의 야망에 맞춰 확장되는 프론티어 인텔리전스",
-    "summaryKo": "모든 토큰에서 더 많은 인텔리전스, 달러당 더 강력한 성능, 가장 어려운 작업에 필요한 더 많은 기능을 제공합니다."
+    "summaryKo": "모든 토큰의 더 많은 인텔리전스, 달러당 더 강력한 성능, 가장 어려운 작업에 필요한 더 많은 기능을 제공합니다."
   },
   {
     "id": "OpenAI-11-gpt-5-5-bio-bug-bounty",
@@ -293,7 +293,7 @@
     "source": "Hugging Face",
     "date": "2026-07-06T15:30:55.000Z",
     "summary": "",
-    "titleKo": "PRX 파트 4: 데이터 전략"
+    "titleKo": "PRX 4부: 데이터 전략"
   },
   {
     "id": "Hugging Face-14--kernels-major-updates",
