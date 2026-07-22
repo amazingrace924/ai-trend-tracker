@@ -1,5 +1,55 @@
 [
   {
+    "id": "Google DeepMind-0-accelerating-the-frontiers-of-scientific",
+    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
+    "source": "Google DeepMind",
+    "date": "2026-07-22T13:38:54.000Z",
+    "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
+    "titleKo": "과학적 발견의 최전선 가속화: Genesis Mission에 대한 Google의 4천만 달러 지원",
+    "summaryKo": "Google은 Genesis Mission을 위해 AI 토큰과 크레딧으로 4천만 달러를 약속합니다."
+  },
+  {
+    "id": "OpenAI-1-how-news-organizations-are-using-ai-to-a",
+    "title": "How news organizations are using AI to advance their vital missions",
+    "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+    "source": "OpenAI",
+    "date": "2026-07-22T13:00:00.000Z",
+    "summary": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
+    "titleKo": "언론 기관이 AI를 사용하여 중요한 임무를 수행하는 방법",
+    "summaryKo": "뉴스 조직은 전 세계 언론인과 출판사를 지원하는 OpenAI 도구를 통해 AI를 사용하여 보도를 강화하고, 청중을 늘리고, 비즈니스 운영을 개선하고 있습니다."
+  },
+  {
+    "id": "OpenAI-0-building-ai-infrastructure-with-the-effi",
+    "title": "Building AI infrastructure with the Effingham County community",
+    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+    "source": "OpenAI",
+    "date": "2026-07-22T13:00:00.000Z",
+    "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+    "titleKo": "Effingham 카운티 커뮤니티와 함께 ​​AI 인프라 구축",
+    "summaryKo": "OpenAI는 조지아주 에핑엄 카운티에서 책임 있는 에너지, 지역 사회 투자, 일자리 및 Codex 액세스에 대한 약속을 담은 프로젝트 카멜리아(Project Camellia)를 발표했습니다."
+  },
+  {
+    "id": "OpenAI-2-advancing-the-next-era-of-national-scien",
+    "title": "Advancing the next era of national science",
+    "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
+    "source": "OpenAI",
+    "date": "2026-07-22T12:00:00.000Z",
+    "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+    "titleKo": "국가과학의 다음 시대를 앞당기다",
+    "summaryKo": "OpenAI는 미국 에너지부 및 국립 연구소와 협력하여 개척 AI를 사용하여 발견을 가속화하기 위해 미국 과학을 발전시키겠다는 약속을 간략하게 설명합니다."
+  },
+  {
+    "id": "OpenAI-3-introducing-openai-presence",
+    "title": "Introducing OpenAI Presence",
+    "url": "https://openai.com/index/introducing-openai-presence",
+    "source": "OpenAI",
+    "date": "2026-07-22T05:30:00.000Z",
+    "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+    "titleKo": "OpenAI 존재 소개",
+    "summaryKo": "조직이 고객 및 내부 워크플로를 위해 신뢰할 수 있는 음성 및 채팅 에이전트를 배포하는 데 도움이 되는 검증된 엔터프라이즈 AI 에이전트 플랫폼인 OpenAI Presence를 소개합니다."
+  },
+  {
     "id": "Hugging Face-0-the-state-of-simulation-for-physical-ai-",
     "title": "The State of Simulation for Physical AI: An Overview",
     "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
@@ -9,7 +59,7 @@
     "titleKo": "물리적 AI 시뮬레이션 상태: 개요"
   },
   {
-    "id": "OpenAI-0-introducing-the-chatgpt-for-small-busine",
+    "id": "OpenAI-4-introducing-the-chatgpt-for-small-busine",
     "title": "Introducing the ChatGPT for small business program",
     "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
     "source": "OpenAI",
@@ -19,7 +69,7 @@
     "summaryKo": "OpenAI는 중소기업을 위한 ChatGPT 프로그램을 출시하여 기업가가 AI 기술을 구축하고 작업을 자동화하며 ChatGPT Work를 통해 성장할 수 있도록 지원합니다."
   },
   {
-    "id": "Google DeepMind-0-introducing-gemini-3-6-flash-3-5-flash-l",
+    "id": "Google DeepMind-1-introducing-gemini-3-6-flash-3-5-flash-l",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
     "source": "Google DeepMind",
@@ -29,7 +79,7 @@
     "summaryKo": "Gemini 3.6 Flash, 3.5 Flash-Lite 및 3.5 Flash Cyber를 포함한 새로운 Gemini 모델을 소개합니다."
   },
   {
-    "id": "OpenAI-1-openai-and-hugging-face-partner-to-addre",
+    "id": "OpenAI-5-openai-and-hugging-face-partner-to-addre",
     "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
     "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
     "source": "OpenAI",
@@ -48,7 +98,7 @@
     "titleKo": "Grabette: 로봇 조작 데이터를 기록하는 개방형 시스템"
   },
   {
-    "id": "OpenAI-2-david-v-lez-and-robin-vince-join-the-boa",
+    "id": "OpenAI-6-david-v-lez-and-robin-vince-join-the-boa",
     "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
     "source": "OpenAI",
@@ -58,7 +108,7 @@
     "summaryKo": "David Vélez와 Robin Vince는 OpenAI Foundation 및 OpenAI Group PBC의 이사회에 합류하여 금융, 기술 및 거버넌스 분야에서 글로벌 리더십을 발휘하고 있습니다."
   },
   {
-    "id": "OpenAI-3-safety-and-alignment-in-an-era-of-long-h",
+    "id": "OpenAI-7-safety-and-alignment-in-an-era-of-long-h",
     "title": "Safety and alignment in an era of long-horizon models",
     "url": "https://openai.com/index/safety-alignment-long-horizon-models",
     "source": "OpenAI",
@@ -68,7 +118,7 @@
     "summaryKo": "OpenAI는 장기 실행 AI 모델 배포에서 얻은 교훈을 공유하고, 반복 배포를 통해 새로운 안전 위험, 관찰된 오류, 향상된 보호 조치를 강조합니다."
   },
   {
-    "id": "Google DeepMind-1-introducing-gemini-3-5-flash-cyber",
+    "id": "Google DeepMind-2-introducing-gemini-3-5-flash-cyber",
     "title": "Introducing Gemini 3.5 Flash Cyber",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
     "source": "Google DeepMind",
@@ -78,7 +128,7 @@
     "summaryKo": "Google은 취약점을 찾아 패치하기 위한 경량 사이버 보안 모델인 Gemini 3.5 Flash Cyber를 출시했습니다."
   },
   {
-    "id": "OpenAI-4-a-scorecard-for-the-ai-age",
+    "id": "OpenAI-8-a-scorecard-for-the-ai-age",
     "title": "A scorecard for the AI age",
     "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
     "source": "OpenAI",
@@ -88,7 +138,7 @@
     "summaryKo": "OpenAI의 CFO인 Sarah Friar는 유용한 작업, 성공적인 작업당 비용, 신뢰성 및 컴퓨팅 수익을 통해 ROI를 측정하는 실용적인 AI 스코어카드를 소개합니다."
   },
   {
-    "id": "OpenAI-5-why-teens-deserve-access-to-safe-ai",
+    "id": "OpenAI-9-why-teens-deserve-access-to-safe-ai",
     "title": "Why teens deserve access to safe AI",
     "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
     "source": "OpenAI",
@@ -107,7 +157,7 @@
     "titleKo": "최신 모델, 동일한 장점"
   },
   {
-    "id": "Google DeepMind-2-our-approach-to-bioresilience",
+    "id": "Google DeepMind-3-our-approach-to-bioresilience",
     "title": "Our approach to bioresilience",
     "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
     "source": "Google DeepMind",
@@ -123,17 +173,17 @@
     "source": "Hugging Face",
     "date": "2026-07-16T00:00:00.000Z",
     "summary": "",
-    "titleKo": "보안 사고 공개 - 2026년 7월"
+    "titleKo": "보안 사고 공개 — 2026년 7월"
   },
   {
-    "id": "OpenAI-6-how-cars24-scales-conversations-and-buil",
+    "id": "OpenAI-10-how-cars24-scales-conversations-and-buil",
     "title": "How Cars24 scales conversations and builds faster with OpenAI",
     "url": "https://openai.com/index/cars24",
     "source": "OpenAI",
     "date": "2026-07-16T00:00:00.000Z",
     "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
     "titleKo": "Cars24가 OpenAI를 통해 대화를 확장하고 더 빠르게 구축하는 방법",
-    "summaryKo": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 1백만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체 팀에 에이전트 워크플로를 제공합니다."
+    "summaryKo": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 100만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체의 팀에 에이전트 워크플로를 제공합니다."
   },
   {
     "id": "Hugging Face-4-what-building-shippy-taught-us-about-bui",
@@ -154,7 +204,7 @@
     "titleKo": "모델 라우팅은 간단합니다. 그렇지 않을 때까지."
   },
   {
-    "id": "OpenAI-7-the-us-is-advancing-ai-safety-through-st",
+    "id": "OpenAI-11-the-us-is-advancing-ai-safety-through-st",
     "title": "The US is advancing AI safety through state and federal action",
     "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
     "source": "OpenAI",
@@ -164,7 +214,7 @@
     "summaryKo": "OpenAI는 AI 거버넌스에 대한 \"역연방주의\" 접근 방식을 설명합니다. 여기서 주법은 안전하고 민주적인 AI를 위한 국가적 프레임워크를 구축하는 데 도움이 됩니다."
   },
   {
-    "id": "OpenAI-8-gpt-red-unlocking-self-improvement-for-r",
+    "id": "OpenAI-12-gpt-red-unlocking-self-improvement-for-r",
     "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
     "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
     "source": "OpenAI",
@@ -189,10 +239,10 @@
     "source": "Hugging Face",
     "date": "2026-07-15T00:00:00.000Z",
     "summary": "",
-    "titleKo": "Thinking Machines의 Inkling을 환영합니다."
+    "titleKo": "Thinkling Machines의 Inkling을 환영합니다"
   },
   {
-    "id": "OpenAI-9-how-to-manage-ai-investments-in-the-agen",
+    "id": "OpenAI-13-how-to-manage-ai-investments-in-the-agen",
     "title": "How to manage AI investments in the agentic era",
     "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
     "source": "OpenAI",
@@ -202,17 +252,7 @@
     "summaryKo": "기업이 달러당 유용한 작업량을 측정하고, 효율성을 개선하고, 고가치 워크플로를 확장하여 에이전트 시대에 AI 투자를 관리할 수 있는 방법을 알아보세요."
   },
   {
-    "id": "OpenAI-11-how-data-science-teams-use-chatgpt-work",
-    "title": "How data science teams use ChatGPT Work",
-    "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-    "source": "OpenAI",
-    "date": "2026-07-14T00:00:00.000Z",
-    "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
-    "titleKo": "데이터 과학 팀이 ChatGPT 작업을 사용하는 방법",
-    "summaryKo": "데이터 과학 팀이 ChatGPT 작업을 사용하여 실제 작업 입력에서 근본 원인 요약, 영향 판독, KPI 메모, 범위 분석 및 대시보드 사양을 구축하는 방법을 알아보세요."
-  },
-  {
-    "id": "OpenAI-10-how-sales-teams-use-chatgpt-work",
+    "id": "OpenAI-14-how-sales-teams-use-chatgpt-work",
     "title": "How sales teams use ChatGPT Work",
     "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
     "source": "OpenAI",
@@ -222,7 +262,7 @@
     "summaryKo": "영업팀이 ChatGPT 작업을 사용하여 실제 작업 입력을 통해 파이프라인 개요, 회의 준비 패킷, 예측 검토, 계정 계획 및 지연된 거래 진단을 생성하는 방법을 알아보세요."
   },
   {
-    "id": "Google DeepMind-3-empowering-india-s-next-generation-of-in",
+    "id": "Google DeepMind-4-empowering-india-s-next-generation-of-in",
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
     "source": "Google DeepMind",
@@ -232,16 +272,6 @@
     "summaryKo": "Google과 AIM은 로봇 공학 연구실의 인도 교육자들에게 힘을 실어주는 Gemini 기반 AI 도구인 ATL Saathi를 출시했습니다."
   },
   {
-    "id": "OpenAI-12-how-deutsche-telekom-is-rewiring-telecom",
-    "title": "How Deutsche Telekom is rewiring telecommunications with AI",
-    "url": "https://openai.com/index/deutsche-telekom",
-    "source": "OpenAI",
-    "date": "2026-07-10T07:00:00.000Z",
-    "summary": "How Deutsche Telekom is becoming an AI-native telco with OpenAI-transforming customer service, employee workflows, network operations, and the future of voice.",
-    "titleKo": "Deutsche Telekom이 AI를 통해 통신을 재배선하는 방법",
-    "summaryKo": "Deutsche Telekom이 OpenAI를 통해 고객 서비스, 직원 워크플로, 네트워크 운영 및 음성의 미래를 변화시키는 AI 기반 통신사가 되는 방법."
-  },
-  {
     "id": "Hugging Face-8-profiling-in-pytorch-part-3-attention-is",
     "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
     "url": "https://huggingface.co/blog/torch-attention-profile",
@@ -249,26 +279,6 @@
     "date": "2026-07-10T00:00:00.000Z",
     "summary": "",
     "titleKo": "PyTorch에서 프로파일링(3부): 프로파일링에는 관심이 전부입니다."
-  },
-  {
-    "id": "OpenAI-13-getting-started-with-chatgpt",
-    "title": "Getting started with ChatGPT",
-    "url": "https://openai.com/academy/getting-started",
-    "source": "OpenAI",
-    "date": "2026-07-10T00:00:00.000Z",
-    "summary": "Learn how to use ChatGPT, start your first conversation, and discover simple ways to write, brainstorm, and solve problems with AI.",
-    "titleKo": "ChatGPT 시작하기",
-    "summaryKo": "ChatGPT 사용 방법을 배우고, 첫 대화를 시작하고, AI를 사용하여 작성하고, 브레인스토밍하고, 문제를 해결하는 간단한 방법을 알아보세요."
-  },
-  {
-    "id": "OpenAI-14-gpt-5-6-is-now-the-preferred-model-in-mi",
-    "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
-    "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-    "source": "OpenAI",
-    "date": "2026-07-09T13:00:00.000Z",
-    "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
-    "titleKo": "GPT-5.6은 이제 Microsoft 365 Copilot의 기본 모델입니다.",
-    "summaryKo": "GPT-5.6이 Word, Excel, PowerPoint, Chat, Cowork 전반에 걸쳐 더욱 강력한 AI 기능을 통해 Microsoft 365 Copilot을 강화하여 보다 빠르고 고품질의 작업을 수행하는 방법을 알아보세요."
   },
   {
     "id": "Hugging Face-9-native-speed-vllm-transformers-modeling-",
@@ -322,10 +332,10 @@
     "source": "Hugging Face",
     "date": "2026-07-06T15:30:55.000Z",
     "summary": "",
-    "titleKo": "PRX 4부: 데이터 전략"
+    "titleKo": "PRX 파트 4: 데이터 전략"
   },
   {
-    "id": "Google DeepMind-4-google-deepmind-and-a24-announce-first-o",
+    "id": "Google DeepMind-5-google-deepmind-and-a24-announce-first-o",
     "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
     "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
     "source": "Google DeepMind",
@@ -334,7 +344,7 @@
     "titleKo": "Google DeepMind와 A24, 최초의 연구 파트너십 발표"
   },
   {
-    "id": "Google DeepMind-5-start-building-with-nano-banana-2-lite-a",
+    "id": "Google DeepMind-6-start-building-with-nano-banana-2-lite-a",
     "title": "Start building with Nano Banana 2 Lite and Gemini Omni Flash",
     "url": "https://deepmind.google/blog/start-building-with-nano-banana-2-lite-and-gemini-omni-flash/",
     "source": "Google DeepMind",
@@ -343,7 +353,7 @@
     "titleKo": "Nano Banana 2 Lite 및 Gemini Omni Flash로 구축 시작하기"
   },
   {
-    "id": "Google DeepMind-6-introducing-computer-use-in-gemini-3-5-f",
+    "id": "Google DeepMind-7-introducing-computer-use-in-gemini-3-5-f",
     "title": "Introducing computer use in Gemini 3.5 Flash",
     "url": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
     "source": "Google DeepMind",
@@ -352,7 +362,7 @@
     "titleKo": "Gemini 3.5 Flash의 컴퓨터 사용 소개"
   },
   {
-    "id": "Google DeepMind-7-unlocking-uk-house-building-with-ai-acce",
+    "id": "Google DeepMind-8-unlocking-uk-house-building-with-ai-acce",
     "title": "Unlocking UK house-building with AI-accelerated planning",
     "url": "https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/",
     "source": "Google DeepMind",
@@ -362,7 +372,7 @@
     "summaryKo": "영국 정부는 Google DeepMind와 협력하여 더 빠른 주택 결정을 목표로 하는 새로운 AI 기반 프로토타입을 구축합니다."
   },
   {
-    "id": "Google DeepMind-8-securing-the-future-of-ai-agents",
+    "id": "Google DeepMind-9-securing-the-future-of-ai-agents",
     "title": "Securing the future of AI agents",
     "url": "https://deepmind.google/blog/securing-the-future-of-ai-agents/",
     "source": "Google DeepMind",
@@ -370,14 +380,5 @@
     "summary": "Securing internal systems with an AI Control Roadmap, combining traditional safeguards and real-time monitoring.",
     "titleKo": "AI 에이전트의 미래 확보",
     "summaryKo": "기존 보호 장치와 실시간 모니터링을 결합한 AI 제어 로드맵으로 내부 시스템을 보호합니다."
-  },
-  {
-    "id": "Google DeepMind-9-diffusiongemma-4x-faster-text-generation",
-    "title": "DiffusionGemma: 4x faster text generation",
-    "url": "https://deepmind.google/blog/diffusiongemma-4x-faster-text-generation/",
-    "source": "Google DeepMind",
-    "date": "2026-06-10T16:24:11.000Z",
-    "summary": "",
-    "titleKo": "DiffusionGemma: 4배 더 빠른 텍스트 생성"
   }
 ]
