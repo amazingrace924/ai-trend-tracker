@@ -56,7 +56,7 @@
     "date": "2026-07-22T12:00:00.000Z",
     "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
     "titleKo": "국가과학의 다음 시대를 앞당기다",
-    "summaryKo": "OpenAI는 미국 에너지부 및 국립 연구소와 협력하여 개척 AI를 사용하여 발견을 가속화하는 미국 과학을 발전시키겠다는 약속을 간략하게 설명합니다."
+    "summaryKo": "OpenAI는 미국 에너지부 및 국립 연구소와 협력하여 개척 AI를 사용하여 발견을 가속화하기 위해 미국 과학을 발전시키겠다는 약속을 간략하게 설명합니다."
   },
   {
     "id": "OpenAI-4-introducing-openai-presence",
@@ -196,6 +196,16 @@
     "summaryKo": "Google DeepMind와 Isomorphic Labs는 생체 탄력성과 AI 모델에 대한 공동 접근 방식을 공유하고 있습니다."
   },
   {
+    "id": "OpenAI-12-how-codex-became-a-collaborator-for-open",
+    "title": "How Codex became a collaborator for OpenAI’s creative team",
+    "url": "https://openai.com/index/codex-collaborator-creative-team",
+    "source": "OpenAI",
+    "date": "2026-07-16T07:00:00.000Z",
+    "summary": "How OpenAI’s creative team uses Codex to build custom creative tools, accelerate ideation, and prototype faster with context-aware AI.",
+    "titleKo": "Codex가 OpenAI 크리에이티브 팀의 협력자가 된 방법",
+    "summaryKo": "OpenAI의 크리에이티브 팀이 Codex를 사용하여 상황 인식 AI를 통해 맞춤형 크리에이티브 도구를 구축하고 아이디어 구상을 가속화하며 프로토타입을 더 빠르게 제작하는 방법입니다."
+  },
+  {
     "id": "Hugging Face-4-security-incident-disclosure-july-2026",
     "title": "Security incident disclosure — July 2026",
     "url": "https://huggingface.co/blog/security-incident-july-2026",
@@ -205,7 +215,7 @@
     "titleKo": "보안 사고 공개 - 2026년 7월"
   },
   {
-    "id": "OpenAI-12-how-cars24-scales-conversations-and-buil",
+    "id": "OpenAI-13-how-cars24-scales-conversations-and-buil",
     "title": "How Cars24 scales conversations and builds faster with OpenAI",
     "url": "https://openai.com/index/cars24",
     "source": "OpenAI",
@@ -233,7 +243,7 @@
     "titleKo": "모델 라우팅은 간단합니다. 그렇지 않을 때까지."
   },
   {
-    "id": "OpenAI-13-the-us-is-advancing-ai-safety-through-st",
+    "id": "OpenAI-14-the-us-is-advancing-ai-safety-through-st",
     "title": "The US is advancing AI safety through state and federal action",
     "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
     "source": "OpenAI",
@@ -241,16 +251,6 @@
     "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
     "titleKo": "미국은 주 및 연방 조치를 통해 AI 안전을 발전시키고 있습니다.",
     "summaryKo": "OpenAI는 AI 거버넌스에 대한 \"역연방주의\" 접근 방식을 설명합니다. 여기서 주법은 안전하고 민주적인 AI를 위한 국가적 프레임워크를 구축하는 데 도움이 됩니다."
-  },
-  {
-    "id": "OpenAI-14-gpt-red-unlocking-self-improvement-for-r",
-    "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-    "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-    "source": "OpenAI",
-    "date": "2026-07-15T10:00:00.000Z",
-    "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-    "titleKo": "GPT-Red: 견고성을 위한 자기 개선 잠금 해제",
-    "summaryKo": "셀프 플레이를 사용하여 AI 안전, 정렬 및 신속한 주입 견고성을 향상시키는 OpenAI의 자동화된 레드 팀 구성 시스템인 GPT-Red를 살펴보세요."
   },
   {
     "id": "Hugging Face-8-introducing-real-world-voiceeq-measuring",
