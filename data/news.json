@@ -46,7 +46,7 @@
     "date": "2026-07-22T13:00:00.000Z",
     "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
     "titleKo": "Effingham 카운티 커뮤니티와 함께 ​​AI 인프라 구축",
-    "summaryKo": "OpenAI는 조지아주 에핑햄 카운티에서 책임 있는 에너지, 지역 사회 투자, 일자리 및 Codex 액세스에 대한 약속을 담은 프로젝트 카멜리아(Project Camellia)를 발표했습니다."
+    "summaryKo": "OpenAI는 조지아주 에핑엄 카운티에서 책임 있는 에너지, 지역 사회 투자, 일자리 및 Codex 액세스에 대한 약속을 담은 프로젝트 카멜리아(Project Camellia)를 발표했습니다."
   },
   {
     "id": "OpenAI-3-advancing-the-next-era-of-national-scien",
@@ -76,7 +76,7 @@
     "date": "2026-07-22T00:00:00.000Z",
     "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
     "titleKo": "NTT DATA Group은 Codex를 사용하여 사건 분석을 30분으로 단축했습니다.",
-    "summaryKo": "NTT DATA Group은 ChatGPT Enterprise와 Codex를 사용하여 9,000명의 직원이 작업을 자동화하고 사고 분석을 30분으로 단축하며 보안 AI 채택을 확장하도록 지원합니다."
+    "summaryKo": "NTT DATA Group은 ChatGPT Enterprise와 Codex를 사용하여 9,000명의 직원이 작업을 자동화하고 사고 분석을 30분으로 단축하며 안전한 AI 채택을 확장하도록 지원합니다."
   },
   {
     "id": "Hugging Face-1-the-state-of-simulation-for-physical-ai-",
@@ -134,7 +134,7 @@
     "date": "2026-07-21T00:00:00.000Z",
     "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
     "titleKo": "David Vélez와 Robin Vince가 OpenAI Foundation 및 OpenAI Group PBC 이사회에 합류",
-    "summaryKo": "David Vélez와 Robin Vince는 OpenAI Foundation 및 OpenAI Group PBC의 이사회에 합류하여 금융, 기술 및 거버넌스 분야에서 글로벌 리더십을 발휘하고 있습니다."
+    "summaryKo": "David Vélez와 Robin Vince는 OpenAI Foundation 및 OpenAI Group PBC 이사회에 합류하여 금융, 기술 및 거버넌스 분야에서 글로벌 리더십을 발휘하고 있습니다."
   },
   {
     "id": "OpenAI-9-safety-and-alignment-in-an-era-of-long-h",
@@ -212,7 +212,7 @@
     "source": "Hugging Face",
     "date": "2026-07-16T00:00:00.000Z",
     "summary": "",
-    "titleKo": "보안 사고 공개 - 2026년 7월"
+    "titleKo": "보안 사고 공개 — 2026년 7월"
   },
   {
     "id": "OpenAI-13-how-cars24-scales-conversations-and-buil",
@@ -222,7 +222,7 @@
     "date": "2026-07-16T00:00:00.000Z",
     "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
     "titleKo": "Cars24가 OpenAI를 통해 대화를 확장하고 더 빠르게 구축하는 방법",
-    "summaryKo": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 100만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체의 팀에 에이전트 워크플로를 제공합니다."
+    "summaryKo": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 100만 분 이상의 대화를 처리하고 손실된 리드의 12%를 복구하며 회사 전체 팀에 에이전트 워크플로를 제공합니다."
   },
   {
     "id": "Hugging Face-5-what-building-shippy-taught-us-about-bui",
