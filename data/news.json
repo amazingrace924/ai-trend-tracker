@@ -76,7 +76,7 @@
     "date": "2026-07-22T00:00:00.000Z",
     "summary": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
     "titleKo": "NTT DATA Group은 Codex를 사용하여 사건 분석을 30분으로 단축했습니다.",
-    "summaryKo": "NTT DATA Group은 ChatGPT Enterprise와 Codex를 사용하여 9,000명의 직원이 작업을 자동화하고 사고 분석을 30분으로 단축하며 안전한 AI 채택을 확장하도록 지원합니다."
+    "summaryKo": "NTT DATA Group은 ChatGPT Enterprise와 Codex를 사용하여 9,000명의 직원이 작업을 자동화하고 사고 분석을 30분으로 단축하며 보안 AI 채택을 확장하도록 지원합니다."
   },
   {
     "id": "Hugging Face-1-the-state-of-simulation-for-physical-ai-",
@@ -144,7 +144,7 @@
     "date": "2026-07-20T10:00:00.000Z",
     "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
     "titleKo": "장거리 모델 시대의 안전과 정렬",
-    "summaryKo": "OpenAI는 장기 실행 AI 모델 배포에서 얻은 교훈을 공유하고, 새로운 안전 위험, 관찰된 오류, 반복 배포를 통한 향상된 보호 조치를 강조합니다."
+    "summaryKo": "OpenAI는 장기 실행 AI 모델 배포에서 얻은 교훈을 공유하고, 반복 배포를 통해 새로운 안전 위험, 관찰된 오류, 향상된 보호 조치를 강조합니다."
   },
   {
     "id": "Google DeepMind-2-introducing-gemini-3-5-flash-cyber",
@@ -212,7 +212,7 @@
     "source": "Hugging Face",
     "date": "2026-07-16T00:00:00.000Z",
     "summary": "",
-    "titleKo": "보안 사고 공개 — 2026년 7월"
+    "titleKo": "보안 사고 공개 - 2026년 7월"
   },
   {
     "id": "OpenAI-13-how-cars24-scales-conversations-and-buil",
@@ -222,7 +222,7 @@
     "date": "2026-07-16T00:00:00.000Z",
     "summary": "Cars24 uses OpenAI-powered voice and chat agents to handle 1M+ monthly conversation minutes, recover 12% of lost leads, and bring agentic workflows to teams across the company.",
     "titleKo": "Cars24가 OpenAI를 통해 대화를 확장하고 더 빠르게 구축하는 방법",
-    "summaryKo": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 100만 분 이상의 대화를 처리하고 손실된 리드의 12%를 복구하며 회사 전체 팀에 에이전트 워크플로를 제공합니다."
+    "summaryKo": "Cars24는 OpenAI 기반 음성 및 채팅 에이전트를 사용하여 월간 1백만 분 이상의 대화를 처리하고, 손실된 리드의 12%를 복구하며, 회사 전체 팀에 에이전트 워크플로를 제공합니다."
   },
   {
     "id": "Hugging Face-5-what-building-shippy-taught-us-about-bui",
