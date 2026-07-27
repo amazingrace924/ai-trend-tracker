@@ -1,6 +1,25 @@
 [
   {
-    "id": "Hugging Face-0-bringing-nunchaku-4-bit-diffusion-infere",
+    "id": "Hugging Face-0-nvidia-cosmos-h-dreams-bringing-real-tim",
+    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+    "source": "Hugging Face",
+    "date": "2026-07-27T09:32:20.000Z",
+    "summary": "",
+    "titleKo": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입"
+  },
+  {
+    "id": "OpenAI-0-how-ai-is-expanding-what-people-do-at-wo",
+    "title": "How AI is expanding what people do at work",
+    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+    "source": "OpenAI",
+    "date": "2026-07-27T03:30:00.000Z",
+    "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
+    "titleKo": "AI가 사람들이 직장에서 하는 일을 어떻게 확장하는가",
+    "summaryKo": "새로운 OpenAI 연구는 ChatGPT 사용자가 역할 전반에 걸쳐 작업을 수행하고 작업 경계를 재형성하면서 AI가 작업자의 작업을 어떻게 확장하는지 보여줍니다."
+  },
+  {
+    "id": "Hugging Face-1-bringing-nunchaku-4-bit-diffusion-infere",
     "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
     "url": "https://huggingface.co/blog/nunchaku-diffusers",
     "source": "Hugging Face",
@@ -9,14 +28,14 @@
     "titleKo": "Nunchaku 4비트 확산 추론을 디퓨저에 적용"
   },
   {
-    "id": "OpenAI-0-launching-health-in-chatgpt",
+    "id": "OpenAI-1-launching-health-in-chatgpt",
     "title": "Launching Health in ChatGPT",
     "url": "https://openai.com/index/health-in-chatgpt",
     "source": "OpenAI",
     "date": "2026-07-23T00:00:00.000Z",
     "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
     "titleKo": "ChatGPT에서 건강 관리 시작하기",
-    "summaryKo": "이제 ChatGPT의 건강을 통해 자격을 갖춘 미국 사용자는 의료 기록과 Apple Health를 안전하게 연결하여 보다 개인화된 통찰력을 얻고 자신의 건강을 더 잘 이해할 수 있습니다."
+    "summaryKo": "이제 ChatGPT의 건강 기능을 통해 자격을 갖춘 미국 사용자는 의료 기록과 Apple Health를 안전하게 연결하여 보다 개인화된 통찰력을 얻고 자신의 건강을 더 잘 이해할 수 있습니다."
   },
   {
     "id": "Google DeepMind-0-accelerating-the-frontiers-of-scientific",
@@ -29,7 +48,7 @@
     "summaryKo": "Google은 Genesis Mission을 위해 AI 토큰과 크레딧으로 4천만 달러를 약속합니다."
   },
   {
-    "id": "OpenAI-2-how-news-organizations-are-using-ai-to-a",
+    "id": "OpenAI-3-how-news-organizations-are-using-ai-to-a",
     "title": "How news organizations are using AI to advance their vital missions",
     "url": "https://openai.com/index/how-news-organizations-are-using-ai",
     "source": "OpenAI",
@@ -39,7 +58,7 @@
     "summaryKo": "뉴스 조직은 전 세계 언론인과 출판사를 지원하는 OpenAI 도구를 통해 AI를 사용하여 보도를 강화하고, 청중을 늘리고, 비즈니스 운영을 개선하고 있습니다."
   },
   {
-    "id": "OpenAI-1-building-ai-infrastructure-with-the-effi",
+    "id": "OpenAI-2-building-ai-infrastructure-with-the-effi",
     "title": "Building AI infrastructure with the Effingham County community",
     "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
     "source": "OpenAI",
@@ -49,17 +68,17 @@
     "summaryKo": "OpenAI는 조지아주 에핑엄 카운티에서 책임 있는 에너지, 지역 사회 투자, 일자리 및 Codex 액세스에 대한 약속을 담은 프로젝트 카멜리아(Project Camellia)를 발표했습니다."
   },
   {
-    "id": "OpenAI-3-advancing-the-next-era-of-national-scien",
+    "id": "OpenAI-4-advancing-the-next-era-of-national-scien",
     "title": "Advancing the next era of national science",
     "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
     "source": "OpenAI",
     "date": "2026-07-22T12:00:00.000Z",
     "summary": "OpenAI outlines its commitment to advancing American science working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
     "titleKo": "국가과학의 다음 시대를 앞당기다",
-    "summaryKo": "OpenAI는 미국 에너지부 및 국립 연구소와 협력하여 개척 AI를 사용하여 발견을 가속화하기 위해 미국 과학을 발전시키겠다는 약속을 간략하게 설명합니다."
+    "summaryKo": "OpenAI는 미국 에너지부 및 국립 연구소와 협력하여 개척 AI를 사용하여 발견을 가속화하는 미국 과학을 발전시키겠다는 약속을 간략하게 설명합니다."
   },
   {
-    "id": "OpenAI-4-introducing-openai-presence",
+    "id": "OpenAI-5-introducing-openai-presence",
     "title": "Introducing OpenAI Presence",
     "url": "https://openai.com/index/introducing-openai-presence",
     "source": "OpenAI",
@@ -69,7 +88,7 @@
     "summaryKo": "조직이 고객 및 내부 워크플로를 위해 신뢰할 수 있는 음성 및 채팅 에이전트를 배포하는 데 도움이 되는 검증된 엔터프라이즈 AI 에이전트 플랫폼인 OpenAI Presence를 소개합니다."
   },
   {
-    "id": "OpenAI-5-ntt-data-group-cuts-incident-analysis-to",
+    "id": "OpenAI-6-ntt-data-group-cuts-incident-analysis-to",
     "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
     "url": "https://openai.com/index/ntt-data",
     "source": "OpenAI",
@@ -79,16 +98,7 @@
     "summaryKo": "NTT DATA Group은 ChatGPT Enterprise와 Codex를 사용하여 9,000명의 직원이 작업을 자동화하고 사고 분석을 30분으로 단축하며 보안 AI 채택을 확장하도록 지원합니다."
   },
   {
-    "id": "Hugging Face-1-the-state-of-simulation-for-physical-ai-",
-    "title": "The State of Simulation for Physical AI: An Overview",
-    "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-    "source": "Hugging Face",
-    "date": "2026-07-21T20:00:27.000Z",
-    "summary": "",
-    "titleKo": "물리적 AI 시뮬레이션 상태: 개요"
-  },
-  {
-    "id": "OpenAI-6-introducing-the-chatgpt-for-small-busine",
+    "id": "OpenAI-7-introducing-the-chatgpt-for-small-busine",
     "title": "Introducing the ChatGPT for small business program",
     "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
     "source": "OpenAI",
@@ -100,7 +110,7 @@
   {
     "id": "Google DeepMind-1-introducing-gemini-3-6-flash-3-5-flash-l",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
     "source": "Google DeepMind",
     "date": "2026-07-21T15:16:30.000Z",
     "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber.",
@@ -108,7 +118,7 @@
     "summaryKo": "Gemini 3.6 Flash, 3.5 Flash-Lite 및 3.5 Flash Cyber를 포함한 새로운 Gemini 모델을 소개합니다."
   },
   {
-    "id": "OpenAI-7-openai-and-hugging-face-partner-to-addre",
+    "id": "OpenAI-8-openai-and-hugging-face-partner-to-addre",
     "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
     "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
     "source": "OpenAI",
@@ -127,7 +137,7 @@
     "titleKo": "Grabette: 로봇 조작 데이터를 기록하는 개방형 시스템"
   },
   {
-    "id": "OpenAI-8-david-v-lez-and-robin-vince-join-the-boa",
+    "id": "OpenAI-9-david-v-lez-and-robin-vince-join-the-boa",
     "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
     "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
     "source": "OpenAI",
@@ -137,7 +147,7 @@
     "summaryKo": "David Vélez와 Robin Vince는 OpenAI Foundation 및 OpenAI Group PBC 이사회에 합류하여 금융, 기술 및 거버넌스 분야에서 글로벌 리더십을 발휘하고 있습니다."
   },
   {
-    "id": "OpenAI-9-safety-and-alignment-in-an-era-of-long-h",
+    "id": "OpenAI-10-safety-and-alignment-in-an-era-of-long-h",
     "title": "Safety and alignment in an era of long-horizon models",
     "url": "https://openai.com/index/safety-alignment-long-horizon-models",
     "source": "OpenAI",
@@ -157,7 +167,7 @@
     "summaryKo": "Google은 취약점을 찾아 패치하기 위한 경량 사이버 보안 모델인 Gemini 3.5 Flash Cyber를 출시했습니다."
   },
   {
-    "id": "OpenAI-10-a-scorecard-for-the-ai-age",
+    "id": "OpenAI-11-a-scorecard-for-the-ai-age",
     "title": "A scorecard for the AI age",
     "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
     "source": "OpenAI",
@@ -167,7 +177,7 @@
     "summaryKo": "OpenAI의 CFO인 Sarah Friar는 유용한 작업, 성공적인 작업당 비용, 신뢰성 및 컴퓨팅 수익을 통해 ROI를 측정하는 실용적인 AI 스코어카드를 소개합니다."
   },
   {
-    "id": "OpenAI-11-why-teens-deserve-access-to-safe-ai",
+    "id": "OpenAI-12-why-teens-deserve-access-to-safe-ai",
     "title": "Why teens deserve access to safe AI",
     "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
     "source": "OpenAI",
@@ -196,7 +206,7 @@
     "summaryKo": "Google DeepMind와 Isomorphic Labs는 생체 탄력성과 AI 모델에 대한 공동 접근 방식을 공유하고 있습니다."
   },
   {
-    "id": "OpenAI-12-how-codex-became-a-collaborator-for-open",
+    "id": "OpenAI-13-how-codex-became-a-collaborator-for-open",
     "title": "How Codex became a collaborator for OpenAI’s creative team",
     "url": "https://openai.com/index/codex-collaborator-creative-team",
     "source": "OpenAI",
@@ -212,10 +222,10 @@
     "source": "Hugging Face",
     "date": "2026-07-16T00:00:00.000Z",
     "summary": "",
-    "titleKo": "보안 사고 공개 - 2026년 7월"
+    "titleKo": "보안 사고 공개 — 2026년 7월"
   },
   {
-    "id": "OpenAI-13-how-cars24-scales-conversations-and-buil",
+    "id": "OpenAI-14-how-cars24-scales-conversations-and-buil",
     "title": "How Cars24 scales conversations and builds faster with OpenAI",
     "url": "https://openai.com/index/cars24",
     "source": "OpenAI",
@@ -241,16 +251,6 @@
     "date": "2026-07-15T17:27:01.000Z",
     "summary": "",
     "titleKo": "모델 라우팅은 간단합니다. 그렇지 않을 때까지."
-  },
-  {
-    "id": "OpenAI-14-the-us-is-advancing-ai-safety-through-st",
-    "title": "The US is advancing AI safety through state and federal action",
-    "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-    "source": "OpenAI",
-    "date": "2026-07-15T12:00:00.000Z",
-    "summary": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-    "titleKo": "미국은 주 및 연방 조치를 통해 AI 안전을 발전시키고 있습니다.",
-    "summaryKo": "OpenAI는 AI 거버넌스에 대한 \"역연방주의\" 접근 방식을 설명합니다. 여기서 주법은 안전하고 민주적인 AI를 위한 국가적 프레임워크를 구축하는 데 도움이 됩니다."
   },
   {
     "id": "Hugging Face-8-introducing-real-world-voiceeq-measuring",
