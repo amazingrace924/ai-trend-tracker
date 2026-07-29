@@ -3022,6 +3022,59 @@
           "value": 56.3
         }
       ]
+    },
+    {
+      "date": "2026-07-29",
+      "entries": [
+        {
+          "id": "claude-opus-5",
+          "name": "Claude Opus 5 (Adaptive Reasoning, Max Effort)",
+          "vendor": "Anthropic",
+          "value": 60.7
+        },
+        {
+          "id": "claude-opus-5-xhigh",
+          "name": "Claude Opus 5 (Adaptive Reasoning, Xhigh Effort)",
+          "vendor": "Anthropic",
+          "value": 60.1
+        },
+        {
+          "id": "claude-fable-5",
+          "name": "Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",
+          "vendor": "Anthropic",
+          "value": 59.9
+        },
+        {
+          "id": "gpt-5-6-sol",
+          "name": "GPT-5.6 Sol (max)",
+          "vendor": "OpenAI",
+          "value": 58.9
+        },
+        {
+          "id": "claude-opus-5-high",
+          "name": "Claude Opus 5 (Adaptive Reasoning, High Effort)",
+          "vendor": "Anthropic",
+          "value": 58.9
+        },
+        {
+          "id": "gpt-5-6-sol-xhigh",
+          "name": "GPT-5.6 Sol (xhigh)",
+          "vendor": "OpenAI",
+          "value": 57.7
+        },
+        {
+          "id": "kimi-k3",
+          "name": "Kimi K3",
+          "vendor": "Kimi",
+          "value": 57.1
+        },
+        {
+          "id": "claude-opus-5-medium",
+          "name": "Claude Opus 5 (Adaptive Reasoning, Medium Effort)",
+          "vendor": "Anthropic",
+          "value": 56.3
+        }
+      ]
     }
   ]
 }
