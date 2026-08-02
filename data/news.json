@@ -7,7 +7,7 @@
     "date": "2026-08-01T00:00:00.000Z",
     "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
     "titleKo": "수학과 이론 컴퓨터 과학의 10가지 발전",
-    "summaryKo": "OpenAI는 기하학, 암호화 및 복잡성의 발전을 포함하여 수학과 이론 컴퓨터 과학의 오랫동안 공개된 문제에 대한 새로운 결과를 공유합니다."
+    "summaryKo": "OpenAI는 기하학, 암호화 및 복잡성의 발전을 포함하여 수학과 이론적 컴퓨터 과학의 오랫동안 공개된 문제에 대한 새로운 결과를 공유합니다."
   },
   {
     "id": "OpenAI-2-building-abundant-intelligence",
@@ -46,7 +46,7 @@
     "source": "OpenAI",
     "date": "2026-07-31T00:00:00.000Z",
     "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-    "titleKo": "범죄 사기 작전 방해",
+    "titleKo": "범죄적 사기 작전 방해",
     "summaryKo": "OpenAI는 투자, 로맨스, 도박, 사칭 계획을 지원하기 위해 ChatGPT를 사용하여 캄보디아 기반 사기 작전을 중단했습니다."
   },
   {
@@ -76,7 +76,7 @@
     "date": "2026-07-30T10:00:00.000Z",
     "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
     "titleKo": "GPT-5.6으로 가격 대비 성능의 한계를 뛰어넘다",
-    "summaryKo": "Luna 및 Terra의 저렴한 GPT‑5.6 가격을 살펴보고 OpenAI의 보다 효율적인 모델이 기업이 대규모로 AI 워크플로를 배포하는 데 어떻게 도움이 되는지 알아보세요."
+    "summaryKo": "Luna 및 Terra의 저렴한 GPT‑5.6 가격을 살펴보고 OpenAI의 보다 효율적인 모델이 기업이 AI 워크플로를 대규모로 배포하는 데 어떻게 도움이 되는지 알아보세요."
   },
   {
     "id": "OpenAI-6-how-avatarin-built-a-24-7-retail-agent-w",
@@ -209,7 +209,7 @@
     "date": "2026-07-23T00:00:00.000Z",
     "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
     "titleKo": "ChatGPT에서 건강 관리 시작하기",
-    "summaryKo": "이제 ChatGPT의 건강 기능을 통해 자격을 갖춘 미국 사용자는 의료 기록과 Apple Health를 안전하게 연결하여 보다 개인화된 통찰력을 얻고 자신의 건강을 더 잘 이해할 수 있습니다."
+    "summaryKo": "이제 ChatGPT의 건강을 통해 자격을 갖춘 미국 사용자는 의료 기록과 Apple Health를 안전하게 연결하여 보다 개인화된 통찰력을 얻고 자신의 건강을 더 잘 이해할 수 있습니다."
   },
   {
     "id": "Google DeepMind-3-accelerating-the-frontiers-of-scientific",
@@ -239,7 +239,7 @@
     "date": "2026-07-22T13:00:00.000Z",
     "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
     "titleKo": "Effingham 카운티 커뮤니티와 함께 ​​AI 인프라 구축",
-    "summaryKo": "OpenAI는 조지아주 에핑엄 카운티에서 책임 있는 에너지, 지역 사회 투자, 일자리 및 Codex 액세스에 대한 약속을 담은 프로젝트 카멜리아(Project Camellia)를 발표했습니다."
+    "summaryKo": "OpenAI는 조지아주 에핑햄 카운티에서 책임 있는 에너지, 지역 사회 투자, 일자리 및 Codex 액세스에 대한 약속을 담은 프로젝트 카멜리아(Project Camellia)를 발표했습니다."
   },
   {
     "id": "Google DeepMind-4-introducing-gemini-3-6-flash-3-5-flash-l",
@@ -296,7 +296,7 @@
     "source": "Hugging Face",
     "date": "2026-07-16T00:00:00.000Z",
     "summary": "",
-    "titleKo": "보안 사고 공개 — 2026년 7월"
+    "titleKo": "보안 사고 공개 - 2026년 7월"
   },
   {
     "id": "Hugging Face-9-model-routing-is-simple-until-it-isn-t-",
@@ -323,7 +323,7 @@
     "source": "Hugging Face",
     "date": "2026-07-15T00:00:00.000Z",
     "summary": "",
-    "titleKo": "Thinking Machines의 Inkling을 환영합니다."
+    "titleKo": "Thinkling Machines의 Inkling을 환영합니다"
   },
   {
     "id": "Google DeepMind-7-empowering-india-s-next-generation-of-in",
