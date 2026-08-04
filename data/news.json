@@ -1,6 +1,45 @@
 [
   {
-    "id": "OpenAI-0-how-we-built-a-realtime-system-for-respo",
+    "id": "OpenAI-0-third-party-cyber-evaluations-involving-",
+    "title": "Third-party cyber evaluations involving OpenAI models",
+    "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+    "source": "OpenAI",
+    "date": "2026-08-04T19:00:00.000Z",
+    "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+    "titleKo": "OpenAI 모델을 포함한 제3자 사이버 평가",
+    "summaryKo": "OpenAI는 최근 제3자 사이버 보안 평가 사건을 설명하고 AI 모델 테스트 및 평가를 강화하기 위한 새로운 보호 조치를 간략하게 설명합니다."
+  },
+  {
+    "id": "Hugging Face-0-deploy-local-agents-everywhere-with-lfm2",
+    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+    "source": "Hugging Face",
+    "date": "2026-08-04T13:58:29.000Z",
+    "summary": "",
+    "titleKo": "LFM2.5-2.6B를 사용하여 모든 곳에 로컬 에이전트 배포"
+  },
+  {
+    "id": "OpenAI-1-new-ways-to-learn-and-teach-with-chatgpt",
+    "title": "New ways to learn and teach with ChatGPT Work and Codex",
+    "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
+    "source": "OpenAI",
+    "date": "2026-08-04T00:00:00.000Z",
+    "summary": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+    "titleKo": "ChatGPT Work 및 Codex를 통해 배우고 가르치는 새로운 방법",
+    "summaryKo": "K-12 교사, 대학 교육자 및 학생이 배우고, 가르치고, 연구하고, 구축하는 데 도움이 되는 ChatGPT Work 및 Codex용 새로운 교육 플러그인을 살펴보세요."
+  },
+  {
+    "id": "OpenAI-2-apple-is-getting-this-wrong",
+    "title": "Apple is getting this wrong",
+    "url": "https://openai.com/index/apple-is-getting-this-wrong",
+    "source": "OpenAI",
+    "date": "2026-08-03T22:00:00.000Z",
+    "summary": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+    "titleKo": "애플이 잘못하고 있다",
+    "summaryKo": "OpenAI는 Apple의 근거 없는 소송을 해결하고 직원에 대한 주장을 정정하며 발생한 상황을 기록한 메시지를 공유합니다."
+  },
+  {
+    "id": "OpenAI-3-how-we-built-a-realtime-system-for-respo",
     "title": "How we built a realtime system for responsive voice AI in six months",
     "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
     "source": "OpenAI",
@@ -10,17 +49,27 @@
     "summaryKo": "GPT-Live는 더 빠르고 자연스러운 대화를 위해 무회전 음성 모델과 저지연 아키텍처를 사용하여 AI와의 지속적인 음성 상호 작용을 가능하게 합니다."
   },
   {
-    "id": "OpenAI-1-ten-advances-in-mathematics-and-theoreti",
+    "id": "OpenAI-4-circles-powers-telco-personalization-wit",
+    "title": "Circles powers telco personalization with OpenAI technology",
+    "url": "https://openai.com/index/circles",
+    "source": "OpenAI",
+    "date": "2026-08-03T00:00:00.000Z",
+    "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+    "titleKo": "Circles는 OpenAI 기술로 통신사 개인화를 강화합니다.",
+    "summaryKo": "Circles는 OpenAI API 및 Codex를 사용하여 AI 기반 통신 경험을 강화하고 ARPU를 22% 늘리고 이탈률을 9% 줄이며 개발 효율성을 향상시킵니다."
+  },
+  {
+    "id": "OpenAI-5-ten-advances-in-mathematics-and-theoreti",
     "title": "Ten advances in mathematics and theoretical computer science",
     "url": "https://openai.com/index/ten-advances-in-mathematics",
     "source": "OpenAI",
     "date": "2026-08-01T00:00:00.000Z",
     "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
     "titleKo": "수학과 이론 컴퓨터 과학의 10가지 발전",
-    "summaryKo": "OpenAI는 기하학, 암호화 및 복잡성의 발전을 포함하여 수학과 이론적 컴퓨터 과학의 오랫동안 공개된 문제에 대한 새로운 결과를 공유합니다."
+    "summaryKo": "OpenAI는 기하학, 암호화 및 복잡성의 발전을 포함하여 수학과 이론 컴퓨터 과학의 오랫동안 공개된 문제에 대한 새로운 결과를 공유합니다."
   },
   {
-    "id": "OpenAI-3-building-abundant-intelligence",
+    "id": "OpenAI-7-building-abundant-intelligence",
     "title": "Building abundant intelligence",
     "url": "https://openai.com/index/building-abundant-intelligence",
     "source": "OpenAI",
@@ -30,7 +79,7 @@
     "summaryKo": "고급 AI를 더욱 유능하고 저렴하며 더욱 광범위하게 유용하게 만드는 풀 스택 접근 방식입니다."
   },
   {
-    "id": "OpenAI-2-advancing-responsible-ai-across-europe",
+    "id": "OpenAI-6-advancing-responsible-ai-across-europe",
     "title": "Advancing responsible AI across Europe",
     "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
     "source": "OpenAI",
@@ -40,7 +89,7 @@
     "summaryKo": "OpenAI는 안전, 보안, 투명성 및 출처 관행이 유럽에서 책임감 있는 AI 거버넌스를 지원하는 방법을 공유합니다. EU AI법이 발전함에 따라 이 작업은 계속될 것입니다."
   },
   {
-    "id": "OpenAI-4-univ-builds-an-ai-ready-workforce",
+    "id": "OpenAI-8-univ-builds-an-ai-ready-workforce",
     "title": "Univé builds an AI-ready workforce",
     "url": "https://openai.com/index/unive",
     "source": "OpenAI",
@@ -50,17 +99,17 @@
     "summaryKo": "Univé가 리더십, 책임 있는 거버넌스, 직원 주도 혁신을 결합하여 대규모로 업무를 혁신함으로써 ChatGPT Enterprise를 통해 AI 지원 인력을 구축한 방법을 알아보세요."
   },
   {
-    "id": "OpenAI-5-disrupting-a-criminal-scam-operation",
+    "id": "OpenAI-9-disrupting-a-criminal-scam-operation",
     "title": "Disrupting a Criminal Scam Operation",
     "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
     "source": "OpenAI",
     "date": "2026-07-31T00:00:00.000Z",
     "summary": "OpenAI disrupted a Cambodia-based scam operation using ChatGPT to support investment, romance, gambling, and impersonation schemes.",
-    "titleKo": "범죄적 사기 작전 방해",
+    "titleKo": "범죄 사기 작전 방해",
     "summaryKo": "OpenAI는 투자, 로맨스, 도박, 사칭 계획을 지원하기 위해 ChatGPT를 사용하여 캄보디아 기반 사기 작전을 중단했습니다."
   },
   {
-    "id": "Hugging Face-0-gpu-management-why-idle-gpus-are-the-new",
+    "id": "Hugging Face-1-gpu-management-why-idle-gpus-are-the-new",
     "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
     "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
     "source": "Hugging Face",
@@ -79,7 +128,7 @@
     "summaryKo": "Gemini Robotics ER 2는 로봇이 실제 작업을 추론하고, 협업하고, 해결하도록 돕습니다. 이는 로봇 애플리케이션에 대한 비디오 이해, 도구 조정 및 다중 로봇 협업의 단계적 변화를 나타냅니다."
   },
   {
-    "id": "OpenAI-6-advancing-the-price-performance-frontier",
+    "id": "OpenAI-10-advancing-the-price-performance-frontier",
     "title": "Advancing the price-performance frontier with GPT-5.6",
     "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
     "source": "OpenAI",
@@ -89,14 +138,14 @@
     "summaryKo": "Luna 및 Terra의 저렴한 GPT‑5.6 가격을 살펴보고 OpenAI의 보다 효율적인 모델이 기업이 대규모로 AI 워크플로를 배포하는 데 어떻게 도움이 되는지 알아보세요."
   },
   {
-    "id": "OpenAI-7-how-avatarin-built-a-24-7-retail-agent-w",
+    "id": "OpenAI-11-how-avatarin-built-a-24-7-retail-agent-w",
     "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
     "url": "https://openai.com/index/avatarin",
     "source": "OpenAI",
     "date": "2026-07-30T00:00:00.000Z",
     "summary": "avatarin uses OpenAI’s GPT-Realtime to give Yamada Denki shoppers 24/7 multilingual support. In two weeks, 30,000 people used the agent and 92% of survey responses were positive.",
     "titleKo": "Avatarin이 GPT-Realtime을 사용하여 연중무휴 소매 에이전트를 구축한 방법",
-    "summaryKo": "아바타린은 OpenAI의 GPT-Realtime을 사용하여 Yamada Denki 쇼핑객에게 연중무휴 다국어 지원을 제공합니다. 2주 만에 30,000명이 에이전트를 사용했고 설문조사 응답의 92%가 긍정적이었습니다."
+    "summaryKo": "아바타린은 OpenAI의 GPT-Realtime을 사용하여 Yamada Denki 쇼핑객에게 연중무휴 24시간 다국어 지원을 제공합니다. 2주 만에 30,000명이 에이전트를 사용했고 설문조사 응답의 92%가 긍정적이었습니다."
   },
   {
     "id": "Google DeepMind-1-we-re-launching-lyria-3-5-in-google-flow",
@@ -108,17 +157,17 @@
     "titleKo": "음악성, 가사, 보컬, 창의적인 제어 기능이 향상되어 Google Flow Music에서 Lyria 3.5를 출시합니다."
   },
   {
-    "id": "OpenAI-8-how-enabling-two-settings-tripled-our-sc",
+    "id": "OpenAI-12-how-enabling-two-settings-tripled-our-sc",
     "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
     "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
     "source": "OpenAI",
     "date": "2026-07-29T15:00:00.000Z",
     "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
-    "titleKo": "두 가지 설정을 활성화하여 ARC-AGI-3 벤치마크 점수가 어떻게 3배나 높아졌습니까?",
+    "titleKo": "두 가지 설정을 활성화하여 ARC-AGI-3 벤치마크 점수가 3배 증가한 방법",
     "summaryKo": "두 가지 API 설정이 ARC-AGI-3에서 GPT-5.6 성능을 향상하고 추론을 유지하고 압축을 활성화하여 점수와 효율성을 높이는 방법입니다."
   },
   {
-    "id": "OpenAI-9-accelerating-scientific-discovery-with-c",
+    "id": "OpenAI-13-accelerating-scientific-discovery-with-c",
     "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
     "url": "https://openai.com/index/chatgpt-for-academic-researchers",
     "source": "OpenAI",
@@ -128,7 +177,7 @@
     "summaryKo": "OpenAI는 과학 연구, 협업 및 발견을 가속화하기 위해 100,000명의 학술 연구원에게 ChatGPT의 가장 진보된 AI 모델에 대한 무료 액세스를 제공합니다."
   },
   {
-    "id": "OpenAI-10-how-gpt-5-6-fuses-frontier-intelligence-",
+    "id": "OpenAI-14-how-gpt-5-6-fuses-frontier-intelligence-",
     "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
     "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
     "source": "OpenAI",
@@ -138,32 +187,13 @@
     "summaryKo": "GPT-5.6은 모델, 추론, 에이전트 워크플로 전반에서 AI 효율성을 향상시켜 달러당 더 유용한 인텔리전스를 제공하도록 돕습니다."
   },
   {
-    "id": "OpenAI-11-scientific-computing-in-the-age-of-agent",
-    "title": "Scientific computing in the age of agentic AI",
-    "url": "https://openai.com/index/scientific-computing-agentic-ai",
-    "source": "OpenAI",
-    "date": "2026-07-28T17:00:00.000Z",
-    "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-    "titleKo": "에이전트 AI 시대의 과학 컴퓨팅",
-    "summaryKo": "새로운 현장 보고서는 과학자들이 AI 코딩 에이전트를 사용하여 과학 컴퓨팅을 현대화하고 유전체학 및 그 이상 분야의 소프트웨어 개발 및 발견을 가속화하는 방법을 보여줍니다."
-  },
-  {
-    "id": "Hugging Face-1-the-olmoearth-platform-geospatial-infere",
+    "id": "Hugging Face-2-the-olmoearth-platform-geospatial-infere",
     "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
     "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
     "source": "Hugging Face",
     "date": "2026-07-28T16:27:42.000Z",
     "summary": "",
     "titleKo": "OlmoEarth 플랫폼: 행성 규모의 지리공간 추론"
-  },
-  {
-    "id": "Hugging Face-2-lfm2-5-encoders-for-fast-long-context-in",
-    "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-    "source": "Hugging Face",
-    "date": "2026-07-28T15:01:45.000Z",
-    "summary": "",
-    "titleKo": "CPU에서 빠른 장기 컨텍스트 추론을 위한 LFM2.5 인코더"
   },
   {
     "id": "Google DeepMind-2-gemini-robotics-2-brings-whole-body-inte",
@@ -184,16 +214,6 @@
     "titleKo": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입"
   },
   {
-    "id": "OpenAI-12-how-ai-is-expanding-what-people-do-at-wo",
-    "title": "How AI is expanding what people do at work",
-    "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-    "source": "OpenAI",
-    "date": "2026-07-27T03:30:00.000Z",
-    "summary": "New OpenAI research shows how AI is expanding what workers do, with ChatGPT users taking on tasks across roles and reshaping job boundaries.",
-    "titleKo": "AI가 사람들이 직장에서 하는 일을 어떻게 확장하는가",
-    "summaryKo": "새로운 OpenAI 연구는 ChatGPT 사용자가 역할 전반에 걸쳐 작업을 수행하고 작업 경계를 재형성하면서 AI가 작업자의 작업을 어떻게 확장하는지 보여줍니다."
-  },
-  {
     "id": "Hugging Face-4-anatomy-of-a-frontier-lab-agent-intrusio",
     "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
     "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
@@ -212,16 +232,6 @@
     "titleKo": "Nunchaku 4비트 확산 추론을 디퓨저에 적용"
   },
   {
-    "id": "OpenAI-13-launching-health-in-chatgpt",
-    "title": "Launching Health in ChatGPT",
-    "url": "https://openai.com/index/health-in-chatgpt",
-    "source": "OpenAI",
-    "date": "2026-07-23T00:00:00.000Z",
-    "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
-    "titleKo": "ChatGPT에서 건강 관리 시작하기",
-    "summaryKo": "이제 ChatGPT의 건강 기능을 통해 자격을 갖춘 미국 사용자는 의료 기록과 Apple Health를 안전하게 연결하여 보다 개인화된 통찰력을 얻고 자신의 건강을 더 잘 이해할 수 있습니다."
-  },
-  {
     "id": "Google DeepMind-3-accelerating-the-frontiers-of-scientific",
     "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
     "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
@@ -230,16 +240,6 @@
     "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission",
     "titleKo": "과학적 발견의 최전선 가속화: Genesis Mission에 대한 Google의 4천만 달러 지원",
     "summaryKo": "Google은 Genesis Mission을 위해 AI 토큰과 크레딧으로 4천만 달러를 약속합니다."
-  },
-  {
-    "id": "OpenAI-14-building-ai-infrastructure-with-the-effi",
-    "title": "Building AI infrastructure with the Effingham County community",
-    "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-    "source": "OpenAI",
-    "date": "2026-07-22T13:00:00.000Z",
-    "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
-    "titleKo": "Effingham 카운티 커뮤니티와 함께 ​​AI 인프라 구축",
-    "summaryKo": "OpenAI는 조지아주 에핑엄 카운티에서 책임 있는 에너지, 지역 사회 투자, 일자리 및 Codex 액세스에 대한 약속을 담은 프로젝트 카멜리아(Project Camellia)를 발표했습니다."
   },
   {
     "id": "Google DeepMind-4-introducing-gemini-3-6-flash-3-5-flash-l",
