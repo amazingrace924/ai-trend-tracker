@@ -46,7 +46,7 @@
     "date": "2026-08-03T07:00:00.000Z",
     "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
     "titleKo": "6개월 만에 반응형 음성 AI를 위한 실시간 시스템을 구축한 방법",
-    "summaryKo": "GPT-Live는 더 빠르고 자연스러운 대화를 위해 무회전 음성 모델과 저지연 아키텍처를 사용하여 AI와의 지속적인 음성 상호 작용을 가능하게 합니다."
+    "summaryKo": "GPT-Live는 더 빠르고 자연스러운 대화를 위해 턴리스 음성 모델과 저지연 아키텍처를 사용하여 AI와의 지속적인 음성 상호 작용을 가능하게 합니다."
   },
   {
     "id": "OpenAI-4-circles-powers-telco-personalization-wit",
@@ -66,7 +66,7 @@
     "date": "2026-08-01T00:00:00.000Z",
     "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
     "titleKo": "수학과 이론 컴퓨터 과학의 10가지 발전",
-    "summaryKo": "OpenAI는 기하학, 암호화 및 복잡성의 발전을 포함하여 수학과 이론 컴퓨터 과학의 오랫동안 공개된 문제에 대한 새로운 결과를 공유합니다."
+    "summaryKo": "OpenAI는 기하학, 암호화 및 복잡성의 발전을 포함하여 수학과 이론적 컴퓨터 과학의 오랫동안 공개된 문제에 대한 새로운 결과를 공유합니다."
   },
   {
     "id": "OpenAI-7-building-abundant-intelligence",
