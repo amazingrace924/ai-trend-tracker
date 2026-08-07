@@ -1,7 +1,7 @@
 {
   "category": "voice",
   "date": "2026-08-07",
-  "updatedAt": "2026-08-07T01:00:48.767Z",
+  "updatedAt": "2026-08-07T21:40:39.536Z",
   "models": [
     {
       "id": "voice-qwen-audio-3-0-tts-plus",

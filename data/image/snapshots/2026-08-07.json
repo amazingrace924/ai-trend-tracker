@@ -1,7 +1,7 @@
 {
   "category": "image",
   "date": "2026-08-07",
-  "updatedAt": "2026-08-07T01:00:48.415Z",
+  "updatedAt": "2026-08-07T21:40:39.388Z",
   "models": [
     {
       "id": "image-gpt-image-2",
@@ -10,12 +10,12 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-04",
-      "score": 1339,
+      "score": 1371,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1339"
+          "value": "1371"
         },
         {
           "label": "순위",
@@ -23,7 +23,7 @@
         },
         {
           "label": "투표수",
-          "value": "21,321"
+          "value": "12,963"
         },
         {
           "label": "제작사",
@@ -33,7 +33,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1339"
+          "value": "1371"
         },
         {
           "label": "순위",
@@ -41,7 +41,7 @@
         },
         {
           "label": "투표 수",
-          "value": "21,321"
+          "value": "12,963"
         },
         {
           "label": "출시일",
@@ -63,12 +63,12 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-07",
-      "score": 1299,
+      "score": 1326,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1299"
+          "value": "1326"
         },
         {
           "label": "순위",
@@ -76,7 +76,7 @@
         },
         {
           "label": "투표수",
-          "value": "9,889"
+          "value": "14,323"
         },
         {
           "label": "제작사",
@@ -86,7 +86,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1299"
+          "value": "1326"
         },
         {
           "label": "순위",
@@ -94,7 +94,7 @@
         },
         {
           "label": "투표 수",
-          "value": "9,889"
+          "value": "14,323"
         },
         {
           "label": "출시일",
@@ -110,79 +110,26 @@
       ]
     },
     {
-      "id": "image-mai-image-2-5",
-      "name": "MAI-Image-2.5",
-      "vendor": "Microsoft AI",
-      "category": "image",
-      "license": "proprietary",
-      "releaseDate": "2026-06",
-      "score": 1270,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1270"
-        },
-        {
-          "label": "순위",
-          "value": "#3"
-        },
-        {
-          "label": "투표수",
-          "value": "9,868"
-        },
-        {
-          "label": "제작사",
-          "value": "Microsoft AI"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1270"
-        },
-        {
-          "label": "순위",
-          "value": "#3"
-        },
-        {
-          "label": "투표 수",
-          "value": "9,868"
-        },
-        {
-          "label": "출시일",
-          "value": "2026-06"
-        },
-        {
-          "label": "제작사",
-          "value": "Microsoft AI"
-        }
-      ],
-      "strengths": [
-        "상위권"
-      ]
-    },
-    {
-      "id": "image-nano-banana-2-lite",
-      "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
+      "id": "image-nano-banana-2",
+      "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
       "vendor": "Google",
       "category": "image",
       "license": "proprietary",
-      "releaseDate": "2026-06",
-      "score": 1263,
+      "releaseDate": "2026-02",
+      "score": 1317,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1263"
+          "value": "1317"
         },
         {
           "label": "순위",
-          "value": "#4"
+          "value": "#3"
         },
         {
           "label": "투표수",
-          "value": "9,900"
+          "value": "14,231"
         },
         {
           "label": "제작사",
@@ -192,19 +139,19 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1263"
+          "value": "1317"
         },
         {
           "label": "순위",
-          "value": "#4"
+          "value": "#3"
         },
         {
           "label": "투표 수",
-          "value": "9,900"
+          "value": "14,231"
         },
         {
           "label": "출시일",
-          "value": "2026-06"
+          "value": "2026-02"
         },
         {
           "label": "제작사",
@@ -222,20 +169,20 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2025-12",
-      "score": 1263,
+      "score": 1313,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1263"
+          "value": "1313"
         },
         {
           "label": "순위",
-          "value": "#5"
+          "value": "#4"
         },
         {
           "label": "투표수",
-          "value": "12,752"
+          "value": "12,037"
         },
         {
           "label": "제작사",
@@ -245,15 +192,15 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1263"
+          "value": "1313"
         },
         {
           "label": "순위",
-          "value": "#5"
+          "value": "#4"
         },
         {
           "label": "투표 수",
-          "value": "12,752"
+          "value": "12,037"
         },
         {
           "label": "출시일",
@@ -269,18 +216,71 @@
       ]
     },
     {
-      "id": "image-nano-banana-2",
-      "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
-      "vendor": "Google",
+      "id": "image-mai-image-2-5",
+      "name": "MAI-Image-2.5",
+      "vendor": "Microsoft AI",
       "category": "image",
       "license": "proprietary",
-      "releaseDate": "2026-02",
-      "score": 1262,
+      "releaseDate": "2026-06",
+      "score": 1309,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1262"
+          "value": "1309"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표수",
+          "value": "13,234"
+        },
+        {
+          "label": "제작사",
+          "value": "Microsoft AI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1309"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표 수",
+          "value": "13,234"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-06"
+        },
+        {
+          "label": "제작사",
+          "value": "Microsoft AI"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "image-gemini_nano-banana-pro",
+      "name": "Nano Banana Pro (Gemini 3 Pro Image)",
+      "vendor": "Google",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2025-11",
+      "score": 1302,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1302"
         },
         {
           "label": "순위",
@@ -288,7 +288,7 @@
         },
         {
           "label": "투표수",
-          "value": "19,616"
+          "value": "12,091"
         },
         {
           "label": "제작사",
@@ -298,7 +298,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1262"
+          "value": "1302"
         },
         {
           "label": "순위",
@@ -306,11 +306,11 @@
         },
         {
           "label": "투표 수",
-          "value": "19,616"
+          "value": "12,091"
         },
         {
           "label": "출시일",
-          "value": "2026-02"
+          "value": "2025-11"
         },
         {
           "label": "제작사",
@@ -322,18 +322,18 @@
       ]
     },
     {
-      "id": "image-hidream-o1-image-1-5",
-      "name": "HiDream-O1-Image-1.5",
-      "vendor": "HiDream",
+      "id": "image-nano-banana-2-lite",
+      "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
+      "vendor": "Google",
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-06",
-      "score": 1245,
+      "score": 1284,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1245"
+          "value": "1284"
         },
         {
           "label": "순위",
@@ -341,17 +341,17 @@
         },
         {
           "label": "투표수",
-          "value": "12,456"
+          "value": "12,168"
         },
         {
           "label": "제작사",
-          "value": "HiDream"
+          "value": "Google"
         }
       ],
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1245"
+          "value": "1284"
         },
         {
           "label": "순위",
@@ -359,7 +359,7 @@
         },
         {
           "label": "투표 수",
-          "value": "12,456"
+          "value": "12,168"
         },
         {
           "label": "출시일",
@@ -367,7 +367,7 @@
         },
         {
           "label": "제작사",
-          "value": "HiDream"
+          "value": "Google"
         }
       ],
       "strengths": []
@@ -379,12 +379,12 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-07",
-      "score": 1240,
+      "score": 1277,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1240"
+          "value": "1277"
         },
         {
           "label": "순위",
@@ -392,7 +392,7 @@
         },
         {
           "label": "투표수",
-          "value": "8,271"
+          "value": "11,469"
         },
         {
           "label": "제작사",
@@ -402,7 +402,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1240"
+          "value": "1277"
         },
         {
           "label": "순위",
@@ -410,7 +410,7 @@
         },
         {
           "label": "투표 수",
-          "value": "8,271"
+          "value": "11,469"
         },
         {
           "label": "출시일",
@@ -424,77 +424,26 @@
       "strengths": []
     },
     {
-      "id": "image-gemini_nano-banana-pro",
-      "name": "Nano Banana Pro (Gemini 3 Pro Image)",
-      "vendor": "Google",
-      "category": "image",
-      "license": "proprietary",
-      "releaseDate": "2025-11",
-      "score": 1225,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1225"
-        },
-        {
-          "label": "순위",
-          "value": "#9"
-        },
-        {
-          "label": "투표수",
-          "value": "12,019"
-        },
-        {
-          "label": "제작사",
-          "value": "Google"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1225"
-        },
-        {
-          "label": "순위",
-          "value": "#9"
-        },
-        {
-          "label": "투표 수",
-          "value": "12,019"
-        },
-        {
-          "label": "출시일",
-          "value": "2025-11"
-        },
-        {
-          "label": "제작사",
-          "value": "Google"
-        }
-      ],
-      "strengths": []
-    },
-    {
       "id": "image-cosmos3-super-text2image-agentic",
       "name": "Cosmos3-Super-Text2Image (agentic)",
       "vendor": "NVIDIA",
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-05",
-      "score": 1219,
+      "score": 1236,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1219"
+          "value": "1236"
         },
         {
           "label": "순위",
-          "value": "#10"
+          "value": "#9"
         },
         {
           "label": "투표수",
-          "value": "10,414"
+          "value": "3,682"
         },
         {
           "label": "제작사",
@@ -504,15 +453,15 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1219"
+          "value": "1236"
         },
         {
           "label": "순위",
-          "value": "#10"
+          "value": "#9"
         },
         {
           "label": "투표 수",
-          "value": "10,414"
+          "value": "3,682"
         },
         {
           "label": "출시일",
@@ -521,6 +470,57 @@
         {
           "label": "제작사",
           "value": "NVIDIA"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "image-black_forest_labs_flux-2-max",
+      "name": "FLUX.2 [max]",
+      "vendor": "Black Forest Labs",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2025-12",
+      "score": 1233,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1233"
+        },
+        {
+          "label": "순위",
+          "value": "#10"
+        },
+        {
+          "label": "투표수",
+          "value": "7,066"
+        },
+        {
+          "label": "제작사",
+          "value": "Black Forest Labs"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1233"
+        },
+        {
+          "label": "순위",
+          "value": "#10"
+        },
+        {
+          "label": "투표 수",
+          "value": "7,066"
+        },
+        {
+          "label": "출시일",
+          "value": "2025-12"
+        },
+        {
+          "label": "제작사",
+          "value": "Black Forest Labs"
         }
       ],
       "strengths": []
