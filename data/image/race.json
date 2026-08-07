@@ -3446,6 +3446,59 @@
           "value": 1240
         }
       ]
+    },
+    {
+      "date": "2026-08-07",
+      "entries": [
+        {
+          "id": "image-gpt-image-2",
+          "name": "GPT Image 2 (high)",
+          "vendor": "OpenAI",
+          "value": 1339
+        },
+        {
+          "id": "image-reve-2-1",
+          "name": "Reve 2.1",
+          "vendor": "Reve",
+          "value": 1299
+        },
+        {
+          "id": "image-mai-image-2-5",
+          "name": "MAI-Image-2.5",
+          "vendor": "Microsoft AI",
+          "value": 1270
+        },
+        {
+          "id": "image-nano-banana-2-lite",
+          "name": "Nano Banana 2 Lite (Gemini 3.1 Flash Lite Image)",
+          "vendor": "Google",
+          "value": 1263
+        },
+        {
+          "id": "image-openai-gpt_image-1-5",
+          "name": "GPT Image 1.5 (high)",
+          "vendor": "OpenAI",
+          "value": 1263
+        },
+        {
+          "id": "image-nano-banana-2",
+          "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
+          "vendor": "Google",
+          "value": 1262
+        },
+        {
+          "id": "image-hidream-o1-image-1-5",
+          "name": "HiDream-O1-Image-1.5",
+          "vendor": "HiDream",
+          "value": 1245
+        },
+        {
+          "id": "image-seedream-5-0-pro",
+          "name": "Seedream 5.0 Pro",
+          "vendor": "Bytedance",
+          "value": 1240
+        }
+      ]
     }
   ]
 }
