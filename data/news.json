@@ -45,7 +45,7 @@
     "date": "2026-08-06T10:00:00.000Z",
     "summary": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
     "titleKo": "ChatGPT에서 GPT‑5.6 Sol을 개선하고 무료 사용자를 위한 GPT-5.6 Luna에 대한 액세스 확대",
-    "summaryKo": "ChatGPT는 향상된 정확성과 일관성을 갖춘 개선된 GPT-5.6 Sol을 도입하고 무료 사용자를 위한 확장된 액세스와 GPT-5.6 Luna를 통한 무제한 일일 채팅을 제공합니다."
+    "summaryKo": "ChatGPT는 더 나은 정확성과 일관성으로 개선된 GPT-5.6 Sol을 도입하고 무료 사용자를 위한 확장된 액세스와 GPT-5.6 Luna를 통한 무제한 일일 채팅을 제공합니다."
   },
   {
     "id": "OpenAI-3-working-with-the-american-psychological-",
@@ -64,7 +64,7 @@
     "source": "Hugging Face",
     "date": "2026-08-06T00:00:00.000Z",
     "summary": "",
-    "titleKo": "포옹 얼굴 추론 제공자를 기반으로 한 Baseten 🔥"
+    "titleKo": "포옹하는 얼굴 추론 제공자를 기반으로 하는 Baseten 🔥"
   },
   {
     "id": "OpenAI-4-from-asking-to-doing-how-the-world-is-pu",
@@ -73,7 +73,7 @@
     "source": "OpenAI",
     "date": "2026-08-06T00:00:00.000Z",
     "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-    "titleKo": "요청에서 실행까지: 전 세계가 ChatGPT를 작동시키는 방법",
+    "titleKo": "요청에서 실행까지: 세계가 ChatGPT를 작동시키는 방법",
     "summaryKo": "새로운 OpenAI 신호 데이터는 채택, 사용 추세 및 진화하는 행동에 대한 국가 수준의 통찰력을 통해 전 세계 사람들이 ChatGPT를 사용하는 방법을 보여줍니다."
   },
   {
@@ -123,7 +123,7 @@
     "date": "2026-08-03T07:00:00.000Z",
     "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
     "titleKo": "6개월 만에 반응형 음성 AI를 위한 실시간 시스템을 구축한 방법",
-    "summaryKo": "GPT-Live는 더 빠르고 자연스러운 대화를 위해 턴리스 음성 모델과 저지연 아키텍처를 사용하여 AI와의 지속적인 음성 상호 작용을 가능하게 합니다."
+    "summaryKo": "GPT-Live는 더 빠르고 자연스러운 대화를 위해 무회전 음성 모델과 저지연 아키텍처를 사용하여 AI와의 지속적인 음성 상호 작용을 가능하게 합니다."
   },
   {
     "id": "OpenAI-9-circles-powers-telco-personalization-wit",
