@@ -16,7 +16,7 @@
     "date": "2026-08-07T15:20:00.000Z",
     "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
     "titleKo": "중요한 사이버 역량의 차세대 개척에 대응",
-    "summaryKo": "OpenAI는 Astra에 대한 예비 사이버 보안 평가와 보호 장치 및 보안 제어를 강화하기 위해 취하고 있는 조치를 공유하고 있습니다."
+    "summaryKo": "OpenAI는 Astra에 대한 예비 사이버 보안 평가와 보호 장치 및 보안 통제를 강화하기 위해 취하고 있는 조치를 공유하고 있습니다."
   },
   {
     "id": "OpenAI-1-how-hsp-gruppe-builds-ai-capabilities-fo",
@@ -133,7 +133,7 @@
     "date": "2026-08-03T00:00:00.000Z",
     "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
     "titleKo": "Circles는 OpenAI 기술로 통신사 개인화를 강화합니다.",
-    "summaryKo": "Circles는 OpenAI API 및 Codex를 사용하여 AI 기반 통신 경험을 강화하고 ARPU를 22% 늘리고 이탈률을 9% 줄이며 개발 효율성을 향상시킵니다."
+    "summaryKo": "Circles는 OpenAI API와 Codex를 사용하여 AI 기반 통신 경험을 강화하고 ARPU를 22% 늘리고 이탈률을 9% 줄이며 개발 효율성을 향상시킵니다."
   },
   {
     "id": "OpenAI-10-ten-advances-in-mathematics-and-theoreti",
@@ -143,7 +143,7 @@
     "date": "2026-08-01T00:00:00.000Z",
     "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
     "titleKo": "수학과 이론 컴퓨터 과학의 10가지 발전",
-    "summaryKo": "OpenAI는 기하학, 암호화 및 복잡성의 발전을 포함하여 수학과 이론적 컴퓨터 과학의 오랫동안 공개된 문제에 대한 새로운 결과를 공유합니다."
+    "summaryKo": "OpenAI는 기하학, 암호화 및 복잡성의 발전을 포함하여 수학과 이론 컴퓨터 과학의 오랫동안 공개된 문제에 대한 새로운 결과를 공유합니다."
   },
   {
     "id": "OpenAI-12-building-abundant-intelligence",
@@ -173,7 +173,7 @@
     "date": "2026-07-31T07:00:00.000Z",
     "summary": "See how Univé built an AI-ready workforce with ChatGPT Enterprise by combining leadership, responsible governance, and employee-led innovation to transform work at scale.",
     "titleKo": "Univé는 AI 지원 인력을 구축합니다.",
-    "summaryKo": "Univé가 리더십, 책임 있는 거버넌스, 직원 주도 혁신을 결합하여 대규모로 업무를 혁신함으로써 ChatGPT Enterprise를 통해 AI 지원 인력을 구축한 방법을 알아보세요."
+    "summaryKo": "Univé가 리더십, 책임 있는 거버넌스, 직원 주도 혁신을 결합하여 대규모로 작업을 혁신함으로써 ChatGPT Enterprise를 통해 AI 지원 인력을 구축한 방법을 알아보세요."
   },
   {
     "id": "OpenAI-14-disrupting-a-criminal-scam-operation",
@@ -341,7 +341,7 @@
     "source": "Hugging Face",
     "date": "2026-07-15T00:00:00.000Z",
     "summary": "",
-    "titleKo": "Thinkling Machines의 Inkling을 환영합니다"
+    "titleKo": "Thinking Machines의 Inkling을 환영합니다."
   },
   {
     "id": "Google DeepMind-8-empowering-india-s-next-generation-of-in",
