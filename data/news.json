@@ -1,6 +1,54 @@
 [
   {
-    "id": "Hugging Face-0-thinking-of-ace-we-can-do-it-with-fewer-",
+    "id": "Hugging Face-0-introducing-olmoearth-embeddings-custom-",
+    "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+    "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+    "source": "Hugging Face",
+    "date": "2026-08-12T16:14:36.000Z",
+    "summary": "",
+    "titleKo": "OlmoEarth 임베딩 소개: 다운스트림 분석을 위해 OlmoEarth Studio에서 사용자 정의 임베딩 내보내기"
+  },
+  {
+    "id": "Google DeepMind-0-putting-sign-language-ai-into-users-hand",
+    "title": "Putting sign language AI into users’ hands",
+    "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
+    "source": "Google DeepMind",
+    "date": "2026-08-12T14:01:59.000Z",
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "titleKo": "수화 AI를 사용자의 손에 넣다",
+    "summaryKo": "청각 장애가 있는 사용자를 위한 새로운 수화 기능을 지원하는 획기적인 모델인 수화-텍스트(SL2T)를 소개합니다."
+  },
+  {
+    "id": "Hugging Face-1-lfm2-5-vl-3b-for-better-and-faster-visio",
+    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+    "source": "Hugging Face",
+    "date": "2026-08-12T14:00:51.000Z",
+    "summary": "",
+    "titleKo": "가장자리에 대한 더 좋고 빠른 비전 기능을 위한 LFM2.5-VL-3B"
+  },
+  {
+    "id": "OpenAI-0-from-assistance-to-execution-how-enterpr",
+    "title": "From assistance to execution: How enterprises put AI to work",
+    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
+    "source": "OpenAI",
+    "date": "2026-08-12T06:00:00.000Z",
+    "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+    "titleKo": "지원부터 실행까지: 기업이 AI를 업무에 활용하는 방법",
+    "summaryKo": "OpenAI 연구는 기업이 ChatGPT 및 Codex를 사용하여 에이전트 AI를 채택하는 방법과 선구적인 기업이 AI 채택을 앞당기는 방법을 보여줍니다."
+  },
+  {
+    "id": "OpenAI-1-how-ringcentral-builds-ai-native-work-fr",
+    "title": "How RingCentral builds AI-native work from engineering to ops",
+    "url": "https://openai.com/index/ringcentral",
+    "source": "OpenAI",
+    "date": "2026-08-12T00:00:00.000Z",
+    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
+    "titleKo": "RingCentral이 엔지니어링부터 운영까지 AI 기반 작업을 구축하는 방법",
+    "summaryKo": "RingCentral이 ChatGPT Work 및 Codex를 사용하여 AI 제품 개발을 가속화하고 엔지니어링 및 운영 전반에 걸쳐 운영 인텔리전스를 중앙 집중화하는 방법을 알아보세요."
+  },
+  {
+    "id": "Hugging Face-2-thinking-of-ace-we-can-do-it-with-fewer-",
     "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
     "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
     "source": "Hugging Face",
@@ -9,7 +57,7 @@
     "titleKo": "에이스를 생각하시나요? 더 적은 토큰으로 할 수 있습니다"
   },
   {
-    "id": "OpenAI-1-daybreak-models-are-now-available-on-aws",
+    "id": "OpenAI-3-daybreak-models-are-now-available-on-aws",
     "title": "Daybreak models are now available on AWS",
     "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
     "source": "OpenAI",
@@ -19,7 +67,7 @@
     "summaryKo": "OpenAI와 AWS는 기업 보안 워크플로를 지원하기 위해 Amazon Bedrock을 통해 Daybreak 사이버 보안 기능을 제공하고 있습니다."
   },
   {
-    "id": "OpenAI-0-testing-ads-in-chatgpt",
+    "id": "OpenAI-2-testing-ads-in-chatgpt",
     "title": "Testing ads in ChatGPT",
     "url": "https://openai.com/index/testing-ads-in-chatgpt",
     "source": "OpenAI",
@@ -29,7 +77,7 @@
     "summaryKo": "OpenAI는 명확한 라벨 지정, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다."
   },
   {
-    "id": "OpenAI-4-what-building-an-ai-native-finance-funct",
+    "id": "OpenAI-6-what-building-an-ai-native-finance-funct",
     "title": "What building an AI-native finance function taught me",
     "url": "https://openai.com/index/building-an-ai-native-finance-function",
     "source": "OpenAI",
@@ -39,7 +87,7 @@
     "summaryKo": "OpenAI CFO Sarah Friar가 자동화된 예측부터 강력한 제어 및 AI ROI에 이르기까지 AI 기반 재무 기능을 구축하기 위한 5가지 교훈을 공유합니다."
   },
   {
-    "id": "Hugging Face-1-build-low-latency-multilingual-voice-age",
+    "id": "Hugging Face-3-build-low-latency-multilingual-voice-age",
     "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
     "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
     "source": "Hugging Face",
@@ -48,17 +96,17 @@
     "titleKo": "지연 시간이 짧은 다국어 음성 에이전트 구축: NVIDIA Magpie TTS를 통한 개방형 가중치 및 전체 배포 제어"
   },
   {
-    "id": "OpenAI-2-openai-s-letter-to-governor-abbott-on-re",
+    "id": "OpenAI-4-openai-s-letter-to-governor-abbott-on-re",
     "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
     "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
     "source": "OpenAI",
     "date": "2026-08-10T14:00:00.000Z",
     "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
     "titleKo": "텍사스의 책임 있는 AI 인프라에 관해 OpenAI가 Abbott 주지사에게 보낸 서한",
-    "summaryKo": "OpenAI는 Greg Abbott 주지사에게 텍사스의 책임 있는 AI 인프라에 대한 약속을 설명하는 서한을 보냈습니다. 이 편지는 텍사스 주민에게 이익이 되는 안정적이고 투명한 성장을 지원합니다."
+    "summaryKo": "OpenAI는 Greg Abbott 주지사에게 텍사스의 책임 있는 AI 인프라에 대한 약속을 설명하는 서한을 보냈습니다. 이 편지는 텍사스 주민들에게 이익이 되는 안정적이고 투명한 성장을 지원합니다."
   },
   {
-    "id": "OpenAI-3-model-ml-completes-finance-work-more-eff",
+    "id": "OpenAI-5-model-ml-completes-finance-work-more-eff",
     "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
     "url": "https://openai.com/index/model-ml",
     "source": "OpenAI",
@@ -68,7 +116,7 @@
     "summaryKo": "Model ML은 GPT-5.6 Sol을 사용하여 편집 및 추적 가능한 PowerPoint 데크 및 Excel 통합 문서를 통해 연구 및 분석에서 재무 업무를 수행합니다."
   },
   {
-    "id": "Hugging Face-2-making-knowledge-distillation-cheap-enou",
+    "id": "Hugging Face-4-making-knowledge-distillation-cheap-enou",
     "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
     "source": "Hugging Face",
@@ -77,17 +125,7 @@
     "titleKo": "대규모로 실행하기에 충분할 정도로 지식 증류를 저렴하게 만들기"
   },
   {
-    "id": "OpenAI-6-putting-frontier-cyber-models-in-more-tr",
-    "title": "Putting frontier cyber models in more trusted hands",
-    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
-    "source": "OpenAI",
-    "date": "2026-08-10T10:00:00.000Z",
-    "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
-    "titleKo": "보다 신뢰할 수 있는 손에 최첨단 사이버 모델을 제공",
-    "summaryKo": "승인된 Daybreak 파트너는 OpenAI의 프론티어 사이버 모델을 사용하여 승인되고 관리되는 사이버 보안 서비스를 고객에게 제공할 수 있습니다."
-  },
-  {
-    "id": "OpenAI-5-expanding-daybreak-as-the-cyber-defense-",
+    "id": "OpenAI-8-expanding-daybreak-as-the-cyber-defense-",
     "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
     "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
     "source": "OpenAI",
@@ -97,7 +135,17 @@
     "summaryKo": "승인된 취약점 연구, 익스플로잇 검증 및 보안 테스트를 위해 Daybreak Red를 통해 제공되는 OpenAI의 사이버 보안 전용 모델인 GPT-5.6-Cyber를 만나보세요."
   },
   {
-    "id": "Hugging Face-3-meta-is-back-with-muse-glimmer-local-age",
+    "id": "OpenAI-7-putting-frontier-cyber-models-in-more-tr",
+    "title": "Putting frontier cyber models in more trusted hands",
+    "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+    "source": "OpenAI",
+    "date": "2026-08-10T10:00:00.000Z",
+    "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+    "titleKo": "보다 신뢰할 수 있는 손에 최첨단 사이버 모델을 제공",
+    "summaryKo": "승인된 Daybreak 파트너는 OpenAI의 프론티어 사이버 모델을 사용하여 승인되고 관리되는 사이버 보안 서비스를 고객에게 제공할 수 있습니다."
+  },
+  {
+    "id": "Hugging Face-5-meta-is-back-with-muse-glimmer-local-age",
     "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
     "url": "https://huggingface.co/blog/muse-glimmer",
     "source": "Hugging Face",
@@ -106,7 +154,7 @@
     "titleKo": "Meta가 로컬, 에이전트, 멀티모달, 오픈 소스인 Muse Glimmer로 돌아왔습니다."
   },
   {
-    "id": "OpenAI-9-virgin-atlantic-sharpens-customer-journe",
+    "id": "OpenAI-11-virgin-atlantic-sharpens-customer-journe",
     "title": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
     "url": "https://openai.com/index/virgin-atlantic/chatgpt-work",
     "source": "OpenAI",
@@ -116,7 +164,7 @@
     "summaryKo": "Virgin Atlantic은 ChatGPT Work를 통해 연구, 제품 계획 및 의사 결정을 가속화하여 팀이 고객 여정 전반에 걸쳐 신호를 연결할 수 있도록 돕습니다."
   },
   {
-    "id": "OpenAI-8-how-zapier-transformed-core-marketing-pr",
+    "id": "OpenAI-10-how-zapier-transformed-core-marketing-pr",
     "title": "How Zapier transformed core marketing processes with ChatGPT Work",
     "url": "https://openai.com/index/zapier",
     "source": "OpenAI",
@@ -126,7 +174,7 @@
     "summaryKo": "Zapier의 엔터프라이즈 마케팅 팀은 ChatGPT Work를 사용하여 리드 퍼널에서 이탈자 수를 줄이고, 캠페인 자산을 구축하고, 보고를 자동화합니다."
   },
   {
-    "id": "OpenAI-7-premium-seats-are-coming-to-chatgpt-busi",
+    "id": "OpenAI-9-premium-seats-are-coming-to-chatgpt-busi",
     "title": "Premium seats are coming to ChatGPT Business",
     "url": "https://openai.com/index/premium-seats-chatgpt-business",
     "source": "OpenAI",
@@ -136,16 +184,7 @@
     "summaryKo": "ChatGPT Business에 프리미엄 시트가 제공됩니다. 8월 20일까지 등록하면 $100의 작업 공간 크레딧을 받고 팀의 가장 까다로운 작업을 위해 더 높은 사용량을 얻을 수 있습니다."
   },
   {
-    "id": "Hugging Face-4-tutormoments-do-ai-tutors-know-when-to-h",
-    "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-    "url": "https://huggingface.co/blog/allenai/tutormoments",
-    "source": "Hugging Face",
-    "date": "2026-08-07T17:53:32.000Z",
-    "summary": "",
-    "titleKo": "TutorMoments: AI 교사는 언제 도움을 주고 언제 보류해야 하는지 알고 있나요?"
-  },
-  {
-    "id": "OpenAI-10-responding-to-the-next-frontier-of-criti",
+    "id": "OpenAI-12-responding-to-the-next-frontier-of-criti",
     "title": "Responding to the next frontier of critical cyber capabilities",
     "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
     "source": "OpenAI",
@@ -155,7 +194,7 @@
     "summaryKo": "OpenAI는 Astra에 대한 예비 사이버 보안 평가와 보호 장치 및 보안 통제를 강화하기 위해 취하고 있는 조치를 공유하고 있습니다."
   },
   {
-    "id": "OpenAI-11-how-hsp-gruppe-builds-ai-capabilities-fo",
+    "id": "OpenAI-13-how-hsp-gruppe-builds-ai-capabilities-fo",
     "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
     "url": "https://openai.com/index/hsp-gruppe",
     "source": "OpenAI",
@@ -165,7 +204,7 @@
     "summaryKo": "HSP GRUPPE가 어떻게 ChatGPT Enterprise를 사용하여 생산성을 높이고 작업 품질을 개선하며 세금 자문 및 고객 서비스를 위한 더 많은 역량을 창출하는지 알아보세요."
   },
   {
-    "id": "Google DeepMind-0-weathernext-ai-model-achieves-breakthrou",
+    "id": "Google DeepMind-1-weathernext-ai-model-achieves-breakthrou",
     "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
     "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
     "source": "Google DeepMind",
@@ -174,7 +213,7 @@
     "titleKo": "WeatherNext: AI 모델이 사이클론 예측에 획기적인 성과를 거두었습니다."
   },
   {
-    "id": "OpenAI-12-improving-gpt-5-6-sol-in-chatgpt-and-exp",
+    "id": "OpenAI-14-improving-gpt-5-6-sol-in-chatgpt-and-exp",
     "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
     "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
     "source": "OpenAI",
@@ -184,42 +223,13 @@
     "summaryKo": "ChatGPT는 더 나은 정확성과 일관성으로 개선된 GPT-5.6 Sol을 도입하고 무료 사용자를 위한 확장된 액세스와 GPT-5.6 Luna를 통한 무제한 일일 채팅을 제공합니다."
   },
   {
-    "id": "OpenAI-13-working-with-the-american-psychological-",
-    "title": "Working with the American Psychological Association on youth mental health and AI",
-    "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-    "source": "OpenAI",
-    "date": "2026-08-06T06:00:00.000Z",
-    "summary": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
-    "titleKo": "청소년 정신 건강 및 AI에 관해 미국 심리학 협회와 협력",
-    "summaryKo": "OpenAI와 미국심리학회(American Psychological Association)는 책임감 있는 AI 사용과 청소년 정신 건강을 위한 증거 기반 지침, 리소스 및 보호 장치를 발전시킵니다."
-  },
-  {
-    "id": "Hugging Face-5-baseten-on-hugging-face-inference-provid",
+    "id": "Hugging Face-6-baseten-on-hugging-face-inference-provid",
     "title": "Baseten on Hugging Face Inference Providers 🔥",
     "url": "https://huggingface.co/blog/baseten",
     "source": "Hugging Face",
     "date": "2026-08-06T00:00:00.000Z",
     "summary": "",
     "titleKo": "포옹하는 얼굴 추론 제공자를 기반으로 하는 Baseten 🔥"
-  },
-  {
-    "id": "OpenAI-14-from-asking-to-doing-how-the-world-is-pu",
-    "title": "From asking to doing: How the world is putting ChatGPT to work",
-    "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-    "source": "OpenAI",
-    "date": "2026-08-06T00:00:00.000Z",
-    "summary": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
-    "titleKo": "요청에서 실행까지: 전 세계가 ChatGPT를 작동시키는 방법",
-    "summaryKo": "새로운 OpenAI 신호 데이터는 채택, 사용 추세 및 진화하는 행동에 대한 국가 수준의 통찰력을 통해 전 세계 사람들이 ChatGPT를 사용하는 방법을 보여줍니다."
-  },
-  {
-    "id": "Hugging Face-6-deploy-local-agents-everywhere-with-lfm2",
-    "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-    "source": "Hugging Face",
-    "date": "2026-08-04T13:58:29.000Z",
-    "summary": "",
-    "titleKo": "LFM2.5-2.6B를 사용하여 모든 곳에 로컬 에이전트 배포"
   },
   {
     "id": "Hugging Face-7-gpu-management-why-idle-gpus-are-the-new",
@@ -231,7 +241,7 @@
     "titleKo": "GPU 관리: 유휴 GPU가 새로운 지상 항공기인 이유"
   },
   {
-    "id": "Google DeepMind-1-gemini-robotics-er-2-powering-robotics-w",
+    "id": "Google DeepMind-2-gemini-robotics-er-2-powering-robotics-w",
     "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
     "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
     "source": "Google DeepMind",
@@ -241,7 +251,7 @@
     "summaryKo": "Gemini Robotics ER 2는 로봇이 실제 작업을 추론하고, 협업하고, 해결하도록 돕습니다. 이는 로봇 애플리케이션에 대한 비디오 이해, 도구 조정 및 다중 로봇 협업의 단계적 변화를 나타냅니다."
   },
   {
-    "id": "Google DeepMind-2-we-re-launching-lyria-3-5-in-google-flow",
+    "id": "Google DeepMind-3-we-re-launching-lyria-3-5-in-google-flow",
     "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
     "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
     "source": "Google DeepMind",
@@ -250,7 +260,7 @@
     "titleKo": "음악성, 가사, 보컬, 창의적인 제어 기능이 향상되어 Google Flow Music에서 Lyria 3.5를 출시합니다."
   },
   {
-    "id": "Google DeepMind-3-gemini-robotics-2-brings-whole-body-inte",
+    "id": "Google DeepMind-4-gemini-robotics-2-brings-whole-body-inte",
     "title": "Gemini Robotics 2 brings whole body intelligence to robots",
     "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
     "source": "Google DeepMind",
@@ -286,7 +296,7 @@
     "titleKo": "Nunchaku 4비트 확산 추론을 디퓨저에 적용"
   },
   {
-    "id": "Google DeepMind-4-accelerating-the-frontiers-of-scientific",
+    "id": "Google DeepMind-5-accelerating-the-frontiers-of-scientific",
     "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
     "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
     "source": "Google DeepMind",
@@ -296,7 +306,7 @@
     "summaryKo": "Google은 Genesis Mission을 위해 AI 토큰과 크레딧으로 4천만 달러를 약속합니다."
   },
   {
-    "id": "Google DeepMind-5-introducing-gemini-3-6-flash-3-5-flash-l",
+    "id": "Google DeepMind-6-introducing-gemini-3-6-flash-3-5-flash-l",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
     "source": "Google DeepMind",
@@ -315,7 +325,7 @@
     "titleKo": "Grabette: 로봇 조작 데이터를 기록하는 개방형 시스템"
   },
   {
-    "id": "Google DeepMind-6-introducing-gemini-3-5-flash-cyber",
+    "id": "Google DeepMind-7-introducing-gemini-3-5-flash-cyber",
     "title": "Introducing Gemini 3.5 Flash Cyber",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
     "source": "Google DeepMind",
@@ -334,7 +344,7 @@
     "titleKo": "최신 모델, 동일한 장점"
   },
   {
-    "id": "Google DeepMind-7-our-approach-to-bioresilience",
+    "id": "Google DeepMind-8-our-approach-to-bioresilience",
     "title": "Our approach to bioresilience",
     "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
     "source": "Google DeepMind",
@@ -350,7 +360,7 @@
     "source": "Hugging Face",
     "date": "2026-07-16T00:00:00.000Z",
     "summary": "",
-    "titleKo": "보안 사고 공개 — 2026년 7월"
+    "titleKo": "보안 사고 공개 - 2026년 7월"
   },
   {
     "id": "Hugging Face-14-model-routing-is-simple-until-it-isn-t-",
@@ -362,7 +372,7 @@
     "titleKo": "모델 라우팅은 간단합니다. 그렇지 않을 때까지."
   },
   {
-    "id": "Google DeepMind-8-empowering-india-s-next-generation-of-in",
+    "id": "Google DeepMind-9-empowering-india-s-next-generation-of-in",
     "title": "Empowering India’s next generation of innovators with ATL Saathi",
     "url": "https://deepmind.google/blog/empowering-indias-next-generation-of-innovators-with-atl-saathi/",
     "source": "Google DeepMind",
@@ -370,14 +380,5 @@
     "summary": "Google and AIM launched ATL Saathi, a Gemini-powered AI tool empowering Indian educators in robotics labs.",
     "titleKo": "ATL Saathi를 통해 인도의 차세대 혁신가 역량 강화",
     "summaryKo": "Google과 AIM은 로봇 공학 연구실의 인도 교육자들에게 힘을 실어주는 Gemini 기반 AI 도구인 ATL Saathi를 출시했습니다."
-  },
-  {
-    "id": "Google DeepMind-9-google-deepmind-and-a24-announce-first-o",
-    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
-    "url": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "source": "Google DeepMind",
-    "date": "2026-07-03T14:25:43.000Z",
-    "summary": "",
-    "titleKo": "Google DeepMind와 A24, 최초의 연구 파트너십 발표"
   }
 ]
