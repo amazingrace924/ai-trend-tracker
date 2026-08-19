@@ -1,35 +1,74 @@
 [
   {
-    "id": "OpenAI-0-strengthening-democratic-oversight-in-na",
+    "id": "OpenAI-0-offering-zero-data-retention-for-frontie",
+    "title": "Offering Zero Data Retention for frontier models",
+    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+    "source": "OpenAI",
+    "date": "2026-08-19T19:00:00.000Z",
+    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+    "titleKo": "프론티어 모델을 위한 제로 데이터 보존 제공",
+    "summaryKo": "OpenAI는 자격을 갖춘 API 고객을 위해 제로 데이터 보존을 재확인하고 데이터 개인정보 보호를 손상시키지 않으면서 고급 AI 안전을 위한 개인 안전 처리를 미리 봅니다."
+  },
+  {
+    "id": "Hugging Face-0-lfm2-5-q4-0-checkpoints-from-quantizatio",
+    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+    "url": "https://huggingface.co/blog/LiquidAI/qad",
+    "source": "Hugging Face",
+    "date": "2026-08-19T13:48:49.000Z",
+    "summary": "",
+    "titleKo": "LFM2.5 Q4\\_0 양자화 인식 증류의 체크포인트"
+  },
+  {
+    "id": "OpenAI-1-replit-expands-access-to-software-creati",
+    "title": "Replit expands access to software creation with GPT-5.6 Luna",
+    "url": "https://openai.com/index/replit",
+    "source": "OpenAI",
+    "date": "2026-08-19T07:00:00.000Z",
+    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+    "titleKo": "Replit, GPT-5.6 Luna를 통해 소프트웨어 생성에 대한 액세스 확장",
+    "summaryKo": "Replit는 GPT-5.6 Luna로 구동되는 무료 모드를 도입하여 누구나 토큰 비용에 대한 걱정 없이 아이디어를 작동 가능한 소프트웨어로 전환할 수 있습니다."
+  },
+  {
+    "id": "OpenAI-2-chatgpt-ads-expands-across-europe",
+    "title": "ChatGPT Ads expands across Europe",
+    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+    "source": "OpenAI",
+    "date": "2026-08-18T22:00:00.000Z",
+    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+    "titleKo": "ChatGPT 광고가 유럽 전역으로 확장됩니다.",
+    "summaryKo": "ChatGPT 광고는 31개 유럽 시장으로 확장됩니다. 광고주가 옵션을 탐색하고, 비교하고, 결정을 내릴 때 사람들에게 다가갈 수 있는 방법을 알아보세요."
+  },
+  {
+    "id": "OpenAI-3-strengthening-democratic-oversight-in-na",
     "title": "Strengthening democratic oversight in national security",
     "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
     "source": "OpenAI",
     "date": "2026-08-18T19:00:00.000Z",
     "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
     "titleKo": "국가 안보에 대한 민주적 감독 강화",
-    "summaryKo": "OpenAI는 국가 안보에서 AI에 대한 민주적 감독을 강화하고 도구, 교육 및 전문 지식을 통해 정부 기관을 지원하기 위한 이니셔티브를 시작합니다."
+    "summaryKo": "OpenAI는 국가 안보에서 AI에 대한 민주적 감독을 강화하고 도구, 교육 및 전문 지식을 통해 정부 기관을 지원하는 이니셔티브를 시작합니다."
   },
   {
-    "id": "Hugging Face-0-how-much-memory-does-your-agent-actually",
+    "id": "Hugging Face-1-how-much-memory-does-your-agent-actually",
     "title": "How Much Memory Does Your Agent Actually Need?",
     "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "source": "Hugging Face",
     "date": "2026-08-18T18:09:38.000Z",
     "summary": "",
-    "titleKo": "에이전트에 실제로 필요한 메모리 양은 얼마나 됩니까?"
+    "titleKo": "에이전트에 실제로 얼마나 많은 메모리가 필요합니까?"
   },
   {
-    "id": "OpenAI-3-introducing-chatgpt-for-teens-built-for-",
+    "id": "OpenAI-6-introducing-chatgpt-for-teens-built-for-",
     "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
     "url": "https://openai.com/index/chatgpt-for-teens",
     "source": "OpenAI",
     "date": "2026-08-18T11:00:00.000Z",
     "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
     "titleKo": "청소년을 위한 ChatGPT 소개: 학습용으로 제작되었으며 보호 기능이 지원됨",
-    "summaryKo": "청소년용 ChatGPT는 강력한 내장 보호 기능, 건전한 사용 기능, 부모를 위한 추가 제어 기능을 통해 청소년이 자신있게 AI를 배우고, 비판적으로 생각하고, AI를 사용할 수 있도록 도와줍니다."
+    "summaryKo": "청소년용 ChatGPT는 강력한 기본 보호 기능, 건전한 사용 기능, 부모를 위한 추가 제어 기능을 통해 청소년이 자신있게 AI를 배우고, 비판적으로 생각하고, AI를 사용할 수 있도록 도와줍니다."
   },
   {
-    "id": "OpenAI-2-pacing-model-development-in-an-era-of-cy",
+    "id": "OpenAI-5-pacing-model-development-in-an-era-of-cy",
     "title": "Pacing model development in an era of cyber-critical capabilities",
     "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
     "source": "OpenAI",
@@ -39,7 +78,7 @@
     "summaryKo": "OpenAI는 최첨단 AI 모델에 대한 모니터링, 조정 및 보안을 강화하고 있습니다. 새로운 보호 장치가 모델 개발 속도를 어떻게 안내하는지 알아보세요."
   },
   {
-    "id": "OpenAI-1-partnering-with-codeai-to-prepare-the-fi",
+    "id": "OpenAI-4-partnering-with-codeai-to-prepare-the-fi",
     "title": "Partnering with CodeAI to prepare the first AI generation",
     "url": "https://openai.com/index/partnering-with-codeai",
     "source": "OpenAI",
@@ -49,17 +88,17 @@
     "summaryKo": "OpenAI와 CodeAI는 학생들이 AI 활용 능력을 키우고, AI에 대해 비판적으로 생각하고, AI를 책임감 있게 사용하고 형성하는 기술을 개발하도록 돕기 위해 협력하고 있습니다."
   },
   {
-    "id": "OpenAI-4-asana-cleared-5-years-of-engineering-wor",
+    "id": "OpenAI-8-asana-cleared-5-years-of-engineering-wor",
     "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
     "url": "https://openai.com/index/asana",
     "source": "OpenAI",
     "date": "2026-08-18T07:00:00.000Z",
     "summary": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
     "titleKo": "Asana는 Codex를 통해 2주 만에 5년 간의 엔지니어링 작업을 완료했습니다.",
-    "summaryKo": "Asana는 OpenAI Codex를 사용하여 오래된 테스트 시스템을 2주 만에 교체했으며 약 12,000달러에 5년이 걸릴 것으로 예상되는 작업을 완료했습니다."
+    "summaryKo": "Asana는 OpenAI Codex를 사용하여 2주 만에 오래된 테스트 시스템을 교체했으며 약 12,000달러에 5년이 걸릴 것으로 예상되는 작업을 완료했습니다."
   },
   {
-    "id": "Hugging Face-1-multi-vector-late-interaction-embedding-",
+    "id": "Hugging Face-2-multi-vector-late-interaction-embedding-",
     "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
     "url": "https://huggingface.co/blog/multi-vector-encoder",
     "source": "Hugging Face",
@@ -68,7 +107,17 @@
     "titleKo": "문장 변환기를 사용한 다중 벡터(후기 상호 작용) 임베딩 모델"
   },
   {
-    "id": "Hugging Face-2-same-cluster-33-points-more-utilization-",
+    "id": "OpenAI-7-how-nvidia-scales-expertise-with-chatgpt",
+    "title": "How NVIDIA scales expertise with ChatGPT Work",
+    "url": "https://openai.com/index/nvidia/chatgpt-work",
+    "source": "OpenAI",
+    "date": "2026-08-18T00:00:00.000Z",
+    "summary": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
+    "titleKo": "NVIDIA가 ChatGPT Work를 통해 전문성을 확장하는 방법",
+    "summaryKo": "NVIDIA 팀은 ChatGPT Work를 사용하여 수동 작업을 줄이고 빠르게 움직이는 신호를 연결하며 성공적인 워크플로를 전 세계적으로 확장합니다."
+  },
+  {
+    "id": "Hugging Face-3-same-cluster-33-points-more-utilization-",
     "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
     "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
     "source": "Hugging Face",
@@ -77,7 +126,7 @@
     "titleKo": "동일한 클러스터, 33포인트 더 많은 활용도: 순서가 변경된 것"
   },
   {
-    "id": "OpenAI-5-the-defender-s-window",
+    "id": "OpenAI-9-the-defender-s-window",
     "title": "The Defender’s Window",
     "url": "https://openai.com/index/the-defenders-window",
     "source": "OpenAI",
@@ -87,7 +136,7 @@
     "summaryKo": "AI는 공격자와 방어자 모두를 위해 사이버 보안을 재편하고 있습니다. OpenAI가 방어를 강화하는 방법과 보안 팀이 지금 무엇을 할 수 있는지 알아보세요."
   },
   {
-    "id": "OpenAI-6-openai-joins-ports-pike-project",
+    "id": "OpenAI-10-openai-joins-ports-pike-project",
     "title": "OpenAI joins PORTS-Pike project",
     "url": "https://openai.com/index/openai-joins-ports-pike-project",
     "source": "OpenAI",
@@ -97,7 +146,7 @@
     "summaryKo": "OpenAI, PORTS-Pike 프로젝트에 합류하여 지역사회 투자 확대 및 수천 개의 남부 오하이오 일자리 지원"
   },
   {
-    "id": "OpenAI-7-new-policy-ideas-for-the-intelligence-ag",
+    "id": "OpenAI-11-new-policy-ideas-for-the-intelligence-ag",
     "title": "New policy ideas for the Intelligence Age",
     "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
     "source": "OpenAI",
@@ -107,7 +156,7 @@
     "summaryKo": "OpenAI는 지능 시대의 경제적 기회를 확대하고 사회적 탄력성을 강화하기 위해 새로운 AI 정책 아이디어를 탐구하는 14개의 독립적인 프로젝트에 자금을 지원합니다."
   },
   {
-    "id": "Hugging Face-3-state-of-open-models-summer-2026-observa",
+    "id": "Hugging Face-4-state-of-open-models-summer-2026-observa",
     "title": "State of Open Models: Summer 2026 Observations",
     "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
     "source": "Hugging Face",
@@ -116,7 +165,7 @@
     "titleKo": "공개 모델 상태: 2026년 여름 관측"
   },
   {
-    "id": "Hugging Face-4-record-train-and-deploy-from-one-place-w",
+    "id": "Hugging Face-5-record-train-and-deploy-from-one-place-w",
     "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
     "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
     "source": "Hugging Face",
@@ -134,7 +183,7 @@
     "titleKo": "Gemini 3.7 플래시 소개"
   },
   {
-    "id": "OpenAI-8-the-builder-s-guide-to-gpt-5-6",
+    "id": "OpenAI-12-the-builder-s-guide-to-gpt-5-6",
     "title": "The builder’s guide to GPT‑5.6",
     "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
     "source": "OpenAI",
@@ -144,7 +193,7 @@
     "summaryKo": "스타트업이 GPT-5.6을 사용하여 더 스마트한 모델 선택과 새로운 Responses API 기능을 통해 더 빠르고 비용 효율적인 AI 에이전트를 구축하는 방법을 알아보세요."
   },
   {
-    "id": "OpenAI-9-previewing-ultrafast-mode-gpt-5-6-sol-at",
+    "id": "OpenAI-13-previewing-ultrafast-mode-gpt-5-6-sol-at",
     "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
     "url": "https://openai.com/index/previewing-ultrafast",
     "source": "OpenAI",
@@ -154,17 +203,17 @@
     "summaryKo": "GPT-5.6 Sol을 최대 14배 더 빠르게 실행하는 새로운 OpenAI API 서비스 계층인 Ultrafast를 미리 살펴보세요. Cerebras를 기반으로 초당 최대 750개의 출력 토큰을 제공합니다."
   },
   {
-    "id": "OpenAI-10-openai-appoints-dali-rajic-as-chief-reve",
+    "id": "OpenAI-14-openai-appoints-dali-rajic-as-chief-reve",
     "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
     "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
     "source": "OpenAI",
     "date": "2026-08-13T09:00:00.000Z",
     "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-    "titleKo": "OpenAI, Dali Rajic을 최고 수익 책임자(CRO)로 임명",
+    "titleKo": "OpenAI, 최고수익책임자(CRO)에 Dali Rajic 임명",
     "summaryKo": "OpenAI는 Dali Rajic을 최고 수익 책임자로 임명하여 글로벌 수익 조직을 이끌고 기업이 AI의 전체 가치를 실현할 수 있도록 지원합니다."
   },
   {
-    "id": "Hugging Face-5-what-we-learned-by-reproducing-2-200-pap",
+    "id": "Hugging Face-6-what-we-learned-by-reproducing-2-200-pap",
     "title": "What We Learned by Reproducing 2,200 papers from ICML",
     "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
     "source": "Hugging Face",
@@ -173,7 +222,7 @@
     "titleKo": "ICML의 2,200개 논문을 재현하여 우리가 배운 것"
   },
   {
-    "id": "Hugging Face-6-introducing-olmoearth-embeddings-custom-",
+    "id": "Hugging Face-7-introducing-olmoearth-embeddings-custom-",
     "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
     "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
     "source": "Hugging Face",
@@ -190,55 +239,6 @@
     "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
     "titleKo": "수화 AI를 사용자의 손에 넣다",
     "summaryKo": "청각 장애가 있는 사용자를 위한 새로운 수화 기능을 지원하는 획기적인 모델인 수화-텍스트(SL2T)를 소개합니다."
-  },
-  {
-    "id": "Hugging Face-7-lfm2-5-vl-3b-for-better-and-faster-visio",
-    "title": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-    "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-    "source": "Hugging Face",
-    "date": "2026-08-12T14:00:51.000Z",
-    "summary": "",
-    "titleKo": "가장자리에 대한 더 좋고 빠른 비전 기능을 위한 LFM2.5-VL-3B"
-  },
-  {
-    "id": "OpenAI-11-from-assistance-to-execution-how-enterpr",
-    "title": "From assistance to execution: How enterprises put AI to work",
-    "url": "https://openai.com/index/how-enterprises-put-ai-to-work",
-    "source": "OpenAI",
-    "date": "2026-08-12T06:00:00.000Z",
-    "summary": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
-    "titleKo": "지원부터 실행까지: 기업이 AI를 업무에 활용하는 방법",
-    "summaryKo": "OpenAI 연구는 기업이 ChatGPT 및 Codex를 사용하여 에이전트 AI를 채택하는 방법과 선구적인 기업이 AI 채택을 앞당기는 방법을 보여줍니다."
-  },
-  {
-    "id": "OpenAI-12-how-ringcentral-builds-ai-native-work-fr",
-    "title": "How RingCentral builds AI-native work from engineering to ops",
-    "url": "https://openai.com/index/ringcentral",
-    "source": "OpenAI",
-    "date": "2026-08-12T00:00:00.000Z",
-    "summary": "See how RingCentral uses ChatGPT Work and Codex to accelerate AI product development and centralize operational intelligence across engineering and operations.",
-    "titleKo": "RingCentral이 엔지니어링부터 운영까지 AI 기반 작업을 구축하는 방법",
-    "summaryKo": "RingCentral이 ChatGPT Work 및 Codex를 사용하여 AI 제품 개발을 가속화하고 엔지니어링 및 운영 전반에 걸쳐 운영 인텔리전스를 중앙 집중화하는 방법을 알아보세요."
-  },
-  {
-    "id": "OpenAI-14-daybreak-models-are-now-available-on-aws",
-    "title": "Daybreak models are now available on AWS",
-    "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
-    "source": "OpenAI",
-    "date": "2026-08-11T10:00:00.000Z",
-    "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
-    "titleKo": "이제 AWS에서 Daybreak 모델을 사용할 수 있습니다.",
-    "summaryKo": "OpenAI와 AWS는 기업 보안 워크플로를 지원하기 위해 Amazon Bedrock을 통해 Daybreak 사이버 보안 기능을 제공하고 있습니다."
-  },
-  {
-    "id": "OpenAI-13-testing-ads-in-chatgpt",
-    "title": "Testing ads in ChatGPT",
-    "url": "https://openai.com/index/testing-ads-in-chatgpt",
-    "source": "OpenAI",
-    "date": "2026-08-11T10:00:00.000Z",
-    "summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-    "titleKo": "ChatGPT에서 광고 테스트",
-    "summaryKo": "OpenAI는 명확한 라벨 지정, 답변 독립성, 강력한 개인 정보 보호 및 사용자 제어를 통해 무료 액세스를 지원하기 위해 ChatGPT에서 광고 테스트를 시작합니다."
   },
   {
     "id": "Hugging Face-8-build-low-latency-multilingual-voice-age",
