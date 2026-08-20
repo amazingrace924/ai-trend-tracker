@@ -1,6 +1,35 @@
 [
   {
-    "id": "OpenAI-0-offering-zero-data-retention-for-frontie",
+    "id": "Hugging Face-0-up-to-3-2x-faster-inference-with-lfm2-5-",
+    "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+    "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+    "source": "Hugging Face",
+    "date": "2026-08-20T16:52:57.000Z",
+    "summary": "",
+    "titleKo": "LFM2.5-DSpark를 통해 최대 3.2배 더 빠른 추론 속도"
+  },
+  {
+    "id": "OpenAI-0-introducing-ai-futures",
+    "title": "Introducing AI Futures",
+    "url": "https://openai.com/index/introducing-ai-futures",
+    "source": "OpenAI",
+    "date": "2026-08-20T07:00:00.000Z",
+    "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "titleKo": "AI 선물 소개",
+    "summaryKo": "혁신적인 AI가 권력, 거버넌스, 경제 및 개인의 자유를 어떻게 재구성할 수 있는지 탐구하는 새로운 OpenAI 블로그인 AI Futures를 소개합니다."
+  },
+  {
+    "id": "OpenAI-1-how-chatgpt-work-helps-stampli-move-idea",
+    "title": "How ChatGPT Work helps Stampli move ideas to market",
+    "url": "https://openai.com/index/stampli",
+    "source": "OpenAI",
+    "date": "2026-08-20T00:00:00.000Z",
+    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+    "titleKo": "ChatGPT Work가 Stampli의 아이디어를 시장에 출시하는 데 어떻게 도움이 됩니까?",
+    "summaryKo": "고정된 기한과 디자인 리소스를 다른 곳에서 투입하여 Stampli는 Codex와 ChatGPT Work를 사용하여 몇 주 간의 출시 생산을 며칠로 단축했습니다."
+  },
+  {
+    "id": "OpenAI-2-offering-zero-data-retention-for-frontie",
     "title": "Offering Zero Data Retention for frontier models",
     "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
     "source": "OpenAI",
@@ -10,16 +39,7 @@
     "summaryKo": "OpenAI는 자격을 갖춘 API 고객을 위해 제로 데이터 보존을 재확인하고 데이터 개인정보 보호를 손상시키지 않으면서 고급 AI 안전을 위한 개인 안전 처리를 미리 봅니다."
   },
   {
-    "id": "Hugging Face-0-lfm2-5-q4-0-checkpoints-from-quantizatio",
-    "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
-    "url": "https://huggingface.co/blog/LiquidAI/qad",
-    "source": "Hugging Face",
-    "date": "2026-08-19T13:48:49.000Z",
-    "summary": "",
-    "titleKo": "LFM2.5 Q4\\_0 양자화 인식 증류의 체크포인트"
-  },
-  {
-    "id": "OpenAI-1-replit-expands-access-to-software-creati",
+    "id": "OpenAI-3-replit-expands-access-to-software-creati",
     "title": "Replit expands access to software creation with GPT-5.6 Luna",
     "url": "https://openai.com/index/replit",
     "source": "OpenAI",
@@ -29,7 +49,7 @@
     "summaryKo": "Replit는 GPT-5.6 Luna로 구동되는 무료 모드를 도입하여 누구나 토큰 비용에 대한 걱정 없이 아이디어를 작동 가능한 소프트웨어로 전환할 수 있습니다."
   },
   {
-    "id": "OpenAI-2-chatgpt-ads-expands-across-europe",
+    "id": "OpenAI-4-chatgpt-ads-expands-across-europe",
     "title": "ChatGPT Ads expands across Europe",
     "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
     "source": "OpenAI",
@@ -39,7 +59,7 @@
     "summaryKo": "ChatGPT 광고는 31개 유럽 시장으로 확장됩니다. 광고주가 옵션을 탐색하고, 비교하고, 결정을 내릴 때 사람들에게 다가갈 수 있는 방법을 알아보세요."
   },
   {
-    "id": "OpenAI-3-strengthening-democratic-oversight-in-na",
+    "id": "OpenAI-5-strengthening-democratic-oversight-in-na",
     "title": "Strengthening democratic oversight in national security",
     "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
     "source": "OpenAI",
@@ -55,10 +75,10 @@
     "source": "Hugging Face",
     "date": "2026-08-18T18:09:38.000Z",
     "summary": "",
-    "titleKo": "에이전트에 실제로 얼마나 많은 메모리가 필요합니까?"
+    "titleKo": "에이전트에 실제로 필요한 메모리 양은 얼마나 됩니까?"
   },
   {
-    "id": "OpenAI-6-introducing-chatgpt-for-teens-built-for-",
+    "id": "OpenAI-8-introducing-chatgpt-for-teens-built-for-",
     "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
     "url": "https://openai.com/index/chatgpt-for-teens",
     "source": "OpenAI",
@@ -68,7 +88,7 @@
     "summaryKo": "청소년용 ChatGPT는 강력한 기본 보호 기능, 건전한 사용 기능, 부모를 위한 추가 제어 기능을 통해 청소년이 자신있게 AI를 배우고, 비판적으로 생각하고, AI를 사용할 수 있도록 도와줍니다."
   },
   {
-    "id": "OpenAI-5-pacing-model-development-in-an-era-of-cy",
+    "id": "OpenAI-7-pacing-model-development-in-an-era-of-cy",
     "title": "Pacing model development in an era of cyber-critical capabilities",
     "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
     "source": "OpenAI",
@@ -78,7 +98,7 @@
     "summaryKo": "OpenAI는 최첨단 AI 모델에 대한 모니터링, 조정 및 보안을 강화하고 있습니다. 새로운 보호 장치가 모델 개발 속도를 어떻게 안내하는지 알아보세요."
   },
   {
-    "id": "OpenAI-4-partnering-with-codeai-to-prepare-the-fi",
+    "id": "OpenAI-6-partnering-with-codeai-to-prepare-the-fi",
     "title": "Partnering with CodeAI to prepare the first AI generation",
     "url": "https://openai.com/index/partnering-with-codeai",
     "source": "OpenAI",
@@ -88,7 +108,7 @@
     "summaryKo": "OpenAI와 CodeAI는 학생들이 AI 활용 능력을 키우고, AI에 대해 비판적으로 생각하고, AI를 책임감 있게 사용하고 형성하는 기술을 개발하도록 돕기 위해 협력하고 있습니다."
   },
   {
-    "id": "OpenAI-8-asana-cleared-5-years-of-engineering-wor",
+    "id": "OpenAI-10-asana-cleared-5-years-of-engineering-wor",
     "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
     "url": "https://openai.com/index/asana",
     "source": "OpenAI",
@@ -107,7 +127,7 @@
     "titleKo": "문장 변환기를 사용한 다중 벡터(후기 상호 작용) 임베딩 모델"
   },
   {
-    "id": "OpenAI-7-how-nvidia-scales-expertise-with-chatgpt",
+    "id": "OpenAI-9-how-nvidia-scales-expertise-with-chatgpt",
     "title": "How NVIDIA scales expertise with ChatGPT Work",
     "url": "https://openai.com/index/nvidia/chatgpt-work",
     "source": "OpenAI",
@@ -126,7 +146,7 @@
     "titleKo": "동일한 클러스터, 33포인트 더 많은 활용도: 순서가 변경된 것"
   },
   {
-    "id": "OpenAI-9-the-defender-s-window",
+    "id": "OpenAI-11-the-defender-s-window",
     "title": "The Defender’s Window",
     "url": "https://openai.com/index/the-defenders-window",
     "source": "OpenAI",
@@ -136,7 +156,7 @@
     "summaryKo": "AI는 공격자와 방어자 모두를 위해 사이버 보안을 재편하고 있습니다. OpenAI가 방어를 강화하는 방법과 보안 팀이 지금 무엇을 할 수 있는지 알아보세요."
   },
   {
-    "id": "OpenAI-10-openai-joins-ports-pike-project",
+    "id": "OpenAI-12-openai-joins-ports-pike-project",
     "title": "OpenAI joins PORTS-Pike project",
     "url": "https://openai.com/index/openai-joins-ports-pike-project",
     "source": "OpenAI",
@@ -146,7 +166,7 @@
     "summaryKo": "OpenAI, PORTS-Pike 프로젝트에 합류하여 지역사회 투자 확대 및 수천 개의 남부 오하이오 일자리 지원"
   },
   {
-    "id": "OpenAI-11-new-policy-ideas-for-the-intelligence-ag",
+    "id": "OpenAI-13-new-policy-ideas-for-the-intelligence-ag",
     "title": "New policy ideas for the Intelligence Age",
     "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age",
     "source": "OpenAI",
@@ -183,7 +203,7 @@
     "titleKo": "Gemini 3.7 플래시 소개"
   },
   {
-    "id": "OpenAI-12-the-builder-s-guide-to-gpt-5-6",
+    "id": "OpenAI-14-the-builder-s-guide-to-gpt-5-6",
     "title": "The builder’s guide to GPT‑5.6",
     "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
     "source": "OpenAI",
@@ -191,26 +211,6 @@
     "summary": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
     "titleKo": "GPT‑5.6 제작 가이드",
     "summaryKo": "스타트업이 GPT-5.6을 사용하여 더 스마트한 모델 선택과 새로운 Responses API 기능을 통해 더 빠르고 비용 효율적인 AI 에이전트를 구축하는 방법을 알아보세요."
-  },
-  {
-    "id": "OpenAI-13-previewing-ultrafast-mode-gpt-5-6-sol-at",
-    "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-    "url": "https://openai.com/index/previewing-ultrafast",
-    "source": "OpenAI",
-    "date": "2026-08-13T10:00:00.000Z",
-    "summary": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
-    "titleKo": "초고속 모드 미리보기: 최대 14배 빠른 속도의 GPT-5.6 Sol",
-    "summaryKo": "GPT-5.6 Sol을 최대 14배 더 빠르게 실행하는 새로운 OpenAI API 서비스 계층인 Ultrafast를 미리 살펴보세요. Cerebras를 기반으로 초당 최대 750개의 출력 토큰을 제공합니다."
-  },
-  {
-    "id": "OpenAI-14-openai-appoints-dali-rajic-as-chief-reve",
-    "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-    "url": "https://openai.com/index/dali-rajic-chief-revenue-officer",
-    "source": "OpenAI",
-    "date": "2026-08-13T09:00:00.000Z",
-    "summary": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
-    "titleKo": "OpenAI, 최고수익책임자(CRO)에 Dali Rajic 임명",
-    "summaryKo": "OpenAI는 Dali Rajic을 최고 수익 책임자로 임명하여 글로벌 수익 조직을 이끌고 기업이 AI의 전체 가치를 실현할 수 있도록 지원합니다."
   },
   {
     "id": "Hugging Face-6-what-we-learned-by-reproducing-2-200-pap",
@@ -241,7 +241,16 @@
     "summaryKo": "청각 장애가 있는 사용자를 위한 새로운 수화 기능을 지원하는 획기적인 모델인 수화-텍스트(SL2T)를 소개합니다."
   },
   {
-    "id": "Hugging Face-8-build-low-latency-multilingual-voice-age",
+    "id": "Hugging Face-8-thinking-of-ace-we-can-do-it-with-fewer-",
+    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+    "source": "Hugging Face",
+    "date": "2026-08-11T13:37:10.000Z",
+    "summary": "",
+    "titleKo": "에이스를 생각하시나요? 더 적은 토큰으로 할 수 있습니다"
+  },
+  {
+    "id": "Hugging Face-9-build-low-latency-multilingual-voice-age",
     "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
     "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
     "source": "Hugging Face",
@@ -250,7 +259,7 @@
     "titleKo": "지연 시간이 짧은 다국어 음성 에이전트 구축: NVIDIA Magpie TTS를 통한 개방형 가중치 및 전체 배포 제어"
   },
   {
-    "id": "Hugging Face-9-making-knowledge-distillation-cheap-enou",
+    "id": "Hugging Face-10-making-knowledge-distillation-cheap-enou",
     "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
     "source": "Hugging Face",
@@ -259,7 +268,7 @@
     "titleKo": "대규모로 실행하기에 충분할 정도로 지식 증류를 저렴하게 만들기"
   },
   {
-    "id": "Hugging Face-10-meta-is-back-with-muse-glimmer-local-age",
+    "id": "Hugging Face-11-meta-is-back-with-muse-glimmer-local-age",
     "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
     "url": "https://huggingface.co/blog/muse-glimmer",
     "source": "Hugging Face",
@@ -277,7 +286,7 @@
     "titleKo": "WeatherNext: AI 모델이 사이클론 예측에 획기적인 성과를 거두었습니다."
   },
   {
-    "id": "Hugging Face-11-baseten-on-hugging-face-inference-provid",
+    "id": "Hugging Face-12-baseten-on-hugging-face-inference-provid",
     "title": "Baseten on Hugging Face Inference Providers 🔥",
     "url": "https://huggingface.co/blog/baseten",
     "source": "Hugging Face",
@@ -286,7 +295,7 @@
     "titleKo": "포옹하는 얼굴 추론 제공자를 기반으로 하는 Baseten 🔥"
   },
   {
-    "id": "Hugging Face-12-gpu-management-why-idle-gpus-are-the-new",
+    "id": "Hugging Face-13-gpu-management-why-idle-gpus-are-the-new",
     "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
     "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
     "source": "Hugging Face",
@@ -323,22 +332,13 @@
     "titleKo": "Gemini Robotics 2는 로봇에 전신 지능을 제공합니다."
   },
   {
-    "id": "Hugging Face-13-nvidia-cosmos-h-dreams-bringing-real-tim",
+    "id": "Hugging Face-14-nvidia-cosmos-h-dreams-bringing-real-tim",
     "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
     "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
     "source": "Hugging Face",
     "date": "2026-07-27T09:32:20.000Z",
     "summary": "",
     "titleKo": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입"
-  },
-  {
-    "id": "Hugging Face-14-anatomy-of-a-frontier-lab-agent-intrusio",
-    "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-    "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-    "source": "Hugging Face",
-    "date": "2026-07-27T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "프론티어 연구소 요원 침입 분석: 2026년 7월 사건의 기술적 타임라인"
   },
   {
     "id": "Google DeepMind-6-accelerating-the-frontiers-of-scientific",
