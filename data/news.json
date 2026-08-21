@@ -1,6 +1,25 @@
 [
   {
-    "id": "Hugging Face-0-up-to-3-2x-faster-inference-with-lfm2-5-",
+    "id": "Google DeepMind-0-from-atari-to-eve-online-building-on-15-",
+    "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+    "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
+    "source": "Google DeepMind",
+    "date": "2026-08-21T11:59:48.000Z",
+    "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+    "titleKo": "Atari에서 EVE Online까지: 15년간의 게임 AI 연구 기반",
+    "summaryKo": "Google DeepMind는 게임 스튜디오와 협력하여 획기적인 AI 게임플레이 프로토타입을 제작합니다."
+  },
+  {
+    "id": "Hugging Face-0-measuring-benchmark-optimization-in-spee",
+    "title": "Measuring benchmark optimization in speech recognition",
+    "url": "https://huggingface.co/blog/asr-benchmark-optimization",
+    "source": "Hugging Face",
+    "date": "2026-08-21T00:00:00.000Z",
+    "summary": "",
+    "titleKo": "음성 인식의 벤치마크 최적화 측정"
+  },
+  {
+    "id": "Hugging Face-1-up-to-3-2x-faster-inference-with-lfm2-5-",
     "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
     "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
     "source": "Hugging Face",
@@ -19,13 +38,13 @@
     "summaryKo": "혁신적인 AI가 권력, 거버넌스, 경제 및 개인의 자유를 어떻게 재구성할 수 있는지 탐구하는 새로운 OpenAI 블로그인 AI Futures를 소개합니다."
   },
   {
-    "id": "OpenAI-1-how-chatgpt-work-helps-stampli-move-idea",
-    "title": "How ChatGPT Work helps Stampli move ideas to market",
+    "id": "OpenAI-1-stampli-cuts-launch-hours-by-68-using-ch",
+    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
     "url": "https://openai.com/index/stampli",
     "source": "OpenAI",
     "date": "2026-08-20T00:00:00.000Z",
     "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-    "titleKo": "ChatGPT Work가 Stampli의 아이디어를 시장에 출시하는 데 어떻게 도움이 됩니까?",
+    "titleKo": "Stampli는 ChatGPT Work를 사용하여 실행 시간을 68% 단축했습니다.",
     "summaryKo": "고정된 기한과 디자인 리소스를 다른 곳에서 투입하여 Stampli는 Codex와 ChatGPT Work를 사용하여 몇 주 간의 출시 생산을 며칠로 단축했습니다."
   },
   {
@@ -46,7 +65,7 @@
     "date": "2026-08-19T07:00:00.000Z",
     "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
     "titleKo": "Replit, GPT-5.6 Luna를 통해 소프트웨어 생성에 대한 액세스 확장",
-    "summaryKo": "Replit는 GPT-5.6 Luna로 구동되는 무료 모드를 도입하여 누구나 토큰 비용에 대한 걱정 없이 아이디어를 작동 가능한 소프트웨어로 전환할 수 있습니다."
+    "summaryKo": "Replit는 GPT-5.6 Luna를 기반으로 하는 무료 모드를 도입하여 누구나 토큰 비용에 대한 걱정 없이 아이디어를 작동 가능한 소프트웨어로 전환할 수 있습니다."
   },
   {
     "id": "OpenAI-4-chatgpt-ads-expands-across-europe",
@@ -66,10 +85,10 @@
     "date": "2026-08-18T19:00:00.000Z",
     "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
     "titleKo": "국가 안보에 대한 민주적 감독 강화",
-    "summaryKo": "OpenAI는 국가 안보에서 AI에 대한 민주적 감독을 강화하고 도구, 교육 및 전문 지식을 통해 정부 기관을 지원하는 이니셔티브를 시작합니다."
+    "summaryKo": "OpenAI는 국가 안보에서 AI에 대한 민주적 감독을 강화하고 도구, 교육 및 전문 지식을 통해 정부 기관을 지원하기 위한 이니셔티브를 시작합니다."
   },
   {
-    "id": "Hugging Face-1-how-much-memory-does-your-agent-actually",
+    "id": "Hugging Face-2-how-much-memory-does-your-agent-actually",
     "title": "How Much Memory Does Your Agent Actually Need?",
     "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "source": "Hugging Face",
@@ -118,7 +137,7 @@
     "summaryKo": "Asana는 OpenAI Codex를 사용하여 2주 만에 오래된 테스트 시스템을 교체했으며 약 12,000달러에 5년이 걸릴 것으로 예상되는 작업을 완료했습니다."
   },
   {
-    "id": "Hugging Face-2-multi-vector-late-interaction-embedding-",
+    "id": "Hugging Face-3-multi-vector-late-interaction-embedding-",
     "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
     "url": "https://huggingface.co/blog/multi-vector-encoder",
     "source": "Hugging Face",
@@ -137,7 +156,7 @@
     "summaryKo": "NVIDIA 팀은 ChatGPT Work를 사용하여 수동 작업을 줄이고 빠르게 움직이는 신호를 연결하며 성공적인 워크플로를 전 세계적으로 확장합니다."
   },
   {
-    "id": "Hugging Face-3-same-cluster-33-points-more-utilization-",
+    "id": "Hugging Face-4-same-cluster-33-points-more-utilization-",
     "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
     "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
     "source": "Hugging Face",
@@ -176,7 +195,7 @@
     "summaryKo": "OpenAI는 지능 시대의 경제적 기회를 확대하고 사회적 탄력성을 강화하기 위해 새로운 AI 정책 아이디어를 탐구하는 14개의 독립적인 프로젝트에 자금을 지원합니다."
   },
   {
-    "id": "Hugging Face-4-state-of-open-models-summer-2026-observa",
+    "id": "Hugging Face-5-state-of-open-models-summer-2026-observa",
     "title": "State of Open Models: Summer 2026 Observations",
     "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
     "source": "Hugging Face",
@@ -185,7 +204,7 @@
     "titleKo": "공개 모델 상태: 2026년 여름 관측"
   },
   {
-    "id": "Hugging Face-5-record-train-and-deploy-from-one-place-w",
+    "id": "Hugging Face-6-record-train-and-deploy-from-one-place-w",
     "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
     "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
     "source": "Hugging Face",
@@ -194,7 +213,7 @@
     "titleKo": "Strands Agents, LeRobot 및 Hugging Face Storage Buckets를 사용하여 한 곳에서 기록, 훈련 및 배포"
   },
   {
-    "id": "Google DeepMind-0-introducing-gemini-3-7-flash",
+    "id": "Google DeepMind-1-introducing-gemini-3-7-flash",
     "title": "Introducing Gemini 3.7 Flash",
     "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
     "source": "Google DeepMind",
@@ -213,7 +232,7 @@
     "summaryKo": "스타트업이 GPT-5.6을 사용하여 더 스마트한 모델 선택과 새로운 Responses API 기능을 통해 더 빠르고 비용 효율적인 AI 에이전트를 구축하는 방법을 알아보세요."
   },
   {
-    "id": "Hugging Face-6-what-we-learned-by-reproducing-2-200-pap",
+    "id": "Hugging Face-7-what-we-learned-by-reproducing-2-200-pap",
     "title": "What We Learned by Reproducing 2,200 papers from ICML",
     "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
     "source": "Hugging Face",
@@ -222,7 +241,7 @@
     "titleKo": "ICML의 2,200개 논문을 재현하여 우리가 배운 것"
   },
   {
-    "id": "Hugging Face-7-introducing-olmoearth-embeddings-custom-",
+    "id": "Hugging Face-8-introducing-olmoearth-embeddings-custom-",
     "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
     "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
     "source": "Hugging Face",
@@ -231,7 +250,7 @@
     "titleKo": "OlmoEarth 임베딩 소개: 다운스트림 분석을 위해 OlmoEarth Studio에서 사용자 정의 임베딩 내보내기"
   },
   {
-    "id": "Google DeepMind-1-putting-sign-language-ai-into-users-hand",
+    "id": "Google DeepMind-2-putting-sign-language-ai-into-users-hand",
     "title": "Putting sign language AI into users’ hands",
     "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
     "source": "Google DeepMind",
@@ -241,7 +260,7 @@
     "summaryKo": "청각 장애가 있는 사용자를 위한 새로운 수화 기능을 지원하는 획기적인 모델인 수화-텍스트(SL2T)를 소개합니다."
   },
   {
-    "id": "Hugging Face-8-thinking-of-ace-we-can-do-it-with-fewer-",
+    "id": "Hugging Face-9-thinking-of-ace-we-can-do-it-with-fewer-",
     "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
     "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
     "source": "Hugging Face",
@@ -250,7 +269,7 @@
     "titleKo": "에이스를 생각하시나요? 더 적은 토큰으로 할 수 있습니다"
   },
   {
-    "id": "Hugging Face-9-build-low-latency-multilingual-voice-age",
+    "id": "Hugging Face-10-build-low-latency-multilingual-voice-age",
     "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
     "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
     "source": "Hugging Face",
@@ -259,7 +278,7 @@
     "titleKo": "지연 시간이 짧은 다국어 음성 에이전트 구축: NVIDIA Magpie TTS를 통한 개방형 가중치 및 전체 배포 제어"
   },
   {
-    "id": "Hugging Face-10-making-knowledge-distillation-cheap-enou",
+    "id": "Hugging Face-11-making-knowledge-distillation-cheap-enou",
     "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
     "source": "Hugging Face",
@@ -268,7 +287,7 @@
     "titleKo": "대규모로 실행하기에 충분할 정도로 지식 증류를 저렴하게 만들기"
   },
   {
-    "id": "Hugging Face-11-meta-is-back-with-muse-glimmer-local-age",
+    "id": "Hugging Face-12-meta-is-back-with-muse-glimmer-local-age",
     "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
     "url": "https://huggingface.co/blog/muse-glimmer",
     "source": "Hugging Face",
@@ -277,7 +296,7 @@
     "titleKo": "Meta가 로컬, 에이전트, 멀티모달, 오픈 소스인 Muse Glimmer로 돌아왔습니다."
   },
   {
-    "id": "Google DeepMind-2-weathernext-ai-model-achieves-breakthrou",
+    "id": "Google DeepMind-3-weathernext-ai-model-achieves-breakthrou",
     "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
     "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
     "source": "Google DeepMind",
@@ -286,7 +305,7 @@
     "titleKo": "WeatherNext: AI 모델이 사이클론 예측에 획기적인 성과를 거두었습니다."
   },
   {
-    "id": "Hugging Face-12-baseten-on-hugging-face-inference-provid",
+    "id": "Hugging Face-13-baseten-on-hugging-face-inference-provid",
     "title": "Baseten on Hugging Face Inference Providers 🔥",
     "url": "https://huggingface.co/blog/baseten",
     "source": "Hugging Face",
@@ -295,7 +314,7 @@
     "titleKo": "포옹하는 얼굴 추론 제공자를 기반으로 하는 Baseten 🔥"
   },
   {
-    "id": "Hugging Face-13-gpu-management-why-idle-gpus-are-the-new",
+    "id": "Hugging Face-14-gpu-management-why-idle-gpus-are-the-new",
     "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
     "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
     "source": "Hugging Face",
@@ -304,7 +323,7 @@
     "titleKo": "GPU 관리: 유휴 GPU가 새로운 지상 항공기인 이유"
   },
   {
-    "id": "Google DeepMind-3-gemini-robotics-er-2-powering-robotics-w",
+    "id": "Google DeepMind-4-gemini-robotics-er-2-powering-robotics-w",
     "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
     "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
     "source": "Google DeepMind",
@@ -314,7 +333,7 @@
     "summaryKo": "Gemini Robotics ER 2는 로봇이 실제 작업을 추론하고, 협업하고, 해결하도록 돕습니다. 이는 로봇 애플리케이션에 대한 비디오 이해, 도구 조정 및 다중 로봇 협업의 단계적 변화를 나타냅니다."
   },
   {
-    "id": "Google DeepMind-4-we-re-launching-lyria-3-5-in-google-flow",
+    "id": "Google DeepMind-5-we-re-launching-lyria-3-5-in-google-flow",
     "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
     "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
     "source": "Google DeepMind",
@@ -323,7 +342,7 @@
     "titleKo": "음악성, 가사, 보컬, 창의적인 제어 기능이 향상되어 Google Flow Music에서 Lyria 3.5를 출시합니다."
   },
   {
-    "id": "Google DeepMind-5-gemini-robotics-2-brings-whole-body-inte",
+    "id": "Google DeepMind-6-gemini-robotics-2-brings-whole-body-inte",
     "title": "Gemini Robotics 2 brings whole body intelligence to robots",
     "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
     "source": "Google DeepMind",
@@ -332,16 +351,7 @@
     "titleKo": "Gemini Robotics 2는 로봇에 전신 지능을 제공합니다."
   },
   {
-    "id": "Hugging Face-14-nvidia-cosmos-h-dreams-bringing-real-tim",
-    "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-    "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-    "source": "Hugging Face",
-    "date": "2026-07-27T09:32:20.000Z",
-    "summary": "",
-    "titleKo": "NVIDIA Cosmos-H-Dreams: 수술용 로봇공학에 실시간 생성 시뮬레이션 도입"
-  },
-  {
-    "id": "Google DeepMind-6-accelerating-the-frontiers-of-scientific",
+    "id": "Google DeepMind-7-accelerating-the-frontiers-of-scientific",
     "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
     "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
     "source": "Google DeepMind",
@@ -351,7 +361,7 @@
     "summaryKo": "Google은 Genesis Mission을 위해 AI 토큰과 크레딧으로 4천만 달러를 약속합니다."
   },
   {
-    "id": "Google DeepMind-7-introducing-gemini-3-6-flash-3-5-flash-l",
+    "id": "Google DeepMind-8-introducing-gemini-3-6-flash-3-5-flash-l",
     "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
     "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
     "source": "Google DeepMind",
@@ -361,7 +371,7 @@
     "summaryKo": "Gemini 3.6 Flash, 3.5 Flash-Lite 및 3.5 Flash Cyber를 포함한 새로운 Gemini 모델을 소개합니다."
   },
   {
-    "id": "Google DeepMind-8-introducing-gemini-3-5-flash-cyber",
+    "id": "Google DeepMind-9-introducing-gemini-3-5-flash-cyber",
     "title": "Introducing Gemini 3.5 Flash Cyber",
     "url": "https://deepmind.google/blog/introducing-gemini-3-5-flash-cyber/",
     "source": "Google DeepMind",
@@ -369,15 +379,5 @@
     "summary": "Google introduces Gemini 3.5 Flash Cyber, a lightweight cybersecurity model to find and patch vulnerabilities.",
     "titleKo": "Gemini 3.5 플래시 사이버 소개",
     "summaryKo": "Google은 취약점을 찾아 패치하기 위한 경량 사이버 보안 모델인 Gemini 3.5 Flash Cyber를 출시했습니다."
-  },
-  {
-    "id": "Google DeepMind-9-our-approach-to-bioresilience",
-    "title": "Our approach to bioresilience",
-    "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
-    "source": "Google DeepMind",
-    "date": "2026-07-16T09:30:42.000Z",
-    "summary": "Google DeepMind and Isomorphic Labs are sharing our joint approach to bioresilience and AI models.",
-    "titleKo": "생체 회복력에 대한 우리의 접근 방식",
-    "summaryKo": "Google DeepMind와 Isomorphic Labs는 생체 탄력성과 AI 모델에 대한 공동 접근 방식을 공유하고 있습니다."
   }
 ]
