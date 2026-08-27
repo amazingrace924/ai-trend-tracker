@@ -4453,6 +4453,59 @@
           "value": 1208
         }
       ]
+    },
+    {
+      "date": "2026-08-27",
+      "entries": [
+        {
+          "id": "voice-sonic-3-6",
+          "name": "Sonic 3.6",
+          "vendor": "Cartesia",
+          "value": 1283
+        },
+        {
+          "id": "voice-qwen-audio-3-0-tts-plus",
+          "name": "Qwen-Audio-3.0-TTS-Plus",
+          "vendor": "Alibaba",
+          "value": 1238
+        },
+        {
+          "id": "voice-simba-3-2",
+          "name": "Simba 3.2",
+          "vendor": "SpeechifyAI",
+          "value": 1238
+        },
+        {
+          "id": "voice-luna-tts",
+          "name": "Luna TTS",
+          "vendor": "VUI Labs",
+          "value": 1223
+        },
+        {
+          "id": "voice-mitty",
+          "name": "v3 Conversational",
+          "vendor": "ElevenLabs",
+          "value": 1219
+        },
+        {
+          "id": "voice-breeze-tts-2",
+          "name": "Breeze TTS 2",
+          "vendor": "BreezeBlue",
+          "value": 1215
+        },
+        {
+          "id": "voice-gemini-3-1-tts",
+          "name": "Gemini 3.1 Flash TTS",
+          "vendor": "Google",
+          "value": 1210
+        },
+        {
+          "id": "voice-st260629",
+          "name": "StepAudio 2.5 TTS",
+          "vendor": "StepFun",
+          "value": 1208
+        }
+      ]
     }
   ]
 }
