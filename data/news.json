@@ -1,6 +1,38 @@
 [
   {
-    "id": "Google DeepMind-0-intelligent-transcription-with-gemini-3-",
+    "id": "Google DeepMind-0-gemini-omni-1-1-flash-lets-you-build-wit",
+    "title": "Gemini Omni 1.1 Flash lets you build with more control",
+    "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+    "source": "Google DeepMind",
+    "date": "2026-08-27T16:11:32.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Google DeepMind-1-piloting-the-world-s-first-double-blind-",
+    "title": "Piloting the world's first double-blind AI evaluations",
+    "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+    "source": "Google DeepMind",
+    "date": "2026-08-27T12:59:16.000Z",
+    "summary": "Piloting the world's first double-blind AI evaluations"
+  },
+  {
+    "id": "OpenAI-0-better-answers-broader-thinking-what-stu",
+    "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+    "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
+    "source": "OpenAI",
+    "date": "2026-08-27T09:00:00.000Z",
+    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
+  },
+  {
+    "id": "OpenAI-1-expanding-openai-s-presence-in-brazil",
+    "title": "Expanding OpenAI’s presence in Brazil",
+    "url": "https://openai.com/index/expanding-our-presence-in-brazil",
+    "source": "OpenAI",
+    "date": "2026-08-27T03:00:00.000Z",
+    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
+  },
+  {
+    "id": "Google DeepMind-2-intelligent-transcription-with-gemini-3-",
     "title": "Intelligent transcription with Gemini 3.5 Transcribe",
     "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
     "source": "Google DeepMind",
@@ -8,7 +40,7 @@
     "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
   },
   {
-    "id": "OpenAI-1-learning-never-stops-how-ai-makes-learni",
+    "id": "OpenAI-3-learning-never-stops-how-ai-makes-learni",
     "title": "Learning never stops: How AI makes learning continuous",
     "url": "https://openai.com/index/learning-never-stops",
     "source": "OpenAI",
@@ -16,7 +48,7 @@
     "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
   },
   {
-    "id": "OpenAI-0-bringing-chatgpt-for-teachers-to-more-u-",
+    "id": "OpenAI-2-bringing-chatgpt-for-teachers-to-more-u-",
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
     "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "source": "OpenAI",
@@ -32,7 +64,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-3-how-loveholidays-is-making-everyone-a-bu",
+    "id": "OpenAI-5-how-loveholidays-is-making-everyone-a-bu",
     "title": "How loveholidays is making everyone a builder with Codex",
     "url": "https://openai.com/index/loveholidays",
     "source": "OpenAI",
@@ -40,7 +72,7 @@
     "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
   },
   {
-    "id": "OpenAI-2-the-hugging-face-incident-and-the-road-a",
+    "id": "OpenAI-4-the-hugging-face-incident-and-the-road-a",
     "title": "The Hugging Face incident and the road ahead",
     "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
     "source": "OpenAI",
@@ -64,7 +96,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-4-the-full-stack-behind-abundant-intellige",
+    "id": "OpenAI-6-the-full-stack-behind-abundant-intellige",
     "title": "The full stack behind abundant intelligence",
     "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
     "source": "OpenAI",
@@ -72,7 +104,7 @@
     "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
   },
   {
-    "id": "OpenAI-5-jalape-o-s-first-results-show-industry-l",
+    "id": "OpenAI-7-jalape-o-s-first-results-show-industry-l",
     "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
     "url": "https://openai.com/index/jalapeno-first-results",
     "source": "OpenAI",
@@ -88,7 +120,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-7-introducing-the-admin-plugin-for-chatgpt",
+    "id": "OpenAI-9-introducing-the-admin-plugin-for-chatgpt",
     "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
     "url": "https://openai.com/index/introducing-admin-plugin",
     "source": "OpenAI",
@@ -96,7 +128,7 @@
     "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
   },
   {
-    "id": "OpenAI-6-disrupting-a-new-covert-influence-campai",
+    "id": "OpenAI-8-disrupting-a-new-covert-influence-campai",
     "title": "Disrupting a new covert influence campaign from Russia",
     "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
     "source": "OpenAI",
@@ -104,7 +136,7 @@
     "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
   },
   {
-    "id": "OpenAI-8-advancing-price-performance-for-develope",
+    "id": "OpenAI-10-advancing-price-performance-for-develope",
     "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
     "url": "https://openai.com/index/gpt-5-6-in-kiro",
     "source": "OpenAI",
@@ -112,7 +144,7 @@
     "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
   },
   {
-    "id": "Google DeepMind-1-from-atari-to-eve-online-building-on-15-",
+    "id": "Google DeepMind-3-from-atari-to-eve-online-building-on-15-",
     "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
     "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
     "source": "Google DeepMind",
@@ -144,7 +176,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-10-introducing-intelligence-age",
+    "id": "OpenAI-12-introducing-intelligence-age",
     "title": "Introducing Intelligence Age",
     "url": "https://openai.com/index/introducing-intelligence-age",
     "source": "OpenAI",
@@ -152,7 +184,7 @@
     "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
   },
   {
-    "id": "OpenAI-9-introducing-intelligence-age",
+    "id": "OpenAI-11-introducing-intelligence-age",
     "title": "Introducing Intelligence Age",
     "url": "https://openai.com/index/introducing-ai-futures",
     "source": "OpenAI",
@@ -160,7 +192,7 @@
     "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
   },
   {
-    "id": "OpenAI-11-stampli-cuts-launch-hours-by-68-using-ch",
+    "id": "OpenAI-13-stampli-cuts-launch-hours-by-68-using-ch",
     "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
     "url": "https://openai.com/index/stampli",
     "source": "OpenAI",
@@ -168,28 +200,12 @@
     "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
   },
   {
-    "id": "OpenAI-12-offering-zero-data-retention-for-frontie",
+    "id": "OpenAI-14-offering-zero-data-retention-for-frontie",
     "title": "Offering Zero Data Retention for frontier models",
     "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
     "source": "OpenAI",
     "date": "2026-08-19T19:00:00.000Z",
     "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
-  },
-  {
-    "id": "OpenAI-13-replit-expands-access-to-software-creati",
-    "title": "Replit expands access to software creation with GPT-5.6 Luna",
-    "url": "https://openai.com/index/replit",
-    "source": "OpenAI",
-    "date": "2026-08-19T07:00:00.000Z",
-    "summary": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs."
-  },
-  {
-    "id": "OpenAI-14-chatgpt-ads-expands-across-europe",
-    "title": "ChatGPT Ads expands across Europe",
-    "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-    "source": "OpenAI",
-    "date": "2026-08-18T22:00:00.000Z",
-    "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
   },
   {
     "id": "Hugging Face-7-how-much-memory-does-your-agent-actually",
@@ -232,7 +248,7 @@
     "summary": ""
   },
   {
-    "id": "Google DeepMind-2-introducing-gemini-3-7-flash",
+    "id": "Google DeepMind-4-introducing-gemini-3-7-flash",
     "title": "Introducing Gemini 3.7 Flash",
     "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
     "source": "Google DeepMind",
@@ -256,7 +272,7 @@
     "summary": ""
   },
   {
-    "id": "Google DeepMind-3-putting-sign-language-ai-into-users-hand",
+    "id": "Google DeepMind-5-putting-sign-language-ai-into-users-hand",
     "title": "Putting sign language AI into users’ hands",
     "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
     "source": "Google DeepMind",
@@ -272,7 +288,7 @@
     "summary": ""
   },
   {
-    "id": "Google DeepMind-4-weathernext-ai-model-achieves-breakthrou",
+    "id": "Google DeepMind-6-weathernext-ai-model-achieves-breakthrou",
     "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
     "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
     "source": "Google DeepMind",
@@ -280,7 +296,7 @@
     "summary": ""
   },
   {
-    "id": "Google DeepMind-5-gemini-robotics-er-2-powering-robotics-w",
+    "id": "Google DeepMind-7-gemini-robotics-er-2-powering-robotics-w",
     "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
     "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
     "source": "Google DeepMind",
@@ -288,7 +304,7 @@
     "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
   },
   {
-    "id": "Google DeepMind-6-we-re-launching-lyria-3-5-in-google-flow",
+    "id": "Google DeepMind-8-we-re-launching-lyria-3-5-in-google-flow",
     "title": "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
     "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
     "source": "Google DeepMind",
@@ -296,27 +312,11 @@
     "summary": ""
   },
   {
-    "id": "Google DeepMind-7-gemini-robotics-2-brings-whole-body-inte",
+    "id": "Google DeepMind-9-gemini-robotics-2-brings-whole-body-inte",
     "title": "Gemini Robotics 2 brings whole body intelligence to robots",
     "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
     "source": "Google DeepMind",
     "date": "2026-07-28T13:21:37.000Z",
     "summary": ""
-  },
-  {
-    "id": "Google DeepMind-8-accelerating-the-frontiers-of-scientific",
-    "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
-    "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/",
-    "source": "Google DeepMind",
-    "date": "2026-07-22T13:38:54.000Z",
-    "summary": "Google commits $40M in AI tokens and credits for the Genesis Mission"
-  },
-  {
-    "id": "Google DeepMind-9-introducing-gemini-3-6-flash-3-5-flash-l",
-    "title": "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-6-flash-3-5-flash-lite-and-3-5-flash-cyber/",
-    "source": "Google DeepMind",
-    "date": "2026-07-21T15:16:30.000Z",
-    "summary": "We’re introducing new Gemini models, including Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber."
   }
 ]
