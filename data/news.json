@@ -1,5 +1,29 @@
 [
   {
+    "id": "OpenAI-0-our-decision-on-cursor-following-its-acq",
+    "title": "Our decision on Cursor following its acquisition by SpaceX",
+    "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+    "source": "OpenAI",
+    "date": "2026-08-28T06:00:00.000Z",
+    "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
+  },
+  {
+    "id": "OpenAI-1-supporting-thailand-s-next-generation-of",
+    "title": "Supporting Thailand’s next generation of AI startups",
+    "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+    "source": "OpenAI",
+    "date": "2026-08-28T02:00:00.000Z",
+    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
+  },
+  {
+    "id": "Hugging Face-0-the-open-asr-leaderboard-adds-its-first-",
+    "title": "The Open ASR Leaderboard Adds Its First Global South Language",
+    "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
+    "source": "Hugging Face",
+    "date": "2026-08-28T00:00:00.000Z",
+    "summary": ""
+  },
+  {
     "id": "Google DeepMind-0-gemini-omni-1-1-flash-lets-you-build-wit",
     "title": "Gemini Omni 1.1 Flash lets you build with more control",
     "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
@@ -16,7 +40,7 @@
     "summary": "Piloting the world's first double-blind AI evaluations"
   },
   {
-    "id": "OpenAI-0-better-answers-broader-thinking-what-stu",
+    "id": "OpenAI-2-better-answers-broader-thinking-what-stu",
     "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
     "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
     "source": "OpenAI",
@@ -24,7 +48,7 @@
     "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
   },
   {
-    "id": "OpenAI-1-expanding-openai-s-presence-in-brazil",
+    "id": "OpenAI-3-expanding-openai-s-presence-in-brazil",
     "title": "Expanding OpenAI’s presence in Brazil",
     "url": "https://openai.com/index/expanding-our-presence-in-brazil",
     "source": "OpenAI",
@@ -40,15 +64,7 @@
     "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
   },
   {
-    "id": "OpenAI-3-learning-never-stops-how-ai-makes-learni",
-    "title": "Learning never stops: How AI makes learning continuous",
-    "url": "https://openai.com/index/learning-never-stops",
-    "source": "OpenAI",
-    "date": "2026-08-26T10:00:00.000Z",
-    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
-  },
-  {
-    "id": "OpenAI-2-bringing-chatgpt-for-teachers-to-more-u-",
+    "id": "OpenAI-5-bringing-chatgpt-for-teachers-to-more-u-",
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
     "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "source": "OpenAI",
@@ -56,7 +72,15 @@
     "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
   },
   {
-    "id": "Hugging Face-0-training-and-finetuning-multi-vector-emb",
+    "id": "OpenAI-4-learning-never-stops-how-ai-makes-learni",
+    "title": "Learning never stops: How AI makes learning continuous",
+    "url": "https://openai.com/index/learning-never-stops",
+    "source": "OpenAI",
+    "date": "2026-08-26T10:00:00.000Z",
+    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+  },
+  {
+    "id": "Hugging Face-1-training-and-finetuning-multi-vector-emb",
     "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
     "url": "https://huggingface.co/blog/train-multi-vector-encoder",
     "source": "Hugging Face",
@@ -64,7 +88,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-5-how-loveholidays-is-making-everyone-a-bu",
+    "id": "OpenAI-7-how-loveholidays-is-making-everyone-a-bu",
     "title": "How loveholidays is making everyone a builder with Codex",
     "url": "https://openai.com/index/loveholidays",
     "source": "OpenAI",
@@ -72,7 +96,7 @@
     "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
   },
   {
-    "id": "OpenAI-4-the-hugging-face-incident-and-the-road-a",
+    "id": "OpenAI-6-the-hugging-face-incident-and-the-road-a",
     "title": "The Hugging Face incident and the road ahead",
     "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
     "source": "OpenAI",
@@ -80,7 +104,7 @@
     "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment."
   },
   {
-    "id": "Hugging Face-1-granite-4-2-llms-how-they-re-built",
+    "id": "Hugging Face-2-granite-4-2-llms-how-they-re-built",
     "title": "Granite 4.2 LLMs: How They're Built",
     "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
     "source": "Hugging Face",
@@ -88,7 +112,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-2-quantization-aware-healing-a-compressed-",
+    "id": "Hugging Face-3-quantization-aware-healing-a-compressed-",
     "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "source": "Hugging Face",
@@ -96,7 +120,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-6-the-full-stack-behind-abundant-intellige",
+    "id": "OpenAI-8-the-full-stack-behind-abundant-intellige",
     "title": "The full stack behind abundant intelligence",
     "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
     "source": "OpenAI",
@@ -104,7 +128,7 @@
     "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
   },
   {
-    "id": "OpenAI-7-jalape-o-s-first-results-show-industry-l",
+    "id": "OpenAI-9-jalape-o-s-first-results-show-industry-l",
     "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
     "url": "https://openai.com/index/jalapeno-first-results",
     "source": "OpenAI",
@@ -112,7 +136,7 @@
     "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
   },
   {
-    "id": "Hugging Face-3-wire-it-run-it-deploy-it-ai-workflows-in",
+    "id": "Hugging Face-4-wire-it-run-it-deploy-it-ai-workflows-in",
     "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
     "url": "https://huggingface.co/blog/gradio-workflow-guide",
     "source": "Hugging Face",
@@ -120,7 +144,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-9-introducing-the-admin-plugin-for-chatgpt",
+    "id": "OpenAI-11-introducing-the-admin-plugin-for-chatgpt",
     "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
     "url": "https://openai.com/index/introducing-admin-plugin",
     "source": "OpenAI",
@@ -128,7 +152,7 @@
     "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
   },
   {
-    "id": "OpenAI-8-disrupting-a-new-covert-influence-campai",
+    "id": "OpenAI-10-disrupting-a-new-covert-influence-campai",
     "title": "Disrupting a new covert influence campaign from Russia",
     "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
     "source": "OpenAI",
@@ -136,7 +160,7 @@
     "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
   },
   {
-    "id": "OpenAI-10-advancing-price-performance-for-develope",
+    "id": "OpenAI-12-advancing-price-performance-for-develope",
     "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
     "url": "https://openai.com/index/gpt-5-6-in-kiro",
     "source": "OpenAI",
@@ -152,7 +176,7 @@
     "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
   },
   {
-    "id": "Hugging Face-5-measuring-benchmark-optimization-in-spee",
+    "id": "Hugging Face-6-measuring-benchmark-optimization-in-spee",
     "title": "Measuring benchmark optimization in speech recognition",
     "url": "https://huggingface.co/blog/asr-benchmark-optimization",
     "source": "Hugging Face",
@@ -160,7 +184,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-4-how-hugging-face-inference-endpoints-job",
+    "id": "Hugging Face-5-how-hugging-face-inference-endpoints-job",
     "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
     "url": "https://huggingface.co/blog/pwc-search",
     "source": "Hugging Face",
@@ -168,7 +192,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-6-up-to-3-2x-faster-inference-with-lfm2-5-",
+    "id": "Hugging Face-7-up-to-3-2x-faster-inference-with-lfm2-5-",
     "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
     "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
     "source": "Hugging Face",
@@ -176,15 +200,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-12-introducing-intelligence-age",
-    "title": "Introducing Intelligence Age",
-    "url": "https://openai.com/index/introducing-intelligence-age",
-    "source": "OpenAI",
-    "date": "2026-08-20T07:00:00.000Z",
-    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
-  },
-  {
-    "id": "OpenAI-11-introducing-intelligence-age",
+    "id": "OpenAI-14-introducing-intelligence-age",
     "title": "Introducing Intelligence Age",
     "url": "https://openai.com/index/introducing-ai-futures",
     "source": "OpenAI",
@@ -192,23 +208,15 @@
     "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
   },
   {
-    "id": "OpenAI-13-stampli-cuts-launch-hours-by-68-using-ch",
-    "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
-    "url": "https://openai.com/index/stampli",
+    "id": "OpenAI-13-introducing-intelligence-age",
+    "title": "Introducing Intelligence Age",
+    "url": "https://openai.com/index/introducing-intelligence-age",
     "source": "OpenAI",
-    "date": "2026-08-20T00:00:00.000Z",
-    "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+    "date": "2026-08-20T07:00:00.000Z",
+    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
   },
   {
-    "id": "OpenAI-14-offering-zero-data-retention-for-frontie",
-    "title": "Offering Zero Data Retention for frontier models",
-    "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-    "source": "OpenAI",
-    "date": "2026-08-19T19:00:00.000Z",
-    "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
-  },
-  {
-    "id": "Hugging Face-7-how-much-memory-does-your-agent-actually",
+    "id": "Hugging Face-8-how-much-memory-does-your-agent-actually",
     "title": "How Much Memory Does Your Agent Actually Need?",
     "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "source": "Hugging Face",
@@ -216,7 +224,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-8-multi-vector-late-interaction-embedding-",
+    "id": "Hugging Face-9-multi-vector-late-interaction-embedding-",
     "title": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
     "url": "https://huggingface.co/blog/multi-vector-encoder",
     "source": "Hugging Face",
@@ -224,7 +232,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-9-same-cluster-33-points-more-utilization-",
+    "id": "Hugging Face-10-same-cluster-33-points-more-utilization-",
     "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
     "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
     "source": "Hugging Face",
@@ -232,7 +240,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-10-state-of-open-models-summer-2026-observa",
+    "id": "Hugging Face-11-state-of-open-models-summer-2026-observa",
     "title": "State of Open Models: Summer 2026 Observations",
     "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
     "source": "Hugging Face",
@@ -240,7 +248,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-11-record-train-and-deploy-from-one-place-w",
+    "id": "Hugging Face-12-record-train-and-deploy-from-one-place-w",
     "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
     "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
     "source": "Hugging Face",
@@ -256,7 +264,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-12-what-we-learned-by-reproducing-2-200-pap",
+    "id": "Hugging Face-13-what-we-learned-by-reproducing-2-200-pap",
     "title": "What We Learned by Reproducing 2,200 papers from ICML",
     "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
     "source": "Hugging Face",
@@ -264,7 +272,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-13-introducing-olmoearth-embeddings-custom-",
+    "id": "Hugging Face-14-introducing-olmoearth-embeddings-custom-",
     "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
     "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
     "source": "Hugging Face",
@@ -278,14 +286,6 @@
     "source": "Google DeepMind",
     "date": "2026-08-12T14:01:59.000Z",
     "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
-  },
-  {
-    "id": "Hugging Face-14-thinking-of-ace-we-can-do-it-with-fewer-",
-    "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
-    "source": "Hugging Face",
-    "date": "2026-08-11T13:37:10.000Z",
-    "summary": ""
   },
   {
     "id": "Google DeepMind-6-weathernext-ai-model-achieves-breakthrou",
