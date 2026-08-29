@@ -1,7 +1,7 @@
 {
   "category": "voice",
   "date": "2026-08-29",
-  "updatedAt": "2026-08-29T03:06:04.234Z",
+  "updatedAt": "2026-08-29T23:03:08.719Z",
   "models": [
     {
       "id": "voice-sonic-3-6",
@@ -56,9 +56,9 @@
       ]
     },
     {
-      "id": "voice-qwen-audio-3-0-tts-plus",
-      "name": "Qwen-Audio-3.0-TTS-Plus",
-      "vendor": "Alibaba",
+      "id": "voice-simba-3-2",
+      "name": "Simba 3.2",
+      "vendor": "SpeechifyAI",
       "category": "voice",
       "license": "proprietary",
       "score": 1243,
@@ -78,7 +78,7 @@
         },
         {
           "label": "제작사",
-          "value": "Alibaba"
+          "value": "SpeechifyAI"
         }
       ],
       "stats": [
@@ -100,7 +100,7 @@
         },
         {
           "label": "제작사",
-          "value": "Alibaba"
+          "value": "SpeechifyAI"
         }
       ],
       "strengths": [
@@ -108,17 +108,17 @@
       ]
     },
     {
-      "id": "voice-simba-3-2",
-      "name": "Simba 3.2",
-      "vendor": "SpeechifyAI",
+      "id": "voice-qwen-audio-3-0-tts-plus",
+      "name": "Qwen-Audio-3.0-TTS-Plus",
+      "vendor": "Alibaba",
       "category": "voice",
       "license": "proprietary",
-      "score": 1239,
+      "score": 1243,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1239"
+          "value": "1243"
         },
         {
           "label": "순위",
@@ -130,13 +130,13 @@
         },
         {
           "label": "제작사",
-          "value": "SpeechifyAI"
+          "value": "Alibaba"
         }
       ],
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1239"
+          "value": "1243"
         },
         {
           "label": "순위",
@@ -152,7 +152,7 @@
         },
         {
           "label": "제작사",
-          "value": "SpeechifyAI"
+          "value": "Alibaba"
         }
       ],
       "strengths": [
@@ -165,12 +165,12 @@
       "vendor": "Inworld",
       "category": "voice",
       "license": "proprietary",
-      "score": 1226,
+      "score": 1228,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1226"
+          "value": "1228"
         },
         {
           "label": "순위",
@@ -188,7 +188,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1226"
+          "value": "1228"
         },
         {
           "label": "순위",
@@ -269,12 +269,12 @@
       "vendor": "BreezeBlue",
       "category": "voice",
       "license": "proprietary",
-      "score": 1221,
+      "score": 1220,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1221"
+          "value": "1220"
         },
         {
           "label": "순위",
@@ -292,7 +292,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1221"
+          "value": "1220"
         },
         {
           "label": "순위",
@@ -371,12 +371,12 @@
       "vendor": "Google",
       "category": "voice",
       "license": "proprietary",
-      "score": 1209,
+      "score": 1210,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1209"
+          "value": "1210"
         },
         {
           "label": "순위",
@@ -394,7 +394,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1209"
+          "value": "1210"
         },
         {
           "label": "순위",
@@ -421,12 +421,12 @@
       "vendor": "StepFun",
       "category": "voice",
       "license": "proprietary",
-      "score": 1206,
+      "score": 1207,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1206"
+          "value": "1207"
         },
         {
           "label": "순위",
@@ -444,7 +444,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1206"
+          "value": "1207"
         },
         {
           "label": "순위",
@@ -471,12 +471,12 @@
       "vendor": "Inworld",
       "category": "voice",
       "license": "proprietary",
-      "score": 1198,
+      "score": 1199,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1198"
+          "value": "1199"
         },
         {
           "label": "순위",
@@ -494,7 +494,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1198"
+          "value": "1199"
         },
         {
           "label": "순위",

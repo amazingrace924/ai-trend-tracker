@@ -4570,22 +4570,22 @@
           "value": 1288
         },
         {
+          "id": "voice-simba-3-2",
+          "name": "Simba 3.2",
+          "vendor": "SpeechifyAI",
+          "value": 1243
+        },
+        {
           "id": "voice-qwen-audio-3-0-tts-plus",
           "name": "Qwen-Audio-3.0-TTS-Plus",
           "vendor": "Alibaba",
           "value": 1243
         },
         {
-          "id": "voice-simba-3-2",
-          "name": "Simba 3.2",
-          "vendor": "SpeechifyAI",
-          "value": 1239
-        },
-        {
           "id": "voice-realtime-tts-2-flash-research-preview",
           "name": "Realtime TTS-2 Flash - Research Preview",
           "vendor": "Inworld",
-          "value": 1226
+          "value": 1228
         },
         {
           "id": "voice-luna-tts",
@@ -4597,7 +4597,7 @@
           "id": "voice-breeze-tts-2",
           "name": "Breeze TTS 2",
           "vendor": "BreezeBlue",
-          "value": 1221
+          "value": 1220
         },
         {
           "id": "voice-mitty",
@@ -4609,7 +4609,7 @@
           "id": "voice-gemini-3-1-tts",
           "name": "Gemini 3.1 Flash TTS",
           "vendor": "Google",
-          "value": 1209
+          "value": 1210
         }
       ]
     }

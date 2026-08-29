@@ -1,7 +1,7 @@
 {
   "category": "image",
   "date": "2026-08-29",
-  "updatedAt": "2026-08-29T03:06:03.378Z",
+  "updatedAt": "2026-08-29T23:03:08.046Z",
   "models": [
     {
       "id": "image-gpt-image-2",
@@ -23,7 +23,7 @@
         },
         {
           "label": "투표수",
-          "value": "14,842"
+          "value": "14,848"
         },
         {
           "label": "제작사",
@@ -41,7 +41,7 @@
         },
         {
           "label": "투표 수",
-          "value": "14,842"
+          "value": "14,848"
         },
         {
           "label": "출시일",
@@ -63,12 +63,12 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-08",
-      "score": 1353,
+      "score": 1352,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1353"
+          "value": "1352"
         },
         {
           "label": "순위",
@@ -76,7 +76,7 @@
         },
         {
           "label": "투표수",
-          "value": "6,256"
+          "value": "6,266"
         },
         {
           "label": "제작사",
@@ -86,7 +86,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1353"
+          "value": "1352"
         },
         {
           "label": "순위",
@@ -94,7 +94,7 @@
         },
         {
           "label": "투표 수",
-          "value": "6,256"
+          "value": "6,266"
         },
         {
           "label": "출시일",
@@ -116,12 +116,12 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-07",
-      "score": 1324,
+      "score": 1323,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1324"
+          "value": "1323"
         },
         {
           "label": "순위",
@@ -129,7 +129,7 @@
         },
         {
           "label": "투표수",
-          "value": "16,538"
+          "value": "16,549"
         },
         {
           "label": "제작사",
@@ -139,7 +139,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1324"
+          "value": "1323"
         },
         {
           "label": "순위",
@@ -147,7 +147,7 @@
         },
         {
           "label": "투표 수",
-          "value": "16,538"
+          "value": "16,549"
         },
         {
           "label": "출시일",
@@ -169,12 +169,12 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-02",
-      "score": 1322,
+      "score": 1321,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1322"
+          "value": "1321"
         },
         {
           "label": "순위",
@@ -182,7 +182,7 @@
         },
         {
           "label": "투표수",
-          "value": "15,991"
+          "value": "16,004"
         },
         {
           "label": "제작사",
@@ -192,7 +192,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1322"
+          "value": "1321"
         },
         {
           "label": "순위",
@@ -200,7 +200,7 @@
         },
         {
           "label": "투표 수",
-          "value": "15,991"
+          "value": "16,004"
         },
         {
           "label": "출시일",
@@ -235,7 +235,7 @@
         },
         {
           "label": "투표수",
-          "value": "14,295"
+          "value": "14,306"
         },
         {
           "label": "제작사",
@@ -253,7 +253,7 @@
         },
         {
           "label": "투표 수",
-          "value": "14,295"
+          "value": "14,306"
         },
         {
           "label": "출시일",
@@ -275,12 +275,12 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-06",
-      "score": 1304,
+      "score": 1303,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1304"
+          "value": "1303"
         },
         {
           "label": "순위",
@@ -288,7 +288,7 @@
         },
         {
           "label": "투표수",
-          "value": "15,021"
+          "value": "15,036"
         },
         {
           "label": "제작사",
@@ -298,7 +298,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1304"
+          "value": "1303"
         },
         {
           "label": "순위",
@@ -306,7 +306,7 @@
         },
         {
           "label": "투표 수",
-          "value": "15,021"
+          "value": "15,036"
         },
         {
           "label": "출시일",
@@ -328,12 +328,12 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2025-11",
-      "score": 1298,
+      "score": 1297,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1298"
+          "value": "1297"
         },
         {
           "label": "순위",
@@ -341,7 +341,7 @@
         },
         {
           "label": "투표수",
-          "value": "14,475"
+          "value": "14,491"
         },
         {
           "label": "제작사",
@@ -351,7 +351,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1298"
+          "value": "1297"
         },
         {
           "label": "순위",
@@ -359,7 +359,7 @@
         },
         {
           "label": "투표 수",
-          "value": "14,475"
+          "value": "14,491"
         },
         {
           "label": "출시일",
@@ -379,12 +379,12 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-07",
-      "score": 1295,
+      "score": 1294,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1295"
+          "value": "1294"
         },
         {
           "label": "순위",
@@ -392,7 +392,7 @@
         },
         {
           "label": "투표수",
-          "value": "12,050"
+          "value": "12,063"
         },
         {
           "label": "제작사",
@@ -402,7 +402,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1295"
+          "value": "1294"
         },
         {
           "label": "순위",
@@ -410,7 +410,7 @@
         },
         {
           "label": "투표 수",
-          "value": "12,050"
+          "value": "12,063"
         },
         {
           "label": "출시일",
@@ -430,12 +430,12 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-06",
-      "score": 1290,
+      "score": 1289,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1290"
+          "value": "1289"
         },
         {
           "label": "순위",
@@ -443,7 +443,7 @@
         },
         {
           "label": "투표수",
-          "value": "14,761"
+          "value": "14,771"
         },
         {
           "label": "제작사",
@@ -453,7 +453,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1290"
+          "value": "1289"
         },
         {
           "label": "순위",
@@ -461,7 +461,7 @@
         },
         {
           "label": "투표 수",
-          "value": "14,761"
+          "value": "14,771"
         },
         {
           "label": "출시일",
@@ -481,12 +481,12 @@
       "category": "image",
       "license": "proprietary",
       "releaseDate": "2026-07",
-      "score": 1285,
+      "score": 1284,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1285"
+          "value": "1284"
         },
         {
           "label": "순위",
@@ -494,7 +494,7 @@
         },
         {
           "label": "투표수",
-          "value": "5,732"
+          "value": "5,739"
         },
         {
           "label": "제작사",
@@ -504,7 +504,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1285"
+          "value": "1284"
         },
         {
           "label": "순위",
@@ -512,7 +512,7 @@
         },
         {
           "label": "투표 수",
-          "value": "5,732"
+          "value": "5,739"
         },
         {
           "label": "출시일",

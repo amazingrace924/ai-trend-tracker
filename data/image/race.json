@@ -4573,19 +4573,19 @@
           "id": "image-mai-image-2-6-preview",
           "name": "MAI-Image-2.6-Preview",
           "vendor": "Microsoft AI",
-          "value": 1353
+          "value": 1352
         },
         {
           "id": "image-reve-2-1",
           "name": "Reve 2.1",
           "vendor": "Reve",
-          "value": 1324
+          "value": 1323
         },
         {
           "id": "image-nano-banana-2",
           "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
           "vendor": "Google",
-          "value": 1322
+          "value": 1321
         },
         {
           "id": "image-openai-gpt_image-1-5",
@@ -4597,19 +4597,19 @@
           "id": "image-mai-image-2-5",
           "name": "MAI-Image-2.5",
           "vendor": "Microsoft AI",
-          "value": 1304
+          "value": 1303
         },
         {
           "id": "image-gemini_nano-banana-pro",
           "name": "Nano Banana Pro (Gemini 3 Pro Image)",
           "vendor": "Google",
-          "value": 1298
+          "value": 1297
         },
         {
           "id": "image-mai-image-2-5-pro",
           "name": "MAI-Image-2.5-Pro",
           "vendor": "Microsoft AI",
-          "value": 1295
+          "value": 1294
         }
       ]
     }
