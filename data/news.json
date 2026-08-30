@@ -5,7 +5,9 @@
     "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
     "source": "OpenAI",
     "date": "2026-08-28T06:00:00.000Z",
-    "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX."
+    "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+    "titleKo": "SpaceX의 인수 이후 Cursor에 대한 우리의 결정",
+    "summaryKo": "SpaceX가 Cursor를 인수한 후 Cursor에 OpenAI 모델을 제공하는 계약을 종료하기로 결정했습니다."
   },
   {
     "id": "OpenAI-1-supporting-thailand-s-next-generation-of",
@@ -13,7 +15,9 @@
     "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "source": "OpenAI",
     "date": "2026-08-28T02:00:00.000Z",
-    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products."
+    "summary": "OpenAI and Thailand’s MHESI launch an eight-week accelerator helping 10 health, wellness, and education startups turn AI prototypes into trusted products.",
+    "titleKo": "태국의 차세대 AI 스타트업 지원",
+    "summaryKo": "OpenAI와 태국의 MHESI는 10개의 건강, 웰니스 및 교육 스타트업이 AI 프로토타입을 신뢰할 수 있는 제품으로 전환할 수 있도록 지원하는 8주간의 액셀러레이터를 출시했습니다."
   },
   {
     "id": "Hugging Face-0-the-open-asr-leaderboard-adds-its-first-",
@@ -21,7 +25,8 @@
     "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
     "source": "Hugging Face",
     "date": "2026-08-28T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "Open ASR 리더보드에 최초의 글로벌 남부 언어가 추가되었습니다."
   },
   {
     "id": "Google DeepMind-0-gemini-omni-1-1-flash-lets-you-build-wit",
@@ -29,7 +34,8 @@
     "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
     "source": "Google DeepMind",
     "date": "2026-08-27T16:11:32.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "Gemini Omni 1.1 Flash를 사용하면 더 많은 제어 기능을 통해 빌드할 수 있습니다."
   },
   {
     "id": "Google DeepMind-1-piloting-the-world-s-first-double-blind-",
@@ -37,7 +43,8 @@
     "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
     "source": "Google DeepMind",
     "date": "2026-08-27T12:59:16.000Z",
-    "summary": "Piloting the world's first double-blind AI evaluations"
+    "summary": "Piloting the world's first double-blind AI evaluations",
+    "summaryKo": "세계 최초의 이중 맹검 AI 평가 시험"
   },
   {
     "id": "OpenAI-2-better-answers-broader-thinking-what-stu",
@@ -45,7 +52,8 @@
     "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
     "source": "OpenAI",
     "date": "2026-08-27T09:00:00.000Z",
-    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
+    "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+    "titleKo": "더 나은 답변, 더 넓은 사고: 학생들이 ChatGPT 및 비판적 사고 교육을 통해 얻는 것"
   },
   {
     "id": "OpenAI-3-expanding-openai-s-presence-in-brazil",
@@ -53,7 +61,9 @@
     "url": "https://openai.com/index/expanding-our-presence-in-brazil",
     "source": "OpenAI",
     "date": "2026-08-27T03:00:00.000Z",
-    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
+    "summary": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+    "titleKo": "브라질에서 OpenAI의 입지 확대",
+    "summaryKo": "OpenAI는 브라질에서의 입지를 확대하고 개발자, 기업 및 커뮤니티와의 참여를 심화하여 브라질 전역의 AI 채택을 지원하고 있습니다."
   },
   {
     "id": "Google DeepMind-2-intelligent-transcription-with-gemini-3-",
@@ -61,7 +71,9 @@
     "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
     "source": "Google DeepMind",
     "date": "2026-08-26T17:01:00.000Z",
-    "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
+    "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
+    "titleKo": "Gemini 3.5 Transcribe를 사용한 지능형 전사",
+    "summaryKo": "이제 Gemini 3.5 Transcribe를 사용하면 음성을 텍스트로 더욱 지능적으로 전사할 수 있습니다."
   },
   {
     "id": "OpenAI-5-bringing-chatgpt-for-teachers-to-more-u-",
@@ -69,7 +81,8 @@
     "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "source": "OpenAI",
     "date": "2026-08-26T10:00:00.000Z",
-    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
+    "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "summaryKo": "교사용 ChatGPT는 미국의 55개 학교 시스템으로 확장되어 100,000명 이상의 교육자와 교직원에게 안전한 AI 도구, 교육 및 지원을 제공하고 있습니다."
   },
   {
     "id": "OpenAI-4-learning-never-stops-how-ai-makes-learni",
@@ -77,7 +90,8 @@
     "url": "https://openai.com/index/learning-never-stops",
     "source": "OpenAI",
     "date": "2026-08-26T10:00:00.000Z",
-    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+    "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+    "titleKo": "학습은 결코 멈추지 않습니다: AI가 학습을 지속적으로 만드는 방법"
   },
   {
     "id": "Hugging Face-1-training-and-finetuning-multi-vector-emb",
@@ -93,7 +107,9 @@
     "url": "https://openai.com/index/loveholidays",
     "source": "OpenAI",
     "date": "2026-08-26T00:00:00.000Z",
-    "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster."
+    "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
+    "titleKo": "Loveholidays가 Codex를 통해 모든 사람을 빌더로 만드는 방법",
+    "summaryKo": "loveholidays가 어떻게 OpenAI Codex를 사용하여 비즈니스 전반에 걸쳐 소프트웨어 개발에 액세스할 수 있도록 하고 팀이 아이디어를 더 빠르게 제품으로 전환할 수 있도록 지원하는지 알아보세요."
   },
   {
     "id": "OpenAI-6-the-hugging-face-incident-and-the-road-a",
@@ -101,7 +117,9 @@
     "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
     "source": "OpenAI",
     "date": "2026-08-26T00:00:00.000Z",
-    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment."
+    "summary": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+    "titleKo": "허깅 페이스 사건과 앞으로의 길",
+    "summaryKo": "OpenAI는 Hugging Face 보안 사건의 조사 결과와 AI 모델 보안, 모니터링 및 정렬을 강화하기 위해 취하고 있는 조치를 공유합니다."
   },
   {
     "id": "Hugging Face-2-granite-4-2-llms-how-they-re-built",
@@ -109,7 +127,8 @@
     "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
     "source": "Hugging Face",
     "date": "2026-08-25T15:14:14.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "Granite 4.2 LLM: 구축 방법"
   },
   {
     "id": "Hugging Face-3-quantization-aware-healing-a-compressed-",
@@ -117,7 +136,8 @@
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "source": "Hugging Face",
     "date": "2026-08-25T11:39:24.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "양자화 인식 치유: 전체 정밀도 원본보다 성능이 뛰어난 압축된 4비트 모델"
   },
   {
     "id": "OpenAI-8-the-full-stack-behind-abundant-intellige",
@@ -125,7 +145,8 @@
     "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
     "source": "OpenAI",
     "date": "2026-08-25T07:05:00.000Z",
-    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
+    "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "summaryKo": "OpenAI CFO인 Sarah Friar는 칩, 컴퓨팅, 모델 및 제품 전반의 발전이 어떻게 결합되어 더 큰 규모와 더 낮은 비용으로 더 유용한 인텔리전스를 제공하는지 설명합니다."
   },
   {
     "id": "OpenAI-9-jalape-o-s-first-results-show-industry-l",
@@ -133,7 +154,9 @@
     "url": "https://openai.com/index/jalapeno-first-results",
     "source": "OpenAI",
     "date": "2026-08-25T07:00:00.000Z",
-    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
+    "summary": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+    "titleKo": "Jalapeño의 첫 번째 결과는 AI 추론에서 업계 최고의 속도와 효율성을 보여줍니다.",
+    "summaryKo": "Jalapeño는 OpenAI의 맞춤형 추론 칩으로, 최신 모델에 더 높은 처리량과 더 낮은 대기 시간을 제공하여 더 빠르고 전력 효율적인 AI 추론을 제공합니다."
   },
   {
     "id": "Hugging Face-4-wire-it-run-it-deploy-it-ai-workflows-in",
@@ -149,7 +172,8 @@
     "url": "https://openai.com/index/introducing-admin-plugin",
     "source": "OpenAI",
     "date": "2026-08-25T00:00:00.000Z",
-    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
+    "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+    "titleKo": "ChatGPT Work 및 Codex용 관리 플러그인 소개"
   },
   {
     "id": "OpenAI-10-disrupting-a-new-covert-influence-campai",
@@ -157,7 +181,9 @@
     "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
     "source": "OpenAI",
     "date": "2026-08-25T00:00:00.000Z",
-    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West."
+    "summary": "OpenAI banned Russia-origin accounts using AI to promote a fake Israel-based think tank and a “sovereignty” index praising Russia and criticizing the West.",
+    "titleKo": "러시아의 새로운 비밀 영향력 캠페인 방해",
+    "summaryKo": "OpenAI는 가짜 이스라엘 기반 싱크탱크와 러시아를 칭찬하고 서방을 비판하는 \"주권\" 지수를 홍보하기 위해 AI를 사용하는 러시아 출신 계정을 금지했습니다."
   },
   {
     "id": "OpenAI-12-advancing-price-performance-for-develope",
@@ -165,7 +191,9 @@
     "url": "https://openai.com/index/gpt-5-6-in-kiro",
     "source": "OpenAI",
     "date": "2026-08-24T12:00:00.000Z",
-    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
+    "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+    "titleKo": "Kiro의 GPT‑5.6을 통해 개발자를 위한 가격 대비 성능 향상",
+    "summaryKo": "이제 GPT‑5.6을 Kiro에서 사용할 수 있어 개발자가 더 나은 가격 대비 성능으로 소프트웨어를 계획, 구축, 검토 및 테스트할 수 있습니다."
   },
   {
     "id": "Google DeepMind-3-from-atari-to-eve-online-building-on-15-",
@@ -173,7 +201,8 @@
     "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
     "source": "Google DeepMind",
     "date": "2026-08-21T11:59:48.000Z",
-    "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+    "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+    "titleKo": "Atari에서 EVE Online까지: 15년간의 게임 AI 연구 기반"
   },
   {
     "id": "Hugging Face-6-measuring-benchmark-optimization-in-spee",
@@ -189,7 +218,8 @@
     "url": "https://huggingface.co/blog/pwc-search",
     "source": "Hugging Face",
     "date": "2026-08-21T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "포옹 얼굴 추론 엔드포인트, 작업 및 버킷이 코드가 포함된 논문에서 강력한 검색을 수행하는 방법"
   },
   {
     "id": "Hugging Face-7-up-to-3-2x-faster-inference-with-lfm2-5-",
@@ -197,7 +227,8 @@
     "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
     "source": "Hugging Face",
     "date": "2026-08-20T16:52:57.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "LFM2.5-DSpark를 통해 최대 3.2배 더 빠른 추론 속도"
   },
   {
     "id": "OpenAI-14-introducing-intelligence-age",
@@ -205,7 +236,9 @@
     "url": "https://openai.com/index/introducing-ai-futures",
     "source": "OpenAI",
     "date": "2026-08-20T07:00:00.000Z",
-    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
+    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "titleKo": "지능시대를 소개합니다",
+    "summaryKo": "혁신적인 AI가 권력, 거버넌스, 경제 및 개인의 자유를 어떻게 재구성할 수 있는지 탐구하는 새로운 OpenAI 블로그인 Intelligence Age를 소개합니다."
   },
   {
     "id": "OpenAI-13-introducing-intelligence-age",
@@ -213,7 +246,9 @@
     "url": "https://openai.com/index/introducing-intelligence-age",
     "source": "OpenAI",
     "date": "2026-08-20T07:00:00.000Z",
-    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom."
+    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
+    "titleKo": "지능시대를 소개합니다",
+    "summaryKo": "혁신적인 AI가 권력, 거버넌스, 경제 및 개인의 자유를 어떻게 재구성할 수 있는지 탐구하는 새로운 OpenAI 블로그인 Intelligence Age를 소개합니다."
   },
   {
     "id": "Hugging Face-8-how-much-memory-does-your-agent-actually",
@@ -229,7 +264,8 @@
     "url": "https://huggingface.co/blog/multi-vector-encoder",
     "source": "Hugging Face",
     "date": "2026-08-18T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "문장 변환기를 사용한 다중 벡터(후기 상호 작용) 임베딩 모델"
   },
   {
     "id": "Hugging Face-10-same-cluster-33-points-more-utilization-",
@@ -237,7 +273,8 @@
     "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
     "source": "Hugging Face",
     "date": "2026-08-17T19:46:21.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "동일한 클러스터, 33포인트 더 많은 활용도: 순서가 변경된 것"
   },
   {
     "id": "Hugging Face-11-state-of-open-models-summer-2026-observa",
@@ -245,7 +282,8 @@
     "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
     "source": "Hugging Face",
     "date": "2026-08-14T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "공개 모델 현황: 2026년 여름 관측"
   },
   {
     "id": "Hugging Face-12-record-train-and-deploy-from-one-place-w",
@@ -253,7 +291,8 @@
     "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
     "source": "Hugging Face",
     "date": "2026-08-13T17:16:04.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "Strands Agents, LeRobot 및 Hugging Face Storage Buckets를 사용하여 한 곳에서 기록, 훈련 및 배포"
   },
   {
     "id": "Google DeepMind-4-introducing-gemini-3-7-flash",
@@ -269,7 +308,8 @@
     "url": "https://huggingface.co/blog/icml-2026-open-reproductions",
     "source": "Hugging Face",
     "date": "2026-08-13T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "ICML의 2,200개 논문을 재현하여 우리가 배운 것"
   },
   {
     "id": "Hugging Face-14-introducing-olmoearth-embeddings-custom-",
@@ -277,7 +317,8 @@
     "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
     "source": "Hugging Face",
     "date": "2026-08-12T16:14:36.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "OlmoEarth 임베딩 소개: 다운스트림 분석을 위해 OlmoEarth Studio에서 사용자 정의 임베딩 내보내기"
   },
   {
     "id": "Google DeepMind-5-putting-sign-language-ai-into-users-hand",
@@ -285,7 +326,9 @@
     "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/",
     "source": "Google DeepMind",
     "date": "2026-08-12T14:01:59.000Z",
-    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+    "summary": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+    "titleKo": "수화 AI를 사용자의 손에 넣다",
+    "summaryKo": "청각 장애가 있는 사용자를 위한 새로운 수화 기능을 지원하는 획기적인 모델인 수화-텍스트(SL2T)를 소개합니다."
   },
   {
     "id": "Google DeepMind-6-weathernext-ai-model-achieves-breakthrou",
@@ -293,7 +336,8 @@
     "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
     "source": "Google DeepMind",
     "date": "2026-08-06T15:06:15.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "WeatherNext: AI 모델이 사이클론 예측에 획기적인 성과를 거두었습니다."
   },
   {
     "id": "Google DeepMind-7-gemini-robotics-er-2-powering-robotics-w",
@@ -309,7 +353,8 @@
     "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/",
     "source": "Google DeepMind",
     "date": "2026-07-29T16:02:10.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "Google Flow Music에서 음악성, 가사, 보컬, 창의적인 제어 기능이 향상된 Lyria 3.5를 출시합니다."
   },
   {
     "id": "Google DeepMind-9-gemini-robotics-2-brings-whole-body-inte",
@@ -317,6 +362,7 @@
     "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
     "source": "Google DeepMind",
     "date": "2026-07-28T13:21:37.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "Gemini Robotics 2는 로봇에 전신 지능을 제공합니다."
   }
 ]
