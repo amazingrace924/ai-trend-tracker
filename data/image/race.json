@@ -4679,7 +4679,7 @@
           "id": "image-mai-image-2-6-preview",
           "name": "MAI-Image-2.6-Preview",
           "vendor": "Microsoft AI",
-          "value": 1350
+          "value": 1349
         },
         {
           "id": "image-reve-2-1",
@@ -4691,7 +4691,7 @@
           "id": "image-nano-banana-2",
           "name": "Nano Banana 2 (Gemini 3.1 Flash Image Preview)",
           "vendor": "Google",
-          "value": 1320
+          "value": 1321
         },
         {
           "id": "image-openai-gpt_image-1-5",
@@ -4715,7 +4715,7 @@
           "id": "image-mai-image-2-5-pro",
           "name": "MAI-Image-2.5-Pro",
           "vendor": "Microsoft AI",
-          "value": 1291
+          "value": 1292
         }
       ]
     }

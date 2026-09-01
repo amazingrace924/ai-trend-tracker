@@ -4685,7 +4685,7 @@
           "id": "video-happyhorse-1-0",
           "name": "HappyHorse-1.0",
           "vendor": "Alibaba-ATH",
-          "value": 1283
+          "value": 1282
         },
         {
           "id": "video-seedance-2-0",
@@ -4715,7 +4715,7 @@
           "id": "video-kling-o3-pro",
           "name": "Kling 3.0 Omni 1080p (Pro)",
           "vendor": "KlingAI",
-          "value": 1228
+          "value": 1227
         }
       ]
     }

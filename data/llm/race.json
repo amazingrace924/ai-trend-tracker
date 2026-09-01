@@ -4670,6 +4670,18 @@
       "date": "2026-09-01",
       "entries": [
         {
+          "id": "claude-fable-5-1",
+          "name": "Claude Fable 5.1 (Adaptive Reasoning, Max Effort, Default Fallback)",
+          "vendor": "Anthropic",
+          "value": 65.7
+        },
+        {
+          "id": "claude-fable-5-1-xhigh",
+          "name": "Claude Fable 5.1 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
+          "vendor": "Anthropic",
+          "value": 64.8
+        },
+        {
           "id": "claude-opus-5",
           "name": "Claude Opus 5 (Adaptive Reasoning, Max Effort)",
           "vendor": "Anthropic",
@@ -4678,6 +4690,12 @@
         {
           "id": "claude-opus-5-xhigh",
           "name": "Claude Opus 5 (Adaptive Reasoning, Xhigh Effort)",
+          "vendor": "Anthropic",
+          "value": 62.5
+        },
+        {
+          "id": "claude-fable-5-1-high",
+          "name": "Claude Fable 5.1 (Adaptive Reasoning, High Effort, Default Fallback)",
           "vendor": "Anthropic",
           "value": 62.5
         },
@@ -4698,24 +4716,6 @@
           "name": "GPT-5.6 Sol (max)",
           "vendor": "OpenAI",
           "value": 60.9
-        },
-        {
-          "id": "grok-4-6",
-          "name": "Grok 4.6 (high)",
-          "vendor": "SpaceXAI",
-          "value": 60.9
-        },
-        {
-          "id": "grok-4-6-xhigh",
-          "name": "Grok 4.6 (xhigh)",
-          "vendor": "SpaceXAI",
-          "value": 60
-        },
-        {
-          "id": "kimi-k3",
-          "name": "Kimi K3 (max)",
-          "vendor": "Kimi",
-          "value": 59.7
         }
       ]
     }

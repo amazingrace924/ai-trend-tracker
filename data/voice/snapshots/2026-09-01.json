@@ -1,7 +1,7 @@
 {
   "category": "voice",
   "date": "2026-09-01",
-  "updatedAt": "2026-09-01T00:26:12.189Z",
+  "updatedAt": "2026-09-01T23:06:28.005Z",
   "models": [
     {
       "id": "voice-sonic-3-6",
@@ -56,6 +56,58 @@
       ]
     },
     {
+      "id": "voice-realtime-tts-2",
+      "name": "Realtime TTS-2",
+      "vendor": "Inworld",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1250,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1250"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Inworld"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1250"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Inworld"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
       "id": "voice-simba-3-2",
       "name": "Simba 3.2",
       "vendor": "SpeechifyAI",
@@ -70,7 +122,7 @@
         },
         {
           "label": "순위",
-          "value": "#2"
+          "value": "#3"
         },
         {
           "label": "투표수",
@@ -88,7 +140,7 @@
         },
         {
           "label": "순위",
-          "value": "#2"
+          "value": "#3"
         },
         {
           "label": "투표 수",
@@ -122,7 +174,7 @@
         },
         {
           "label": "순위",
-          "value": "#3"
+          "value": "#4"
         },
         {
           "label": "투표수",
@@ -140,7 +192,7 @@
         },
         {
           "label": "순위",
-          "value": "#3"
+          "value": "#4"
         },
         {
           "label": "투표 수",
@@ -174,7 +226,7 @@
         },
         {
           "label": "순위",
-          "value": "#4"
+          "value": "#5"
         },
         {
           "label": "투표수",
@@ -192,7 +244,7 @@
         },
         {
           "label": "순위",
-          "value": "#4"
+          "value": "#5"
         },
         {
           "label": "투표 수",
@@ -226,7 +278,7 @@
         },
         {
           "label": "순위",
-          "value": "#5"
+          "value": "#6"
         },
         {
           "label": "투표수",
@@ -244,7 +296,7 @@
         },
         {
           "label": "순위",
-          "value": "#5"
+          "value": "#6"
         },
         {
           "label": "투표 수",
@@ -278,7 +330,7 @@
         },
         {
           "label": "순위",
-          "value": "#6"
+          "value": "#7"
         },
         {
           "label": "투표수",
@@ -296,7 +348,7 @@
         },
         {
           "label": "순위",
-          "value": "#6"
+          "value": "#7"
         },
         {
           "label": "투표 수",
@@ -311,9 +363,7 @@
           "value": "BreezeBlue"
         }
       ],
-      "strengths": [
-        "상위권"
-      ]
+      "strengths": []
     },
     {
       "id": "voice-mitty",
@@ -330,7 +380,7 @@
         },
         {
           "label": "순위",
-          "value": "#7"
+          "value": "#8"
         },
         {
           "label": "투표수",
@@ -348,7 +398,7 @@
         },
         {
           "label": "순위",
-          "value": "#7"
+          "value": "#8"
         },
         {
           "label": "투표 수",
@@ -380,7 +430,7 @@
         },
         {
           "label": "순위",
-          "value": "#8"
+          "value": "#9"
         },
         {
           "label": "투표수",
@@ -398,7 +448,7 @@
         },
         {
           "label": "순위",
-          "value": "#8"
+          "value": "#9"
         },
         {
           "label": "투표 수",
@@ -430,7 +480,7 @@
         },
         {
           "label": "순위",
-          "value": "#9"
+          "value": "#10"
         },
         {
           "label": "투표수",
@@ -448,7 +498,7 @@
         },
         {
           "label": "순위",
-          "value": "#9"
+          "value": "#10"
         },
         {
           "label": "투표 수",
@@ -461,56 +511,6 @@
         {
           "label": "제작사",
           "value": "StepFun"
-        }
-      ],
-      "strengths": []
-    },
-    {
-      "id": "voice-realtime-tts-1-5-max",
-      "name": "Realtime TTS 1.5 Max",
-      "vendor": "Inworld",
-      "category": "voice",
-      "license": "proprietary",
-      "score": 1196,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1196"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표수",
-          "value": "—"
-        },
-        {
-          "label": "제작사",
-          "value": "Inworld"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1196"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표 수",
-          "value": "—"
-        },
-        {
-          "label": "출시일",
-          "value": "—"
-        },
-        {
-          "label": "제작사",
-          "value": "Inworld"
         }
       ],
       "strengths": []

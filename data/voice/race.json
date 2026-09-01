@@ -4676,6 +4676,12 @@
           "value": 1282
         },
         {
+          "id": "voice-realtime-tts-2",
+          "name": "Realtime TTS-2",
+          "vendor": "Inworld",
+          "value": 1250
+        },
+        {
           "id": "voice-simba-3-2",
           "name": "Simba 3.2",
           "vendor": "SpeechifyAI",
@@ -4710,12 +4716,6 @@
           "name": "v3 Conversational",
           "vendor": "ElevenLabs",
           "value": 1209
-        },
-        {
-          "id": "voice-gemini-3-1-tts",
-          "name": "Gemini 3.1 Flash TTS",
-          "vendor": "Google",
-          "value": 1206
         }
       ]
     }
