@@ -1,6 +1,26 @@
 [
   {
-    "id": "OpenAI-0-our-decision-on-cursor-following-its-acq",
+    "id": "OpenAI-0-polimill-builds-japan-s-next-generation-",
+    "title": "Polimill builds Japan's next-generation public AI infrastructure",
+    "url": "https://openai.com/index/polimill",
+    "source": "OpenAI",
+    "date": "2026-08-31T07:00:00.000Z",
+    "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+    "titleKo": "Polimill, 일본의 차세대 공공 AI 인프라 구축",
+    "summaryKo": "Polimill은 OpenAI GPT 모델과 Codex를 사용하여 지방자치단체가 개발을 가속화하는 동시에 행정 지식을 검색하고 사용할 수 있도록 지원합니다."
+  },
+  {
+    "id": "OpenAI-1-a-milestone-in-expanding-access-to-ai",
+    "title": "A milestone in expanding access to AI",
+    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+    "source": "OpenAI",
+    "date": "2026-08-31T04:00:00.000Z",
+    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "titleKo": "AI에 대한 접근성 확대의 이정표",
+    "summaryKo": "ChatGPT 광고는 연간 수익 실행률이 10억 달러에 도달하고 전 세계적으로 확장되어 무료 및 저렴한 옵션을 통해 AI에 대한 더 광범위한 액세스를 지원합니다."
+  },
+  {
+    "id": "OpenAI-2-our-decision-on-cursor-following-its-acq",
     "title": "Our decision on Cursor following its acquisition by SpaceX",
     "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
     "source": "OpenAI",
@@ -10,7 +30,7 @@
     "summaryKo": "SpaceX가 Cursor를 인수한 후 Cursor에 OpenAI 모델을 제공하는 계약을 종료하기로 결정했습니다."
   },
   {
-    "id": "OpenAI-1-supporting-thailand-s-next-generation-of",
+    "id": "OpenAI-3-supporting-thailand-s-next-generation-of",
     "title": "Supporting Thailand’s next generation of AI startups",
     "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
     "source": "OpenAI",
@@ -44,19 +64,21 @@
     "source": "Google DeepMind",
     "date": "2026-08-27T12:59:16.000Z",
     "summary": "Piloting the world's first double-blind AI evaluations",
+    "titleKo": "세계 최초의 이중 맹검 AI 평가 시험",
     "summaryKo": "세계 최초의 이중 맹검 AI 평가 시험"
   },
   {
-    "id": "OpenAI-2-better-answers-broader-thinking-what-stu",
+    "id": "OpenAI-4-better-answers-broader-thinking-what-stu",
     "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
     "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training",
     "source": "OpenAI",
     "date": "2026-08-27T09:00:00.000Z",
     "summary": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
-    "titleKo": "더 나은 답변, 더 넓은 사고: 학생들이 ChatGPT 및 비판적 사고 교육을 통해 얻는 것"
+    "titleKo": "더 나은 답변, 더 넓은 사고: 학생들이 ChatGPT 및 비판적 사고 교육을 통해 얻는 것",
+    "summaryKo": "1,000명 이상의 학생을 대상으로 한 무작위 연구에서는 실제 대학 과제에서 ChatGPT, 비판적 사고, 독창성 및 학생 성과를 조사합니다."
   },
   {
-    "id": "OpenAI-3-expanding-openai-s-presence-in-brazil",
+    "id": "OpenAI-5-expanding-openai-s-presence-in-brazil",
     "title": "Expanding OpenAI’s presence in Brazil",
     "url": "https://openai.com/index/expanding-our-presence-in-brazil",
     "source": "OpenAI",
@@ -76,22 +98,24 @@
     "summaryKo": "이제 Gemini 3.5 Transcribe를 사용하면 음성을 텍스트로 더욱 지능적으로 전사할 수 있습니다."
   },
   {
-    "id": "OpenAI-5-bringing-chatgpt-for-teachers-to-more-u-",
+    "id": "OpenAI-7-bringing-chatgpt-for-teachers-to-more-u-",
     "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
     "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
     "source": "OpenAI",
     "date": "2026-08-26T10:00:00.000Z",
     "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+    "titleKo": "더 많은 미국 교육구에 교사용 ChatGPT 제공",
     "summaryKo": "교사용 ChatGPT는 미국의 55개 학교 시스템으로 확장되어 100,000명 이상의 교육자와 교직원에게 안전한 AI 도구, 교육 및 지원을 제공하고 있습니다."
   },
   {
-    "id": "OpenAI-4-learning-never-stops-how-ai-makes-learni",
+    "id": "OpenAI-6-learning-never-stops-how-ai-makes-learni",
     "title": "Learning never stops: How AI makes learning continuous",
     "url": "https://openai.com/index/learning-never-stops",
     "source": "OpenAI",
     "date": "2026-08-26T10:00:00.000Z",
     "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
-    "titleKo": "학습은 결코 멈추지 않습니다: AI가 학습을 지속적으로 만드는 방법"
+    "titleKo": "학습은 결코 멈추지 않습니다: AI가 학습을 지속적으로 만드는 방법",
+    "summaryKo": "OpenAI의 새 보고서는 학생과 교육자가 ChatGPT를 사용하여 교실을 넘어 확장되는 지원을 통해 학습을 더욱 지속적으로 만드는 방법을 살펴봅니다."
   },
   {
     "id": "Hugging Face-1-training-and-finetuning-multi-vector-emb",
@@ -99,20 +123,21 @@
     "url": "https://huggingface.co/blog/train-multi-vector-encoder",
     "source": "Hugging Face",
     "date": "2026-08-26T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "문장 변환기를 사용한 다중 벡터 임베딩 모델 훈련 및 미세 조정"
   },
   {
-    "id": "OpenAI-7-how-loveholidays-is-making-everyone-a-bu",
+    "id": "OpenAI-9-how-loveholidays-is-making-everyone-a-bu",
     "title": "How loveholidays is making everyone a builder with Codex",
     "url": "https://openai.com/index/loveholidays",
     "source": "OpenAI",
     "date": "2026-08-26T00:00:00.000Z",
     "summary": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
-    "titleKo": "Loveholidays가 Codex를 통해 모든 사람을 빌더로 만드는 방법",
+    "titleKo": "loveholidays가 Codex를 통해 모든 사람을 빌더로 만드는 방법",
     "summaryKo": "loveholidays가 어떻게 OpenAI Codex를 사용하여 비즈니스 전반에 걸쳐 소프트웨어 개발에 액세스할 수 있도록 하고 팀이 아이디어를 더 빠르게 제품으로 전환할 수 있도록 지원하는지 알아보세요."
   },
   {
-    "id": "OpenAI-6-the-hugging-face-incident-and-the-road-a",
+    "id": "OpenAI-8-the-hugging-face-incident-and-the-road-a",
     "title": "The Hugging Face incident and the road ahead",
     "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead",
     "source": "OpenAI",
@@ -137,19 +162,20 @@
     "source": "Hugging Face",
     "date": "2026-08-25T11:39:24.000Z",
     "summary": "",
-    "titleKo": "양자화 인식 치유: 전체 정밀도 원본보다 성능이 뛰어난 압축된 4비트 모델"
+    "titleKo": "양자화 인식 치유: 완전 정밀도 원본보다 성능이 뛰어난 압축된 4비트 모델"
   },
   {
-    "id": "OpenAI-8-the-full-stack-behind-abundant-intellige",
+    "id": "OpenAI-10-the-full-stack-behind-abundant-intellige",
     "title": "The full stack behind abundant intelligence",
     "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
     "source": "OpenAI",
     "date": "2026-08-25T07:05:00.000Z",
     "summary": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+    "titleKo": "풍부한 인텔리전스 뒤에 숨은 풀 스택",
     "summaryKo": "OpenAI CFO인 Sarah Friar는 칩, 컴퓨팅, 모델 및 제품 전반의 발전이 어떻게 결합되어 더 큰 규모와 더 낮은 비용으로 더 유용한 인텔리전스를 제공하는지 설명합니다."
   },
   {
-    "id": "OpenAI-9-jalape-o-s-first-results-show-industry-l",
+    "id": "OpenAI-11-jalape-o-s-first-results-show-industry-l",
     "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
     "url": "https://openai.com/index/jalapeno-first-results",
     "source": "OpenAI",
@@ -164,19 +190,21 @@
     "url": "https://huggingface.co/blog/gradio-workflow-guide",
     "source": "Hugging Face",
     "date": "2026-08-25T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "연결하고, 실행하고, 배포하세요: Gradio의 AI 워크플로"
   },
   {
-    "id": "OpenAI-11-introducing-the-admin-plugin-for-chatgpt",
+    "id": "OpenAI-13-introducing-the-admin-plugin-for-chatgpt",
     "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
     "url": "https://openai.com/index/introducing-admin-plugin",
     "source": "OpenAI",
     "date": "2026-08-25T00:00:00.000Z",
     "summary": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
-    "titleKo": "ChatGPT Work 및 Codex용 관리 플러그인 소개"
+    "titleKo": "ChatGPT Work 및 Codex용 관리 플러그인 소개",
+    "summaryKo": "ChatGPT Work 및 Codex용 관리 플러그인을 사용하여 작업 공간 사용량을 분석하고, 구성원 및 권한을 관리하고, 제한을 조정하고, 관리 요청에 따라 조치를 취하세요."
   },
   {
-    "id": "OpenAI-10-disrupting-a-new-covert-influence-campai",
+    "id": "OpenAI-12-disrupting-a-new-covert-influence-campai",
     "title": "Disrupting a new covert influence campaign from Russia",
     "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia",
     "source": "OpenAI",
@@ -186,7 +214,7 @@
     "summaryKo": "OpenAI는 가짜 이스라엘 기반 싱크탱크와 러시아를 칭찬하고 서방을 비판하는 \"주권\" 지수를 홍보하기 위해 AI를 사용하는 러시아 출신 계정을 금지했습니다."
   },
   {
-    "id": "OpenAI-12-advancing-price-performance-for-develope",
+    "id": "OpenAI-14-advancing-price-performance-for-develope",
     "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
     "url": "https://openai.com/index/gpt-5-6-in-kiro",
     "source": "OpenAI",
@@ -202,7 +230,8 @@
     "source": "Google DeepMind",
     "date": "2026-08-21T11:59:48.000Z",
     "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-    "titleKo": "Atari에서 EVE Online까지: 15년간의 게임 AI 연구 기반"
+    "titleKo": "Atari에서 EVE Online까지: 15년간의 게임 AI 연구 기반",
+    "summaryKo": "Google DeepMind는 게임 스튜디오와 협력하여 획기적인 AI 게임플레이 프로토타입을 제작합니다."
   },
   {
     "id": "Hugging Face-6-measuring-benchmark-optimization-in-spee",
@@ -210,7 +239,8 @@
     "url": "https://huggingface.co/blog/asr-benchmark-optimization",
     "source": "Hugging Face",
     "date": "2026-08-21T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "음성 인식의 벤치마크 최적화 측정"
   },
   {
     "id": "Hugging Face-5-how-hugging-face-inference-endpoints-job",
@@ -231,32 +261,13 @@
     "titleKo": "LFM2.5-DSpark를 통해 최대 3.2배 더 빠른 추론 속도"
   },
   {
-    "id": "OpenAI-14-introducing-intelligence-age",
-    "title": "Introducing Intelligence Age",
-    "url": "https://openai.com/index/introducing-ai-futures",
-    "source": "OpenAI",
-    "date": "2026-08-20T07:00:00.000Z",
-    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-    "titleKo": "지능시대를 소개합니다",
-    "summaryKo": "혁신적인 AI가 권력, 거버넌스, 경제 및 개인의 자유를 어떻게 재구성할 수 있는지 탐구하는 새로운 OpenAI 블로그인 Intelligence Age를 소개합니다."
-  },
-  {
-    "id": "OpenAI-13-introducing-intelligence-age",
-    "title": "Introducing Intelligence Age",
-    "url": "https://openai.com/index/introducing-intelligence-age",
-    "source": "OpenAI",
-    "date": "2026-08-20T07:00:00.000Z",
-    "summary": "Introducing Intelligence Age, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.",
-    "titleKo": "지능시대를 소개합니다",
-    "summaryKo": "혁신적인 AI가 권력, 거버넌스, 경제 및 개인의 자유를 어떻게 재구성할 수 있는지 탐구하는 새로운 OpenAI 블로그인 Intelligence Age를 소개합니다."
-  },
-  {
     "id": "Hugging Face-8-how-much-memory-does-your-agent-actually",
     "title": "How Much Memory Does Your Agent Actually Need?",
     "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
     "source": "Hugging Face",
     "date": "2026-08-18T18:09:38.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "에이전트에 실제로 필요한 메모리 양은 얼마나 됩니까?"
   },
   {
     "id": "Hugging Face-9-multi-vector-late-interaction-embedding-",
@@ -283,7 +294,7 @@
     "source": "Hugging Face",
     "date": "2026-08-14T00:00:00.000Z",
     "summary": "",
-    "titleKo": "공개 모델 현황: 2026년 여름 관측"
+    "titleKo": "공개 모델 상태: 2026년 여름 관찰"
   },
   {
     "id": "Hugging Face-12-record-train-and-deploy-from-one-place-w",
@@ -300,7 +311,8 @@
     "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
     "source": "Google DeepMind",
     "date": "2026-08-13T17:04:18.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "Gemini 3.7 플래시 소개"
   },
   {
     "id": "Hugging Face-13-what-we-learned-by-reproducing-2-200-pap",
@@ -345,7 +357,9 @@
     "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/",
     "source": "Google DeepMind",
     "date": "2026-07-30T15:00:59.000Z",
-    "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications."
+    "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+    "titleKo": "Gemini Robotics ER 2: 비디오 이해, 작업 조정 및 다중 로봇 협업을 통해 로봇 공학 강화",
+    "summaryKo": "Gemini Robotics ER 2는 로봇이 실제 작업을 추론하고, 협업하고, 해결하도록 돕습니다. 이는 로봇 애플리케이션에 대한 비디오 이해, 도구 조정 및 다중 로봇 협업의 단계적 변화를 나타냅니다."
   },
   {
     "id": "Google DeepMind-8-we-re-launching-lyria-3-5-in-google-flow",
