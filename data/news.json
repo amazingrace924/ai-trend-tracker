@@ -28,23 +28,23 @@
     "titleKo": "NeoMME: 효율적인 다중 모드 네이티브 및 다중 언어 인코더"
   },
   {
-    "id": "OpenAI-2-playco-cut-manual-fixes-50-prototyping-g",
-    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
-    "source": "OpenAI",
-    "date": "2026-09-03T12:00:00.000Z",
-    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
-    "titleKo": "Playco는 GPT-6 Astra를 사용하여 프로토타입 게임의 50%를 수동으로 수정했습니다.",
-    "summaryKo": "Playco는 GPT-6 Astra를 사용하여 하나의 회색 상자 기반으로 3개의 테마 게임 프로토타입을 제작했으며 이전 모델보다 수동 수정이 50% 적다고 보고했습니다."
-  },
-  {
-    "id": "OpenAI-1-legora-reviewed-41-documents-in-minutes-",
+    "id": "OpenAI-2-legora-reviewed-41-documents-in-minutes-",
     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
     "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "source": "OpenAI",
     "date": "2026-09-03T12:00:00.000Z",
     "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow.",
+    "titleKo": "Legora는 GPT-6 Astra를 사용하여 몇 분 만에 41개의 문서를 검토했습니다.",
     "summaryKo": "Legora는 GPT-6 Astra를 사용하여 몇 분 만에 41개의 문서를 검토하고, 심어진 오류 4개를 모두 찾아내고, 이 재무 검토 워크플로우에서 성능을 거의 40% 향상시켰습니다."
+  },
+  {
+    "id": "OpenAI-1-playco-cut-manual-fixes-50-prototyping-g",
+    "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+    "url": "https://openai.com/index/playco-game-prototyping-with-astra",
+    "source": "OpenAI",
+    "date": "2026-09-03T12:00:00.000Z",
+    "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.",
+    "summaryKo": "Playco는 GPT-6 Astra를 사용하여 하나의 회색 상자 기반으로 3개의 테마 게임 프로토타입을 제작했으며 이전 모델보다 수동 수정이 50% 적다고 보고했습니다."
   },
   {
     "id": "Hugging Face-3-training-a-coding-model-to-paint-waterco",
@@ -125,8 +125,7 @@
     "url": "https://huggingface.co/blog/allenai/benchmirt",
     "source": "Hugging Face",
     "date": "2026-09-01T21:39:07.000Z",
-    "summary": "",
-    "titleKo": "BenchMIRT: LLM 벤치마크는 실제로 무엇을 측정합니까?"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-3-introducing-agentic-video-understanding-",
@@ -165,7 +164,7 @@
     "date": "2026-09-01T12:00:00.000Z",
     "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
     "titleKo": "의료 기관은 이제 EHR 및 추가 산업 데이터를 ChatGPT에 연결할 수 있습니다.",
-    "summaryKo": "이제 ChatGPT는 신뢰할 수 있는 의료 데이터에 연결하여 임상의가 환자 상황, 의료 연구 등에 안전하게 액세스할 수 있도록 돕습니다."
+    "summaryKo": "이제 ChatGPT는 신뢰할 수 있는 의료 데이터에 연결하여 임상의가 환자 상황, 의학 연구 등에 안전하게 액세스할 수 있도록 돕습니다."
   },
   {
     "id": "OpenAI-8-how-law-firm-gilbert-tobin-governs-and-s",
@@ -183,7 +182,8 @@
     "url": "https://huggingface.co/blog/webgpu-kernels",
     "source": "Hugging Face",
     "date": "2026-09-01T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "@huggingface/kernels 소개: 로컬 AI용 WebGPU 커널 200개 이상"
   },
   {
     "id": "OpenAI-10-polimill-builds-japan-s-next-generation-",
@@ -192,7 +192,8 @@
     "source": "OpenAI",
     "date": "2026-08-31T07:00:00.000Z",
     "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-    "titleKo": "Polimill, 일본의 차세대 공공 AI 인프라 구축"
+    "titleKo": "Polimill, 일본의 차세대 공공 AI 인프라 구축",
+    "summaryKo": "Polimill은 OpenAI GPT 모델과 Codex를 사용하여 지방자치단체가 개발을 가속화하는 동시에 행정 지식을 검색하고 사용할 수 있도록 지원합니다."
   },
   {
     "id": "OpenAI-9-openai-supports-california-s-bill-to-adv",
@@ -210,7 +211,9 @@
     "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
     "source": "OpenAI",
     "date": "2026-08-31T04:00:00.000Z",
-    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
+    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+    "titleKo": "AI에 대한 접근성 확대의 이정표",
+    "summaryKo": "ChatGPT 광고는 연간 수익 실행률이 10억 달러에 도달하고 전 세계적으로 확장되어 무료 및 저렴한 옵션을 통해 AI에 대한 더 광범위한 액세스를 지원합니다."
   },
   {
     "id": "OpenAI-12-our-decision-on-cursor-following-its-acq",
@@ -219,7 +222,6 @@
     "source": "OpenAI",
     "date": "2026-08-28T06:00:00.000Z",
     "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
-    "titleKo": "SpaceX의 인수 이후 Cursor에 대한 우리의 결정",
     "summaryKo": "SpaceX가 Cursor를 인수한 후 Cursor에 OpenAI 모델을 제공하는 계약을 종료하기로 결정했습니다."
   },
   {
@@ -238,7 +240,8 @@
     "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
     "source": "Hugging Face",
     "date": "2026-08-28T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "Open ASR 리더보드에 최초의 글로벌 남부 언어가 추가되었습니다."
   },
   {
     "id": "Google DeepMind-4-gemini-omni-1-1-flash-lets-you-build-wit",
@@ -256,8 +259,7 @@
     "source": "Google DeepMind",
     "date": "2026-08-27T12:59:16.000Z",
     "summary": "Piloting the world's first double-blind AI evaluations",
-    "titleKo": "세계 최초의 이중 맹검 AI 평가 시험",
-    "summaryKo": "세계 최초의 이중 맹검 AI 평가 시험"
+    "titleKo": "세계 최초의 이중 맹검 AI 평가 시험"
   },
   {
     "id": "OpenAI-14-better-answers-broader-thinking-what-stu",
@@ -285,8 +287,7 @@
     "url": "https://huggingface.co/blog/train-multi-vector-encoder",
     "source": "Hugging Face",
     "date": "2026-08-26T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "문장 변환기를 사용한 다중 벡터 임베딩 모델 훈련 및 미세 조정"
+    "summary": ""
   },
   {
     "id": "Hugging Face-9-granite-4-2-llms-how-they-re-built",
@@ -303,7 +304,8 @@
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "source": "Hugging Face",
     "date": "2026-08-25T11:39:24.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "양자화 인식 치유: 전체 정밀도 원본보다 성능이 뛰어난 압축된 4비트 모델"
   },
   {
     "id": "Hugging Face-11-wire-it-run-it-deploy-it-ai-workflows-in",
@@ -311,8 +313,7 @@
     "url": "https://huggingface.co/blog/gradio-workflow-guide",
     "source": "Hugging Face",
     "date": "2026-08-25T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "연결하고, 실행하고, 배포하세요: Gradio의 AI 워크플로"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-7-from-atari-to-eve-online-building-on-15-",
@@ -330,7 +331,8 @@
     "url": "https://huggingface.co/blog/asr-benchmark-optimization",
     "source": "Hugging Face",
     "date": "2026-08-21T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "음성 인식의 벤치마크 최적화 측정"
   },
   {
     "id": "Hugging Face-12-how-hugging-face-inference-endpoints-job",
@@ -356,8 +358,7 @@
     "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
     "source": "Google DeepMind",
     "date": "2026-08-13T17:04:18.000Z",
-    "summary": "",
-    "titleKo": "Gemini 3.7 플래시 소개"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-9-putting-sign-language-ai-into-users-hand",
