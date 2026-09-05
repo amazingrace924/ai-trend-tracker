@@ -4877,6 +4877,59 @@
           "value": 1210
         }
       ]
+    },
+    {
+      "date": "2026-09-05",
+      "entries": [
+        {
+          "id": "voice-sonic-3-6",
+          "name": "Sonic 3.6",
+          "vendor": "Cartesia",
+          "value": 1282
+        },
+        {
+          "id": "voice-realtime-tts-2",
+          "name": "Realtime TTS-2",
+          "vendor": "Inworld",
+          "value": 1252
+        },
+        {
+          "id": "voice-qwen-audio-3-0-tts-plus",
+          "name": "Qwen-Audio-3.0-TTS-Plus",
+          "vendor": "Alibaba",
+          "value": 1241
+        },
+        {
+          "id": "voice-simba-3-2",
+          "name": "Simba 3.2",
+          "vendor": "SpeechifyAI",
+          "value": 1240
+        },
+        {
+          "id": "voice-luna-tts",
+          "name": "Luna TTS",
+          "vendor": "VUI Labs",
+          "value": 1228
+        },
+        {
+          "id": "voice-realtime-tts-2-flash-research-preview",
+          "name": "Realtime TTS-2 Flash - Research Preview",
+          "vendor": "Inworld",
+          "value": 1222
+        },
+        {
+          "id": "voice-breeze-tts-2",
+          "name": "Breeze TTS 2",
+          "vendor": "BreezeBlue",
+          "value": 1215
+        },
+        {
+          "id": "voice-mitty",
+          "name": "v3 Conversational",
+          "vendor": "ElevenLabs",
+          "value": 1210
+        }
+      ]
     }
   ]
 }

@@ -4877,6 +4877,59 @@
           "value": 53.2
         }
       ]
+    },
+    {
+      "date": "2026-09-05",
+      "entries": [
+        {
+          "id": "claude-fable-5-1",
+          "name": "Claude Fable 5.1 (Adaptive Reasoning, Max Effort, Default Fallback)",
+          "vendor": "Anthropic",
+          "value": 56.8
+        },
+        {
+          "id": "gpt-6-astra",
+          "name": "GPT-6 Astra (max)",
+          "vendor": "OpenAI",
+          "value": 54.7
+        },
+        {
+          "id": "gpt-6-astra-xhigh",
+          "name": "GPT-6 Astra (xhigh)",
+          "vendor": "OpenAI",
+          "value": 54.3
+        },
+        {
+          "id": "claude-opus-5",
+          "name": "Claude Opus 5 (Adaptive Reasoning, Max Effort)",
+          "vendor": "Anthropic",
+          "value": 54.1
+        },
+        {
+          "id": "claude-fable-5-1-xhigh",
+          "name": "Claude Fable 5.1 (Adaptive Reasoning, Xhigh Effort, Default Fallback)",
+          "vendor": "Anthropic",
+          "value": 53.8
+        },
+        {
+          "id": "gpt-6-astra-high",
+          "name": "GPT-6 Astra (high)",
+          "vendor": "OpenAI",
+          "value": 53.4
+        },
+        {
+          "id": "claude-opus-5-xhigh",
+          "name": "Claude Opus 5 (Adaptive Reasoning, Xhigh Effort)",
+          "vendor": "Anthropic",
+          "value": 53.4
+        },
+        {
+          "id": "claude-fable-5",
+          "name": "Claude Fable 5 (Adaptive Reasoning, Max Effort, Opus 4.8 Fallback)",
+          "vendor": "Anthropic",
+          "value": 53.2
+        }
+      ]
     }
   ]
 }
