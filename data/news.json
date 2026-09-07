@@ -1,6 +1,14 @@
 [
   {
-    "id": "OpenAI-0-an-alien-mind",
+    "id": "OpenAI-0-supporting-independent-journalism-in-ukr",
+    "title": "Supporting independent journalism in Ukraine",
+    "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine",
+    "source": "OpenAI",
+    "date": "2026-09-07T00:00:00.000Z",
+    "summary": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
+  },
+  {
+    "id": "OpenAI-1-an-alien-mind",
     "title": "An Alien Mind",
     "url": "https://openai.com/index/an-alien-mind",
     "source": "OpenAI",
@@ -8,7 +16,7 @@
     "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination."
   },
   {
-    "id": "OpenAI-1-research-acceleration-the-view-inside-op",
+    "id": "OpenAI-2-research-acceleration-the-view-inside-op",
     "title": "Research acceleration: The view inside OpenAI",
     "url": "https://openai.com/index/research-acceleration-view-inside-openai",
     "source": "OpenAI",
@@ -24,7 +32,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-2-daybreak-for-frontline-defenders-1b-to-p",
+    "id": "OpenAI-3-daybreak-for-frontline-defenders-1b-to-p",
     "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
     "url": "https://openai.com/index/daybreak-for-frontline-defenders",
     "source": "OpenAI",
@@ -40,7 +48,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-4-playco-cut-manual-fixes-50-prototyping-g",
+    "id": "OpenAI-5-playco-cut-manual-fixes-50-prototyping-g",
     "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
     "url": "https://openai.com/index/playco-game-prototyping-with-astra",
     "source": "OpenAI",
@@ -48,7 +56,7 @@
     "summary": "Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model."
   },
   {
-    "id": "OpenAI-3-legora-reviewed-41-documents-in-minutes-",
+    "id": "OpenAI-4-legora-reviewed-41-documents-in-minutes-",
     "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
     "url": "https://openai.com/index/legora-financial-statement-review-with-astra",
     "source": "OpenAI",
@@ -56,7 +64,7 @@
     "summary": "Legora used GPT-6 Astra to review 41 documents in minutes, find all four planted errors, and improve performance by nearly 40% in this financial-review workflow."
   },
   {
-    "id": "OpenAI-5-gpt-6-astra-a-new-generation-of-intellig",
+    "id": "OpenAI-6-gpt-6-astra-a-new-generation-of-intellig",
     "title": "GPT-6 Astra: A new generation of intelligence",
     "url": "https://openai.com/index/gpt-6-astra",
     "source": "OpenAI",
@@ -88,7 +96,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-6-safety-overview-gpt-6-astra",
+    "id": "OpenAI-7-safety-overview-gpt-6-astra",
     "title": "Safety overview: GPT-6 Astra",
     "url": "https://openai.com/index/safety-overview-gpt-6-astra",
     "source": "OpenAI",
@@ -120,7 +128,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-7-atv-big-air-tour-turned-3-days-of-work-i",
+    "id": "OpenAI-8-atv-big-air-tour-turned-3-days-of-work-i",
     "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
     "url": "https://openai.com/index/atv-big-air-tour",
     "source": "OpenAI",
@@ -144,7 +152,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-8-how-ai-native-companies-turn-workflows-i",
+    "id": "OpenAI-9-how-ai-native-companies-turn-workflows-i",
     "title": "How AI-native companies turn workflows into operating capability",
     "url": "https://openai.com/index/ai-native-company-workflows",
     "source": "OpenAI",
@@ -152,7 +160,7 @@
     "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
   },
   {
-    "id": "OpenAI-9-path-to-astra-critical-capabilities-and-",
+    "id": "OpenAI-10-path-to-astra-critical-capabilities-and-",
     "title": "Path to Astra: critical capabilities and frontier safeguards",
     "url": "https://openai.com/index/path-to-astra",
     "source": "OpenAI",
@@ -160,7 +168,7 @@
     "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
   },
   {
-    "id": "OpenAI-10-healthcare-organizations-can-now-connect",
+    "id": "OpenAI-11-healthcare-organizations-can-now-connect",
     "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
     "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
     "source": "OpenAI",
@@ -168,7 +176,7 @@
     "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
   },
   {
-    "id": "OpenAI-11-how-law-firm-gilbert-tobin-governs-and-s",
+    "id": "OpenAI-12-how-law-firm-gilbert-tobin-governs-and-s",
     "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
     "url": "https://openai.com/index/gilbert-tobin",
     "source": "OpenAI",
@@ -184,7 +192,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-13-polimill-builds-japan-s-next-generation-",
+    "id": "OpenAI-14-polimill-builds-japan-s-next-generation-",
     "title": "Polimill builds Japan's next-generation public AI infrastructure",
     "url": "https://openai.com/index/polimill",
     "source": "OpenAI",
@@ -192,20 +200,12 @@
     "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development."
   },
   {
-    "id": "OpenAI-12-openai-supports-california-s-bill-to-adv",
+    "id": "OpenAI-13-openai-supports-california-s-bill-to-adv",
     "title": "OpenAI supports California’s bill to advance youth AI safety",
     "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
     "source": "OpenAI",
     "date": "2026-08-31T07:00:00.000Z",
     "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore."
-  },
-  {
-    "id": "OpenAI-14-a-milestone-in-expanding-access-to-ai",
-    "title": "A milestone in expanding access to AI",
-    "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
-    "source": "OpenAI",
-    "date": "2026-08-31T04:00:00.000Z",
-    "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
   },
   {
     "id": "Hugging Face-7-the-open-asr-leaderboard-adds-its-first-",
