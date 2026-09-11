@@ -5195,6 +5195,59 @@
           "value": 1201
         }
       ]
+    },
+    {
+      "date": "2026-09-11",
+      "entries": [
+        {
+          "id": "voice-sonic-3-6",
+          "name": "Sonic 3.6",
+          "vendor": "Cartesia",
+          "value": 1273
+        },
+        {
+          "id": "voice-realtime-tts-2",
+          "name": "Realtime TTS-2",
+          "vendor": "Inworld",
+          "value": 1242
+        },
+        {
+          "id": "voice-simba-3-2",
+          "name": "Simba 3.2",
+          "vendor": "SpeechifyAI",
+          "value": 1236
+        },
+        {
+          "id": "voice-qwen-audio-3-0-tts-plus",
+          "name": "Qwen-Audio-3.0-TTS-Plus",
+          "vendor": "Alibaba",
+          "value": 1235
+        },
+        {
+          "id": "voice-luna-tts",
+          "name": "Luna TTS",
+          "vendor": "VUI Labs",
+          "value": 1231
+        },
+        {
+          "id": "voice-realtime-tts-2-flash-research-preview",
+          "name": "Realtime TTS-2 Flash",
+          "vendor": "Inworld",
+          "value": 1215
+        },
+        {
+          "id": "voice-st260826",
+          "name": "StepAudio 2.5 TTS (Aug 2026)",
+          "vendor": "StepFun",
+          "value": 1207
+        },
+        {
+          "id": "voice-gemini-3-1-tts",
+          "name": "Gemini 3.1 Flash TTS",
+          "vendor": "Google",
+          "value": 1203
+        }
+      ]
     }
   ]
 }
