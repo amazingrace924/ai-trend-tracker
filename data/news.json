@@ -5,9 +5,7 @@
     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "source": "OpenAI",
     "date": "2026-09-14T00:00:00.000Z",
-    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-    "titleKo": "Perplexity는 엔드투엔드 시스템으로 GPT-6 Astra를 신뢰합니다.",
-    "summaryKo": "Perplexity는 Astra를 사용하여 커뮤니케이션을 작성하고, 소프트웨어를 변경하고, 생산 시스템을 모니터링하고, 이전 모델보다 훨씬 덜 자주 체크인합니다."
+    "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
   },
   {
     "id": "OpenAI-2-cognition-helps-devin-test-its-own-work-",
@@ -15,9 +13,7 @@
     "url": "https://openai.com/index/cognition-devin-testing-with-astra",
     "source": "OpenAI",
     "date": "2026-09-11T16:00:00.000Z",
-    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-    "titleKo": "Cognition은 Devin이 GPT‑6 Astra로 자체 작업을 테스트하는 데 도움이 됩니다.",
-    "summaryKo": "GPT‑6 Astra는 엔지니어가 더 적은 코드를 검토하고 더 많은 제품을 출시할 수 있도록 돕기 위해 소프트웨어를 테스트하고 작동 여부를 보여주는 Devin의 능력을 향상시킵니다."
+    "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
   },
   {
     "id": "OpenAI-1-rapidly-scaling-online-storage-to-serve-",
@@ -25,9 +21,7 @@
     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
     "source": "OpenAI",
     "date": "2026-09-11T10:00:00.000Z",
-    "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
-    "titleKo": "10억 명 이상의 ChatGPT 사용자에게 서비스를 제공하기 위해 온라인 스토리지를 빠르게 확장",
-    "summaryKo": "OpenAI가 어떻게 Habitat를 Python 라이브러리에서 10억 명의 ChatGPT 사용자와 초당 2,200만 건의 요청을 처리하는 전 세계적으로 분산된 스토리지 플랫폼으로 발전시켰는지 알아보세요."
+    "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
   },
   {
     "id": "OpenAI-3-how-a-researcher-uses-codex-and-chatgpt-",
@@ -35,9 +29,7 @@
     "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "source": "OpenAI",
     "date": "2026-09-10T16:00:00.000Z",
-    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-    "titleKo": "연구원이 Codex와 ChatGPT를 사용하여 새로운 항균 분자를 검색하는 방법",
-    "summaryKo": "César de la Fuente의 연구실에서는 Codex와 ChatGPT를 사용하여 살아있는 게놈과 멸종된 게놈에서 약물 내성 감염과 싸우기 위한 항균제 후보를 검색합니다."
+    "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
   },
   {
     "id": "OpenAI-4-now-everyone-can-put-data-to-work",
@@ -45,9 +37,7 @@
     "url": "https://openai.com/index/put-data-to-work",
     "source": "OpenAI",
     "date": "2026-09-10T15:00:00.000Z",
-    "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-    "titleKo": "이제 누구나 데이터를 업무에 활용할 수 있습니다.",
-    "summaryKo": "ChatGPT Work에서 데이터 에이전트를 만나보세요. 회사 데이터를 연결하고 통찰력을 발견하며 자연어를 사용하는 AI로 대화형 대시보드를 구축하세요."
+    "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
   },
   {
     "id": "OpenAI-6-expanding-ai-access-and-cyber-defense-fo",
@@ -55,9 +45,7 @@
     "url": "https://openai.com/index/expanding-ai-access-us-government",
     "source": "OpenAI",
     "date": "2026-09-10T07:00:00.000Z",
-    "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-    "titleKo": "연방, 주, 지방, 부족 정부를 위한 AI 액세스 및 사이버 방어 확장",
-    "summaryKo": "OpenAI와 GSA는 적격 연방, 주, 지방, 부족 정부에 라이선스 비용 0달러, 사용량 50% 할인, 확장된 사이버 방어 지원을 제공합니다."
+    "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
   },
   {
     "id": "OpenAI-5-introducing-chatgpt-for-financial-servic",
@@ -65,9 +53,7 @@
     "url": "https://openai.com/index/introducing-chatgpt-financial-services",
     "source": "OpenAI",
     "date": "2026-09-10T07:00:00.000Z",
-    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
-    "titleKo": "금융 서비스용 ChatGPT 소개",
-    "summaryKo": "내장된 금융 데이터와 연구, 모델링 및 고객 지원 자료를 위한 GPT-6 Astra를 결합한 금융 서비스용 ChatGPT를 소개합니다."
+    "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
   },
   {
     "id": "Hugging Face-0-rebuilding-automatic1111-with-gradio-wor",
@@ -75,8 +61,7 @@
     "url": "https://huggingface.co/blog/gradio-workflow-1111",
     "source": "Hugging Face",
     "date": "2026-09-10T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "Gradio Workflow를 사용하여 AUTOMATIC1111 재구축"
+    "summary": ""
   },
   {
     "id": "OpenAI-8-introducing-the-agents-api",
@@ -84,9 +69,7 @@
     "url": "https://openai.com/index/introducing-the-agents-api",
     "source": "OpenAI",
     "date": "2026-09-10T00:00:00.000Z",
-    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
-    "titleKo": "에이전트 API 소개",
-    "summaryKo": "오케스트레이션, 장기 실행 세션 및 도구 사용을 위해 Codex 하네스로 구동되는 관리형 서비스인 Agents API를 사용하여 클라우드 에이전트를 구축하고 실행하세요."
+    "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
   },
   {
     "id": "OpenAI-7-build-more-natural-voice-experiences-wit",
@@ -94,9 +77,7 @@
     "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "source": "OpenAI",
     "date": "2026-09-10T00:00:00.000Z",
-    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-    "titleKo": "API에서 GPT‑Live‑1을 사용하여 보다 자연스러운 음성 환경 구축",
-    "summaryKo": "GPT‑Live‑1은 더 강력한 지침 따르기, 맞춤형 음성 및 전화 통신 지원을 통해 자연스러운 전이중 음성 대화를 API에 제공합니다."
+    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
   },
   {
     "id": "OpenAI-11-paul-christiano-joins-openai-foundation-",
@@ -104,9 +85,7 @@
     "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
     "source": "OpenAI",
     "date": "2026-09-09T17:00:00.000Z",
-    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
-    "titleKo": "Paul Christiano, OpenAI 재단 이사회에 합류",
-    "summaryKo": "Paul Christiano는 OpenAI 재단 이사회와 안전 및 보안 위원회에 합류하여 AI 정렬, 안전 및 표준에 대한 경험을 제공합니다."
+    "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
   },
   {
     "id": "Hugging Face-1-ibm-releases-sota-granite-time-series-pa",
@@ -114,8 +93,7 @@
     "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
     "source": "Hugging Face",
     "date": "2026-09-09T15:36:24.000Z",
-    "summary": "",
-    "titleKo": "IBM, 상용 라이센스가 포함된 SOTA Granite Time Series PatchTST-FM-r2 모델 출시"
+    "summary": ""
   },
   {
     "id": "OpenAI-9-the-ai-policy-window-is-open-we-need-to-",
@@ -123,9 +101,7 @@
     "url": "https://openai.com/index/ai-policy-window",
     "source": "OpenAI",
     "date": "2026-09-09T13:00:00.000Z",
-    "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
-    "titleKo": "AI 정책 창이 열립니다. 우리는 행동해야 합니다.",
-    "summaryKo": "Chris Lehane은 더 강력한 AI 기능에는 정책 창이 열려 있는 동안 더 강력한 안전 증거, 공유 표준, 지속 가능한 정책 조치가 필요하다고 주장합니다."
+    "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
   },
   {
     "id": "OpenAI-10-gpt-6-astra-the-next-generation-in-intel",
@@ -133,9 +109,7 @@
     "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
     "source": "OpenAI",
     "date": "2026-09-09T11:00:00.000Z",
-    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-    "titleKo": "GPT-6 Astra: 차세대 업무용 인텔리전스",
-    "summaryKo": "고급 추론, 컴퓨터 사용, 강력한 글쓰기 및 디자인 판단력을 갖춘 OpenAI의 가장 유능한 비즈니스 모델인 GPT-6 Astra를 만나보세요."
+    "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
   },
   {
     "id": "OpenAI-12-how-gpt-5-6-sol-helps-run-quantum-comput",
@@ -143,9 +117,7 @@
     "url": "https://openai.com/index/codex-quantum-computing-experiments",
     "source": "OpenAI",
     "date": "2026-09-08T17:00:00.000Z",
-    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
-    "titleKo": "GPT-5.6 Sol이 양자 컴퓨팅 실험을 실행하는 데 어떻게 도움이 됩니까?",
-    "summaryKo": "MIT 연구원이 Codex와 함께 GPT-5.6 Sol을 사용하여 양자 컴퓨팅 실험을 자율적으로 실행하고, 결과를 분석하고, 큐비트를 보정하는 방법을 알아보세요."
+    "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
   },
   {
     "id": "Hugging Face-2-safety-for-whom-refusing-the-right-subse",
@@ -153,8 +125,7 @@
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
     "source": "Hugging Face",
     "date": "2026-09-08T14:23:07.000Z",
-    "summary": "",
-    "titleKo": "누구를 위한 안전인가? 전체 주제가 아닌 주제의 올바른 하위 집합을 거부하기"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-0-alphagenome-atlas-a-predictive-map-of-ev",
@@ -162,9 +133,7 @@
     "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
     "source": "Google DeepMind",
     "date": "2026-09-08T14:00:15.000Z",
-    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-    "titleKo": "AlphaGenome Atlas: 인간 게놈에서 가능한 모든 DNA 문자 변화에 대한 예측 지도",
-    "summaryKo": "AlphaGenome Atlas는 인간 게놈 전체에 걸쳐 90억 개의 단일 문자 DNA 변이체의 분자 효과를 매핑합니다."
+    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
   },
   {
     "id": "OpenAI-13-the-work-now-within-reach",
@@ -172,9 +141,7 @@
     "url": "https://openai.com/index/the-work-now-within-reach",
     "source": "OpenAI",
     "date": "2026-09-08T13:00:00.000Z",
-    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
-    "titleKo": "이제 작업이 눈앞에 다가왔습니다",
-    "summaryKo": "더 유능하고 저렴한 AI가 어떻게 사람과 기업이 달성할 수 있는 작업을 확장하고 더욱 경제적으로 성장할 수 있는지 알아보세요."
+    "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
   },
   {
     "id": "OpenAI-14-introducing-chatgpt-images-2-5",
@@ -182,9 +149,7 @@
     "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
     "source": "OpenAI",
     "date": "2026-09-08T11:30:00.000Z",
-    "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-    "titleKo": "ChatGPT 이미지 2.5 소개",
-    "summaryKo": "ChatGPT 이미지 2.5는 귀하의 아이디어, 스케치 및 참조 사진을 귀하의 아이디어를 더 잘 반영하는 보다 개인화되고 세련된 이미지로 바꾸는 데 도움이 됩니다."
+    "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
   },
   {
     "id": "Google DeepMind-1-introducing-weathernext-3-our-most-advan",
@@ -192,8 +157,7 @@
     "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
     "source": "Google DeepMind",
     "date": "2026-09-03T15:02:08.000Z",
-    "summary": "",
-    "titleKo": "가장 진보되고 정확한 글로벌 기상 AI 모델인 WeatherNext 3를 소개합니다."
+    "summary": ""
   },
   {
     "id": "Hugging Face-3-neomme-an-efficient-multimodal-native-an",
@@ -201,8 +165,7 @@
     "url": "https://huggingface.co/blog/Hcompany/neomme",
     "source": "Hugging Face",
     "date": "2026-09-03T13:13:48.000Z",
-    "summary": "",
-    "titleKo": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더"
+    "summary": ""
   },
   {
     "id": "Hugging Face-6-training-a-coding-model-to-paint-waterco",
@@ -210,8 +173,7 @@
     "url": "https://huggingface.co/blog/train-to-paint-with-code",
     "source": "Hugging Face",
     "date": "2026-09-03T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "TRL 및 OpenEnv를 사용하여 수채화를 그리기 위한 코딩 모델 학습"
+    "summary": ""
   },
   {
     "id": "Hugging Face-5-give-your-coding-agents-a-memory-you-own",
@@ -219,8 +181,7 @@
     "url": "https://huggingface.co/blog/funes",
     "source": "Hugging Face",
     "date": "2026-09-03T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "코딩 에이전트에게 자신이 소유한 메모리를 제공하세요"
+    "summary": ""
   },
   {
     "id": "Hugging Face-4-fine-tuning-a-350m-model-for-better-stru",
@@ -228,8 +189,7 @@
     "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
     "source": "Hugging Face",
     "date": "2026-09-03T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "100 GRPO 단계로 더 나은 구조화된 출력을 위해 350M 모델 미세 조정"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-2-proactive-cyber-defense-for-governments-",
@@ -237,8 +197,7 @@
     "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
     "source": "Google DeepMind",
     "date": "2026-09-02T16:24:24.000Z",
-    "summary": "",
-    "titleKo": "정부와 기업을 위한 사전 예방적 사이버 방어"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-3-introducing-gemini-3-8-flash-and-3-8-fla",
@@ -246,8 +205,7 @@
     "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
     "source": "Google DeepMind",
     "date": "2026-09-02T16:18:31.000Z",
-    "summary": "",
-    "titleKo": "Gemini 3.8 Flash 및 3.8 Flash Cyber ​​소개"
+    "summary": ""
   },
   {
     "id": "Hugging Face-7-benchmirt-what-are-llm-benchmarks-actual",
@@ -255,8 +213,7 @@
     "url": "https://huggingface.co/blog/allenai/benchmirt",
     "source": "Hugging Face",
     "date": "2026-09-01T21:39:07.000Z",
-    "summary": "",
-    "titleKo": "BenchMIRT: LLM 벤치마크는 실제로 무엇을 측정합니까?"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-4-introducing-agentic-video-understanding-",
@@ -264,8 +221,7 @@
     "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
     "source": "Google DeepMind",
     "date": "2026-09-01T17:08:51.000Z",
-    "summary": "",
-    "titleKo": "Gemini를 통한 에이전트 비디오 이해 소개"
+    "summary": ""
   },
   {
     "id": "Hugging Face-8-introducing-huggingface-kernels-200-webg",
@@ -273,8 +229,7 @@
     "url": "https://huggingface.co/blog/webgpu-kernels",
     "source": "Hugging Face",
     "date": "2026-09-01T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "@huggingface/kernels 소개: 로컬 AI용 WebGPU 커널 200개 이상"
+    "summary": ""
   },
   {
     "id": "Hugging Face-9-the-open-asr-leaderboard-adds-its-first-",
@@ -282,8 +237,7 @@
     "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
     "source": "Hugging Face",
     "date": "2026-08-28T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "Open ASR 리더보드에 최초의 글로벌 남부 언어가 추가되었습니다."
+    "summary": ""
   },
   {
     "id": "Google DeepMind-5-gemini-omni-1-1-flash-lets-you-build-wit",
@@ -291,8 +245,7 @@
     "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
     "source": "Google DeepMind",
     "date": "2026-08-27T16:11:32.000Z",
-    "summary": "",
-    "titleKo": "Gemini Omni 1.1 Flash를 사용하면 더 많은 제어 기능을 통해 빌드할 수 있습니다."
+    "summary": ""
   },
   {
     "id": "Google DeepMind-6-piloting-the-world-s-first-double-blind-",
@@ -300,9 +253,7 @@
     "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
     "source": "Google DeepMind",
     "date": "2026-08-27T12:59:16.000Z",
-    "summary": "Piloting the world's first double-blind AI evaluations",
-    "titleKo": "세계 최초의 이중 맹검 AI 평가 시험",
-    "summaryKo": "세계 최초의 이중 맹검 AI 평가 시험"
+    "summary": "Piloting the world's first double-blind AI evaluations"
   },
   {
     "id": "Google DeepMind-7-intelligent-transcription-with-gemini-3-",
@@ -310,9 +261,7 @@
     "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
     "source": "Google DeepMind",
     "date": "2026-08-26T17:01:00.000Z",
-    "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
-    "titleKo": "Gemini 3.5 Transcribe를 사용한 지능형 전사",
-    "summaryKo": "이제 Gemini 3.5 Transcribe를 사용하면 음성을 텍스트로 더욱 지능적으로 전사할 수 있습니다."
+    "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
   },
   {
     "id": "Hugging Face-10-training-and-finetuning-multi-vector-emb",
@@ -320,8 +269,7 @@
     "url": "https://huggingface.co/blog/train-multi-vector-encoder",
     "source": "Hugging Face",
     "date": "2026-08-26T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "문장 변환기를 사용한 다중 벡터 임베딩 모델 훈련 및 미세 조정"
+    "summary": ""
   },
   {
     "id": "Hugging Face-11-granite-4-2-llms-how-they-re-built",
@@ -329,8 +277,7 @@
     "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
     "source": "Hugging Face",
     "date": "2026-08-25T15:14:14.000Z",
-    "summary": "",
-    "titleKo": "Granite 4.2 LLM: 구축 방법"
+    "summary": ""
   },
   {
     "id": "Hugging Face-12-quantization-aware-healing-a-compressed-",
@@ -338,8 +285,7 @@
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "source": "Hugging Face",
     "date": "2026-08-25T11:39:24.000Z",
-    "summary": "",
-    "titleKo": "양자화 인식 치유: 완전 정밀도 원본보다 성능이 뛰어난 압축된 4비트 모델"
+    "summary": ""
   },
   {
     "id": "Hugging Face-13-wire-it-run-it-deploy-it-ai-workflows-in",
@@ -347,8 +293,7 @@
     "url": "https://huggingface.co/blog/gradio-workflow-guide",
     "source": "Hugging Face",
     "date": "2026-08-25T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "연결하고, 실행하고, 배포하세요: Gradio의 AI 워크플로"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-8-from-atari-to-eve-online-building-on-15-",
@@ -356,9 +301,7 @@
     "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
     "source": "Google DeepMind",
     "date": "2026-08-21T11:59:48.000Z",
-    "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-    "titleKo": "Atari에서 EVE Online까지: 15년간의 게임 AI 연구 기반",
-    "summaryKo": "Google DeepMind는 게임 스튜디오와 협력하여 획기적인 AI 게임플레이 프로토타입을 제작합니다."
+    "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
   },
   {
     "id": "Hugging Face-14-how-hugging-face-inference-endpoints-job",
@@ -366,8 +309,7 @@
     "url": "https://huggingface.co/blog/pwc-search",
     "source": "Hugging Face",
     "date": "2026-08-21T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "포옹 얼굴 추론 엔드포인트, 작업 및 버킷이 코드가 포함된 논문에서 강력한 검색을 수행하는 방법"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-9-introducing-gemini-3-7-flash",
@@ -375,7 +317,6 @@
     "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
     "source": "Google DeepMind",
     "date": "2026-08-13T17:04:18.000Z",
-    "summary": "",
-    "titleKo": "Gemini 3.7 플래시 소개"
+    "summary": ""
   }
 ]
