@@ -1,6 +1,14 @@
 [
   {
-    "id": "OpenAI-0-perplexity-trusts-gpt-6-astra-with-end-t",
+    "id": "OpenAI-0-how-fyxer-built-an-ai-executive-assistan",
+    "title": "How Fyxer built an AI executive assistant people trust",
+    "url": "https://openai.com/index/fyxer",
+    "source": "OpenAI",
+    "date": "2026-09-14T12:00:00.000Z",
+    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
+  },
+  {
+    "id": "OpenAI-1-perplexity-trusts-gpt-6-astra-with-end-t",
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "source": "OpenAI",
@@ -8,7 +16,7 @@
     "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
   },
   {
-    "id": "OpenAI-2-cognition-helps-devin-test-its-own-work-",
+    "id": "OpenAI-3-cognition-helps-devin-test-its-own-work-",
     "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
     "url": "https://openai.com/index/cognition-devin-testing-with-astra",
     "source": "OpenAI",
@@ -16,7 +24,7 @@
     "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
   },
   {
-    "id": "OpenAI-1-rapidly-scaling-online-storage-to-serve-",
+    "id": "OpenAI-2-rapidly-scaling-online-storage-to-serve-",
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
     "source": "OpenAI",
@@ -24,7 +32,7 @@
     "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
   },
   {
-    "id": "OpenAI-3-how-a-researcher-uses-codex-and-chatgpt-",
+    "id": "OpenAI-4-how-a-researcher-uses-codex-and-chatgpt-",
     "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
     "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "source": "OpenAI",
@@ -32,7 +40,7 @@
     "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
   },
   {
-    "id": "OpenAI-4-now-everyone-can-put-data-to-work",
+    "id": "OpenAI-5-now-everyone-can-put-data-to-work",
     "title": "Now everyone can put data to work",
     "url": "https://openai.com/index/put-data-to-work",
     "source": "OpenAI",
@@ -40,7 +48,7 @@
     "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
   },
   {
-    "id": "OpenAI-6-expanding-ai-access-and-cyber-defense-fo",
+    "id": "OpenAI-7-expanding-ai-access-and-cyber-defense-fo",
     "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
     "url": "https://openai.com/index/expanding-ai-access-us-government",
     "source": "OpenAI",
@@ -48,7 +56,7 @@
     "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
   },
   {
-    "id": "OpenAI-5-introducing-chatgpt-for-financial-servic",
+    "id": "OpenAI-6-introducing-chatgpt-for-financial-servic",
     "title": "Introducing ChatGPT for Financial Services",
     "url": "https://openai.com/index/introducing-chatgpt-financial-services",
     "source": "OpenAI",
@@ -56,7 +64,7 @@
     "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
   },
   {
-    "id": "Hugging Face-0-rebuilding-automatic1111-with-gradio-wor",
+    "id": "Hugging Face-1-rebuilding-automatic1111-with-gradio-wor",
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
     "url": "https://huggingface.co/blog/gradio-workflow-1111",
     "source": "Hugging Face",
@@ -64,7 +72,15 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-8-introducing-the-agents-api",
+    "id": "Hugging Face-0-async-grpo-with-lora-across-hf-jobs-a-bu",
+    "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
+    "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
+    "source": "Hugging Face",
+    "date": "2026-09-10T00:00:00.000Z",
+    "summary": ""
+  },
+  {
+    "id": "OpenAI-9-introducing-the-agents-api",
     "title": "Introducing the Agents API",
     "url": "https://openai.com/index/introducing-the-agents-api",
     "source": "OpenAI",
@@ -72,7 +88,7 @@
     "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
   },
   {
-    "id": "OpenAI-7-build-more-natural-voice-experiences-wit",
+    "id": "OpenAI-8-build-more-natural-voice-experiences-wit",
     "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
     "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
     "source": "OpenAI",
@@ -80,7 +96,7 @@
     "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
   },
   {
-    "id": "OpenAI-11-paul-christiano-joins-openai-foundation-",
+    "id": "OpenAI-12-paul-christiano-joins-openai-foundation-",
     "title": "Paul Christiano joins OpenAI Foundation Board",
     "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
     "source": "OpenAI",
@@ -88,7 +104,7 @@
     "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
   },
   {
-    "id": "Hugging Face-1-ibm-releases-sota-granite-time-series-pa",
+    "id": "Hugging Face-2-ibm-releases-sota-granite-time-series-pa",
     "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
     "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
     "source": "Hugging Face",
@@ -96,7 +112,7 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-9-the-ai-policy-window-is-open-we-need-to-",
+    "id": "OpenAI-10-the-ai-policy-window-is-open-we-need-to-",
     "title": "The AI policy window is open. We need to act.",
     "url": "https://openai.com/index/ai-policy-window",
     "source": "OpenAI",
@@ -104,7 +120,7 @@
     "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open."
   },
   {
-    "id": "OpenAI-10-gpt-6-astra-the-next-generation-in-intel",
+    "id": "OpenAI-11-gpt-6-astra-the-next-generation-in-intel",
     "title": "GPT-6 Astra: The next generation in intelligence for work",
     "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
     "source": "OpenAI",
@@ -112,7 +128,7 @@
     "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
   },
   {
-    "id": "OpenAI-12-how-gpt-5-6-sol-helps-run-quantum-comput",
+    "id": "OpenAI-13-how-gpt-5-6-sol-helps-run-quantum-comput",
     "title": "How GPT-5.6 Sol helps run quantum computing experiments",
     "url": "https://openai.com/index/codex-quantum-computing-experiments",
     "source": "OpenAI",
@@ -120,7 +136,7 @@
     "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
   },
   {
-    "id": "Hugging Face-2-safety-for-whom-refusing-the-right-subse",
+    "id": "Hugging Face-3-safety-for-whom-refusing-the-right-subse",
     "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
     "source": "Hugging Face",
@@ -136,20 +152,12 @@
     "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
   },
   {
-    "id": "OpenAI-13-the-work-now-within-reach",
+    "id": "OpenAI-14-the-work-now-within-reach",
     "title": "The Work Now Within Reach",
     "url": "https://openai.com/index/the-work-now-within-reach",
     "source": "OpenAI",
     "date": "2026-09-08T13:00:00.000Z",
     "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
-  },
-  {
-    "id": "OpenAI-14-introducing-chatgpt-images-2-5",
-    "title": "Introducing ChatGPT Images 2.5",
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-    "source": "OpenAI",
-    "date": "2026-09-08T11:30:00.000Z",
-    "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
   },
   {
     "id": "Google DeepMind-1-introducing-weathernext-3-our-most-advan",
@@ -160,7 +168,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-3-neomme-an-efficient-multimodal-native-an",
+    "id": "Hugging Face-4-neomme-an-efficient-multimodal-native-an",
     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
     "url": "https://huggingface.co/blog/Hcompany/neomme",
     "source": "Hugging Face",
@@ -168,7 +176,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-6-training-a-coding-model-to-paint-waterco",
+    "id": "Hugging Face-7-training-a-coding-model-to-paint-waterco",
     "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
     "url": "https://huggingface.co/blog/train-to-paint-with-code",
     "source": "Hugging Face",
@@ -176,7 +184,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-5-give-your-coding-agents-a-memory-you-own",
+    "id": "Hugging Face-6-give-your-coding-agents-a-memory-you-own",
     "title": "Give Your Coding Agents a Memory You Own",
     "url": "https://huggingface.co/blog/funes",
     "source": "Hugging Face",
@@ -184,7 +192,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-4-fine-tuning-a-350m-model-for-better-stru",
+    "id": "Hugging Face-5-fine-tuning-a-350m-model-for-better-stru",
     "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
     "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
     "source": "Hugging Face",
@@ -208,7 +216,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-7-benchmirt-what-are-llm-benchmarks-actual",
+    "id": "Hugging Face-8-benchmirt-what-are-llm-benchmarks-actual",
     "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
     "url": "https://huggingface.co/blog/allenai/benchmirt",
     "source": "Hugging Face",
@@ -224,7 +232,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-8-introducing-huggingface-kernels-200-webg",
+    "id": "Hugging Face-9-introducing-huggingface-kernels-200-webg",
     "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
     "url": "https://huggingface.co/blog/webgpu-kernels",
     "source": "Hugging Face",
@@ -232,7 +240,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-9-the-open-asr-leaderboard-adds-its-first-",
+    "id": "Hugging Face-10-the-open-asr-leaderboard-adds-its-first-",
     "title": "The Open ASR Leaderboard Adds Its First Global South Language",
     "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
     "source": "Hugging Face",
@@ -264,7 +272,7 @@
     "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe."
   },
   {
-    "id": "Hugging Face-10-training-and-finetuning-multi-vector-emb",
+    "id": "Hugging Face-11-training-and-finetuning-multi-vector-emb",
     "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
     "url": "https://huggingface.co/blog/train-multi-vector-encoder",
     "source": "Hugging Face",
@@ -272,7 +280,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-11-granite-4-2-llms-how-they-re-built",
+    "id": "Hugging Face-12-granite-4-2-llms-how-they-re-built",
     "title": "Granite 4.2 LLMs: How They're Built",
     "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
     "source": "Hugging Face",
@@ -280,7 +288,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-12-quantization-aware-healing-a-compressed-",
+    "id": "Hugging Face-13-quantization-aware-healing-a-compressed-",
     "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "source": "Hugging Face",
@@ -288,7 +296,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-13-wire-it-run-it-deploy-it-ai-workflows-in",
+    "id": "Hugging Face-14-wire-it-run-it-deploy-it-ai-workflows-in",
     "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
     "url": "https://huggingface.co/blog/gradio-workflow-guide",
     "source": "Hugging Face",
@@ -302,14 +310,6 @@
     "source": "Google DeepMind",
     "date": "2026-08-21T11:59:48.000Z",
     "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
-  },
-  {
-    "id": "Hugging Face-14-how-hugging-face-inference-endpoints-job",
-    "title": "How Hugging Face Inference Endpoints, Jobs, and Buckets Power Search on Papers with Code",
-    "url": "https://huggingface.co/blog/pwc-search",
-    "source": "Hugging Face",
-    "date": "2026-08-21T00:00:00.000Z",
-    "summary": ""
   },
   {
     "id": "Google DeepMind-9-introducing-gemini-3-7-flash",
