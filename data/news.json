@@ -1,5 +1,21 @@
 [
   {
+    "id": "Google DeepMind-0-introducing-gemini-3-8-live-and-3-8-live",
+    "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+    "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+    "source": "Google DeepMind",
+    "date": "2026-09-15T17:05:57.000Z",
+    "summary": ""
+  },
+  {
+    "id": "Hugging Face-0-your-agent-aced-the-task-will-it-do-it-a",
+    "title": "Your Agent Aced the Task. Will It Do It Again?",
+    "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+    "source": "Hugging Face",
+    "date": "2026-09-15T16:00:44.000Z",
+    "summary": ""
+  },
+  {
     "id": "OpenAI-0-how-fyxer-built-an-ai-executive-assistan",
     "title": "How Fyxer built an AI executive assistant people trust",
     "url": "https://openai.com/index/fyxer",
@@ -64,7 +80,7 @@
     "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials."
   },
   {
-    "id": "Hugging Face-1-rebuilding-automatic1111-with-gradio-wor",
+    "id": "Hugging Face-2-rebuilding-automatic1111-with-gradio-wor",
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
     "url": "https://huggingface.co/blog/gradio-workflow-1111",
     "source": "Hugging Face",
@@ -72,7 +88,7 @@
     "summary": ""
   },
   {
-    "id": "Hugging Face-0-async-grpo-with-lora-across-hf-jobs-a-bu",
+    "id": "Hugging Face-1-async-grpo-with-lora-across-hf-jobs-a-bu",
     "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
     "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
     "source": "Hugging Face",
@@ -102,14 +118,6 @@
     "source": "OpenAI",
     "date": "2026-09-09T17:00:00.000Z",
     "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
-  },
-  {
-    "id": "Hugging Face-2-ibm-releases-sota-granite-time-series-pa",
-    "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
-    "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
-    "source": "Hugging Face",
-    "date": "2026-09-09T15:36:24.000Z",
-    "summary": ""
   },
   {
     "id": "OpenAI-10-the-ai-policy-window-is-open-we-need-to-",
@@ -144,7 +152,7 @@
     "summary": ""
   },
   {
-    "id": "Google DeepMind-0-alphagenome-atlas-a-predictive-map-of-ev",
+    "id": "Google DeepMind-1-alphagenome-atlas-a-predictive-map-of-ev",
     "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
     "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
     "source": "Google DeepMind",
@@ -160,7 +168,7 @@
     "summary": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
   },
   {
-    "id": "Google DeepMind-1-introducing-weathernext-3-our-most-advan",
+    "id": "Google DeepMind-2-introducing-weathernext-3-our-most-advan",
     "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
     "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
     "source": "Google DeepMind",
@@ -200,7 +208,7 @@
     "summary": ""
   },
   {
-    "id": "Google DeepMind-2-proactive-cyber-defense-for-governments-",
+    "id": "Google DeepMind-3-proactive-cyber-defense-for-governments-",
     "title": "Proactive cyber defense for governments and enterprises",
     "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
     "source": "Google DeepMind",
@@ -208,7 +216,7 @@
     "summary": ""
   },
   {
-    "id": "Google DeepMind-3-introducing-gemini-3-8-flash-and-3-8-fla",
+    "id": "Google DeepMind-4-introducing-gemini-3-8-flash-and-3-8-fla",
     "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
     "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
     "source": "Google DeepMind",
@@ -224,7 +232,7 @@
     "summary": ""
   },
   {
-    "id": "Google DeepMind-4-introducing-agentic-video-understanding-",
+    "id": "Google DeepMind-5-introducing-agentic-video-understanding-",
     "title": "Introducing agentic video understanding with Gemini",
     "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
     "source": "Google DeepMind",
@@ -248,7 +256,7 @@
     "summary": ""
   },
   {
-    "id": "Google DeepMind-5-gemini-omni-1-1-flash-lets-you-build-wit",
+    "id": "Google DeepMind-6-gemini-omni-1-1-flash-lets-you-build-wit",
     "title": "Gemini Omni 1.1 Flash lets you build with more control",
     "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
     "source": "Google DeepMind",
@@ -256,7 +264,7 @@
     "summary": ""
   },
   {
-    "id": "Google DeepMind-6-piloting-the-world-s-first-double-blind-",
+    "id": "Google DeepMind-7-piloting-the-world-s-first-double-blind-",
     "title": "Piloting the world's first double-blind AI evaluations",
     "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
     "source": "Google DeepMind",
@@ -264,7 +272,7 @@
     "summary": "Piloting the world's first double-blind AI evaluations"
   },
   {
-    "id": "Google DeepMind-7-intelligent-transcription-with-gemini-3-",
+    "id": "Google DeepMind-8-intelligent-transcription-with-gemini-3-",
     "title": "Intelligent transcription with Gemini 3.5 Transcribe",
     "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
     "source": "Google DeepMind",
@@ -304,19 +312,11 @@
     "summary": ""
   },
   {
-    "id": "Google DeepMind-8-from-atari-to-eve-online-building-on-15-",
+    "id": "Google DeepMind-9-from-atari-to-eve-online-building-on-15-",
     "title": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
     "url": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/",
     "source": "Google DeepMind",
     "date": "2026-08-21T11:59:48.000Z",
     "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
-  },
-  {
-    "id": "Google DeepMind-9-introducing-gemini-3-7-flash",
-    "title": "Introducing Gemini 3.7 Flash",
-    "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash/",
-    "source": "Google DeepMind",
-    "date": "2026-08-13T17:04:18.000Z",
-    "summary": ""
   }
 ]
