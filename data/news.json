@@ -1,6 +1,14 @@
 [
   {
-    "id": "OpenAI-3-our-framework-for-reporting-model-misali",
+    "id": "OpenAI-0-introducing-astra-for-law",
+    "title": "Introducing Astra for Law",
+    "url": "https://openai.com/index/astra-for-law",
+    "source": "OpenAI",
+    "date": "2026-09-17T00:00:00.000Z",
+    "summary": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
+  },
+  {
+    "id": "OpenAI-4-our-framework-for-reporting-model-misali",
     "title": "Our framework for reporting model misalignment",
     "url": "https://openai.com/index/model-misalignment-reporting-framework",
     "source": "OpenAI",
@@ -8,7 +16,7 @@
     "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
   },
   {
-    "id": "OpenAI-0-helping-older-adults-use-ai-in-everyday-",
+    "id": "OpenAI-1-helping-older-adults-use-ai-in-everyday-",
     "title": "Helping older adults use AI in everyday life",
     "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
     "source": "OpenAI",
@@ -16,7 +24,7 @@
     "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
   },
   {
-    "id": "OpenAI-1-reimagining-advertising-with-ai",
+    "id": "OpenAI-2-reimagining-advertising-with-ai",
     "title": "Reimagining advertising with AI",
     "url": "https://openai.com/index/reimagining-advertising-with-ai",
     "source": "OpenAI",
@@ -24,22 +32,20 @@
     "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
   },
   {
-    "id": "OpenAI-2-how-to-connect-ai-usage-to-business-valu",
+    "id": "OpenAI-3-how-to-connect-ai-usage-to-business-valu",
     "title": "How to connect AI usage to business value",
     "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
     "source": "OpenAI",
     "date": "2026-09-16T12:00:00.000Z",
-    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-    "summaryKo": "ChatGPT 작업 및 Codex 분석을 통해 팀이 AI 사용 및 지출을 이해하고, 교육 요구 사항을 식별하고, 채택을 비즈니스 결과에 연결하는 데 어떻게 도움이 되는지 알아보세요."
+    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
   },
   {
-    "id": "OpenAI-4-how-workers-are-unlocking-new-ways-of-wo",
+    "id": "OpenAI-5-how-workers-are-unlocking-new-ways-of-wo",
     "title": "How workers are unlocking new ways of working",
     "url": "https://openai.com/index/unlocking-new-ways-of-working",
     "source": "OpenAI",
     "date": "2026-09-16T09:00:00.000Z",
-    "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-    "titleKo": "직원들이 새로운 업무 방식을 여는 방법"
+    "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
   },
   {
     "id": "Google DeepMind-0-introducing-gemini-3-8-live-and-3-8-live",
@@ -58,16 +64,15 @@
     "summary": ""
   },
   {
-    "id": "OpenAI-5-how-fyxer-built-an-ai-executive-assistan",
+    "id": "OpenAI-6-how-fyxer-built-an-ai-executive-assistan",
     "title": "How Fyxer built an AI executive assistant people trust",
     "url": "https://openai.com/index/fyxer",
     "source": "OpenAI",
     "date": "2026-09-14T12:00:00.000Z",
-    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-    "titleKo": "Fyxer가 사람들이 신뢰하는 AI 임원 비서를 구축한 방법"
+    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice."
   },
   {
-    "id": "OpenAI-6-perplexity-trusts-gpt-6-astra-with-end-t",
+    "id": "OpenAI-7-perplexity-trusts-gpt-6-astra-with-end-t",
     "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
     "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
     "source": "OpenAI",
@@ -75,7 +80,7 @@
     "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
   },
   {
-    "id": "OpenAI-8-cognition-helps-devin-test-its-own-work-",
+    "id": "OpenAI-9-cognition-helps-devin-test-its-own-work-",
     "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
     "url": "https://openai.com/index/cognition-devin-testing-with-astra",
     "source": "OpenAI",
@@ -83,7 +88,7 @@
     "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
   },
   {
-    "id": "OpenAI-7-rapidly-scaling-online-storage-to-serve-",
+    "id": "OpenAI-8-rapidly-scaling-online-storage-to-serve-",
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
     "source": "OpenAI",
@@ -91,7 +96,7 @@
     "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
   },
   {
-    "id": "OpenAI-9-how-a-researcher-uses-codex-and-chatgpt-",
+    "id": "OpenAI-10-how-a-researcher-uses-codex-and-chatgpt-",
     "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
     "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
     "source": "OpenAI",
@@ -99,7 +104,7 @@
     "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
   },
   {
-    "id": "OpenAI-10-now-everyone-can-put-data-to-work",
+    "id": "OpenAI-11-now-everyone-can-put-data-to-work",
     "title": "Now everyone can put data to work",
     "url": "https://openai.com/index/put-data-to-work",
     "source": "OpenAI",
@@ -107,7 +112,7 @@
     "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language."
   },
   {
-    "id": "OpenAI-12-expanding-ai-access-and-cyber-defense-fo",
+    "id": "OpenAI-13-expanding-ai-access-and-cyber-defense-fo",
     "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
     "url": "https://openai.com/index/expanding-ai-access-us-government",
     "source": "OpenAI",
@@ -115,7 +120,7 @@
     "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
   },
   {
-    "id": "OpenAI-11-introducing-chatgpt-for-financial-servic",
+    "id": "OpenAI-12-introducing-chatgpt-for-financial-servic",
     "title": "Introducing ChatGPT for Financial Services",
     "url": "https://openai.com/index/introducing-chatgpt-financial-services",
     "source": "OpenAI",
@@ -147,15 +152,6 @@
     "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use."
   },
   {
-    "id": "OpenAI-13-build-more-natural-voice-experiences-wit",
-    "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-    "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-    "source": "OpenAI",
-    "date": "2026-09-10T00:00:00.000Z",
-    "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-    "summaryKo": "GPT‑Live‑1은 더 강력한 지침 따르기, 맞춤형 음성 및 전화 통신 지원을 통해 자연스러운 전이중 음성 대화를 API에 제공합니다."
-  },
-  {
     "id": "Hugging Face-3-safety-for-whom-refusing-the-right-subse",
     "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
@@ -169,8 +165,7 @@
     "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
     "source": "Google DeepMind",
     "date": "2026-09-08T14:00:15.000Z",
-    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-    "titleKo": "AlphaGenome Atlas: 인간 게놈에서 가능한 모든 DNA 문자 변화에 대한 예측 지도"
+    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
   },
   {
     "id": "Google DeepMind-2-introducing-weathernext-3-our-most-advan",
@@ -234,8 +229,7 @@
     "url": "https://huggingface.co/blog/allenai/benchmirt",
     "source": "Hugging Face",
     "date": "2026-09-01T21:39:07.000Z",
-    "summary": "",
-    "titleKo": "BenchMIRT: LLM 벤치마크는 실제로 무엇을 측정합니까?"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-5-introducing-agentic-video-understanding-",
@@ -275,8 +269,7 @@
     "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
     "source": "Google DeepMind",
     "date": "2026-08-27T12:59:16.000Z",
-    "summary": "Piloting the world's first double-blind AI evaluations",
-    "summaryKo": "세계 최초의 이중 맹검 AI 평가 시험"
+    "summary": "Piloting the world's first double-blind AI evaluations"
   },
   {
     "id": "Google DeepMind-8-intelligent-transcription-with-gemini-3-",
