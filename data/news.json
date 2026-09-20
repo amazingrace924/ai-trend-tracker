@@ -36,8 +36,7 @@
     "source": "OpenAI",
     "date": "2026-09-16T17:00:00.000Z",
     "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-    "titleKo": "모델 불일치 보고를 위한 프레임워크",
-    "summaryKo": "OpenAI는 예상치 못한 모델 동작이나 관련 모델 동작에 대한 6가지 보고서와 함께 모델 오정렬을 추적, 조사 및 공개하기 위한 프레임워크를 공유합니다."
+    "titleKo": "모델 불일치 보고를 위한 프레임워크"
   },
   {
     "id": "OpenAI-3-helping-older-adults-use-ai-in-everyday-",
@@ -46,7 +45,6 @@
     "source": "OpenAI",
     "date": "2026-09-16T16:00:00.000Z",
     "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
-    "titleKo": "노인들이 일상생활에서 AI를 활용할 수 있도록 지원",
     "summaryKo": "OpenAI와 AARP는 실용적인 AI 기술을 안전하게 구축하기 위해 미국 10개 도시의 노인 1,000명에게 무료 실습 ChatGPT 워크숍을 제공하고 있습니다."
   },
   {
@@ -229,7 +227,7 @@
     "source": "Hugging Face",
     "date": "2026-09-03T00:00:00.000Z",
     "summary": "",
-    "titleKo": "TRL 및 OpenEnv를 사용하여 수채화를 그리기 위한 코딩 모델 교육"
+    "titleKo": "TRL 및 OpenEnv를 사용하여 수채화를 그리기 위한 코딩 모델 학습"
   },
   {
     "id": "Hugging Face-6-give-your-coding-agents-a-memory-you-own",
@@ -255,8 +253,7 @@
     "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
     "source": "Google DeepMind",
     "date": "2026-09-02T16:24:24.000Z",
-    "summary": "",
-    "titleKo": "정부와 기업을 위한 사전 예방적 사이버 방어"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-4-introducing-gemini-3-8-flash-and-3-8-fla",
@@ -273,8 +270,7 @@
     "url": "https://huggingface.co/blog/allenai/benchmirt",
     "source": "Hugging Face",
     "date": "2026-09-01T21:39:07.000Z",
-    "summary": "",
-    "titleKo": "BenchMIRT: LLM 벤치마크는 실제로 무엇을 측정합니까?"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-5-introducing-agentic-video-understanding-",
@@ -356,8 +352,7 @@
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
     "source": "Hugging Face",
     "date": "2026-08-25T11:39:24.000Z",
-    "summary": "",
-    "titleKo": "양자화 인식 치유: 완전 정밀도 원본보다 성능이 뛰어난 압축된 4비트 모델"
+    "summary": ""
   },
   {
     "id": "Hugging Face-14-wire-it-run-it-deploy-it-ai-workflows-in",
@@ -375,7 +370,6 @@
     "source": "Google DeepMind",
     "date": "2026-08-21T11:59:48.000Z",
     "summary": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-    "titleKo": "Atari에서 EVE Online까지: 15년간의 게임 AI 연구 기반",
     "summaryKo": "Google DeepMind는 게임 스튜디오와 협력하여 획기적인 AI 게임플레이 프로토타입을 제작합니다."
   }
 ]
