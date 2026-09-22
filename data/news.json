@@ -1,6 +1,73 @@
 [
   {
-    "id": "Hugging Face-0-pruning-llms-like-a-physicist-block-remo",
+    "id": "OpenAI-0-better-prompt-caching-for-gpt-6",
+    "title": "Better prompt caching for GPT-6",
+    "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+    "source": "OpenAI",
+    "date": "2026-09-22T21:00:00.000Z",
+    "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+    "titleKo": "GPT-6에 대한 더 나은 프롬프트 캐싱",
+    "summaryKo": "GPT-6가 더 높은 캐시 적중률, 새로운 진단, 명시적 중단점, 대기 시간과 비용을 줄이는 제어 기능을 통해 프롬프트 캐싱을 어떻게 개선하는지 알아보세요."
+  },
+  {
+    "id": "OpenAI-1-introducing-gpt-6-sol-and-luna",
+    "title": "Introducing GPT-6 Sol and Luna",
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+    "source": "OpenAI",
+    "date": "2026-09-22T18:00:00.000Z",
+    "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+    "titleKo": "GPT-6 솔과 루나를 소개합니다",
+    "summaryKo": "다양한 기능과 비용의 균형을 통해 일상 업무에 최첨단 인텔리전스를 제공하는 두 가지 모델인 GPT-6 Sol과 Luna를 만나보세요."
+  },
+  {
+    "id": "OpenAI-2-parallel-cut-research-time-and-cost-in-h",
+    "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+    "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+    "source": "OpenAI",
+    "date": "2026-09-22T12:00:00.000Z",
+    "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
+    "titleKo": "GPT‑6 Astra를 통해 병렬로 연구 시간과 비용을 절반으로 단축",
+    "summaryKo": "GPT‑6 Astra를 통해 Parallel의 에이전트는 이전 모델에 비해 절반의 시간과 비용으로 노동 시장 데이터를 조사하고 합성할 수 있었습니다."
+  },
+  {
+    "id": "Hugging Face-2-jun-kim-omlx-creator-and-maintainer-join",
+    "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+    "url": "https://huggingface.co/blog/omlx",
+    "source": "Hugging Face",
+    "date": "2026-09-22T00:00:00.000Z",
+    "summary": "",
+    "titleKo": "oMLX 제작자이자 관리자인 Jun Kim이 Hugging Face에 합류하여 MLX 커뮤니티를 지원합니다."
+  },
+  {
+    "id": "Hugging Face-1-transformers-now-runs-llama-cpp-quants",
+    "title": "Transformers now runs llama.cpp quants",
+    "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "source": "Hugging Face",
+    "date": "2026-09-22T00:00:00.000Z",
+    "summary": "",
+    "titleKo": "Transformers는 이제 llama.cpp 퀀트를 실행합니다."
+  },
+  {
+    "id": "Hugging Face-0-how-uk-aisi-and-evaleval-are-making-benc",
+    "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+    "url": "https://huggingface.co/blog/evaleval-aisi",
+    "source": "Hugging Face",
+    "date": "2026-09-22T00:00:00.000Z",
+    "summary": "",
+    "titleKo": "영국 AISI와 EvalEval이 벤치마크 결과를 재현 가능하게 만드는 방법"
+  },
+  {
+    "id": "OpenAI-3-priorities-and-principles-for-effective-",
+    "title": "Priorities and principles for effective third party assessments",
+    "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+    "source": "OpenAI",
+    "date": "2026-09-22T00:00:00.000Z",
+    "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+    "titleKo": "효과적인 제3자 평가를 위한 우선순위 및 원칙",
+    "summaryKo": "OpenAI는 프론티어 모델 및 보호 조치에 대한 엄격하고 안전하며 독립적인 제3자 AI 안전 평가를 위한 우선순위와 원칙을 간략하게 설명합니다."
+  },
+  {
+    "id": "Hugging Face-3-pruning-llms-like-a-physicist-block-remo",
     "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
     "source": "Hugging Face",
@@ -9,17 +76,7 @@
     "titleKo": "물리학자처럼 LLM 가지치기: 최적화 문제로서의 블록 제거"
   },
   {
-    "id": "OpenAI-1-higgsfield-ai-ships-new-video-features-i",
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "source": "OpenAI",
-    "date": "2026-09-21T12:00:00.000Z",
-    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-    "titleKo": "Higgsfield AI는 GPT-6 Astra를 통해 하루 만에 새로운 비디오 기능을 제공합니다.",
-    "summaryKo": "GPT-6 Astra를 통해 Higgsfield AI는 중소기업의 비디오 광고 제작을 더 쉽게 만들고 새로운 크리에이티브 도구를 더 빠르게 시장에 출시합니다."
-  },
-  {
-    "id": "OpenAI-0-advisory-group-on-mathematics-and-artifi",
+    "id": "OpenAI-5-advisory-group-on-mathematics-and-artifi",
     "title": "Advisory Group on Mathematics and Artificial Intelligence",
     "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
     "source": "OpenAI",
@@ -29,17 +86,27 @@
     "summaryKo": "OpenAI는 새로운 AI 결과의 검토 및 커뮤니케이션을 안내하기 위해 독립적인 수학 및 인공 지능 자문 그룹과 협력하고 있습니다."
   },
   {
-    "id": "OpenAI-2-building-standards-for-the-next-phase-of",
+    "id": "OpenAI-4-higgsfield-ai-ships-new-video-features-i",
+    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+    "source": "OpenAI",
+    "date": "2026-09-21T12:00:00.000Z",
+    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+    "titleKo": "Higgsfield AI는 GPT-6 Astra를 통해 하루 만에 새로운 비디오 기능을 제공합니다.",
+    "summaryKo": "GPT-6 Astra를 통해 Higgsfield AI는 중소기업의 비디오 광고 제작을 더욱 쉽게 만들고 새로운 크리에이티브 도구를 더 빠르게 시장에 선보입니다."
+  },
+  {
+    "id": "OpenAI-6-building-standards-for-the-next-phase-of",
     "title": "Building standards for the next phase of AI",
     "url": "https://openai.com/index/building-standards-next-phase-ai",
     "source": "OpenAI",
     "date": "2026-09-21T10:00:00.000Z",
     "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
     "titleKo": "AI의 다음 단계를 위한 표준 구축",
-    "summaryKo": "OpenAI는 안전을 개선하기 위한 조정된 평가, 보고 및 거버넌스를 요구하면서 공유된 글로벌 AI 표준을 향한 길을 제시합니다."
+    "summaryKo": "OpenAI는 안전 개선을 위한 조정된 평가, 보고 및 거버넌스를 요구하면서 공유된 글로벌 AI 표준을 향한 길을 제시합니다."
   },
   {
-    "id": "OpenAI-3-expanding-openai-academy-with-new-learni",
+    "id": "OpenAI-7-expanding-openai-academy-with-new-learni",
     "title": "Expanding OpenAI Academy with new learning paths",
     "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
     "source": "OpenAI",
@@ -49,7 +116,7 @@
     "summaryKo": "직원, 개발자, 리더, 교육자, 학생이 실용적인 AI 기술을 구축하고 시연할 수 있는 새로운 OpenAI Academy 학습 경로를 살펴보세요."
   },
   {
-    "id": "Hugging Face-1-tokenizers-v1-encode-decode-and-scaling-",
+    "id": "Hugging Face-4-tokenizers-v1-encode-decode-and-scaling-",
     "title": "tokenizers v1: encode, decode and scaling, measured",
     "url": "https://huggingface.co/blog/tokenizers-v1",
     "source": "Hugging Face",
@@ -58,7 +125,7 @@
     "titleKo": "토크나이저 v1: 인코딩, 디코딩 및 스케일링, 측정"
   },
   {
-    "id": "OpenAI-4-how-v7-gives-ai-agents-institutional-mem",
+    "id": "OpenAI-8-how-v7-gives-ai-agents-institutional-mem",
     "title": "How V7 gives AI agents institutional memory",
     "url": "https://openai.com/index/v7",
     "source": "OpenAI",
@@ -68,7 +135,7 @@
     "summaryKo": "V7은 GPT-5.6을 사용하여 흩어져 있는 회사 파일을 에이전트가 복잡한 소스 연결 작업을 완료하는 데 사용할 수 있는 컨텍스트로 변환합니다."
   },
   {
-    "id": "OpenAI-5-introducing-the-australian-youth-safety-",
+    "id": "OpenAI-9-introducing-the-australian-youth-safety-",
     "title": "Introducing the Australian Youth Safety Blueprint",
     "url": "https://openai.com/index/australian-youth-safety-blueprint",
     "source": "OpenAI",
@@ -78,7 +145,7 @@
     "summaryKo": "OpenAI는 청소년을 보호하고 역량을 강화하는 보다 안전한 AI 경험을 위한 6개 기둥 로드맵인 호주 청소년 안전 청사진을 소개합니다."
   },
   {
-    "id": "OpenAI-6-how-cooley-is-accelerating-ipo-work-with",
+    "id": "OpenAI-10-how-cooley-is-accelerating-ipo-work-with",
     "title": "How Cooley is accelerating IPO work with ChatGPT",
     "url": "https://openai.com/index/cooley-gopublic",
     "source": "OpenAI",
@@ -88,7 +155,7 @@
     "summaryKo": "Cooley는 ChatGPT Work로 GO Public을 구축하여 IPO 프로세스에 인텔리전스를 제공하여 변호사가 문제를 더 일찍 표면화하고 가장 중요한 곳에 판단을 집중할 수 있도록 돕습니다."
   },
   {
-    "id": "OpenAI-7-introducing-astra-for-law",
+    "id": "OpenAI-11-introducing-astra-for-law",
     "title": "Introducing Astra for Law",
     "url": "https://openai.com/index/astra-for-law",
     "source": "OpenAI",
@@ -98,17 +165,7 @@
     "summaryKo": "OpenAI for Law는 법률, 맞춤형 회사 워크플로, 연결된 법률 데이터 소스 및 기밀 고객 작업을 위한 법률 등급 제어를 위한 최첨단 인텔리전스를 제공합니다."
   },
   {
-    "id": "OpenAI-12-our-framework-for-reporting-model-misali",
-    "title": "Our framework for reporting model misalignment",
-    "url": "https://openai.com/index/model-misalignment-reporting-framework",
-    "source": "OpenAI",
-    "date": "2026-09-16T17:00:00.000Z",
-    "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
-    "titleKo": "모델 불일치 보고를 위한 프레임워크",
-    "summaryKo": "OpenAI는 예상치 못한 모델 동작 또는 관련 모델 동작에 대한 6가지 보고서와 함께 모델 오정렬을 추적, 조사 및 공개하기 위한 프레임워크를 공유합니다."
-  },
-  {
-    "id": "OpenAI-8-helping-older-adults-use-ai-in-everyday-",
+    "id": "OpenAI-12-helping-older-adults-use-ai-in-everyday-",
     "title": "Helping older adults use AI in everyday life",
     "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
     "source": "OpenAI",
@@ -118,7 +175,7 @@
     "summaryKo": "OpenAI와 AARP는 실용적인 AI 기술을 안전하게 구축하기 위해 미국 10개 도시의 노인 1,000명에게 무료 실습 ChatGPT 워크숍을 제공하고 있습니다."
   },
   {
-    "id": "OpenAI-9-reimagining-advertising-with-ai",
+    "id": "OpenAI-13-reimagining-advertising-with-ai",
     "title": "Reimagining advertising with AI",
     "url": "https://openai.com/index/reimagining-advertising-with-ai",
     "source": "OpenAI",
@@ -128,17 +185,7 @@
     "summaryKo": "후원 에이전트, 마케팅 담당자를 위한 도구, HubSpot 및 Shopify와의 통합을 포함하여 OpenAI의 새로운 AI 기반 광고 경험을 살펴보세요."
   },
   {
-    "id": "OpenAI-11-how-to-connect-ai-usage-to-business-valu",
-    "title": "How to connect AI usage to business value",
-    "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
-    "source": "OpenAI",
-    "date": "2026-09-16T12:00:00.000Z",
-    "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
-    "titleKo": "AI 활용을 비즈니스 가치에 연결하는 방법",
-    "summaryKo": "ChatGPT 작업 및 Codex 분석을 통해 팀이 AI 사용 및 지출을 이해하고, 교육 요구 사항을 식별하고, 채택을 비즈니스 결과에 연결하는 데 어떻게 도움이 되는지 알아보세요."
-  },
-  {
-    "id": "OpenAI-10-hex-turns-complex-analysis-into-visual-r",
+    "id": "OpenAI-14-hex-turns-complex-analysis-into-visual-r",
     "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
     "url": "https://openai.com/index/hex-gpt-6-astra",
     "source": "OpenAI",
@@ -146,16 +193,6 @@
     "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share.",
     "titleKo": "Hex는 GPT-6 Astra를 사용하여 복잡한 분석을 시각적 보고서로 전환합니다.",
     "summaryKo": "GPT-6 Astra는 Hex의 데이터 에이전트가 답변을 직원들이 자랑스럽게 공유할 수 있는 대화형 시각화로 전환하도록 돕습니다."
-  },
-  {
-    "id": "OpenAI-13-how-workers-are-unlocking-new-ways-of-wo",
-    "title": "How workers are unlocking new ways of working",
-    "url": "https://openai.com/index/unlocking-new-ways-of-working",
-    "source": "OpenAI",
-    "date": "2026-09-16T09:00:00.000Z",
-    "summary": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
-    "titleKo": "직원들이 새로운 업무 방식을 여는 방법",
-    "summaryKo": "새로운 OpenAI 경제 연구에서는 직원들이 전통적인 역할을 넘어 AI를 어떻게 사용하는지, 그리고 어떤 새로운 활동이 업무의 반복적인 부분이 되는지 보여줍니다."
   },
   {
     "id": "Google DeepMind-0-introducing-gemini-3-8-live-and-3-8-live",
@@ -167,7 +204,7 @@
     "titleKo": "Gemini 3.8 Live 및 3.8 Live Extended Thinking 소개"
   },
   {
-    "id": "Hugging Face-2-your-agent-aced-the-task-will-it-do-it-a",
+    "id": "Hugging Face-5-your-agent-aced-the-task-will-it-do-it-a",
     "title": "Your Agent Aced the Task. Will It Do It Again?",
     "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
     "source": "Hugging Face",
@@ -176,17 +213,7 @@
     "titleKo": "귀하의 에이전트가 작업을 완료했습니다. 다시 성공할 것인가?"
   },
   {
-    "id": "OpenAI-14-how-fyxer-built-an-ai-executive-assistan",
-    "title": "How Fyxer built an AI executive assistant people trust",
-    "url": "https://openai.com/index/fyxer",
-    "source": "OpenAI",
-    "date": "2026-09-14T12:00:00.000Z",
-    "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-    "titleKo": "Fyxer가 사람들이 신뢰하는 AI 임원 비서를 구축한 방법",
-    "summaryKo": "Fyxer는 OpenAI 모델, 미세 조정, 메모리 및 실제 사용자 피드백을 사용하여 받은 편지함을 정리하고 각 사용자의 목소리로 이메일 초안을 작성합니다."
-  },
-  {
-    "id": "Hugging Face-4-rebuilding-automatic1111-with-gradio-wor",
+    "id": "Hugging Face-7-rebuilding-automatic1111-with-gradio-wor",
     "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
     "url": "https://huggingface.co/blog/gradio-workflow-1111",
     "source": "Hugging Face",
@@ -195,7 +222,7 @@
     "titleKo": "Gradio Workflow를 사용하여 AUTOMATIC1111 재구축"
   },
   {
-    "id": "Hugging Face-3-async-grpo-with-lora-across-hf-jobs-a-bu",
+    "id": "Hugging Face-6-async-grpo-with-lora-across-hf-jobs-a-bu",
     "title": "Async GRPO with LoRA across HF Jobs: a bucket, a proxy, and no NCCL",
     "url": "https://huggingface.co/blog/asyncgrpo-lora-hfjobs",
     "source": "Hugging Face",
@@ -223,16 +250,16 @@
     "titleKo": "가장 진보되고 정확한 글로벌 기상 AI 모델인 WeatherNext 3를 소개합니다."
   },
   {
-    "id": "Hugging Face-5-neomme-an-efficient-multimodal-native-an",
+    "id": "Hugging Face-8-neomme-an-efficient-multimodal-native-an",
     "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
     "url": "https://huggingface.co/blog/Hcompany/neomme",
     "source": "Hugging Face",
     "date": "2026-09-03T13:13:48.000Z",
     "summary": "",
-    "titleKo": "NeoMME: 효율적인 멀티모달 네이티브 및 다국어 인코더"
+    "titleKo": "NeoMME: 효율적인 다중 모드 네이티브 및 다중 언어 인코더"
   },
   {
-    "id": "Hugging Face-8-training-a-coding-model-to-paint-waterco",
+    "id": "Hugging Face-11-training-a-coding-model-to-paint-waterco",
     "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
     "url": "https://huggingface.co/blog/train-to-paint-with-code",
     "source": "Hugging Face",
@@ -241,7 +268,7 @@
     "titleKo": "TRL 및 OpenEnv를 사용하여 수채화를 그리기 위한 코딩 모델 교육"
   },
   {
-    "id": "Hugging Face-7-give-your-coding-agents-a-memory-you-own",
+    "id": "Hugging Face-10-give-your-coding-agents-a-memory-you-own",
     "title": "Give Your Coding Agents a Memory You Own",
     "url": "https://huggingface.co/blog/funes",
     "source": "Hugging Face",
@@ -250,7 +277,7 @@
     "titleKo": "코딩 에이전트에게 자신이 소유한 메모리를 제공하세요"
   },
   {
-    "id": "Hugging Face-6-fine-tuning-a-350m-model-for-better-stru",
+    "id": "Hugging Face-9-fine-tuning-a-350m-model-for-better-stru",
     "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
     "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
     "source": "Hugging Face",
@@ -277,7 +304,7 @@
     "titleKo": "Gemini 3.8 Flash 및 3.8 Flash Cyber ​​소개"
   },
   {
-    "id": "Hugging Face-9-benchmirt-what-are-llm-benchmarks-actual",
+    "id": "Hugging Face-12-benchmirt-what-are-llm-benchmarks-actual",
     "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
     "url": "https://huggingface.co/blog/allenai/benchmirt",
     "source": "Hugging Face",
@@ -295,7 +322,7 @@
     "titleKo": "Gemini를 통한 에이전트 비디오 이해 소개"
   },
   {
-    "id": "Hugging Face-10-introducing-huggingface-kernels-200-webg",
+    "id": "Hugging Face-13-introducing-huggingface-kernels-200-webg",
     "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
     "url": "https://huggingface.co/blog/webgpu-kernels",
     "source": "Hugging Face",
@@ -304,7 +331,7 @@
     "titleKo": "@huggingface/kernels 소개: 로컬 AI용 WebGPU 커널 200개 이상"
   },
   {
-    "id": "Hugging Face-11-the-open-asr-leaderboard-adds-its-first-",
+    "id": "Hugging Face-14-the-open-asr-leaderboard-adds-its-first-",
     "title": "The Open ASR Leaderboard Adds Its First Global South Language",
     "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
     "source": "Hugging Face",
@@ -340,33 +367,6 @@
     "summary": "Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.",
     "titleKo": "Gemini 3.5 Transcribe를 사용한 지능형 전사",
     "summaryKo": "이제 Gemini 3.5 Transcribe를 사용하면 음성을 텍스트로 더욱 지능적으로 전사할 수 있습니다."
-  },
-  {
-    "id": "Hugging Face-12-training-and-finetuning-multi-vector-emb",
-    "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
-    "url": "https://huggingface.co/blog/train-multi-vector-encoder",
-    "source": "Hugging Face",
-    "date": "2026-08-26T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "문장 변환기를 사용한 다중 벡터 임베딩 모델 훈련 및 미세 조정"
-  },
-  {
-    "id": "Hugging Face-13-granite-4-2-llms-how-they-re-built",
-    "title": "Granite 4.2 LLMs: How They're Built",
-    "url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-    "source": "Hugging Face",
-    "date": "2026-08-25T15:14:14.000Z",
-    "summary": "",
-    "titleKo": "Granite 4.2 LLM: 구축 방법"
-  },
-  {
-    "id": "Hugging Face-14-quantization-aware-healing-a-compressed-",
-    "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-    "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-    "source": "Hugging Face",
-    "date": "2026-08-25T11:39:24.000Z",
-    "summary": "",
-    "titleKo": "양자화 인식 치유: 전체 정밀도 원본보다 성능이 뛰어난 압축된 4비트 모델"
   },
   {
     "id": "Google DeepMind-9-from-atari-to-eve-online-building-on-15-",
