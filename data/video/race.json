@@ -5884,6 +5884,59 @@
           "value": 1235
         }
       ]
+    },
+    {
+      "date": "2026-09-24",
+      "entries": [
+        {
+          "id": "video-wan-3-0",
+          "name": "Wan 3.0",
+          "vendor": "Alibaba",
+          "value": 1335
+        },
+        {
+          "id": "video-gemini-omni-flash",
+          "name": "Gemini Omni Flash",
+          "vendor": "Google",
+          "value": 1332
+        },
+        {
+          "id": "video-minimax-h3",
+          "name": "MiniMax H3",
+          "vendor": "MiniMax",
+          "value": 1302
+        },
+        {
+          "id": "video-happyhorse-1-0",
+          "name": "HappyHorse-1.0",
+          "vendor": "Alibaba-ATH",
+          "value": 1286
+        },
+        {
+          "id": "video-happyhorse-1-1",
+          "name": "HappyHorse-1.1",
+          "vendor": "Alibaba-ATH",
+          "value": 1272
+        },
+        {
+          "id": "video-seedance-2-0",
+          "name": "Dreamina Seedance 2.0 720p",
+          "vendor": "ByteDance Seed",
+          "value": 1259
+        },
+        {
+          "id": "video-wan2-7-260612",
+          "name": "Wan2.7-260612",
+          "vendor": "Alibaba",
+          "value": 1243
+        },
+        {
+          "id": "video-grok-imagine-video",
+          "name": "grok-imagine-video",
+          "vendor": "SpaceXAI",
+          "value": 1235
+        }
+      ]
     }
   ]
 }
