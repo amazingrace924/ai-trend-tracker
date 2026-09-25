@@ -1,5 +1,15 @@
 [
   {
+    "id": "OpenAI-0-proaction-boosts-sales-60-and-saves-75-h",
+    "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+    "url": "https://openai.com/index/proaction",
+    "source": "OpenAI",
+    "date": "2026-09-25T19:00:00.000Z",
+    "summary": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+    "titleKo": "Codex를 통해 Proaction으로 매출이 60% 증가하고 75시간 이상 절약",
+    "summaryKo": "Codex, GPT-Live-1 및 GPT-6 Astra를 통해 Proaction은 최신 차량 관리를 더 빠르게 구축, 운영 및 판매합니다."
+  },
+  {
     "id": "Google DeepMind-0-introducing-gemini-3-8-live-with-live-av",
     "title": "Introducing Gemini 3.8 Live with Live Avatar",
     "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
@@ -37,7 +47,7 @@
     "summaryKo": "개인 AI를 위한 Private AI Compute에 프라이빗, 서버측 메모리를 도입합니다."
   },
   {
-    "id": "OpenAI-0-two-years-of-openai-academy",
+    "id": "OpenAI-1-two-years-of-openai-academy",
     "title": "Two years of OpenAI Academy",
     "url": "https://openai.com/index/two-years-of-openai-academy",
     "source": "OpenAI",
@@ -56,7 +66,7 @@
     "titleKo": "Gemini 3.8 텍스트 음성 변환이 안녕하세요라고 말합니다."
   },
   {
-    "id": "OpenAI-1-openai-extends-cyber-access-to-ukraine-f",
+    "id": "OpenAI-2-openai-extends-cyber-access-to-ukraine-f",
     "title": "OpenAI extends cyber access to Ukraine for civilian defense",
     "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
     "source": "OpenAI",
@@ -66,7 +76,7 @@
     "summaryKo": "OpenAI는 민간 인프라의 사이버 방어를 지원하기 위해 Daybreak 프로그램에 대한 액세스를 우크라이나 정부로 확장하고 있습니다."
   },
   {
-    "id": "OpenAI-5-ringg-s-ai-agents-resolve-up-to-65-of-cu",
+    "id": "OpenAI-6-ringg-s-ai-agents-resolve-up-to-65-of-cu",
     "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
     "url": "https://openai.com/index/ringg",
     "source": "OpenAI",
@@ -76,17 +86,17 @@
     "summaryKo": "Ringg는 GPT-5.6을 사용하여 GPT-4.1에 비해 90% 저렴한 비용으로 음성, 채팅, WhatsApp, 웹 전반에 걸쳐 다국어 에이전트를 지원합니다."
   },
   {
-    "id": "OpenAI-4-how-invideo-improves-color-grading-3x-wi",
+    "id": "OpenAI-5-how-invideo-improves-color-grading-3x-wi",
     "title": "How invideo improves color grading 3x with GPT‑6 Astra",
     "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
     "source": "OpenAI",
     "date": "2026-09-23T12:00:00.000Z",
     "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
     "titleKo": "인비디오가 GPT‑6 Astra를 사용하여 컬러 그레이딩을 3배 향상한 방법",
-    "summaryKo": "GPT‑6 Astra를 사용하면 invideo에서는 더욱 정밀하게 편집을 계획하고, 색상 교정 및 그레이딩을 3배 향상시키며, 하루에 50개의 사용자 정의 효과를 생성합니다."
+    "summaryKo": "GPT‑6 Astra를 사용하면 invideo는 더욱 정밀하게 편집을 계획하고, 색상 교정 및 그레이딩을 3배 향상시키며, 하루에 50개의 사용자 정의 효과를 생성합니다."
   },
   {
-    "id": "OpenAI-3-harvey-turns-legal-context-into-stronger",
+    "id": "OpenAI-4-harvey-turns-legal-context-into-stronger",
     "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
     "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
     "source": "OpenAI",
@@ -96,7 +106,7 @@
     "summaryKo": "GPT-6 Astra는 보다 구조화되고 상황을 인식하는 법률 문서를 생성하여 변호사가 전략에 집중할 수 있도록 해줍니다."
   },
   {
-    "id": "OpenAI-2-sam-altman-s-remarks-at-the-united-natio",
+    "id": "OpenAI-3-sam-altman-s-remarks-at-the-united-natio",
     "title": "Sam Altman’s remarks at the United Nations Security Council",
     "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
     "source": "OpenAI",
@@ -106,7 +116,7 @@
     "summaryKo": "OpenAI CEO 샘 알트만(Sam Altman)이 유엔 안보리 연설에서 AI 안전, 인간 통제 및 국제 협력에 대해 논의합니다."
   },
   {
-    "id": "OpenAI-6-introducing-mentalhealthbench",
+    "id": "OpenAI-7-introducing-mentalhealthbench",
     "title": "Introducing MentalHealthBench",
     "url": "https://openai.com/index/introducing-mentalhealthbench",
     "source": "OpenAI",
@@ -116,7 +126,7 @@
     "summaryKo": "MentalHealthBench는 현실적인 정신 건강 대화 전반에 걸쳐 유용하고 안전한 AI 반응을 평가하기 위한 전문가 정보 벤치마크입니다."
   },
   {
-    "id": "OpenAI-7-chatgpt-ads-expands-to-southeast-asia-an",
+    "id": "OpenAI-8-chatgpt-ads-expands-to-southeast-asia-an",
     "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
     "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
     "source": "OpenAI",
@@ -126,7 +136,7 @@
     "summaryKo": "ChatGPT 광고는 동남아시아와 대만으로 확장되어 자격을 갖춘 기업이 60개 이상 국가의 사람들에게 다가갈 수 있는 새로운 방법을 제공합니다."
   },
   {
-    "id": "OpenAI-8-airbnb-widens-access-to-gpt-6-astra-and-",
+    "id": "OpenAI-9-airbnb-widens-access-to-gpt-6-astra-and-",
     "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier models",
     "url": "https://openai.com/index/airbnb-gpt-6-astra",
     "source": "OpenAI",
@@ -136,7 +146,7 @@
     "summaryKo": "Airbnb가 GPT-6 Astra 및 OpenAI 프론티어 모델에 대한 액세스를 확장하여 엔지니어링 팀이 버그를 해결하고 시스템을 설계하며 더 빠르게 출시할 수 있도록 지원하는 방법을 알아보세요."
   },
   {
-    "id": "OpenAI-9-grab-and-openai-bring-practical-ai-skill",
+    "id": "OpenAI-10-grab-and-openai-bring-practical-ai-skill",
     "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
     "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
     "source": "OpenAI",
@@ -146,7 +156,7 @@
     "summaryKo": "OpenAI와 Grab은 30,000명의 파트너가 동남아시아 전역에서 실용적인 AI 기술을 구축하도록 돕는 지역 프로그램인 GO Forward with AI를 출시합니다."
   },
   {
-    "id": "OpenAI-10-better-prompt-caching-for-gpt-6",
+    "id": "OpenAI-11-better-prompt-caching-for-gpt-6",
     "title": "Better prompt caching for GPT-6",
     "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
     "source": "OpenAI",
@@ -156,7 +166,7 @@
     "summaryKo": "GPT-6가 더 높은 캐시 적중률, 새로운 진단, 명시적 중단점, 대기 시간과 비용을 줄이는 제어 기능을 통해 프롬프트 캐싱을 어떻게 개선하는지 알아보세요."
   },
   {
-    "id": "OpenAI-11-introducing-gpt-6-sol-and-luna",
+    "id": "OpenAI-12-introducing-gpt-6-sol-and-luna",
     "title": "Introducing GPT-6 Sol and Luna",
     "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
     "source": "OpenAI",
@@ -166,7 +176,7 @@
     "summaryKo": "기능과 비용의 다양한 균형을 통해 일상 업무에 최첨단 인텔리전스를 제공하는 두 가지 모델인 GPT-6 Sol과 Luna를 만나보세요."
   },
   {
-    "id": "OpenAI-12-parallel-cut-research-time-and-cost-in-h",
+    "id": "OpenAI-13-parallel-cut-research-time-and-cost-in-h",
     "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
     "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
     "source": "OpenAI",
@@ -203,7 +213,7 @@
     "titleKo": "영국 AISI와 EvalEval이 벤치마크 결과를 재현 가능하게 만드는 방법"
   },
   {
-    "id": "OpenAI-13-priorities-and-principles-for-effective-",
+    "id": "OpenAI-14-priorities-and-principles-for-effective-",
     "title": "Priorities and principles for effective third party assessments",
     "url": "https://openai.com/index/priorities-principles-third-party-assessments",
     "source": "OpenAI",
@@ -220,16 +230,6 @@
     "date": "2026-09-21T13:44:34.000Z",
     "summary": "",
     "titleKo": "물리학자처럼 LLM 가지치기: 최적화 문제로서의 블록 제거"
-  },
-  {
-    "id": "OpenAI-14-higgsfield-ai-ships-new-video-features-i",
-    "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-    "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-    "source": "OpenAI",
-    "date": "2026-09-21T12:00:00.000Z",
-    "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-    "titleKo": "Higgsfield AI는 GPT-6 Astra를 통해 하루 만에 새로운 비디오 기능을 제공합니다.",
-    "summaryKo": "GPT-6 Astra를 통해 Higgsfield AI는 중소기업의 비디오 광고 제작을 더 쉽게 만들고 새로운 크리에이티브 도구를 더 빠르게 시장에 출시합니다."
   },
   {
     "id": "Hugging Face-6-tokenizers-v1-encode-decode-and-scaling-",
