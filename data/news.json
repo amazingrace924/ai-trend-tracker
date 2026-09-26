@@ -93,7 +93,7 @@
     "date": "2026-09-23T12:00:00.000Z",
     "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
     "titleKo": "인비디오가 GPT‑6 Astra를 사용하여 컬러 그레이딩을 3배 향상한 방법",
-    "summaryKo": "GPT‑6 Astra를 사용하면 invideo는 더욱 정밀하게 편집을 계획하고, 색상 교정 및 그레이딩을 3배 향상시키며, 하루에 50개의 사용자 정의 효과를 생성합니다."
+    "summaryKo": "GPT‑6 Astra를 사용하면 invideo에서는 더욱 정밀하게 편집을 계획하고, 색상 교정 및 그레이딩을 3배 향상시키며, 하루에 50개의 사용자 정의 효과를 생성합니다."
   },
   {
     "id": "OpenAI-4-harvey-turns-legal-context-into-stronger",
@@ -311,7 +311,7 @@
     "source": "Hugging Face",
     "date": "2026-09-03T00:00:00.000Z",
     "summary": "",
-    "titleKo": "TRL 및 OpenEnv를 사용하여 수채화를 그리기 위한 코딩 모델 교육"
+    "titleKo": "TRL 및 OpenEnv를 사용하여 수채화를 그리기 위한 코딩 모델 학습"
   },
   {
     "id": "Hugging Face-12-give-your-coding-agents-a-memory-you-own",
