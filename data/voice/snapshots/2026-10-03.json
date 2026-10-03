@@ -1,7 +1,7 @@
 {
   "category": "voice",
   "date": "2026-10-03",
-  "updatedAt": "2026-10-03T00:13:33.261Z",
+  "updatedAt": "2026-10-03T23:34:40.892Z",
   "models": [
     {
       "id": "voice-eleven-v4",
@@ -9,12 +9,12 @@
       "vendor": "ElevenLabs",
       "category": "voice",
       "license": "proprietary",
-      "score": 1320,
+      "score": 1321,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1320"
+          "value": "1321"
         },
         {
           "label": "순위",
@@ -32,7 +32,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1320"
+          "value": "1321"
         },
         {
           "label": "순위",
@@ -61,12 +61,12 @@
       "vendor": "Alibaba",
       "category": "voice",
       "license": "proprietary",
-      "score": 1291,
+      "score": 1292,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1291"
+          "value": "1292"
         },
         {
           "label": "순위",
@@ -84,7 +84,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1291"
+          "value": "1292"
         },
         {
           "label": "순위",
@@ -113,12 +113,12 @@
       "vendor": "Cartesia",
       "category": "voice",
       "license": "proprietary",
-      "score": 1273,
+      "score": 1278,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1273"
+          "value": "1278"
         },
         {
           "label": "순위",
@@ -136,7 +136,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1273"
+          "value": "1278"
         },
         {
           "label": "순위",
@@ -165,12 +165,12 @@
       "vendor": "Google",
       "category": "voice",
       "license": "proprietary",
-      "score": 1272,
+      "score": 1275,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1272"
+          "value": "1275"
         },
         {
           "label": "순위",
@@ -188,7 +188,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1272"
+          "value": "1275"
         },
         {
           "label": "순위",
@@ -217,12 +217,12 @@
       "vendor": "Alibaba",
       "category": "voice",
       "license": "proprietary",
-      "score": 1259,
+      "score": 1261,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1259"
+          "value": "1261"
         },
         {
           "label": "순위",
@@ -240,7 +240,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1259"
+          "value": "1261"
         },
         {
           "label": "순위",
@@ -269,12 +269,12 @@
       "vendor": "Inworld",
       "category": "voice",
       "license": "proprietary",
-      "score": 1247,
+      "score": 1251,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1247"
+          "value": "1251"
         },
         {
           "label": "순위",
@@ -292,7 +292,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1247"
+          "value": "1251"
         },
         {
           "label": "순위",
@@ -316,71 +316,21 @@
       ]
     },
     {
-      "id": "voice-gemini-3-8-flash-lite-tts",
-      "name": "Gemini 3.8 Flash-Lite TTS",
-      "vendor": "Google",
-      "category": "voice",
-      "license": "proprietary",
-      "score": 1240,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1240"
-        },
-        {
-          "label": "순위",
-          "value": "#7"
-        },
-        {
-          "label": "투표수",
-          "value": "—"
-        },
-        {
-          "label": "제작사",
-          "value": "Google"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1240"
-        },
-        {
-          "label": "순위",
-          "value": "#7"
-        },
-        {
-          "label": "투표 수",
-          "value": "—"
-        },
-        {
-          "label": "출시일",
-          "value": "—"
-        },
-        {
-          "label": "제작사",
-          "value": "Google"
-        }
-      ],
-      "strengths": []
-    },
-    {
       "id": "voice-simba-3-2",
       "name": "Simba 3.2",
       "vendor": "SpeechifyAI",
       "category": "voice",
       "license": "proprietary",
-      "score": 1239,
+      "score": 1242,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1239"
+          "value": "1242"
         },
         {
           "label": "순위",
-          "value": "#8"
+          "value": "#7"
         },
         {
           "label": "투표수",
@@ -394,7 +344,57 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1239"
+          "value": "1242"
+        },
+        {
+          "label": "순위",
+          "value": "#7"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "SpeechifyAI"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "voice-gemini-3-8-flash-lite-tts",
+      "name": "Gemini 3.8 Flash-Lite TTS",
+      "vendor": "Google",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1242,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1242"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1242"
         },
         {
           "label": "순위",
@@ -410,7 +410,7 @@
         },
         {
           "label": "제작사",
-          "value": "SpeechifyAI"
+          "value": "Google"
         }
       ],
       "strengths": []
@@ -421,12 +421,12 @@
       "vendor": "VUI Labs",
       "category": "voice",
       "license": "proprietary",
-      "score": 1226,
+      "score": 1227,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1226"
+          "value": "1227"
         },
         {
           "label": "순위",
@@ -444,7 +444,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1226"
+          "value": "1227"
         },
         {
           "label": "순위",
@@ -466,17 +466,17 @@
       "strengths": []
     },
     {
-      "id": "voice-realtime-tts-2-flash-research-preview",
-      "name": "Realtime TTS-2 Flash",
-      "vendor": "Inworld",
+      "id": "voice-breeze-tts-2",
+      "name": "Breeze TTS 2",
+      "vendor": "BreezeBlue",
       "category": "voice",
       "license": "proprietary",
-      "score": 1209,
+      "score": 1216,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1209"
+          "value": "1216"
         },
         {
           "label": "순위",
@@ -488,13 +488,13 @@
         },
         {
           "label": "제작사",
-          "value": "Inworld"
+          "value": "BreezeBlue"
         }
       ],
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1209"
+          "value": "1216"
         },
         {
           "label": "순위",
@@ -510,7 +510,7 @@
         },
         {
           "label": "제작사",
-          "value": "Inworld"
+          "value": "BreezeBlue"
         }
       ],
       "strengths": []

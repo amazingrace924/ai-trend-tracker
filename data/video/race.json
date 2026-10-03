@@ -6316,19 +6316,19 @@
           "id": "video-wan-3-0",
           "name": "Wan 3.0",
           "vendor": "Alibaba",
-          "value": 1127
+          "value": 1129
         },
         {
           "id": "video-minimax-h3-768p",
           "name": "MiniMax H3 (768p)",
           "vendor": "MiniMax",
-          "value": 1114
+          "value": 1118
         },
         {
           "id": "video-minimax-h3-max",
           "name": "MiniMax H3 Max (based on MiniMax H3)",
           "vendor": "Fal",
-          "value": 1111
+          "value": 1115
         },
         {
           "id": "video-seedance-2-5-1080p",
@@ -6340,19 +6340,19 @@
           "id": "video-flux-3",
           "name": "FLUX 3",
           "vendor": "Black Forest Labs",
-          "value": 1091
+          "value": 1094
         },
         {
           "id": "video-skyreels-v4",
           "name": "SkyReels V4",
           "vendor": "Skywork AI",
-          "value": 1084
+          "value": 1086
         },
         {
           "id": "video-seedance-2-0-1080p",
           "name": "Dreamina Seedance 2.0",
           "vendor": "ByteDance Seed",
-          "value": 1078
+          "value": 1080
         },
         {
           "id": "video-gemini-omni-flash-1-1",
