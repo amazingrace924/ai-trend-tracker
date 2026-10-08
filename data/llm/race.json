@@ -6520,6 +6520,59 @@
           "value": 52.6
         }
       ]
+    },
+    {
+      "date": "2026-10-08",
+      "entries": [
+        {
+          "id": "claude-opus-5-5",
+          "name": "Claude Opus 5.5 (Max, Default Fallback)",
+          "vendor": "Anthropic",
+          "value": 57.6
+        },
+        {
+          "id": "claude-sonnet-5-5",
+          "name": "Claude Sonnet 5.5 (Max, Default Fallback)",
+          "vendor": "Anthropic",
+          "value": 56
+        },
+        {
+          "id": "claude-opus-5-5-xhigh",
+          "name": "Claude Opus 5.5 (Xhigh, Default Fallback)",
+          "vendor": "Anthropic",
+          "value": 56
+        },
+        {
+          "id": "claude-opus-5-5-high",
+          "name": "Claude Opus 5.5 (High, Default Fallback)",
+          "vendor": "Anthropic",
+          "value": 53.6
+        },
+        {
+          "id": "claude-fable-5-1",
+          "name": "Claude Fable 5.1 (Max, Default Fallback)",
+          "vendor": "Anthropic",
+          "value": 53.4
+        },
+        {
+          "id": "claude-fable-5-1-xhigh",
+          "name": "Claude Fable 5.1 (Xhigh, Default Fallback)",
+          "vendor": "Anthropic",
+          "value": 53.2
+        },
+        {
+          "id": "gpt-6-astra",
+          "name": "GPT-6 Astra (Max)",
+          "vendor": "OpenAI",
+          "value": 52.7
+        },
+        {
+          "id": "gemini-4-argon",
+          "name": "Gemini 4 Argon (High)",
+          "vendor": "Google",
+          "value": 52.6
+        }
+      ]
     }
   ]
 }
