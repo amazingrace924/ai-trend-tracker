@@ -6626,6 +6626,59 @@
           "value": 1070
         }
       ]
+    },
+    {
+      "date": "2026-10-10",
+      "entries": [
+        {
+          "id": "video-wan-3-0",
+          "name": "Wan 3.0",
+          "vendor": "Alibaba",
+          "value": 1129
+        },
+        {
+          "id": "video-minimax-h3-max",
+          "name": "MiniMax H3 Max",
+          "vendor": "Fal",
+          "value": 1119
+        },
+        {
+          "id": "video-minimax-h3-768p",
+          "name": "MiniMax H3 (768p)",
+          "vendor": "MiniMax",
+          "value": 1119
+        },
+        {
+          "id": "video-seedance-2-5-1080p",
+          "name": "Dreamina Seedance 2.5",
+          "vendor": "ByteDance Seed",
+          "value": 1107
+        },
+        {
+          "id": "video-flux-3",
+          "name": "FLUX 3",
+          "vendor": "Black Forest Labs",
+          "value": 1091
+        },
+        {
+          "id": "video-skyreels-v4",
+          "name": "SkyReels V4",
+          "vendor": "Skywork AI",
+          "value": 1087
+        },
+        {
+          "id": "video-seedance-2-0-1080p",
+          "name": "Dreamina Seedance 2.0",
+          "vendor": "ByteDance Seed",
+          "value": 1080
+        },
+        {
+          "id": "video-gemini-omni-flash-1-1",
+          "name": "Gemini Omni Flash 1.1",
+          "vendor": "Google",
+          "value": 1070
+        }
+      ]
     }
   ]
 }
