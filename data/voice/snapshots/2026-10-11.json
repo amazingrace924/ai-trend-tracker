@@ -1,0 +1,519 @@
+{
+  "category": "voice",
+  "date": "2026-10-11",
+  "updatedAt": "2026-10-11T00:08:52.661Z",
+  "models": [
+    {
+      "id": "voice-eleven-v4-turbo",
+      "name": "Eleven v4 Turbo",
+      "vendor": "ElevenLabs",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1327,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1327"
+        },
+        {
+          "label": "순위",
+          "value": "#1"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "ElevenLabs"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1327"
+        },
+        {
+          "label": "순위",
+          "value": "#1"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "ElevenLabs"
+        }
+      ],
+      "strengths": [
+        "품질 1위"
+      ]
+    },
+    {
+      "id": "voice-eleven-v4",
+      "name": "Eleven v4",
+      "vendor": "ElevenLabs",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1323,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1323"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "ElevenLabs"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1323"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "ElevenLabs"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "voice-qwen-audio-3-1-tts-plus",
+      "name": "Qwen-Audio-3.1-TTS-Plus",
+      "vendor": "Alibaba",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1298,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1298"
+        },
+        {
+          "label": "순위",
+          "value": "#3"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Alibaba"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1298"
+        },
+        {
+          "label": "순위",
+          "value": "#3"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Alibaba"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "voice-sonic-3-6",
+      "name": "Sonic 3.6",
+      "vendor": "Cartesia",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1284,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1284"
+        },
+        {
+          "label": "순위",
+          "value": "#4"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Cartesia"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1284"
+        },
+        {
+          "label": "순위",
+          "value": "#4"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Cartesia"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "voice-gemini-3-8-flash-tts",
+      "name": "Gemini 3.8 Flash TTS",
+      "vendor": "Google",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1272,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1272"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1272"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "voice-qwen-audio-3-0-tts-plus",
+      "name": "Qwen-Audio-3.0-TTS-Plus",
+      "vendor": "Alibaba",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1264,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1264"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Alibaba"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1264"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Alibaba"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "voice-realtime-tts-2",
+      "name": "Realtime TTS-2",
+      "vendor": "Inworld",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1257,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1257"
+        },
+        {
+          "label": "순위",
+          "value": "#7"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Inworld"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1257"
+        },
+        {
+          "label": "순위",
+          "value": "#7"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Inworld"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "voice-gemini-3-8-flash-lite-tts",
+      "name": "Gemini 3.8 Flash-Lite TTS",
+      "vendor": "Google",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1244,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1244"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1244"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "voice-simba-3-2",
+      "name": "Simba 3.2",
+      "vendor": "SpeechifyAI",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1243,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1243"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "SpeechifyAI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1243"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "SpeechifyAI"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "voice-breeze-tts-2",
+      "name": "Breeze TTS 2",
+      "vendor": "BreezeBlue",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1222,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1222"
+        },
+        {
+          "label": "순위",
+          "value": "#10"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "BreezeBlue"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1222"
+        },
+        {
+          "label": "순위",
+          "value": "#10"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "BreezeBlue"
+        }
+      ],
+      "strengths": []
+    }
+  ]
+}
