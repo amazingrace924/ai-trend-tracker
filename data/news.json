@@ -5,8 +5,7 @@
     "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
     "source": "Hugging Face",
     "date": "2026-10-09T15:20:29.000Z",
-    "summary": "",
-    "titleKo": "GPU 클러스터에 대한 영향력 있는 스케줄링"
+    "summary": ""
   },
   {
     "id": "OpenAI-1-asana-cuts-model-costs-76x-in-browser-te",
@@ -14,9 +13,7 @@
     "url": "https://openai.com/index/asana-browser-agent",
     "source": "OpenAI",
     "date": "2026-10-09T07:00:00.000Z",
-    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-    "titleKo": "Asana는 GPT-6.1 Sol을 사용한 브라우저 테스트에서 모델 비용을 76배 절감했습니다.",
-    "summaryKo": "Asana는 Codex에서 GPT-6 Astra를 사용하여 브라우저 에이전트를 76배 더 저렴하게 만들고 테스트에서 5배 더 빠르게 만들어 고객에게 더 많은 기능을 갖춘 모델을 제공했습니다."
+    "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
   },
   {
     "id": "OpenAI-0-sophos-cuts-threat-investigation-time-by",
@@ -24,9 +21,7 @@
     "url": "https://openai.com/index/sophos",
     "source": "OpenAI",
     "date": "2026-10-09T07:00:00.000Z",
-    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "titleKo": "Sophos는 OpenAI Daybreak를 통해 위협 조사 시간을 96% 단축했습니다.",
-    "summaryKo": "Sophos가 어떻게 OpenAI의 Daybreak를 사용하여 사이버 위협 조사 시간을 96% 단축하고 사람의 감독을 유지하면서 MDR 사례의 52%를 자동화했는지 알아보세요."
+    "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
   },
   {
     "id": "OpenAI-2-how-oracle-turns-days-of-work-into-minut",
@@ -34,9 +29,7 @@
     "url": "https://openai.com/index/oracle",
     "source": "OpenAI",
     "date": "2026-10-08T16:00:00.000Z",
-    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-    "titleKo": "Oracle이 ChatGPT 및 Codex를 통해 며칠의 작업 시간을 몇 분으로 단축하는 방법",
-    "summaryKo": "채용, 엔지니어링 및 운영 전반에 걸쳐 Oracle은 ChatGPT Work 및 Codex를 통해 전문 지식을 빠르고 반복 가능한 워크플로로 전환합니다."
+    "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
   },
   {
     "id": "OpenAI-4-legalon-halves-codex-costs-while-maintai",
@@ -52,9 +45,7 @@
     "url": "https://openai.com/index/pollo-ai",
     "source": "OpenAI",
     "date": "2026-10-08T12:00:00.000Z",
-    "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
-    "titleKo": "Pollo AI는 OpenAI를 통해 창의적인 아이디어를 캠페인으로 전환합니다.",
-    "summaryKo": "GPT-5.6, GPT-6 Astra 및 GPT-Image-2.5를 통해 Pollo AI는 제작자가 대담한 아이디어를 상세한 이미지와 영화 같은 비디오 광고로 전환할 수 있도록 도와줍니다."
+    "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
   },
   {
     "id": "Hugging Face-1-the-model-that-didn-t-exist-so-you-made-",
@@ -70,9 +61,7 @@
     "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
     "source": "OpenAI",
     "date": "2026-10-08T00:00:00.000Z",
-    "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-    "titleKo": "AI 기반 \"허위 전선\" 작전 방해",
-    "summaryKo": "OpenAI는 허위 언론인과 싱크 탱크를 사용하여 지정학적 메시지를 전파하는 두 가지 AI 기반 영향력 작업을 방해했습니다."
+    "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
   },
   {
     "id": "Hugging Face-2-multimodal-open-d1-decision-models-for-t",
@@ -80,8 +69,7 @@
     "url": "https://huggingface.co/blog/LiquidAI/open-d1",
     "source": "Hugging Face",
     "date": "2026-10-07T16:54:33.000Z",
-    "summary": "",
-    "titleKo": "에지에 대한 다중 모드 개방형 d1 결정 모델"
+    "summary": ""
   },
   {
     "id": "Hugging Face-3-introducing-falcon-asr",
@@ -89,8 +77,7 @@
     "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
     "source": "Hugging Face",
     "date": "2026-10-07T13:21:03.000Z",
-    "summary": "",
-    "titleKo": "팔콘 ASR 소개"
+    "summary": ""
   },
   {
     "id": "Hugging Face-4-one-model-family-two-gold-level-results-",
@@ -98,8 +85,7 @@
     "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
     "source": "Hugging Face",
     "date": "2026-10-07T12:45:31.000Z",
-    "summary": "",
-    "titleKo": "하나의 모델 제품군, 두 개의 골드 레벨 결과: IOI 및 IMO를 위한 Nemotron 미세 조정"
+    "summary": ""
   },
   {
     "id": "OpenAI-6-helping-teens-learn-plan-and-shape-the-f",
@@ -107,8 +93,7 @@
     "url": "https://openai.com/index/teens-learn-and-plan",
     "source": "OpenAI",
     "date": "2026-10-07T12:00:00.000Z",
-    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-    "titleKo": "십대들이 AI의 미래를 배우고, 계획하고, 형성하도록 돕습니다."
+    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
   },
   {
     "id": "OpenAI-7-radisson-hotel-group-brings-hotel-discov",
@@ -116,8 +101,7 @@
     "url": "https://openai.com/index/radisson",
     "source": "OpenAI",
     "date": "2026-10-07T07:00:00.000Z",
-    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-    "summaryKo": "Radisson은 Accenture와 제휴하여 OpenAI 기술을 사용하여 ChatGPT 플러그인을 구축하여 여행자가 여행을 계획하는 동안 호텔을 찾고, 비교하고, 예약할 수 있도록 돕습니다."
+    "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
   },
   {
     "id": "OpenAI-8-gpt-6-and-intelligent-ui-for-everyone",
@@ -125,8 +109,7 @@
     "url": "https://openai.com/index/gpt-6-for-everyone",
     "source": "OpenAI",
     "date": "2026-10-07T00:00:00.000Z",
-    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
-    "titleKo": "모두를 위한 GPT-6 및 지능형 UI"
+    "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly."
   },
   {
     "id": "Google DeepMind-0-embeddinggemma-2-an-open-lightweight-mul",
@@ -142,8 +125,7 @@
     "url": "https://openai.com/index/atlassian-partnership",
     "source": "OpenAI",
     "date": "2026-10-06T16:00:00.000Z",
-    "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-    "summaryKo": "Atlassian과 OpenAI는 첨단 모델을 기업 지식과 연결하고 팀이 작업을 계획, 구축 및 제공할 수 있도록 파트너십을 확장하고 있습니다."
+    "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work."
   },
   {
     "id": "OpenAI-10-sharing-ai-progress-in-mathematics",
@@ -151,8 +133,7 @@
     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
     "source": "OpenAI",
     "date": "2026-10-06T12:00:00.000Z",
-    "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
-    "titleKo": "수학 분야의 AI 진행 상황 공유"
+    "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub."
   },
   {
     "id": "OpenAI-9-how-jump-trading-is-scaling-quant-resear",
@@ -160,9 +141,7 @@
     "url": "https://openai.com/index/jump-trading",
     "source": "OpenAI",
     "date": "2026-10-06T12:00:00.000Z",
-    "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-    "titleKo": "Jump Trading이 ChatGPT를 사용하여 퀀트 리서치를 확장하는 방법",
-    "summaryKo": "Jump Trading은 OpenAI를 사용하여 정량적 연구를 확장합니다. 장기간 실행되는 AI 워크플로가 여러 데이터 소스를 인적 검토와 결합하는 방법을 알아보세요."
+    "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review."
   },
   {
     "id": "OpenAI-11-advancing-computer-use-with-ironclad",
@@ -170,9 +149,7 @@
     "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
     "source": "OpenAI",
     "date": "2026-10-06T10:00:00.000Z",
-    "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
-    "titleKo": "Ironclad를 통한 컴퓨터 사용 향상",
-    "summaryKo": "OpenAI와 Ironclad가 복잡한 계약 워크플로우에서 AI 에이전트를 교육하고 평가하여 전문 업무를 위한 컴퓨터 사용을 향상시키는 방법을 알아보세요."
+    "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
   },
   {
     "id": "OpenAI-13-our-approach-to-eu-text-provenance-rules",
@@ -180,9 +157,7 @@
     "url": "https://openai.com/index/eu-text-provenance",
     "source": "OpenAI",
     "date": "2026-10-05T15:00:00.000Z",
-    "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-    "titleKo": "EU 텍스트 출처 규칙에 대한 우리의 접근 방식",
-    "summaryKo": "OpenAI가 EU 규정에 따라 텍스트 워터마킹에 접근하는 방법. 워터마크가 적용되는 위치, 감지 작동 방식, 연구원이 액세스를 시작하는 이유를 알아보세요."
+    "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
   },
   {
     "id": "OpenAI-14-building-advertising-for-the-way-people-",
@@ -190,8 +165,7 @@
     "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
     "source": "OpenAI",
     "date": "2026-10-05T10:00:00.000Z",
-    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-    "summaryKo": "OpenAI는 ChatGPT에 새로운 시각적 광고 형식을 도입하고 광고주를 위한 측정 도구, 기여 파트너십 및 브랜드 적합성을 확장합니다."
+    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
   },
   {
     "id": "Hugging Face-5-the-agent-said-it-was-done-the-database-",
@@ -199,8 +173,7 @@
     "url": "https://huggingface.co/blog/microsoft/thinkingbox",
     "source": "Hugging Face",
     "date": "2026-10-03T22:56:48.000Z",
-    "summary": "",
-    "titleKo": "에이전트가 완료되었다고 말했습니다. 데이터베이스가 동의하지 않았습니다."
+    "summary": ""
   },
   {
     "id": "Hugging Face-6-autosynthdata-generating-training-data-f",
@@ -216,8 +189,7 @@
     "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
     "source": "Google DeepMind",
     "date": "2026-09-30T20:01:45.000Z",
-    "summary": "",
-    "titleKo": "Gemini 4 Argon: 차세대 첨단 정보 시대"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-2-introducing-synthid-bio",
@@ -225,8 +197,7 @@
     "url": "https://deepmind.google/blog/introducing-synthid-bio/",
     "source": "Google DeepMind",
     "date": "2026-09-30T15:03:07.000Z",
-    "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "titleKo": "SynthID Bio를 소개합니다"
+    "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
   },
   {
     "id": "Hugging Face-7-open-tts-leaderboard-scalable-evaluation",
@@ -234,8 +205,7 @@
     "url": "https://huggingface.co/blog/open-tts-leaderboard",
     "source": "Hugging Face",
     "date": "2026-09-30T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "공개 TTS 리더보드: 다국어 텍스트 음성 변환 및 음성 복제를 위한 확장 가능한 평가"
+    "summary": ""
   },
   {
     "id": "Hugging Face-8-getting-the-source-right-not-just-the-fa",
@@ -243,8 +213,7 @@
     "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
     "source": "Hugging Face",
     "date": "2026-09-29T13:07:00.000Z",
-    "summary": "",
-    "titleKo": "단순한 사실이 아닌 소스를 올바르게 파악하기: MCP 에이전트에 대한 소스 인식 검증"
+    "summary": ""
   },
   {
     "id": "Hugging Face-9-holo4-powering-generalist-computer-use-a",
@@ -252,8 +221,7 @@
     "url": "https://huggingface.co/blog/Hcompany/holo4",
     "source": "Hugging Face",
     "date": "2026-09-28T09:44:05.000Z",
-    "summary": "",
-    "titleKo": "Holo4: 일반 컴퓨터 사용 에이전트 강화"
+    "summary": ""
   },
   {
     "id": "Hugging Face-10-welcome-rl-environments-to-the-hub",
@@ -261,8 +229,7 @@
     "url": "https://huggingface.co/blog/rl-environments",
     "source": "Hugging Face",
     "date": "2026-09-28T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "허브에 RL 환경을 오신 것을 환영합니다"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-3-introducing-gemini-3-8-live-with-live-av",
@@ -270,8 +237,7 @@
     "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
     "source": "Google DeepMind",
     "date": "2026-09-24T16:20:39.000Z",
-    "summary": "",
-    "titleKo": "라이브 아바타가 포함된 Gemini 3.8 Live 소개"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-4-advancing-private-ai-compute-with-secure",
@@ -279,8 +245,7 @@
     "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
     "source": "Google DeepMind",
     "date": "2026-09-23T16:00:57.000Z",
-    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "summaryKo": "개인 AI를 위한 Private AI Compute에 프라이빗, 서버측 메모리를 도입합니다."
+    "summary": "Introducing private, server-side memory to Private AI Compute for personal AI."
   },
   {
     "id": "Google DeepMind-5-gemini-3-8-text-to-speech-says-hello",
@@ -288,8 +253,7 @@
     "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
     "source": "Google DeepMind",
     "date": "2026-09-23T15:25:14.000Z",
-    "summary": "",
-    "titleKo": "Gemini 3.8 텍스트 음성 변환이 안녕하세요라고 말합니다."
+    "summary": ""
   },
   {
     "id": "Hugging Face-13-jun-kim-omlx-creator-and-maintainer-join",
@@ -305,8 +269,7 @@
     "url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
     "source": "Hugging Face",
     "date": "2026-09-22T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "Transformers는 이제 llama.cpp 퀀트를 실행합니다."
+    "summary": ""
   },
   {
     "id": "Hugging Face-11-how-uk-aisi-and-evaleval-are-making-benc",
@@ -314,8 +277,7 @@
     "url": "https://huggingface.co/blog/evaleval-aisi",
     "source": "Hugging Face",
     "date": "2026-09-22T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "영국 AISI와 EvalEval이 벤치마크 결과를 재현 가능하게 만드는 방법"
+    "summary": ""
   },
   {
     "id": "Hugging Face-14-tokenizers-v1-encode-decode-and-scaling-",
@@ -331,8 +293,7 @@
     "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
     "source": "Google DeepMind",
     "date": "2026-09-15T17:05:57.000Z",
-    "summary": "",
-    "titleKo": "Gemini 3.8 Live 및 3.8 Live Extended Thinking 소개"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-7-alphagenome-atlas-a-predictive-map-of-ev",
@@ -340,9 +301,7 @@
     "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
     "source": "Google DeepMind",
     "date": "2026-09-08T14:00:15.000Z",
-    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-    "titleKo": "AlphaGenome Atlas: 인간 게놈에서 가능한 모든 DNA 문자 변화에 대한 예측 지도",
-    "summaryKo": "AlphaGenome Atlas는 인간 게놈 전체에 걸쳐 90억 개의 단일 문자 DNA 변이체의 분자 효과를 매핑합니다."
+    "summary": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
   },
   {
     "id": "Google DeepMind-8-introducing-weathernext-3-our-most-advan",
@@ -350,8 +309,7 @@
     "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
     "source": "Google DeepMind",
     "date": "2026-09-03T15:02:08.000Z",
-    "summary": "",
-    "titleKo": "가장 진보되고 정확한 글로벌 기상 AI 모델인 WeatherNext 3를 소개합니다."
+    "summary": ""
   },
   {
     "id": "Google DeepMind-9-proactive-cyber-defense-for-governments-",
@@ -359,7 +317,6 @@
     "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
     "source": "Google DeepMind",
     "date": "2026-09-02T16:24:24.000Z",
-    "summary": "",
-    "titleKo": "정부와 기업을 위한 사전 예방적 사이버 방어"
+    "summary": ""
   }
 ]

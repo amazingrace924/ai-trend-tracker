@@ -1,7 +1,7 @@
 {
   "category": "llm",
-  "date": "2026-10-12",
-  "updatedAt": "2026-10-12T00:16:41.724Z",
+  "date": "2026-10-13",
+  "updatedAt": "2026-10-13T02:27:46.614Z",
   "models": [
     {
       "id": "claude-opus-5-5",
@@ -41,7 +41,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "574.56s"
+          "value": "490.78s"
         },
         {
           "label": "입력 가격(1M)",
@@ -95,7 +95,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "272.6s"
+          "value": "248.7s"
         },
         {
           "label": "입력 가격(1M)",
@@ -149,7 +149,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "64.26s"
+          "value": "54.83s"
         },
         {
           "label": "입력 가격(1M)",
@@ -160,8 +160,51 @@
           "value": "$20"
         }
       ],
+      "strengths": []
+    },
+    {
+      "id": "muse-wonder-full",
+      "name": "Muse Wonder Full (Max)",
+      "vendor": "Meta",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-10-12",
+      "score": 55.8,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "—"
+        },
+        {
+          "label": "속도",
+          "value": "—"
+        },
+        {
+          "label": "출력가",
+          "value": "$0.00"
+        },
+        {
+          "label": "수학",
+          "value": "—"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "55.8"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$0.00"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$0.00"
+        }
+      ],
       "strengths": [
-        "초고속"
+        "가성비"
       ]
     },
     {
@@ -202,7 +245,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "19.98s"
+          "value": "18.02s"
         },
         {
           "label": "입력 가격(1M)",
@@ -235,7 +278,7 @@
         },
         {
           "label": "속도",
-          "value": "72/s"
+          "value": "67/s"
         },
         {
           "label": "출력가",
@@ -261,11 +304,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "72 tok/s"
+          "value": "67 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "155.99s"
+          "value": "137.02s"
         },
         {
           "label": "입력 가격(1M)",
@@ -331,7 +374,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "42.75s"
+          "value": "37s"
         },
         {
           "label": "입력 가격(1M)",
@@ -363,7 +406,7 @@
         },
         {
           "label": "속도",
-          "value": "62/s"
+          "value": "61/s"
         },
         {
           "label": "출력가",
@@ -389,11 +432,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "62 tok/s"
+          "value": "61 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "205.73s"
+          "value": "177.29s"
         },
         {
           "label": "입력 가격(1M)",
@@ -459,6 +502,59 @@
       ]
     },
     {
+      "id": "muse-wonder",
+      "name": "Muse Wonder (Max)",
+      "vendor": "Meta",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-10-12",
+      "score": 52.4,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "—"
+        },
+        {
+          "label": "속도",
+          "value": "95/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$20"
+        },
+        {
+          "label": "수학",
+          "value": "—"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "52.4"
+        },
+        {
+          "label": "출력 속도",
+          "value": "95 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "26.34s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$4"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$20"
+        }
+      ],
+      "strengths": [
+        "초고속"
+      ]
+    },
+    {
       "id": "gpt-6-astra-xhigh",
       "name": "GPT-6 Astra (Xhigh)",
       "vendor": "OpenAI",
@@ -504,7 +600,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "85.02s"
+          "value": "63.77s"
         },
         {
           "label": "입력 가격(1M)",
@@ -536,7 +632,7 @@
         },
         {
           "label": "속도",
-          "value": "98/s"
+          "value": "100/s"
         },
         {
           "label": "출력가",
@@ -554,11 +650,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "98 tok/s"
+          "value": "100 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "13.45s"
+          "value": "11.4s"
         },
         {
           "label": "입력 가격(1M)",
@@ -573,110 +669,6 @@
         "가성비",
         "초고속"
       ]
-    },
-    {
-      "id": "gpt-6-1-sol",
-      "name": "GPT-6.1 Sol (Max)",
-      "vendor": "OpenAI",
-      "category": "llm",
-      "license": "proprietary",
-      "releaseDate": "2026-09-29",
-      "score": 51.8,
-      "scoreLabel": "Intelligence Index",
-      "highlights": [
-        {
-          "label": "코딩",
-          "value": "—"
-        },
-        {
-          "label": "속도",
-          "value": "64/s"
-        },
-        {
-          "label": "출력가",
-          "value": "$10"
-        },
-        {
-          "label": "수학",
-          "value": "—"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Intelligence Index",
-          "value": "51.8"
-        },
-        {
-          "label": "출력 속도",
-          "value": "64 tok/s"
-        },
-        {
-          "label": "첫 토큰 지연",
-          "value": "173.69s"
-        },
-        {
-          "label": "입력 가격(1M)",
-          "value": "$2"
-        },
-        {
-          "label": "출력 가격(1M)",
-          "value": "$10"
-        }
-      ],
-      "strengths": [
-        "가성비"
-      ]
-    },
-    {
-      "id": "claude-opus-5-5-medium",
-      "name": "Claude Opus 5.5 (Medium, Default Fallback)",
-      "vendor": "Anthropic",
-      "category": "llm",
-      "license": "proprietary",
-      "releaseDate": "2026-09-22",
-      "score": 51.2,
-      "scoreLabel": "Intelligence Index",
-      "highlights": [
-        {
-          "label": "코딩",
-          "value": "—"
-        },
-        {
-          "label": "속도",
-          "value": "74/s"
-        },
-        {
-          "label": "출력가",
-          "value": "$20"
-        },
-        {
-          "label": "수학",
-          "value": "—"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Intelligence Index",
-          "value": "51.2"
-        },
-        {
-          "label": "출력 속도",
-          "value": "74 tok/s"
-        },
-        {
-          "label": "첫 토큰 지연",
-          "value": "7.93s"
-        },
-        {
-          "label": "입력 가격(1M)",
-          "value": "$4"
-        },
-        {
-          "label": "출력 가격(1M)",
-          "value": "$20"
-        }
-      ],
-      "strengths": []
     }
   ]
 }
