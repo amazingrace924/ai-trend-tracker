@@ -1,7 +1,7 @@
 {
   "category": "voice",
-  "date": "2026-10-13",
-  "updatedAt": "2026-10-13T02:27:48.764Z",
+  "date": "2026-10-14",
+  "updatedAt": "2026-10-14T00:10:46.016Z",
   "models": [
     {
       "id": "voice-eleven-v4-turbo",
@@ -61,12 +61,12 @@
       "vendor": "ElevenLabs",
       "category": "voice",
       "license": "proprietary",
-      "score": 1326,
+      "score": 1328,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1326"
+          "value": "1328"
         },
         {
           "label": "순위",
@@ -84,7 +84,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1326"
+          "value": "1328"
         },
         {
           "label": "순위",
@@ -113,12 +113,12 @@
       "vendor": "Alibaba",
       "category": "voice",
       "license": "proprietary",
-      "score": 1298,
+      "score": 1300,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1298"
+          "value": "1300"
         },
         {
           "label": "순위",
@@ -136,7 +136,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1298"
+          "value": "1300"
         },
         {
           "label": "순위",
@@ -269,12 +269,12 @@
       "vendor": "Alibaba",
       "category": "voice",
       "license": "proprietary",
-      "score": 1267,
+      "score": 1268,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1267"
+          "value": "1268"
         },
         {
           "label": "순위",
@@ -292,7 +292,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1267"
+          "value": "1268"
         },
         {
           "label": "순위",
@@ -371,12 +371,12 @@
       "vendor": "Google",
       "category": "voice",
       "license": "proprietary",
-      "score": 1246,
+      "score": 1248,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1246"
+          "value": "1248"
         },
         {
           "label": "순위",
@@ -394,7 +394,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1246"
+          "value": "1248"
         },
         {
           "label": "순위",
@@ -421,12 +421,12 @@
       "vendor": "SpeechifyAI",
       "category": "voice",
       "license": "proprietary",
-      "score": 1244,
+      "score": 1245,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1244"
+          "value": "1245"
         },
         {
           "label": "순위",
@@ -444,7 +444,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1244"
+          "value": "1245"
         },
         {
           "label": "순위",
@@ -466,17 +466,17 @@
       "strengths": []
     },
     {
-      "id": "voice-breeze-tts-2",
-      "name": "Breeze TTS 2",
-      "vendor": "BreezeBlue",
+      "id": "voice-drama3-preview",
+      "name": "Fish Audio Drama 3 Preview",
+      "vendor": "Fish Audio",
       "category": "voice",
       "license": "proprietary",
-      "score": 1223,
+      "score": 1243,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1223"
+          "value": "1243"
         },
         {
           "label": "순위",
@@ -488,13 +488,13 @@
         },
         {
           "label": "제작사",
-          "value": "BreezeBlue"
+          "value": "Fish Audio"
         }
       ],
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1223"
+          "value": "1243"
         },
         {
           "label": "순위",
@@ -510,7 +510,7 @@
         },
         {
           "label": "제작사",
-          "value": "BreezeBlue"
+          "value": "Fish Audio"
         }
       ],
       "strengths": []
