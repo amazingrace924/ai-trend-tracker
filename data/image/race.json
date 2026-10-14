@@ -6846,49 +6846,49 @@
           "id": "image-gpt-image-2.5-sunburst-2026-09-08",
           "name": "GPT Image 2.5 Sunburst (max)",
           "vendor": "OpenAI",
-          "value": 1199
+          "value": 1217
         },
         {
           "id": "image-gpt-image-2.5-flare-2026-09-08",
           "name": "GPT Image 2.5 Flare (max)",
           "vendor": "OpenAI",
-          "value": 1192
+          "value": 1207
         },
         {
           "id": "image-gpt-image-2",
           "name": "GPT Image 2 (high)",
           "vendor": "OpenAI",
-          "value": 1172
+          "value": 1187
         },
         {
           "id": "image-nano-banana-2-1",
           "name": "Nano Banana 2.1",
           "vendor": "Google",
-          "value": 1159
+          "value": 1172
         },
         {
           "id": "image-grok-imagine-image-2-0",
           "name": "Grok Imagine Image 2.0",
           "vendor": "SpaceXAI",
-          "value": 1155
+          "value": 1166
         },
         {
           "id": "image-mai-image-2-6",
           "name": "MAI-Image-2.6",
           "vendor": "Microsoft AI",
-          "value": 1152
+          "value": 1164
         },
         {
           "id": "image-nano-banana-2",
           "name": "Nano Banana 2 (Gemini 3.1 Flash Image)",
           "vendor": "Google",
-          "value": 1125
+          "value": 1138
         },
         {
           "id": "image-muse-image-1.0",
           "name": "Muse Image",
           "vendor": "Meta",
-          "value": 1115
+          "value": 1127
         }
       ]
     }
