@@ -62,8 +62,7 @@
     "source": "OpenAI",
     "date": "2026-10-15T19:00:00.000Z",
     "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
-    "titleKo": "학술 연구실에 GPT-Rosalind 도입",
-    "summaryKo": "Rosalind 학업 계획을 소개합니다. 적격 학술 연구실에 후원을 받아 GPT-Rosalind에 대한 액세스와 생명과학 연구 발전을 위한 도구를 제공합니다."
+    "titleKo": "학술 연구실에 GPT-Rosalind 도입"
   },
   {
     "id": "Google DeepMind-0-accelerating-the-search-for-antimicrobia",
@@ -72,7 +71,8 @@
     "source": "Google DeepMind",
     "date": "2026-10-15T16:08:03.000Z",
     "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-    "titleKo": "Google Antigravity로 항균 펩타이드 검색 가속화"
+    "titleKo": "Google Antigravity로 항균 펩타이드 검색 가속화",
+    "summaryKo": "Google Antigravity for Science를 사용하여 새로운 항균 펩타이드 검색을 가속화합니다."
   },
   {
     "id": "OpenAI-4-teaching-students-to-think-and-learn-thr",
@@ -81,8 +81,7 @@
     "source": "OpenAI",
     "date": "2026-10-15T13:00:00.000Z",
     "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-    "titleKo": "학생들에게 질문을 통해 생각하고 배우는 방법을 가르치기",
-    "summaryKo": "교육자를 위한 AI를 통해 브라질 포르투갈어로 스승의 날을 축하하고 학습 모드가 교사가 적극적이고 단계별 학습을 지원하는 데 어떻게 도움이 되는지 알아보세요."
+    "summaryKo": "교육자를 위한 AI를 통해 브라질 포르투갈어로 스승의 날을 축하하고 학습 모드가 교사의 적극적인 단계별 학습을 지원하는 데 어떻게 도움이 되는지 알아보세요."
   },
   {
     "id": "Hugging Face-4-welcome-flux-3-image-klein-in-diffusers",
@@ -108,7 +107,8 @@
     "source": "OpenAI",
     "date": "2026-10-15T00:00:00.000Z",
     "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
-    "titleKo": "Sullivan & Cromwell은 법률 전문 지식을 계약 검토에 활용합니다."
+    "titleKo": "Sullivan & Cromwell은 법률 전문 지식을 계약 검토에 활용합니다.",
+    "summaryKo": "Sullivan & Cromwell은 OpenAI와 협력하여 초안 계약서의 문제를 식별하기 위한 AI 도구인 계약 분석기를 개발했습니다."
   },
   {
     "id": "Hugging Face-5-hiro-acev2-simulating-extreme-weather-at",
@@ -116,8 +116,7 @@
     "url": "https://huggingface.co/blog/allenai/hiro-acev2",
     "source": "Hugging Face",
     "date": "2026-10-14T16:12:42.000Z",
-    "summary": "",
-    "titleKo": "HiRO-ACEv2: 적은 비용으로 3km 해상도로 극한 날씨 시뮬레이션"
+    "summary": ""
   },
   {
     "id": "OpenAI-7-sentinelone-cuts-malware-analysis-from-w",
@@ -136,8 +135,7 @@
     "source": "OpenAI",
     "date": "2026-10-14T12:00:00.000Z",
     "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-    "titleKo": "Amp는 OpenAI 모델을 통해 AI 에이전트를 코드 이상의 작업에 활용합니다.",
-    "summaryKo": "Amp가 GPT-6 Astra, Ultrafast, GPT-Live-1 및 ChatGPT로 로그인을 통해 상담원이 수행할 수 있는 작업의 한계를 어떻게 확장하는지 알아보세요."
+    "titleKo": "Amp는 AI 에이전트가 OpenAI 모델을 통해 코드 이상의 작업을 수행하도록 합니다."
   },
   {
     "id": "OpenAI-9-how-block-is-building-ai-powered-securit",
@@ -146,6 +144,7 @@
     "source": "OpenAI",
     "date": "2026-10-14T07:00:00.000Z",
     "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+    "titleKo": "Block이 OpenAI 기술로 AI 기반 보안을 구축하는 방법",
     "summaryKo": "Block은 OpenAI를 통해 AI 기반 보안을 구축하고 있습니다. 보안팀은 위협을 더 빠르게 조사하고 몇 분 안에 패치를 제안합니다."
   },
   {
@@ -154,9 +153,7 @@
     "url": "https://openai.com/index/third-moment-research",
     "source": "OpenAI",
     "date": "2026-10-14T07:00:00.000Z",
-    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-    "titleKo": "Third Moment Research가 36시간 이상 동안 10,000개의 에이전트를 실행하는 방법",
-    "summaryKo": "사이버 보안을 위한 GPT-6 Astra 및 GPT-6.1 Sol, Codex 및 Daybreak를 사용하여 이 AI 연구소는 며칠 동안 집중하고 사용하면서 개선되는 에이전트를 구축합니다."
+    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use."
   },
   {
     "id": "Google DeepMind-1-google-deepmind-and-singapore-government",
@@ -165,8 +162,7 @@
     "source": "Google DeepMind",
     "date": "2026-10-14T02:00:14.000Z",
     "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
-    "titleKo": "Google DeepMind와 싱가포르 정부는 사기 탐지를 위해 정밀 조정된 AI 모델을 구축하기 위해 협력합니다.",
-    "summaryKo": "Google DeepMind와 GovTech Singapore가 경량 온디바이스 Gemma 모델을 사용하여 클라우드 데이터 송신 없이 비공개 채팅에서 대화 사기를 차단하는 방법을 알아보세요."
+    "titleKo": "Google DeepMind와 싱가포르 정부는 사기 탐지를 위해 정밀 조정된 AI 모델을 구축하기 위해 협력합니다."
   },
   {
     "id": "OpenAI-10-the-eu-s-next-chapter-in-ai-is-agentic",
@@ -175,8 +171,7 @@
     "source": "OpenAI",
     "date": "2026-10-14T00:00:00.000Z",
     "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-    "titleKo": "AI의 EU의 다음 장은 에이전트입니다.",
-    "summaryKo": "새로운 분석은 EU 기업과 중소기업 전반에서 에이전트 AI 채택이 어떻게 증가하고 있는지, 그리고 더 심층적인 사용이 더 많은 가치를 창출할 수 있는지를 보여줍니다."
+    "summaryKo": "새로운 분석에 따르면 EU 기업과 중소기업 전반에서 에이전트 AI 채택이 어떻게 증가하고 있는지, 그리고 더 심층적으로 사용하면 더 많은 가치를 창출할 수 있는지 알 수 있습니다."
   },
   {
     "id": "Google DeepMind-2-developing-gemini-4-argon-responsibly-an",
@@ -184,8 +179,7 @@
     "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
     "source": "Google DeepMind",
     "date": "2026-10-13T19:43:07.000Z",
-    "summary": "",
-    "titleKo": "책임감 있고 안전하게 Gemini 4 Argon 개발"
+    "summary": ""
   },
   {
     "id": "Hugging Face-6-run-fast-private-agents-on-device-with-l",
@@ -193,7 +187,8 @@
     "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
     "source": "Hugging Face",
     "date": "2026-10-13T17:05:48.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "LFM2.5-24B-A2B를 사용하여 장치에서 빠른 개인 에이전트 실행"
   },
   {
     "id": "Google DeepMind-3-gemini-4-argon-for-robotics",
@@ -219,7 +214,9 @@
     "url": "https://openai.com/index/higgsfield-longer-videos-voice",
     "source": "OpenAI",
     "date": "2026-10-13T12:00:00.000Z",
-    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+    "titleKo": "힉스필드는 1분에서 10분 이상까지 AI 영상을 촬영합니다.",
+    "summaryKo": "Higgsfield는 제작자에게 GPT-6 Astra를 통한 긴 비디오, GPT-Image-2.5를 통한 정확한 비주얼, GPT-Live를 통한 음성 영화 제작의 길을 제공합니다."
   },
   {
     "id": "OpenAI-13-sophos-cuts-threat-investigation-time-by",
@@ -228,7 +225,6 @@
     "source": "OpenAI",
     "date": "2026-10-09T07:00:00.000Z",
     "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-    "titleKo": "Sophos는 OpenAI Daybreak를 통해 위협 조사 시간을 96% 단축했습니다.",
     "summaryKo": "Sophos가 어떻게 OpenAI의 Daybreak를 사용하여 사이버 위협 조사 시간을 96% 단축하고 사람의 감독을 유지하면서 MDR 사례의 52%를 자동화했는지 알아보세요."
   },
   {
@@ -248,8 +244,7 @@
     "source": "OpenAI",
     "date": "2026-10-08T16:00:00.000Z",
     "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-    "titleKo": "Oracle이 ChatGPT 및 Codex를 통해 며칠의 작업 시간을 몇 분으로 단축하는 방법",
-    "summaryKo": "채용, 엔지니어링 및 운영 전반에 걸쳐 Oracle은 ChatGPT Work 및 Codex를 통해 전문 지식을 빠르고 반복 가능한 워크플로로 전환합니다."
+    "titleKo": "Oracle이 ChatGPT 및 Codex를 통해 며칠의 작업 시간을 몇 분으로 단축하는 방법"
   },
   {
     "id": "Hugging Face-7-the-model-that-didn-t-exist-so-you-made-",
@@ -257,7 +252,8 @@
     "url": "https://huggingface.co/blog/building-with-ml-intern",
     "source": "Hugging Face",
     "date": "2026-10-08T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "없던 모델이라 직접 만들어 주셨네요"
   },
   {
     "id": "Hugging Face-8-introducing-falcon-asr",
@@ -265,8 +261,7 @@
     "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
     "source": "Hugging Face",
     "date": "2026-10-07T13:21:03.000Z",
-    "summary": "",
-    "titleKo": "팔콘 ASR 소개"
+    "summary": ""
   },
   {
     "id": "Google DeepMind-5-embeddinggemma-2-an-open-lightweight-mul",
@@ -283,8 +278,7 @@
     "url": "https://huggingface.co/blog/microsoft/thinkingbox",
     "source": "Hugging Face",
     "date": "2026-10-03T22:56:48.000Z",
-    "summary": "",
-    "titleKo": "에이전트가 완료되었다고 말했습니다. 데이터베이스가 동의하지 않았습니다."
+    "summary": ""
   },
   {
     "id": "Hugging Face-10-autosynthdata-generating-training-data-f",
@@ -346,7 +340,8 @@
     "url": "https://huggingface.co/blog/rl-environments",
     "source": "Hugging Face",
     "date": "2026-09-28T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "허브에 RL 환경을 오신 것을 환영합니다"
   },
   {
     "id": "Google DeepMind-8-introducing-gemini-3-8-live-with-live-av",
@@ -364,6 +359,6 @@
     "source": "Google DeepMind",
     "date": "2026-09-23T16:00:57.000Z",
     "summary": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-    "titleKo": "안전한 서버측 메모리로 프라이빗 AI 컴퓨팅 발전"
+    "titleKo": "안전한 서버 측 메모리로 프라이빗 AI 컴퓨팅 발전"
   }
 ]

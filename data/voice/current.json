@@ -1,7 +1,7 @@
 {
   "category": "voice",
-  "date": "2026-10-17",
-  "updatedAt": "2026-10-17T22:55:50.634Z",
+  "date": "2026-10-18",
+  "updatedAt": "2026-10-18T22:51:22.183Z",
   "models": [
     {
       "id": "voice-eleven-v4-turbo",
@@ -9,12 +9,12 @@
       "vendor": "ElevenLabs",
       "category": "voice",
       "license": "proprietary",
-      "score": 1330,
+      "score": 1329,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1330"
+          "value": "1329"
         },
         {
           "label": "순위",
@@ -32,7 +32,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1330"
+          "value": "1329"
         },
         {
           "label": "순위",
@@ -61,12 +61,12 @@
       "vendor": "ElevenLabs",
       "category": "voice",
       "license": "proprietary",
-      "score": 1329,
+      "score": 1328,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1329"
+          "value": "1328"
         },
         {
           "label": "순위",
@@ -84,7 +84,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1329"
+          "value": "1328"
         },
         {
           "label": "순위",
@@ -165,12 +165,12 @@
       "vendor": "Cartesia",
       "category": "voice",
       "license": "proprietary",
-      "score": 1285,
+      "score": 1287,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1285"
+          "value": "1287"
         },
         {
           "label": "순위",
@@ -188,7 +188,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1285"
+          "value": "1287"
         },
         {
           "label": "순위",
@@ -217,12 +217,12 @@
       "vendor": "Google",
       "category": "voice",
       "license": "proprietary",
-      "score": 1275,
+      "score": 1278,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1275"
+          "value": "1278"
         },
         {
           "label": "순위",
@@ -240,7 +240,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1275"
+          "value": "1278"
         },
         {
           "label": "순위",
@@ -421,12 +421,12 @@
       "vendor": "SpeechifyAI",
       "category": "voice",
       "license": "proprietary",
-      "score": 1244,
+      "score": 1245,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1244"
+          "value": "1245"
         },
         {
           "label": "순위",
@@ -444,7 +444,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1244"
+          "value": "1245"
         },
         {
           "label": "순위",
