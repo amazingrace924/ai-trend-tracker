@@ -1,7 +1,7 @@
 {
   "category": "voice",
-  "date": "2026-10-18",
-  "updatedAt": "2026-10-18T22:51:22.183Z",
+  "date": "2026-10-20",
+  "updatedAt": "2026-10-20T00:08:24.086Z",
   "models": [
     {
       "id": "voice-eleven-v4-turbo",
@@ -9,12 +9,12 @@
       "vendor": "ElevenLabs",
       "category": "voice",
       "license": "proprietary",
-      "score": 1329,
+      "score": 1332,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1329"
+          "value": "1332"
         },
         {
           "label": "순위",
@@ -32,7 +32,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1329"
+          "value": "1332"
         },
         {
           "label": "순위",
@@ -61,12 +61,12 @@
       "vendor": "ElevenLabs",
       "category": "voice",
       "license": "proprietary",
-      "score": 1328,
+      "score": 1329,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1328"
+          "value": "1329"
         },
         {
           "label": "순위",
@@ -84,7 +84,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1328"
+          "value": "1329"
         },
         {
           "label": "순위",
@@ -113,12 +113,12 @@
       "vendor": "Alibaba",
       "category": "voice",
       "license": "proprietary",
-      "score": 1296,
+      "score": 1297,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1296"
+          "value": "1297"
         },
         {
           "label": "순위",
@@ -136,7 +136,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1296"
+          "value": "1297"
         },
         {
           "label": "순위",
@@ -165,12 +165,12 @@
       "vendor": "Cartesia",
       "category": "voice",
       "license": "proprietary",
-      "score": 1287,
+      "score": 1291,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1287"
+          "value": "1291"
         },
         {
           "label": "순위",
@@ -188,7 +188,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1287"
+          "value": "1291"
         },
         {
           "label": "순위",
@@ -217,12 +217,12 @@
       "vendor": "Google",
       "category": "voice",
       "license": "proprietary",
-      "score": 1278,
+      "score": 1280,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1278"
+          "value": "1280"
         },
         {
           "label": "순위",
@@ -240,7 +240,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1278"
+          "value": "1280"
         },
         {
           "label": "순위",
@@ -269,12 +269,12 @@
       "vendor": "Alibaba",
       "category": "voice",
       "license": "proprietary",
-      "score": 1265,
+      "score": 1264,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1265"
+          "value": "1264"
         },
         {
           "label": "순위",
@@ -292,7 +292,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1265"
+          "value": "1264"
         },
         {
           "label": "순위",
@@ -371,12 +371,12 @@
       "vendor": "Google",
       "category": "voice",
       "license": "proprietary",
-      "score": 1248,
+      "score": 1252,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1248"
+          "value": "1252"
         },
         {
           "label": "순위",
@@ -394,7 +394,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1248"
+          "value": "1252"
         },
         {
           "label": "순위",
@@ -411,6 +411,56 @@
         {
           "label": "제작사",
           "value": "Google"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "voice-drama3-preview",
+      "name": "Fish Audio Drama 3 Preview",
+      "vendor": "Fish Audio",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1247,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1247"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Fish Audio"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1247"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Fish Audio"
         }
       ],
       "strengths": []
@@ -430,7 +480,7 @@
         },
         {
           "label": "순위",
-          "value": "#9"
+          "value": "#10"
         },
         {
           "label": "투표수",
@@ -448,7 +498,7 @@
         },
         {
           "label": "순위",
-          "value": "#9"
+          "value": "#10"
         },
         {
           "label": "투표 수",
@@ -461,56 +511,6 @@
         {
           "label": "제작사",
           "value": "SpeechifyAI"
-        }
-      ],
-      "strengths": []
-    },
-    {
-      "id": "voice-drama3-preview",
-      "name": "Fish Audio Drama 3 Preview",
-      "vendor": "Fish Audio",
-      "category": "voice",
-      "license": "proprietary",
-      "score": 1244,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1244"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표수",
-          "value": "—"
-        },
-        {
-          "label": "제작사",
-          "value": "Fish Audio"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1244"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표 수",
-          "value": "—"
-        },
-        {
-          "label": "출시일",
-          "value": "—"
-        },
-        {
-          "label": "제작사",
-          "value": "Fish Audio"
         }
       ],
       "strengths": []
