@@ -1,7 +1,7 @@
 {
   "category": "voice",
   "date": "2026-10-20",
-  "updatedAt": "2026-10-20T00:08:24.086Z",
+  "updatedAt": "2026-10-20T23:40:05.703Z",
   "models": [
     {
       "id": "voice-eleven-v4-turbo",
@@ -9,12 +9,12 @@
       "vendor": "ElevenLabs",
       "category": "voice",
       "license": "proprietary",
-      "score": 1332,
+      "score": 1333,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1332"
+          "value": "1333"
         },
         {
           "label": "순위",
@@ -32,7 +32,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1332"
+          "value": "1333"
         },
         {
           "label": "순위",
@@ -61,12 +61,12 @@
       "vendor": "ElevenLabs",
       "category": "voice",
       "license": "proprietary",
-      "score": 1329,
+      "score": 1328,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1329"
+          "value": "1328"
         },
         {
           "label": "순위",
@@ -84,7 +84,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1329"
+          "value": "1328"
         },
         {
           "label": "순위",
@@ -113,12 +113,12 @@
       "vendor": "Alibaba",
       "category": "voice",
       "license": "proprietary",
-      "score": 1297,
+      "score": 1299,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1297"
+          "value": "1299"
         },
         {
           "label": "순위",
@@ -136,7 +136,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1297"
+          "value": "1299"
         },
         {
           "label": "순위",
@@ -165,12 +165,12 @@
       "vendor": "Cartesia",
       "category": "voice",
       "license": "proprietary",
-      "score": 1291,
+      "score": 1289,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1291"
+          "value": "1289"
         },
         {
           "label": "순위",
@@ -188,7 +188,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1291"
+          "value": "1289"
         },
         {
           "label": "순위",
@@ -217,12 +217,12 @@
       "vendor": "Google",
       "category": "voice",
       "license": "proprietary",
-      "score": 1280,
+      "score": 1278,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1280"
+          "value": "1278"
         },
         {
           "label": "순위",
@@ -240,7 +240,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1280"
+          "value": "1278"
         },
         {
           "label": "순위",
@@ -257,6 +257,58 @@
         {
           "label": "제작사",
           "value": "Google"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "voice-realtime-tts-2",
+      "name": "Realtime TTS-2",
+      "vendor": "Inworld",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1265,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1265"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Inworld"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1265"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Inworld"
         }
       ],
       "strengths": [
@@ -278,7 +330,7 @@
         },
         {
           "label": "순위",
-          "value": "#6"
+          "value": "#7"
         },
         {
           "label": "투표수",
@@ -296,7 +348,7 @@
         },
         {
           "label": "순위",
-          "value": "#6"
+          "value": "#7"
         },
         {
           "label": "투표 수",
@@ -311,58 +363,6 @@
           "value": "Alibaba"
         }
       ],
-      "strengths": [
-        "상위권"
-      ]
-    },
-    {
-      "id": "voice-realtime-tts-2",
-      "name": "Realtime TTS-2",
-      "vendor": "Inworld",
-      "category": "voice",
-      "license": "proprietary",
-      "score": 1262,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1262"
-        },
-        {
-          "label": "순위",
-          "value": "#7"
-        },
-        {
-          "label": "투표수",
-          "value": "—"
-        },
-        {
-          "label": "제작사",
-          "value": "Inworld"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1262"
-        },
-        {
-          "label": "순위",
-          "value": "#7"
-        },
-        {
-          "label": "투표 수",
-          "value": "—"
-        },
-        {
-          "label": "출시일",
-          "value": "—"
-        },
-        {
-          "label": "제작사",
-          "value": "Inworld"
-        }
-      ],
       "strengths": []
     },
     {
@@ -371,12 +371,12 @@
       "vendor": "Google",
       "category": "voice",
       "license": "proprietary",
-      "score": 1252,
+      "score": 1250,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1252"
+          "value": "1250"
         },
         {
           "label": "순위",
@@ -394,7 +394,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1252"
+          "value": "1250"
         },
         {
           "label": "순위",

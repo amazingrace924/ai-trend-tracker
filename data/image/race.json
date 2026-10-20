@@ -7111,7 +7111,7 @@
           "id": "image-gpt-image-2.5-sunburst-2026-09-08",
           "name": "GPT Image 2.5 Sunburst (max)",
           "vendor": "OpenAI",
-          "value": 1220
+          "value": 1222
         },
         {
           "id": "image-gpt-image-2.5-flare-2026-09-08",
@@ -7129,18 +7129,18 @@
           "id": "image-nano-banana-2-1",
           "name": "Nano Banana 2.1",
           "vendor": "Google",
-          "value": 1174
-        },
-        {
-          "id": "image-grok-imagine-image-2-0",
-          "name": "Grok Imagine Image 2.0",
-          "vendor": "SpaceXAI",
-          "value": 1167
+          "value": 1176
         },
         {
           "id": "image-mai-image-2-6",
           "name": "MAI-Image-2.6",
           "vendor": "Microsoft AI",
+          "value": 1166
+        },
+        {
+          "id": "image-grok-imagine-image-2-0",
+          "name": "Grok Imagine Image 2.0",
+          "vendor": "SpaceXAI",
           "value": 1166
         },
         {

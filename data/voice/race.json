@@ -7111,31 +7111,37 @@
           "id": "voice-eleven-v4-turbo",
           "name": "Eleven v4 Turbo",
           "vendor": "ElevenLabs",
-          "value": 1332
+          "value": 1333
         },
         {
           "id": "voice-eleven-v4",
           "name": "Eleven v4",
           "vendor": "ElevenLabs",
-          "value": 1329
+          "value": 1328
         },
         {
           "id": "voice-qwen-audio-3-1-tts-plus",
           "name": "Qwen-Audio-3.1-TTS-Plus",
           "vendor": "Alibaba",
-          "value": 1297
+          "value": 1299
         },
         {
           "id": "voice-sonic-3-6",
           "name": "Sonic 3.6",
           "vendor": "Cartesia",
-          "value": 1291
+          "value": 1289
         },
         {
           "id": "voice-gemini-3-8-flash-tts",
           "name": "Gemini 3.8 Flash TTS",
           "vendor": "Google",
-          "value": 1280
+          "value": 1278
+        },
+        {
+          "id": "voice-realtime-tts-2",
+          "name": "Realtime TTS-2",
+          "vendor": "Inworld",
+          "value": 1265
         },
         {
           "id": "voice-qwen-audio-3-0-tts-plus",
@@ -7144,16 +7150,10 @@
           "value": 1264
         },
         {
-          "id": "voice-realtime-tts-2",
-          "name": "Realtime TTS-2",
-          "vendor": "Inworld",
-          "value": 1262
-        },
-        {
           "id": "voice-gemini-3-8-flash-lite-tts",
           "name": "Gemini 3.8 Flash-Lite TTS",
           "vendor": "Google",
-          "value": 1252
+          "value": 1250
         }
       ]
     }
