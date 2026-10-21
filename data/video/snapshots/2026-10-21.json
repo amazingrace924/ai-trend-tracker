@@ -1,0 +1,529 @@
+{
+  "category": "video",
+  "date": "2026-10-21",
+  "updatedAt": "2026-10-21T23:55:23.927Z",
+  "models": [
+    {
+      "id": "video-heygen-video",
+      "name": "HeyGen Video (ultraquality)",
+      "vendor": "HeyGen",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-10",
+      "score": 1145,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1145"
+        },
+        {
+          "label": "순위",
+          "value": "#1"
+        },
+        {
+          "label": "투표수",
+          "value": "4,880"
+        },
+        {
+          "label": "제작사",
+          "value": "HeyGen"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1145"
+        },
+        {
+          "label": "순위",
+          "value": "#1"
+        },
+        {
+          "label": "투표 수",
+          "value": "4,880"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-10"
+        },
+        {
+          "label": "제작사",
+          "value": "HeyGen"
+        }
+      ],
+      "strengths": [
+        "품질 1위"
+      ]
+    },
+    {
+      "id": "video-wan-3-0",
+      "name": "Wan 3.0",
+      "vendor": "Alibaba",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-08",
+      "score": 1135,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1135"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표수",
+          "value": "3,890"
+        },
+        {
+          "label": "제작사",
+          "value": "Alibaba"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1135"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표 수",
+          "value": "3,890"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-08"
+        },
+        {
+          "label": "제작사",
+          "value": "Alibaba"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "video-minimax-h3-768p",
+      "name": "MiniMax H3 (768p)",
+      "vendor": "MiniMax",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-07",
+      "score": 1121,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1121"
+        },
+        {
+          "label": "순위",
+          "value": "#3"
+        },
+        {
+          "label": "투표수",
+          "value": "3,799"
+        },
+        {
+          "label": "제작사",
+          "value": "MiniMax"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1121"
+        },
+        {
+          "label": "순위",
+          "value": "#3"
+        },
+        {
+          "label": "투표 수",
+          "value": "3,799"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-07"
+        },
+        {
+          "label": "제작사",
+          "value": "MiniMax"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "video-minimax-h3-max",
+      "name": "MiniMax H3 Max",
+      "vendor": "Fal",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-08",
+      "score": 1119,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1119"
+        },
+        {
+          "label": "순위",
+          "value": "#4"
+        },
+        {
+          "label": "투표수",
+          "value": "5,734"
+        },
+        {
+          "label": "제작사",
+          "value": "Fal"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1119"
+        },
+        {
+          "label": "순위",
+          "value": "#4"
+        },
+        {
+          "label": "투표 수",
+          "value": "5,734"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-08"
+        },
+        {
+          "label": "제작사",
+          "value": "Fal"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "video-seedance-2-5-1080p",
+      "name": "Dreamina Seedance 2.5",
+      "vendor": "ByteDance Seed",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-07",
+      "score": 1105,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1105"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표수",
+          "value": "3,959"
+        },
+        {
+          "label": "제작사",
+          "value": "ByteDance Seed"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1105"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표 수",
+          "value": "3,959"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-07"
+        },
+        {
+          "label": "제작사",
+          "value": "ByteDance Seed"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "video-flux-3",
+      "name": "FLUX 3",
+      "vendor": "Black Forest Labs",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-07",
+      "score": 1094,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1094"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표수",
+          "value": "3,103"
+        },
+        {
+          "label": "제작사",
+          "value": "Black Forest Labs"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1094"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표 수",
+          "value": "3,103"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-07"
+        },
+        {
+          "label": "제작사",
+          "value": "Black Forest Labs"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "video-seedance-2-0-1080p",
+      "name": "Dreamina Seedance 2.0",
+      "vendor": "ByteDance Seed",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-03",
+      "score": 1085,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1085"
+        },
+        {
+          "label": "순위",
+          "value": "#7"
+        },
+        {
+          "label": "투표수",
+          "value": "3,101"
+        },
+        {
+          "label": "제작사",
+          "value": "ByteDance Seed"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1085"
+        },
+        {
+          "label": "순위",
+          "value": "#7"
+        },
+        {
+          "label": "투표 수",
+          "value": "3,101"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-03"
+        },
+        {
+          "label": "제작사",
+          "value": "ByteDance Seed"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "video-gemini-omni-flash-1-1",
+      "name": "Gemini Omni Flash 1.1",
+      "vendor": "Google",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-08",
+      "score": 1073,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1073"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표수",
+          "value": "4,079"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1073"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표 수",
+          "value": "4,079"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-08"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "video-agnes-video-2-5",
+      "name": "Agnes-Video-2.5",
+      "vendor": "Sapiens AI",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-08",
+      "score": 1054,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1054"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표수",
+          "value": "3,031"
+        },
+        {
+          "label": "제작사",
+          "value": "Sapiens AI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1054"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표 수",
+          "value": "3,031"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-08"
+        },
+        {
+          "label": "제작사",
+          "value": "Sapiens AI"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "video-happyhorse-1-1",
+      "name": "HappyHorse-1.1",
+      "vendor": "Alibaba-ATH",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-06",
+      "score": 1040,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1040"
+        },
+        {
+          "label": "순위",
+          "value": "#10"
+        },
+        {
+          "label": "투표수",
+          "value": "4,086"
+        },
+        {
+          "label": "제작사",
+          "value": "Alibaba-ATH"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1040"
+        },
+        {
+          "label": "순위",
+          "value": "#10"
+        },
+        {
+          "label": "투표 수",
+          "value": "4,086"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-06"
+        },
+        {
+          "label": "제작사",
+          "value": "Alibaba-ATH"
+        }
+      ],
+      "strengths": []
+    }
+  ]
+}

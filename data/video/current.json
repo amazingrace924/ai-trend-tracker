@@ -1,8 +1,61 @@
 {
   "category": "video",
-  "date": "2026-10-20",
-  "updatedAt": "2026-10-20T23:40:05.311Z",
+  "date": "2026-10-21",
+  "updatedAt": "2026-10-21T23:55:23.927Z",
   "models": [
+    {
+      "id": "video-heygen-video",
+      "name": "HeyGen Video (ultraquality)",
+      "vendor": "HeyGen",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-10",
+      "score": 1145,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1145"
+        },
+        {
+          "label": "순위",
+          "value": "#1"
+        },
+        {
+          "label": "투표수",
+          "value": "4,880"
+        },
+        {
+          "label": "제작사",
+          "value": "HeyGen"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1145"
+        },
+        {
+          "label": "순위",
+          "value": "#1"
+        },
+        {
+          "label": "투표 수",
+          "value": "4,880"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-10"
+        },
+        {
+          "label": "제작사",
+          "value": "HeyGen"
+        }
+      ],
+      "strengths": [
+        "품질 1위"
+      ]
+    },
     {
       "id": "video-wan-3-0",
       "name": "Wan 3.0",
@@ -19,7 +72,7 @@
         },
         {
           "label": "순위",
-          "value": "#1"
+          "value": "#2"
         },
         {
           "label": "투표수",
@@ -37,7 +90,7 @@
         },
         {
           "label": "순위",
-          "value": "#1"
+          "value": "#2"
         },
         {
           "label": "투표 수",
@@ -53,7 +106,7 @@
         }
       ],
       "strengths": [
-        "품질 1위"
+        "상위권"
       ]
     },
     {
@@ -72,7 +125,7 @@
         },
         {
           "label": "순위",
-          "value": "#2"
+          "value": "#3"
         },
         {
           "label": "투표수",
@@ -90,7 +143,7 @@
         },
         {
           "label": "순위",
-          "value": "#2"
+          "value": "#3"
         },
         {
           "label": "투표 수",
@@ -125,7 +178,7 @@
         },
         {
           "label": "순위",
-          "value": "#3"
+          "value": "#4"
         },
         {
           "label": "투표수",
@@ -143,7 +196,7 @@
         },
         {
           "label": "순위",
-          "value": "#3"
+          "value": "#4"
         },
         {
           "label": "투표 수",
@@ -178,7 +231,7 @@
         },
         {
           "label": "순위",
-          "value": "#4"
+          "value": "#5"
         },
         {
           "label": "투표수",
@@ -196,7 +249,7 @@
         },
         {
           "label": "순위",
-          "value": "#4"
+          "value": "#5"
         },
         {
           "label": "투표 수",
@@ -231,7 +284,7 @@
         },
         {
           "label": "순위",
-          "value": "#5"
+          "value": "#6"
         },
         {
           "label": "투표수",
@@ -249,7 +302,7 @@
         },
         {
           "label": "순위",
-          "value": "#5"
+          "value": "#6"
         },
         {
           "label": "투표 수",
@@ -284,7 +337,7 @@
         },
         {
           "label": "순위",
-          "value": "#6"
+          "value": "#7"
         },
         {
           "label": "투표수",
@@ -302,7 +355,7 @@
         },
         {
           "label": "순위",
-          "value": "#6"
+          "value": "#7"
         },
         {
           "label": "투표 수",
@@ -317,9 +370,7 @@
           "value": "ByteDance Seed"
         }
       ],
-      "strengths": [
-        "상위권"
-      ]
+      "strengths": []
     },
     {
       "id": "video-gemini-omni-flash-1-1",
@@ -337,7 +388,7 @@
         },
         {
           "label": "순위",
-          "value": "#7"
+          "value": "#8"
         },
         {
           "label": "투표수",
@@ -355,7 +406,7 @@
         },
         {
           "label": "순위",
-          "value": "#7"
+          "value": "#8"
         },
         {
           "label": "투표 수",
@@ -388,7 +439,7 @@
         },
         {
           "label": "순위",
-          "value": "#8"
+          "value": "#9"
         },
         {
           "label": "투표수",
@@ -406,7 +457,7 @@
         },
         {
           "label": "순위",
-          "value": "#8"
+          "value": "#9"
         },
         {
           "label": "투표 수",
@@ -439,7 +490,7 @@
         },
         {
           "label": "순위",
-          "value": "#9"
+          "value": "#10"
         },
         {
           "label": "투표수",
@@ -457,7 +508,7 @@
         },
         {
           "label": "순위",
-          "value": "#9"
+          "value": "#10"
         },
         {
           "label": "투표 수",
@@ -470,57 +521,6 @@
         {
           "label": "제작사",
           "value": "Alibaba-ATH"
-        }
-      ],
-      "strengths": []
-    },
-    {
-      "id": "video-grok-imagine-video-1.5",
-      "name": "Grok Imagine Video 1.5",
-      "vendor": "SpaceXAI",
-      "category": "video",
-      "license": "proprietary",
-      "releaseDate": "2026-05",
-      "score": 1037,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1037"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표수",
-          "value": "3,107"
-        },
-        {
-          "label": "제작사",
-          "value": "SpaceXAI"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1037"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표 수",
-          "value": "3,107"
-        },
-        {
-          "label": "출시일",
-          "value": "2026-05"
-        },
-        {
-          "label": "제작사",
-          "value": "SpaceXAI"
         }
       ],
       "strengths": []
