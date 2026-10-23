@@ -1,7 +1,7 @@
 {
   "category": "llm",
-  "date": "2026-10-22",
-  "updatedAt": "2026-10-22T23:54:37.793Z",
+  "date": "2026-10-23",
+  "updatedAt": "2026-10-23T23:45:51.966Z",
   "models": [
     {
       "id": "claude-opus-5-5",
@@ -19,7 +19,7 @@
         },
         {
           "label": "속도",
-          "value": "98/s"
+          "value": "97/s"
         },
         {
           "label": "출력가",
@@ -37,11 +37,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "98 tok/s"
+          "value": "97 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "539.11s"
+          "value": "403.92s"
         },
         {
           "label": "입력 가격(1M)",
@@ -73,7 +73,7 @@
         },
         {
           "label": "속도",
-          "value": "140/s"
+          "value": "138/s"
         },
         {
           "label": "출력가",
@@ -91,11 +91,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "140 tok/s"
+          "value": "138 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "383.68s"
+          "value": "271.95s"
         },
         {
           "label": "입력 가격(1M)",
@@ -127,7 +127,7 @@
         },
         {
           "label": "속도",
-          "value": "84/s"
+          "value": "82/s"
         },
         {
           "label": "출력가",
@@ -145,11 +145,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "84 tok/s"
+          "value": "82 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "72.43s"
+          "value": "55.84s"
         },
         {
           "label": "입력 가격(1M)",
@@ -208,6 +208,60 @@
       ]
     },
     {
+      "id": "kimi-k3-1-pro",
+      "name": "Kimi K3.1 Pro",
+      "vendor": "Kimi",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-10-23",
+      "score": 55.1,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "—"
+        },
+        {
+          "label": "속도",
+          "value": "83/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$10"
+        },
+        {
+          "label": "수학",
+          "value": "—"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "55.1"
+        },
+        {
+          "label": "출력 속도",
+          "value": "83 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "2.15s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$2"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$10"
+        }
+      ],
+      "strengths": [
+        "가성비",
+        "초고속"
+      ]
+    },
+    {
       "id": "claude-opus-5-5-high",
       "name": "Claude Opus 5.5 (High, Default Fallback)",
       "vendor": "Anthropic",
@@ -223,7 +277,7 @@
         },
         {
           "label": "속도",
-          "value": "79/s"
+          "value": "78/s"
         },
         {
           "label": "출력가",
@@ -241,11 +295,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "79 tok/s"
+          "value": "78 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "18.12s"
+          "value": "15.28s"
         },
         {
           "label": "입력 가격(1M)",
@@ -304,7 +358,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "135.38s"
+          "value": "125.09s"
         },
         {
           "label": "입력 가격(1M)",
@@ -336,7 +390,7 @@
         },
         {
           "label": "속도",
-          "value": "61/s"
+          "value": "58/s"
         },
         {
           "label": "출력가",
@@ -362,11 +416,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "61 tok/s"
+          "value": "58 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "41.65s"
+          "value": "37.14s"
         },
         {
           "label": "입력 가격(1M)",
@@ -398,7 +452,7 @@
         },
         {
           "label": "속도",
-          "value": "61/s"
+          "value": "64/s"
         },
         {
           "label": "출력가",
@@ -424,11 +478,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "61 tok/s"
+          "value": "64 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "212.67s"
+          "value": "181.63s"
         },
         {
           "label": "입력 가격(1M)",
@@ -482,7 +536,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "24.86s"
+          "value": "29.9s"
         },
         {
           "label": "입력 가격(1M)",
@@ -513,7 +567,7 @@
         },
         {
           "label": "속도",
-          "value": "194/s"
+          "value": "149/s"
         },
         {
           "label": "출력가",
@@ -531,11 +585,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "194 tok/s"
+          "value": "149 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "31.23s"
+          "value": "31.09s"
         },
         {
           "label": "입력 가격(1M)",
@@ -596,7 +650,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "103.49s"
+          "value": "60.91s"
         },
         {
           "label": "입력 가격(1M)",
@@ -610,60 +664,6 @@
       "strengths": [
         "코딩 강자",
         "고난도 추론"
-      ]
-    },
-    {
-      "id": "claude-sonnet-5-5-xhigh",
-      "name": "Claude Sonnet 5.5 (Xhigh, Default Fallback)",
-      "vendor": "Anthropic",
-      "category": "llm",
-      "license": "proprietary",
-      "releaseDate": "2026-09-28",
-      "score": 51.9,
-      "scoreLabel": "Intelligence Index",
-      "highlights": [
-        {
-          "label": "코딩",
-          "value": "—"
-        },
-        {
-          "label": "속도",
-          "value": "107/s"
-        },
-        {
-          "label": "출력가",
-          "value": "$10"
-        },
-        {
-          "label": "수학",
-          "value": "—"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Intelligence Index",
-          "value": "51.9"
-        },
-        {
-          "label": "출력 속도",
-          "value": "107 tok/s"
-        },
-        {
-          "label": "첫 토큰 지연",
-          "value": "13.78s"
-        },
-        {
-          "label": "입력 가격(1M)",
-          "value": "$2"
-        },
-        {
-          "label": "출력 가격(1M)",
-          "value": "$10"
-        }
-      ],
-      "strengths": [
-        "가성비",
-        "초고속"
       ]
     }
   ]

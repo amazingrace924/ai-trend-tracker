@@ -1,11 +1,11 @@
 {
   "category": "video",
-  "date": "2026-10-22",
-  "updatedAt": "2026-10-22T23:54:37.943Z",
+  "date": "2026-10-23",
+  "updatedAt": "2026-10-23T23:45:52.093Z",
   "models": [
     {
       "id": "video-heygen-video",
-      "name": "HeyGen Video 1 (ultraquality)",
+      "name": "HeyGen Video 1",
       "vendor": "HeyGen",
       "category": "video",
       "license": "proprietary",
