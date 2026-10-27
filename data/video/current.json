@@ -1,7 +1,7 @@
 {
   "category": "video",
-  "date": "2026-10-25",
-  "updatedAt": "2026-10-25T23:03:24.848Z",
+  "date": "2026-10-27",
+  "updatedAt": "2026-10-27T00:15:48.532Z",
   "models": [
     {
       "id": "video-heygen-video",
@@ -10,12 +10,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-10",
-      "score": 1144,
+      "score": 1143,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1144"
+          "value": "1143"
         },
         {
           "label": "순위",
@@ -23,7 +23,7 @@
         },
         {
           "label": "투표수",
-          "value": "5,053"
+          "value": "5,389"
         },
         {
           "label": "제작사",
@@ -33,7 +33,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1144"
+          "value": "1143"
         },
         {
           "label": "순위",
@@ -41,7 +41,7 @@
         },
         {
           "label": "투표 수",
-          "value": "5,053"
+          "value": "5,389"
         },
         {
           "label": "출시일",
@@ -63,12 +63,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-08",
-      "score": 1134,
+      "score": 1133,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1134"
+          "value": "1133"
         },
         {
           "label": "순위",
@@ -76,7 +76,7 @@
         },
         {
           "label": "투표수",
-          "value": "4,042"
+          "value": "4,349"
         },
         {
           "label": "제작사",
@@ -86,7 +86,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1134"
+          "value": "1133"
         },
         {
           "label": "순위",
@@ -94,7 +94,7 @@
         },
         {
           "label": "투표 수",
-          "value": "4,042"
+          "value": "4,349"
         },
         {
           "label": "출시일",
@@ -129,7 +129,7 @@
         },
         {
           "label": "투표수",
-          "value": "3,948"
+          "value": "4,239"
         },
         {
           "label": "제작사",
@@ -147,7 +147,7 @@
         },
         {
           "label": "투표 수",
-          "value": "3,948"
+          "value": "4,239"
         },
         {
           "label": "출시일",
@@ -169,12 +169,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-08",
-      "score": 1117,
+      "score": 1118,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1117"
+          "value": "1118"
         },
         {
           "label": "순위",
@@ -182,7 +182,7 @@
         },
         {
           "label": "투표수",
-          "value": "5,883"
+          "value": "6,187"
         },
         {
           "label": "제작사",
@@ -192,7 +192,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1117"
+          "value": "1118"
         },
         {
           "label": "순위",
@@ -200,7 +200,7 @@
         },
         {
           "label": "투표 수",
-          "value": "5,883"
+          "value": "6,187"
         },
         {
           "label": "출시일",
@@ -235,7 +235,7 @@
         },
         {
           "label": "투표수",
-          "value": "4,115"
+          "value": "4,439"
         },
         {
           "label": "제작사",
@@ -253,7 +253,7 @@
         },
         {
           "label": "투표 수",
-          "value": "4,115"
+          "value": "4,439"
         },
         {
           "label": "출시일",
@@ -275,12 +275,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-07",
-      "score": 1090,
+      "score": 1091,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1090"
+          "value": "1091"
         },
         {
           "label": "순위",
@@ -288,7 +288,7 @@
         },
         {
           "label": "투표수",
-          "value": "3,261"
+          "value": "3,594"
         },
         {
           "label": "제작사",
@@ -298,7 +298,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1090"
+          "value": "1091"
         },
         {
           "label": "순위",
@@ -306,7 +306,7 @@
         },
         {
           "label": "투표 수",
-          "value": "3,261"
+          "value": "3,594"
         },
         {
           "label": "출시일",
@@ -328,12 +328,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-03",
-      "score": 1083,
+      "score": 1082,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1083"
+          "value": "1082"
         },
         {
           "label": "순위",
@@ -341,7 +341,7 @@
         },
         {
           "label": "투표수",
-          "value": "3,251"
+          "value": "3,549"
         },
         {
           "label": "제작사",
@@ -351,7 +351,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1083"
+          "value": "1082"
         },
         {
           "label": "순위",
@@ -359,7 +359,7 @@
         },
         {
           "label": "투표 수",
-          "value": "3,251"
+          "value": "3,549"
         },
         {
           "label": "출시일",
@@ -379,12 +379,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-08",
-      "score": 1071,
+      "score": 1067,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1071"
+          "value": "1067"
         },
         {
           "label": "순위",
@@ -392,7 +392,7 @@
         },
         {
           "label": "투표수",
-          "value": "4,250"
+          "value": "4,548"
         },
         {
           "label": "제작사",
@@ -402,7 +402,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1071"
+          "value": "1067"
         },
         {
           "label": "순위",
@@ -410,7 +410,7 @@
         },
         {
           "label": "투표 수",
-          "value": "4,250"
+          "value": "4,548"
         },
         {
           "label": "출시일",
@@ -430,12 +430,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-08",
-      "score": 1052,
+      "score": 1054,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1052"
+          "value": "1054"
         },
         {
           "label": "순위",
@@ -443,7 +443,7 @@
         },
         {
           "label": "투표수",
-          "value": "3,194"
+          "value": "3,481"
         },
         {
           "label": "제작사",
@@ -453,7 +453,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1052"
+          "value": "1054"
         },
         {
           "label": "순위",
@@ -461,7 +461,7 @@
         },
         {
           "label": "투표 수",
-          "value": "3,194"
+          "value": "3,481"
         },
         {
           "label": "출시일",
@@ -475,18 +475,18 @@
       "strengths": []
     },
     {
-      "id": "video-happyhorse-1-1",
-      "name": "HappyHorse-1.1",
-      "vendor": "Alibaba-ATH",
+      "id": "video-grok-imagine-video-1.5",
+      "name": "Grok Imagine Video 1.5",
+      "vendor": "SpaceXAI",
       "category": "video",
       "license": "proprietary",
-      "releaseDate": "2026-06",
-      "score": 1036,
+      "releaseDate": "2026-05",
+      "score": 1034,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1036"
+          "value": "1034"
         },
         {
           "label": "순위",
@@ -494,17 +494,17 @@
         },
         {
           "label": "투표수",
-          "value": "4,243"
+          "value": "3,568"
         },
         {
           "label": "제작사",
-          "value": "Alibaba-ATH"
+          "value": "SpaceXAI"
         }
       ],
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1036"
+          "value": "1034"
         },
         {
           "label": "순위",
@@ -512,15 +512,15 @@
         },
         {
           "label": "투표 수",
-          "value": "4,243"
+          "value": "3,568"
         },
         {
           "label": "출시일",
-          "value": "2026-06"
+          "value": "2026-05"
         },
         {
           "label": "제작사",
-          "value": "Alibaba-ATH"
+          "value": "SpaceXAI"
         }
       ],
       "strengths": []

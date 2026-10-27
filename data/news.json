@@ -1,6 +1,73 @@
 [
   {
-    "id": "OpenAI-0-rapidly-scaling-online-storage-to-serve-",
+    "id": "OpenAI-0-greptile-takes-bug-detection-beyond-code",
+    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+    "url": "https://openai.com/index/greptile-code-review-codex-astra",
+    "source": "OpenAI",
+    "date": "2026-10-26T22:00:00.000Z",
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "titleKo": "Greptile은 GPT-6 Astra를 사용하여 코드 검토 이상의 버그 탐지 기능을 제공합니다.",
+    "summaryKo": "Greptile이 GPT-6 Astra를 사용하여 사용자 워크플로를 테스트하고 Daybreak를 사용하여 보안을 강화하고 Codex를 사용하여 재작업을 줄이는 방법."
+  },
+  {
+    "id": "OpenAI-1-working-with-academic-communities-to-bui",
+    "title": "Working with academic communities to build scientific understanding",
+    "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+    "source": "OpenAI",
+    "date": "2026-10-26T14:30:00.000Z",
+    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "titleKo": "과학적 이해를 구축하기 위해 학계와 협력",
+    "summaryKo": "OpenAI는 Kakeya 추측, 지수 시간 가설, 양자 색역학에 대한 모델 결과와 연구자가 이를 검증하고 구축할 수 있는 방법을 공유합니다."
+  },
+  {
+    "id": "OpenAI-2-gpt-6-1-sol-helps-coderabbit-strengthen-",
+    "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+    "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+    "source": "OpenAI",
+    "date": "2026-10-26T13:45:00.000Z",
+    "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+    "titleKo": "GPT-6.1 Sol은 CodeRabbit이 복잡한 코드베이스 전반에 걸쳐 보안을 강화하도록 돕습니다.",
+    "summaryKo": "CodeRabbit은 GPT-6.1 Sol을 사용하여 복잡한 코드베이스의 보안 위험을 조사합니다. 보안 에이전트는 개발자가 발견 사항과 제안된 수정 사항을 검토하는 데 도움을 줍니다."
+  },
+  {
+    "id": "OpenAI-3-chatgpt-s-expanding-world-of-work",
+    "title": "ChatGPT’s expanding world of work",
+    "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+    "source": "OpenAI",
+    "date": "2026-10-26T10:00:00.000Z",
+    "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+    "titleKo": "ChatGPT의 확장되는 업무 세계"
+  },
+  {
+    "id": "OpenAI-5-how-ultrafast-cut-incident-investigation",
+    "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+    "url": "https://openai.com/index/openai-cut-incident-investigation",
+    "source": "OpenAI",
+    "date": "2026-10-26T07:00:00.000Z",
+    "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+    "summaryKo": "OpenAI 엔지니어가 Codex Ultrafast를 사용하여 몇 분 만에 사고를 조사하는 방법을 알아보세요. 더 빠른 보안 분석, 코드 리팩토링 및 일일 워크플로를 살펴보세요."
+  },
+  {
+    "id": "OpenAI-4-how-fanatics-and-openai-streamline-the-f",
+    "title": "How Fanatics and OpenAI streamline the fan experience",
+    "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+    "source": "OpenAI",
+    "date": "2026-10-26T07:00:00.000Z",
+    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
+    "titleKo": "Fanatics와 OpenAI가 팬 경험을 간소화하는 방법"
+  },
+  {
+    "id": "OpenAI-6-introducing-gpt-6-1-terra",
+    "title": "Introducing GPT-6.1 Terra",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+    "source": "OpenAI",
+    "date": "2026-10-26T00:00:00.000Z",
+    "summary": "Bringing fast and capable computer use to everyone",
+    "titleKo": "GPT-6.1 테라 소개",
+    "summaryKo": "모든 사람이 빠르고 유능한 컴퓨터를 사용할 수 있도록 지원"
+  },
+  {
+    "id": "OpenAI-7-rapidly-scaling-online-storage-to-serve-",
     "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
     "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
     "source": "OpenAI",
@@ -19,14 +86,14 @@
     "titleKo": "LitPivot: 문학 환경 내에서 역동적인 맥락화를 통해 연구 아이디어 개발"
   },
   {
-    "id": "OpenAI-1-securing-our-frontier-model-training-env",
+    "id": "OpenAI-8-securing-our-frontier-model-training-env",
     "title": "Securing our frontier model training environment",
     "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
     "source": "OpenAI",
     "date": "2026-10-23T10:00:00.000Z",
     "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
     "titleKo": "프론티어 모델 교육 환경 확보",
-    "summaryKo": "OpenAI는 오프라인 환경 및 고성능 레드팀 구성을 포함하여 프론티어 모델 훈련 및 평가에 대한 억제를 어떻게 강화했는지 설명합니다."
+    "summaryKo": "OpenAI는 오프라인 환경과 높은 컴퓨팅 레드팀 구성을 포함하여 프론티어 모델 훈련 및 평가에 대한 억제를 어떻게 강화했는지 설명합니다."
   },
   {
     "id": "Hugging Face-1-does-your-model-run-on-aws-trainium-look",
@@ -38,12 +105,13 @@
     "titleKo": "귀하의 모델이 AWS Trainium에서 실행됩니까? 찾아보세요"
   },
   {
-    "id": "OpenAI-2-openai-and-poland-s-nask-partner-to-adva",
+    "id": "OpenAI-9-openai-and-poland-s-nask-partner-to-adva",
     "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
     "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
     "source": "OpenAI",
     "date": "2026-10-23T00:00:00.000Z",
     "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+    "titleKo": "OpenAI와 폴란드의 NASK 파트너십으로 AI 안전 및 보안 향상",
     "summaryKo": "OpenAI와 폴란드의 NASK는 안전 장치를 강화하고 보다 탄력적인 디지털 생태계를 지원하기 위해 AI 안전, 보안 및 기술 연구에 협력하고 있습니다."
   },
   {
@@ -56,13 +124,14 @@
     "titleKo": "데이터베이스 등급을 RL 보상으로 전환: ThinkingBox를 사용한 사후 교육 에이전트"
   },
   {
-    "id": "OpenAI-3-build-more-responsive-apps-with-the-deci",
+    "id": "OpenAI-10-build-more-responsive-apps-with-the-deci",
     "title": "Build more responsive apps with the Decisions API",
     "url": "https://openai.com/index/decisions-api",
     "source": "OpenAI",
     "date": "2026-10-22T19:00:00.000Z",
     "summary": "Fast, focused, low-cost decisions for any application.",
-    "titleKo": "Decisions API로 반응성이 뛰어난 앱 구축"
+    "titleKo": "Decisions API로 반응성이 뛰어난 앱 구축",
+    "summaryKo": "모든 애플리케이션에 대해 빠르고 집중적이며 저렴한 결정을 내릴 수 있습니다."
   },
   {
     "id": "Google DeepMind-0-beyond-tree-cover-mapping-the-world-s-fo",
@@ -71,7 +140,7 @@
     "source": "Google DeepMind",
     "date": "2026-10-22T14:30:24.000Z",
     "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "titleKo": "나무 덮개 너머: 세계의 숲 유형 지도 작성",
+    "titleKo": "나무 덮개 너머: 세계의 숲 유형 매핑",
     "summaryKo": "지구상의 모든 10m 토지를 뚜렷한 숲 유형으로 분류하는 세계 지도입니다."
   },
   {
@@ -80,11 +149,10 @@
     "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
     "source": "Hugging Face",
     "date": "2026-10-22T07:51:31.000Z",
-    "summary": "",
-    "titleKo": "IBM Granite 시계열 모델을 사용한 앙상블 예측"
+    "summary": ""
   },
   {
-    "id": "OpenAI-4-what-fde-means-at-openai",
+    "id": "OpenAI-11-what-fde-means-at-openai",
     "title": "What FDE means at OpenAI",
     "url": "https://openai.com/index/forward-deployed-engineering-means",
     "source": "OpenAI",
@@ -94,7 +162,7 @@
     "summaryKo": "OpenAI에서 전방 배포 엔지니어링의 의미"
   },
   {
-    "id": "OpenAI-5-uber-brings-chatgpt-work-to-all-employee",
+    "id": "OpenAI-12-uber-brings-chatgpt-work-to-all-employee",
     "title": "Uber brings ChatGPT Work to all employees with OpenAI",
     "url": "https://openai.com/index/uber-chatgpt-work-rollout",
     "source": "OpenAI",
@@ -104,7 +172,7 @@
     "summaryKo": "Uber는 ChatGPT Work를 30,000명 이상의 직원에게 출시하여 팀이 조사하고, 데이터를 분석하고, 프레젠테이션을 작성하고, 복잡한 워크플로를 완료할 수 있도록 지원합니다."
   },
   {
-    "id": "OpenAI-7-broad-access-through-consistent-standard",
+    "id": "OpenAI-14-broad-access-through-consistent-standard",
     "title": "Broad access through consistent standards",
     "url": "https://openai.com/index/broad-access-through-consistent-standards",
     "source": "OpenAI",
@@ -119,8 +187,7 @@
     "url": "https://huggingface.co/blog/nvidia/kumo-relational",
     "source": "Hugging Face",
     "date": "2026-10-21T18:26:30.000Z",
-    "summary": "",
-    "titleKo": "NVIDIA Kumo Relational은 관계형 데이터에 대한 지도 머신 러닝을 능가하며 교육이 필요하지 않습니다."
+    "summary": ""
   },
   {
     "id": "Hugging Face-5-how-specializing-the-vocabulary-of-slms-",
@@ -132,7 +199,7 @@
     "titleKo": "SLM 어휘 전문화로 실제 애플리케이션에서 추론 비용을 77% 절감할 수 있는 방법"
   },
   {
-    "id": "OpenAI-6-how-at-t-is-rethinking-in-house-legal-wo",
+    "id": "OpenAI-13-how-at-t-is-rethinking-in-house-legal-wo",
     "title": "How AT&T is rethinking in-house legal work with OpenAI",
     "url": "https://openai.com/index/att-legal",
     "source": "OpenAI",
@@ -158,74 +225,6 @@
     "date": "2026-10-21T14:58:18.000Z",
     "summary": "",
     "titleKo": "Granite Speech 5.0: 보다 정확하고 빠르게 전사, 번역 및 속성 지정"
-  },
-  {
-    "id": "OpenAI-10-chatgpt-ads-expands-to-26-new-countries-",
-    "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-    "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-    "source": "OpenAI",
-    "date": "2026-10-21T13:00:00.000Z",
-    "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-    "summaryKo": "지역 비즈니스부터 글로벌 브랜드에 이르기까지 이제 더 많은 광고주가 사람들이 ChatGPT에서 무엇을 구매할지 탐색, 비교, 결정할 수 있도록 다가갈 수 있습니다."
-  },
-  {
-    "id": "OpenAI-8-openai-models-are-coming-to-google-cloud",
-    "title": "OpenAI models are coming to Google Cloud",
-    "url": "https://openai.com/index/openai-models-google-cloud",
-    "source": "OpenAI",
-    "date": "2026-10-21T12:00:00.000Z",
-    "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-    "titleKo": "OpenAI 모델이 Google Cloud에 출시됩니다",
-    "summaryKo": "OpenAI와 Google Cloud는 Google Cloud Marketplace를 통해 제공되는 Gemini의 Model Garden에 최첨단 모델과 Codex 워크플로를 제공합니다."
-  },
-  {
-    "id": "OpenAI-13-how-we-built-chatgpt-s-novel-ad-stack-fo",
-    "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-    "url": "https://openai.com/index/building-chatgpt-ad-stack",
-    "source": "OpenAI",
-    "date": "2026-10-21T07:00:00.000Z",
-    "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
-    "titleKo": "사용자 신뢰와 관련성을 위해 ChatGPT의 새로운 광고 스택을 구축한 방법",
-    "summaryKo": "OpenAI가 ChatGPT의 LLM 기반 광고 스택을 구축하여 대화 의도를 이해하고, 광고를 답변과 분리하고, 관련 광고를 대규모로 제공하는 방법을 알아보세요."
-  },
-  {
-    "id": "OpenAI-9-patch-the-planet-global-response-coordin",
-    "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-    "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-    "source": "OpenAI",
-    "date": "2026-10-21T07:00:00.000Z",
-    "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-    "titleKo": "Patch the Planet: 에이전트가 심각한 취약점을 발견할 때 글로벌 대응 조정",
-    "summaryKo": "Patch the Planet은 보안 연구원, 유지 관리 담당자 및 사고 대응자를 연결하여 오픈 소스 전반의 심각한 취약점을 해결하는 데 도움을 줍니다."
-  },
-  {
-    "id": "OpenAI-11-using-thousands-of-ai-agents-to-uncover-",
-    "title": "Using thousands of AI agents to uncover new leads in biological data",
-    "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-    "source": "OpenAI",
-    "date": "2026-10-21T04:50:00.000Z",
-    "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-    "titleKo": "수천 개의 AI 에이전트를 사용하여 생물학적 데이터에서 새로운 단서를 발견합니다.",
-    "summaryKo": "OpenAI, PerturbAI 및 Scripps Research가 어떻게 분산 AI 에이전트를 사용하여 수백만 개의 뇌 세포 데이터에서 유망한 연구 리드를 찾아냈는지 알아보세요."
-  },
-  {
-    "id": "OpenAI-14-democratic-governance-of-frontier-ai-par",
-    "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-    "url": "https://openai.com/index/empowering-cyber-defenders",
-    "source": "OpenAI",
-    "date": "2026-10-21T00:00:00.000Z",
-    "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institutions.",
-    "titleKo": "프론티어 AI의 민주적 거버넌스, 2부: 사이버 방어자 역량 강화",
-    "summaryKo": "OpenAI는 최첨단 AI, 더욱 강력한 보호 장치, 현대화된 사이버 보안, 보다 탄력적인 공공 기관을 통해 사이버 방어자에게 역량을 부여하기 위한 청사진을 설명합니다."
-  },
-  {
-    "id": "OpenAI-12-cloudflare-links-vulnerability-discovery",
-    "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-    "url": "https://openai.com/index/cloudflare-cyber",
-    "source": "OpenAI",
-    "date": "2026-10-21T00:00:00.000Z",
-    "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
-    "summaryKo": "Cloudflare는 OpenAI Daybreak를 사용하여 취약점을 조사하고 검토할 수정 사항을 제안합니다. 개발자는 Codex를 사용하여 더 빠르게 빌드하고 코드 품질을 향상시킵니다."
   },
   {
     "id": "Hugging Face-10-mps-in-pytorch-2-15",
@@ -288,8 +287,7 @@
     "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
     "source": "Hugging Face",
     "date": "2026-10-15T09:08:45.000Z",
-    "summary": "",
-    "titleKo": "Apertus 1.5 릴리스 노트"
+    "summary": ""
   },
   {
     "id": "Hugging Face-14-welcome-muse-spark-open-open-weight-fron",
@@ -334,8 +332,7 @@
     "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
     "source": "Google DeepMind",
     "date": "2026-10-13T16:01:52.000Z",
-    "summary": "",
-    "titleKo": "Gemini 4 Argon: 가장 어려운 문제를 해결하기 위해 제작되었습니다."
+    "summary": ""
   },
   {
     "id": "Google DeepMind-6-embeddinggemma-2-an-open-lightweight-mul",
@@ -361,7 +358,7 @@
     "source": "Google DeepMind",
     "date": "2026-09-30T15:03:07.000Z",
     "summary": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-    "summaryKo": "생물학적 기능을 보존하면서 AI 생성 단백질을 워터마킹하는 개념 증명."
+    "titleKo": "SynthID Bio를 소개합니다"
   },
   {
     "id": "Google DeepMind-9-introducing-gemini-3-8-live-with-live-av",
