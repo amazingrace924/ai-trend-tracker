@@ -1,7 +1,7 @@
 {
   "category": "video",
-  "date": "2026-10-28",
-  "updatedAt": "2026-10-28T00:17:41.663Z",
+  "date": "2026-10-29",
+  "updatedAt": "2026-10-29T00:38:56.670Z",
   "models": [
     {
       "id": "video-heygen-video",
@@ -57,6 +57,112 @@
       ]
     },
     {
+      "id": "video-minimax-h3-max-oct",
+      "name": "MiniMax H3 Max",
+      "vendor": "Fal",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-08",
+      "score": 1140,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1140"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표수",
+          "value": "2,775"
+        },
+        {
+          "label": "제작사",
+          "value": "Fal"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1140"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표 수",
+          "value": "2,775"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-08"
+        },
+        {
+          "label": "제작사",
+          "value": "Fal"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "video-flux-3-max",
+      "name": "FLUX 3 Max",
+      "vendor": "Fal",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-10",
+      "score": 1138,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1138"
+        },
+        {
+          "label": "순위",
+          "value": "#3"
+        },
+        {
+          "label": "투표수",
+          "value": "2,837"
+        },
+        {
+          "label": "제작사",
+          "value": "Fal"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1138"
+        },
+        {
+          "label": "순위",
+          "value": "#3"
+        },
+        {
+          "label": "투표 수",
+          "value": "2,837"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-10"
+        },
+        {
+          "label": "제작사",
+          "value": "Fal"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
       "id": "video-wan-3-0",
       "name": "Wan 3.0",
       "vendor": "Alibaba",
@@ -72,7 +178,7 @@
         },
         {
           "label": "순위",
-          "value": "#2"
+          "value": "#4"
         },
         {
           "label": "투표수",
@@ -90,7 +196,7 @@
         },
         {
           "label": "순위",
-          "value": "#2"
+          "value": "#4"
         },
         {
           "label": "투표 수",
@@ -125,7 +231,7 @@
         },
         {
           "label": "순위",
-          "value": "#3"
+          "value": "#5"
         },
         {
           "label": "투표수",
@@ -143,7 +249,7 @@
         },
         {
           "label": "순위",
-          "value": "#3"
+          "value": "#5"
         },
         {
           "label": "투표 수",
@@ -156,59 +262,6 @@
         {
           "label": "제작사",
           "value": "MiniMax"
-        }
-      ],
-      "strengths": [
-        "상위권"
-      ]
-    },
-    {
-      "id": "video-minimax-h3-max",
-      "name": "MiniMax H3 Max",
-      "vendor": "Fal",
-      "category": "video",
-      "license": "proprietary",
-      "releaseDate": "2026-08",
-      "score": 1118,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1118"
-        },
-        {
-          "label": "순위",
-          "value": "#4"
-        },
-        {
-          "label": "투표수",
-          "value": "6,187"
-        },
-        {
-          "label": "제작사",
-          "value": "Fal"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1118"
-        },
-        {
-          "label": "순위",
-          "value": "#4"
-        },
-        {
-          "label": "투표 수",
-          "value": "6,187"
-        },
-        {
-          "label": "출시일",
-          "value": "2026-08"
-        },
-        {
-          "label": "제작사",
-          "value": "Fal"
         }
       ],
       "strengths": [
@@ -231,7 +284,7 @@
         },
         {
           "label": "순위",
-          "value": "#5"
+          "value": "#6"
         },
         {
           "label": "투표수",
@@ -249,7 +302,7 @@
         },
         {
           "label": "순위",
-          "value": "#5"
+          "value": "#6"
         },
         {
           "label": "투표 수",
@@ -284,7 +337,7 @@
         },
         {
           "label": "순위",
-          "value": "#6"
+          "value": "#7"
         },
         {
           "label": "투표수",
@@ -302,7 +355,7 @@
         },
         {
           "label": "순위",
-          "value": "#6"
+          "value": "#7"
         },
         {
           "label": "투표 수",
@@ -317,9 +370,7 @@
           "value": "Black Forest Labs"
         }
       ],
-      "strengths": [
-        "상위권"
-      ]
+      "strengths": []
     },
     {
       "id": "video-seedance-2-0-1080p",
@@ -337,7 +388,7 @@
         },
         {
           "label": "순위",
-          "value": "#7"
+          "value": "#8"
         },
         {
           "label": "투표수",
@@ -355,7 +406,7 @@
         },
         {
           "label": "순위",
-          "value": "#7"
+          "value": "#8"
         },
         {
           "label": "투표 수",
@@ -388,7 +439,7 @@
         },
         {
           "label": "순위",
-          "value": "#8"
+          "value": "#9"
         },
         {
           "label": "투표수",
@@ -406,7 +457,7 @@
         },
         {
           "label": "순위",
-          "value": "#8"
+          "value": "#9"
         },
         {
           "label": "투표 수",
@@ -439,7 +490,7 @@
         },
         {
           "label": "순위",
-          "value": "#9"
+          "value": "#10"
         },
         {
           "label": "투표수",
@@ -457,7 +508,7 @@
         },
         {
           "label": "순위",
-          "value": "#9"
+          "value": "#10"
         },
         {
           "label": "투표 수",
@@ -470,57 +521,6 @@
         {
           "label": "제작사",
           "value": "Sapiens AI"
-        }
-      ],
-      "strengths": []
-    },
-    {
-      "id": "video-grok-imagine-video-1.5",
-      "name": "Grok Imagine Video 1.5",
-      "vendor": "SpaceXAI",
-      "category": "video",
-      "license": "proprietary",
-      "releaseDate": "2026-05",
-      "score": 1034,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1034"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표수",
-          "value": "3,568"
-        },
-        {
-          "label": "제작사",
-          "value": "SpaceXAI"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1034"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표 수",
-          "value": "3,568"
-        },
-        {
-          "label": "출시일",
-          "value": "2026-05"
-        },
-        {
-          "label": "제작사",
-          "value": "SpaceXAI"
         }
       ],
       "strengths": []

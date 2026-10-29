@@ -7527,6 +7527,59 @@
           "value": 1067
         }
       ]
+    },
+    {
+      "date": "2026-10-29",
+      "entries": [
+        {
+          "id": "video-heygen-video",
+          "name": "HeyGen Video 1",
+          "vendor": "HeyGen",
+          "value": 1143
+        },
+        {
+          "id": "video-minimax-h3-max-oct",
+          "name": "MiniMax H3 Max",
+          "vendor": "Fal",
+          "value": 1140
+        },
+        {
+          "id": "video-flux-3-max",
+          "name": "FLUX 3 Max",
+          "vendor": "Fal",
+          "value": 1138
+        },
+        {
+          "id": "video-wan-3-0",
+          "name": "Wan 3.0",
+          "vendor": "Alibaba",
+          "value": 1133
+        },
+        {
+          "id": "video-minimax-h3-768p",
+          "name": "MiniMax H3 (768p)",
+          "vendor": "MiniMax",
+          "value": 1120
+        },
+        {
+          "id": "video-seedance-2-5-1080p",
+          "name": "Dreamina Seedance 2.5",
+          "vendor": "ByteDance Seed",
+          "value": 1104
+        },
+        {
+          "id": "video-flux-3",
+          "name": "FLUX 3",
+          "vendor": "Black Forest Labs",
+          "value": 1091
+        },
+        {
+          "id": "video-seedance-2-0-1080p",
+          "name": "Dreamina Seedance 2.0",
+          "vendor": "ByteDance Seed",
+          "value": 1082
+        }
+      ]
     }
   ]
 }
