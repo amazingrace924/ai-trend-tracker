@@ -1,0 +1,529 @@
+{
+  "category": "image",
+  "date": "2026-10-30",
+  "updatedAt": "2026-10-30T00:39:46.502Z",
+  "models": [
+    {
+      "id": "image-gpt-image-2.5-sunburst-2026-09-08",
+      "name": "GPT Image 2.5 Sunburst (max)",
+      "vendor": "OpenAI",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-09",
+      "score": 1222,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1222"
+        },
+        {
+          "label": "순위",
+          "value": "#1"
+        },
+        {
+          "label": "투표수",
+          "value": "13,014"
+        },
+        {
+          "label": "제작사",
+          "value": "OpenAI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1222"
+        },
+        {
+          "label": "순위",
+          "value": "#1"
+        },
+        {
+          "label": "투표 수",
+          "value": "13,014"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-09"
+        },
+        {
+          "label": "제작사",
+          "value": "OpenAI"
+        }
+      ],
+      "strengths": [
+        "품질 1위"
+      ]
+    },
+    {
+      "id": "image-gpt-image-2.5-flare-2026-09-08",
+      "name": "GPT Image 2.5 Flare (max)",
+      "vendor": "OpenAI",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-09",
+      "score": 1207,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1207"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표수",
+          "value": "12,364"
+        },
+        {
+          "label": "제작사",
+          "value": "OpenAI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1207"
+        },
+        {
+          "label": "순위",
+          "value": "#2"
+        },
+        {
+          "label": "투표 수",
+          "value": "12,364"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-09"
+        },
+        {
+          "label": "제작사",
+          "value": "OpenAI"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "image-gpt-image-2",
+      "name": "GPT Image 2 (high)",
+      "vendor": "OpenAI",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-04",
+      "score": 1186,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1186"
+        },
+        {
+          "label": "순위",
+          "value": "#3"
+        },
+        {
+          "label": "투표수",
+          "value": "12,835"
+        },
+        {
+          "label": "제작사",
+          "value": "OpenAI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1186"
+        },
+        {
+          "label": "순위",
+          "value": "#3"
+        },
+        {
+          "label": "투표 수",
+          "value": "12,835"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-04"
+        },
+        {
+          "label": "제작사",
+          "value": "OpenAI"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "image-nano-banana-2-1",
+      "name": "Nano Banana 2.1",
+      "vendor": "Google",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-10",
+      "score": 1176,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1176"
+        },
+        {
+          "label": "순위",
+          "value": "#4"
+        },
+        {
+          "label": "투표수",
+          "value": "6,210"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1176"
+        },
+        {
+          "label": "순위",
+          "value": "#4"
+        },
+        {
+          "label": "투표 수",
+          "value": "6,210"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-10"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "image-mai-image-2-6",
+      "name": "MAI-Image-2.6",
+      "vendor": "Microsoft AI",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-08",
+      "score": 1166,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1166"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표수",
+          "value": "8,342"
+        },
+        {
+          "label": "제작사",
+          "value": "Microsoft AI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1166"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표 수",
+          "value": "8,342"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-08"
+        },
+        {
+          "label": "제작사",
+          "value": "Microsoft AI"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "image-grok-imagine-image-2-0",
+      "name": "Grok Imagine Image 2.0",
+      "vendor": "SpaceXAI",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-08",
+      "score": 1166,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1166"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표수",
+          "value": "7,481"
+        },
+        {
+          "label": "제작사",
+          "value": "SpaceXAI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1166"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표 수",
+          "value": "7,481"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-08"
+        },
+        {
+          "label": "제작사",
+          "value": "SpaceXAI"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "image-nano-banana-2",
+      "name": "Nano Banana 2 (Gemini 3.1 Flash Image)",
+      "vendor": "Google",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-02",
+      "score": 1140,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1140"
+        },
+        {
+          "label": "순위",
+          "value": "#7"
+        },
+        {
+          "label": "투표수",
+          "value": "16,075"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1140"
+        },
+        {
+          "label": "순위",
+          "value": "#7"
+        },
+        {
+          "label": "투표 수",
+          "value": "16,075"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-02"
+        },
+        {
+          "label": "제작사",
+          "value": "Google"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "image-muse-image-1.0",
+      "name": "Muse Image",
+      "vendor": "Meta",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-07",
+      "score": 1127,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1127"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표수",
+          "value": "8,479"
+        },
+        {
+          "label": "제작사",
+          "value": "Meta"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1127"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표 수",
+          "value": "8,479"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-07"
+        },
+        {
+          "label": "제작사",
+          "value": "Meta"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "image-openai-gpt_image-1-5",
+      "name": "GPT Image 1.5 (high)",
+      "vendor": "OpenAI",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2025-12",
+      "score": 1123,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1123"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표수",
+          "value": "12,830"
+        },
+        {
+          "label": "제작사",
+          "value": "OpenAI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1123"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표 수",
+          "value": "12,830"
+        },
+        {
+          "label": "출시일",
+          "value": "2025-12"
+        },
+        {
+          "label": "제작사",
+          "value": "OpenAI"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "image-mai-image-2-6-flash",
+      "name": "MAI-Image-2.6-Flash",
+      "vendor": "Microsoft AI",
+      "category": "image",
+      "license": "proprietary",
+      "releaseDate": "2026-09",
+      "score": 1119,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1119"
+        },
+        {
+          "label": "순위",
+          "value": "#10"
+        },
+        {
+          "label": "투표수",
+          "value": "5,482"
+        },
+        {
+          "label": "제작사",
+          "value": "Microsoft AI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1119"
+        },
+        {
+          "label": "순위",
+          "value": "#10"
+        },
+        {
+          "label": "투표 수",
+          "value": "5,482"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-09"
+        },
+        {
+          "label": "제작사",
+          "value": "Microsoft AI"
+        }
+      ],
+      "strengths": []
+    }
+  ]
+}

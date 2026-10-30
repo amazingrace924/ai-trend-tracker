@@ -1,10 +1,10 @@
 {
   "category": "video",
-  "date": "2026-10-29",
-  "updatedAt": "2026-10-29T00:38:56.670Z",
+  "date": "2026-10-30",
+  "updatedAt": "2026-10-30T00:39:44.883Z",
   "models": [
     {
-      "id": "video-heygen-video",
+      "id": "video-heygen-video-1",
       "name": "HeyGen Video 1",
       "vendor": "HeyGen",
       "category": "video",
@@ -23,7 +23,7 @@
         },
         {
           "label": "투표수",
-          "value": "5,389"
+          "value": "5,570"
         },
         {
           "label": "제작사",
@@ -41,7 +41,7 @@
         },
         {
           "label": "투표 수",
-          "value": "5,389"
+          "value": "5,570"
         },
         {
           "label": "출시일",
@@ -76,7 +76,7 @@
         },
         {
           "label": "투표수",
-          "value": "2,775"
+          "value": "2,934"
         },
         {
           "label": "제작사",
@@ -94,7 +94,7 @@
         },
         {
           "label": "투표 수",
-          "value": "2,775"
+          "value": "2,934"
         },
         {
           "label": "출시일",
@@ -116,12 +116,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-10",
-      "score": 1138,
+      "score": 1135,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1138"
+          "value": "1135"
         },
         {
           "label": "순위",
@@ -129,7 +129,7 @@
         },
         {
           "label": "투표수",
-          "value": "2,837"
+          "value": "2,998"
         },
         {
           "label": "제작사",
@@ -139,7 +139,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1138"
+          "value": "1135"
         },
         {
           "label": "순위",
@@ -147,7 +147,7 @@
         },
         {
           "label": "투표 수",
-          "value": "2,837"
+          "value": "2,998"
         },
         {
           "label": "출시일",
@@ -182,7 +182,7 @@
         },
         {
           "label": "투표수",
-          "value": "4,349"
+          "value": "4,515"
         },
         {
           "label": "제작사",
@@ -200,7 +200,7 @@
         },
         {
           "label": "투표 수",
-          "value": "4,349"
+          "value": "4,515"
         },
         {
           "label": "출시일",
@@ -209,6 +209,59 @@
         {
           "label": "제작사",
           "value": "Alibaba"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
+      "id": "video-utopai-x",
+      "name": "Utopai X",
+      "vendor": "Utopai Studios",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-09",
+      "score": 1130,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1130"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표수",
+          "value": "2,967"
+        },
+        {
+          "label": "제작사",
+          "value": "Utopai Studios"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1130"
+        },
+        {
+          "label": "순위",
+          "value": "#5"
+        },
+        {
+          "label": "투표 수",
+          "value": "2,967"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-09"
+        },
+        {
+          "label": "제작사",
+          "value": "Utopai Studios"
         }
       ],
       "strengths": [
@@ -231,11 +284,11 @@
         },
         {
           "label": "순위",
-          "value": "#5"
+          "value": "#6"
         },
         {
           "label": "투표수",
-          "value": "4,239"
+          "value": "4,411"
         },
         {
           "label": "제작사",
@@ -249,11 +302,11 @@
         },
         {
           "label": "순위",
-          "value": "#5"
+          "value": "#6"
         },
         {
           "label": "투표 수",
-          "value": "4,239"
+          "value": "4,411"
         },
         {
           "label": "출시일",
@@ -269,26 +322,77 @@
       ]
     },
     {
+      "id": "video-bach-1-0-pro",
+      "name": "Bach 1.0 Pro",
+      "vendor": "Video Rebirth",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-09",
+      "score": 1109,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1109"
+        },
+        {
+          "label": "순위",
+          "value": "#7"
+        },
+        {
+          "label": "투표수",
+          "value": "2,993"
+        },
+        {
+          "label": "제작사",
+          "value": "Video Rebirth"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1109"
+        },
+        {
+          "label": "순위",
+          "value": "#7"
+        },
+        {
+          "label": "투표 수",
+          "value": "2,993"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-09"
+        },
+        {
+          "label": "제작사",
+          "value": "Video Rebirth"
+        }
+      ],
+      "strengths": []
+    },
+    {
       "id": "video-seedance-2-5-1080p",
       "name": "Dreamina Seedance 2.5",
       "vendor": "ByteDance Seed",
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-07",
-      "score": 1104,
+      "score": 1101,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1104"
+          "value": "1101"
         },
         {
           "label": "순위",
-          "value": "#6"
+          "value": "#8"
         },
         {
           "label": "투표수",
-          "value": "4,439"
+          "value": "4,602"
         },
         {
           "label": "제작사",
@@ -298,15 +402,15 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1104"
+          "value": "1101"
         },
         {
           "label": "순위",
-          "value": "#6"
+          "value": "#8"
         },
         {
           "label": "투표 수",
-          "value": "4,439"
+          "value": "4,602"
         },
         {
           "label": "출시일",
@@ -317,9 +421,7 @@
           "value": "ByteDance Seed"
         }
       ],
-      "strengths": [
-        "상위권"
-      ]
+      "strengths": []
     },
     {
       "id": "video-flux-3",
@@ -328,20 +430,20 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-07",
-      "score": 1091,
+      "score": 1092,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1091"
+          "value": "1092"
         },
         {
           "label": "순위",
-          "value": "#7"
+          "value": "#9"
         },
         {
           "label": "투표수",
-          "value": "3,594"
+          "value": "3,737"
         },
         {
           "label": "제작사",
@@ -351,15 +453,15 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1091"
+          "value": "1092"
         },
         {
           "label": "순위",
-          "value": "#7"
+          "value": "#9"
         },
         {
           "label": "투표 수",
-          "value": "3,594"
+          "value": "3,737"
         },
         {
           "label": "출시일",
@@ -379,20 +481,20 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-03",
-      "score": 1082,
+      "score": 1085,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1082"
+          "value": "1085"
         },
         {
           "label": "순위",
-          "value": "#8"
+          "value": "#10"
         },
         {
           "label": "투표수",
-          "value": "3,549"
+          "value": "3,720"
         },
         {
           "label": "제작사",
@@ -402,15 +504,15 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1082"
+          "value": "1085"
         },
         {
           "label": "순위",
-          "value": "#8"
+          "value": "#10"
         },
         {
           "label": "투표 수",
-          "value": "3,549"
+          "value": "3,720"
         },
         {
           "label": "출시일",
@@ -419,108 +521,6 @@
         {
           "label": "제작사",
           "value": "ByteDance Seed"
-        }
-      ],
-      "strengths": []
-    },
-    {
-      "id": "video-gemini-omni-flash-1-1",
-      "name": "Gemini Omni Flash 1.1",
-      "vendor": "Google",
-      "category": "video",
-      "license": "proprietary",
-      "releaseDate": "2026-08",
-      "score": 1067,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1067"
-        },
-        {
-          "label": "순위",
-          "value": "#9"
-        },
-        {
-          "label": "투표수",
-          "value": "4,548"
-        },
-        {
-          "label": "제작사",
-          "value": "Google"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1067"
-        },
-        {
-          "label": "순위",
-          "value": "#9"
-        },
-        {
-          "label": "투표 수",
-          "value": "4,548"
-        },
-        {
-          "label": "출시일",
-          "value": "2026-08"
-        },
-        {
-          "label": "제작사",
-          "value": "Google"
-        }
-      ],
-      "strengths": []
-    },
-    {
-      "id": "video-agnes-video-2-5",
-      "name": "Agnes-Video-2.5",
-      "vendor": "Sapiens AI",
-      "category": "video",
-      "license": "proprietary",
-      "releaseDate": "2026-08",
-      "score": 1054,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1054"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표수",
-          "value": "3,481"
-        },
-        {
-          "label": "제작사",
-          "value": "Sapiens AI"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1054"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표 수",
-          "value": "3,481"
-        },
-        {
-          "label": "출시일",
-          "value": "2026-08"
-        },
-        {
-          "label": "제작사",
-          "value": "Sapiens AI"
         }
       ],
       "strengths": []

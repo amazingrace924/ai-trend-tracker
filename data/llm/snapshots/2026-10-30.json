@@ -1,0 +1,672 @@
+{
+  "category": "llm",
+  "date": "2026-10-30",
+  "updatedAt": "2026-10-30T00:39:44.583Z",
+  "models": [
+    {
+      "id": "gemini-4-carbon",
+      "name": "Gemini 4 Carbon (High)",
+      "vendor": "Google",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-10-28",
+      "score": 59.4,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "—"
+        },
+        {
+          "label": "속도",
+          "value": "88/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$20"
+        },
+        {
+          "label": "수학",
+          "value": "—"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "59.4"
+        },
+        {
+          "label": "출력 속도",
+          "value": "88 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "64.99s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$4"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$20"
+        }
+      ],
+      "strengths": [
+        "종합 1위",
+        "코딩 강자",
+        "초고속"
+      ]
+    },
+    {
+      "id": "claude-opus-5-5",
+      "name": "Claude Opus 5.5 (Max, Default Fallback)",
+      "vendor": "Anthropic",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-09-22",
+      "score": 58.4,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "—"
+        },
+        {
+          "label": "속도",
+          "value": "96/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$20"
+        },
+        {
+          "label": "수학",
+          "value": "—"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "58.4"
+        },
+        {
+          "label": "출력 속도",
+          "value": "96 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "575.56s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$4"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$20"
+        }
+      ],
+      "strengths": [
+        "코딩 강자",
+        "초고속"
+      ]
+    },
+    {
+      "id": "claude-opus-5-5-xhigh",
+      "name": "Claude Opus 5.5 (Xhigh, Default Fallback)",
+      "vendor": "Anthropic",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-09-22",
+      "score": 57,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "—"
+        },
+        {
+          "label": "속도",
+          "value": "84/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$20"
+        },
+        {
+          "label": "수학",
+          "value": "—"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "57"
+        },
+        {
+          "label": "출력 속도",
+          "value": "84 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "83.95s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$4"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$20"
+        }
+      ],
+      "strengths": [
+        "코딩 강자"
+      ]
+    },
+    {
+      "id": "gpt-6-astra",
+      "name": "GPT-6 Astra (Max)",
+      "vendor": "OpenAI",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-09-03",
+      "score": 56.9,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "—"
+        },
+        {
+          "label": "속도",
+          "value": "81/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$50"
+        },
+        {
+          "label": "추론",
+          "value": "96%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "56.9"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "96%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "81 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "200.85s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$10"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$50"
+        }
+      ],
+      "strengths": [
+        "코딩 강자",
+        "고난도 추론"
+      ]
+    },
+    {
+      "id": "gpt-6-astra-xhigh",
+      "name": "GPT-6 Astra (Xhigh)",
+      "vendor": "OpenAI",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-09-03",
+      "score": 55.3,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "—"
+        },
+        {
+          "label": "속도",
+          "value": "77/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$50"
+        },
+        {
+          "label": "추론",
+          "value": "96%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "55.3"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "96%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "77 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "71.78s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$10"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$50"
+        }
+      ],
+      "strengths": [
+        "코딩 강자",
+        "고난도 추론"
+      ]
+    },
+    {
+      "id": "gpt-6-astra-high",
+      "name": "GPT-6 Astra (High)",
+      "vendor": "OpenAI",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-09-03",
+      "score": 54.8,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "—"
+        },
+        {
+          "label": "속도",
+          "value": "66/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$50"
+        },
+        {
+          "label": "추론",
+          "value": "95%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "54.8"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "95%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "66 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "30.23s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$10"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$50"
+        }
+      ],
+      "strengths": [
+        "코딩 강자",
+        "고난도 추론"
+      ]
+    },
+    {
+      "id": "gpt-6-1-sol",
+      "name": "GPT-6.1 Sol (Max)",
+      "vendor": "OpenAI",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-09-29",
+      "score": 54.5,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "—"
+        },
+        {
+          "label": "속도",
+          "value": "84/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$10"
+        },
+        {
+          "label": "수학",
+          "value": "—"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "54.5"
+        },
+        {
+          "label": "출력 속도",
+          "value": "84 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "183.42s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$2"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$10"
+        }
+      ],
+      "strengths": [
+        "가성비",
+        "코딩 강자"
+      ]
+    },
+    {
+      "id": "claude-sonnet-5-5",
+      "name": "Claude Sonnet 5.5 (Max, Default Fallback)",
+      "vendor": "Anthropic",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-09-28",
+      "score": 54.2,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "—"
+        },
+        {
+          "label": "속도",
+          "value": "134/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$10"
+        },
+        {
+          "label": "수학",
+          "value": "—"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "54.2"
+        },
+        {
+          "label": "출력 속도",
+          "value": "134 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "251.92s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$2"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$10"
+        }
+      ],
+      "strengths": [
+        "가성비",
+        "코딩 강자",
+        "초고속"
+      ]
+    },
+    {
+      "id": "gpt-6-1-sol-xhigh",
+      "name": "GPT-6.1 Sol (Xhigh)",
+      "vendor": "OpenAI",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-09-29",
+      "score": 52.3,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "—"
+        },
+        {
+          "label": "속도",
+          "value": "73/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$10"
+        },
+        {
+          "label": "수학",
+          "value": "—"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "52.3"
+        },
+        {
+          "label": "출력 속도",
+          "value": "73 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "71.02s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$2"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$10"
+        }
+      ],
+      "strengths": [
+        "가성비",
+        "코딩 강자"
+      ]
+    },
+    {
+      "id": "claude-opus-5-5-high",
+      "name": "Claude Opus 5.5 (High, Default Fallback)",
+      "vendor": "Anthropic",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-09-22",
+      "score": 51.7,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "—"
+        },
+        {
+          "label": "속도",
+          "value": "81/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$20"
+        },
+        {
+          "label": "수학",
+          "value": "—"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "51.7"
+        },
+        {
+          "label": "출력 속도",
+          "value": "81 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "18.59s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$4"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$20"
+        }
+      ],
+      "strengths": [
+        "코딩 강자"
+      ]
+    },
+    {
+      "id": "gpt-6-astra-medium",
+      "name": "GPT-6 Astra (Medium)",
+      "vendor": "OpenAI",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-09-03",
+      "score": 51.5,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "—"
+        },
+        {
+          "label": "속도",
+          "value": "57/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$50"
+        },
+        {
+          "label": "추론",
+          "value": "94%"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "51.5"
+        },
+        {
+          "label": "GPQA Diamond",
+          "value": "94%"
+        },
+        {
+          "label": "출력 속도",
+          "value": "57 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "3.9s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$10"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$50"
+        }
+      ],
+      "strengths": [
+        "코딩 강자",
+        "고난도 추론"
+      ]
+    },
+    {
+      "id": "gpt-6-1-terra",
+      "name": "GPT-6.1 Terra (Max)",
+      "vendor": "OpenAI",
+      "category": "llm",
+      "license": "proprietary",
+      "releaseDate": "2026-10-26",
+      "score": 51,
+      "scoreLabel": "Intelligence Index",
+      "highlights": [
+        {
+          "label": "코딩",
+          "value": "—"
+        },
+        {
+          "label": "속도",
+          "value": "91/s"
+        },
+        {
+          "label": "출력가",
+          "value": "$5"
+        },
+        {
+          "label": "수학",
+          "value": "—"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Intelligence Index",
+          "value": "51"
+        },
+        {
+          "label": "출력 속도",
+          "value": "91 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "165.56s"
+        },
+        {
+          "label": "입력 가격(1M)",
+          "value": "$1"
+        },
+        {
+          "label": "출력 가격(1M)",
+          "value": "$5"
+        }
+      ],
+      "strengths": [
+        "가성비",
+        "코딩 강자",
+        "초고속"
+      ]
+    }
+  ]
+}

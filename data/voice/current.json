@@ -1,7 +1,7 @@
 {
   "category": "voice",
-  "date": "2026-10-29",
-  "updatedAt": "2026-10-29T00:38:58.487Z",
+  "date": "2026-10-30",
+  "updatedAt": "2026-10-30T00:39:46.657Z",
   "models": [
     {
       "id": "voice-eleven-v4-turbo",
@@ -264,6 +264,58 @@
       ]
     },
     {
+      "id": "voice-drama3",
+      "name": "Fish Audio Drama 3",
+      "vendor": "Fish Audio",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1278,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1278"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Fish Audio"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1278"
+        },
+        {
+          "label": "순위",
+          "value": "#6"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Fish Audio"
+        }
+      ],
+      "strengths": [
+        "상위권"
+      ]
+    },
+    {
       "id": "voice-qwen-audio-3-0-tts-plus",
       "name": "Qwen-Audio-3.0-TTS-Plus",
       "vendor": "Alibaba",
@@ -278,7 +330,7 @@
         },
         {
           "label": "순위",
-          "value": "#6"
+          "value": "#7"
         },
         {
           "label": "투표수",
@@ -296,7 +348,7 @@
         },
         {
           "label": "순위",
-          "value": "#6"
+          "value": "#7"
         },
         {
           "label": "투표 수",
@@ -311,9 +363,7 @@
           "value": "Alibaba"
         }
       ],
-      "strengths": [
-        "상위권"
-      ]
+      "strengths": []
     },
     {
       "id": "voice-realtime-tts-2",
@@ -330,7 +380,7 @@
         },
         {
           "label": "순위",
-          "value": "#7"
+          "value": "#8"
         },
         {
           "label": "투표수",
@@ -348,7 +398,7 @@
         },
         {
           "label": "순위",
-          "value": "#7"
+          "value": "#8"
         },
         {
           "label": "투표 수",
@@ -380,7 +430,7 @@
         },
         {
           "label": "순위",
-          "value": "#8"
+          "value": "#9"
         },
         {
           "label": "투표수",
@@ -398,7 +448,7 @@
         },
         {
           "label": "순위",
-          "value": "#8"
+          "value": "#9"
         },
         {
           "label": "투표 수",
@@ -430,7 +480,7 @@
         },
         {
           "label": "순위",
-          "value": "#9"
+          "value": "#10"
         },
         {
           "label": "투표수",
@@ -448,7 +498,7 @@
         },
         {
           "label": "순위",
-          "value": "#9"
+          "value": "#10"
         },
         {
           "label": "투표 수",
@@ -461,56 +511,6 @@
         {
           "label": "제작사",
           "value": "Google"
-        }
-      ],
-      "strengths": []
-    },
-    {
-      "id": "voice-simba-3-2",
-      "name": "Simba 3.2",
-      "vendor": "SpeechifyAI",
-      "category": "voice",
-      "license": "proprietary",
-      "score": 1249,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1249"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표수",
-          "value": "—"
-        },
-        {
-          "label": "제작사",
-          "value": "SpeechifyAI"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1249"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표 수",
-          "value": "—"
-        },
-        {
-          "label": "출시일",
-          "value": "—"
-        },
-        {
-          "label": "제작사",
-          "value": "SpeechifyAI"
         }
       ],
       "strengths": []
