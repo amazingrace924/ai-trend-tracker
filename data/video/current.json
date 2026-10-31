@@ -1,7 +1,7 @@
 {
   "category": "video",
-  "date": "2026-10-30",
-  "updatedAt": "2026-10-30T00:39:44.883Z",
+  "date": "2026-10-31",
+  "updatedAt": "2026-10-31T00:30:34.826Z",
   "models": [
     {
       "id": "video-heygen-video-1",
@@ -373,6 +373,57 @@
       "strengths": []
     },
     {
+      "id": "video-p-video-2-pro",
+      "name": "P-Video-2-Pro",
+      "vendor": "Pruna AI",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-09",
+      "score": 1103,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1103"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표수",
+          "value": "2,977"
+        },
+        {
+          "label": "제작사",
+          "value": "Pruna AI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1103"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표 수",
+          "value": "2,977"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-09"
+        },
+        {
+          "label": "제작사",
+          "value": "Pruna AI"
+        }
+      ],
+      "strengths": []
+    },
+    {
       "id": "video-seedance-2-5-1080p",
       "name": "Dreamina Seedance 2.5",
       "vendor": "ByteDance Seed",
@@ -388,7 +439,7 @@
         },
         {
           "label": "순위",
-          "value": "#8"
+          "value": "#9"
         },
         {
           "label": "투표수",
@@ -406,7 +457,7 @@
         },
         {
           "label": "순위",
-          "value": "#8"
+          "value": "#9"
         },
         {
           "label": "투표 수",
@@ -439,7 +490,7 @@
         },
         {
           "label": "순위",
-          "value": "#9"
+          "value": "#10"
         },
         {
           "label": "투표수",
@@ -457,7 +508,7 @@
         },
         {
           "label": "순위",
-          "value": "#9"
+          "value": "#10"
         },
         {
           "label": "투표 수",
@@ -470,57 +521,6 @@
         {
           "label": "제작사",
           "value": "Black Forest Labs"
-        }
-      ],
-      "strengths": []
-    },
-    {
-      "id": "video-seedance-2-0-1080p",
-      "name": "Dreamina Seedance 2.0",
-      "vendor": "ByteDance Seed",
-      "category": "video",
-      "license": "proprietary",
-      "releaseDate": "2026-03",
-      "score": 1085,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1085"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표수",
-          "value": "3,720"
-        },
-        {
-          "label": "제작사",
-          "value": "ByteDance Seed"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1085"
-        },
-        {
-          "label": "순위",
-          "value": "#10"
-        },
-        {
-          "label": "투표 수",
-          "value": "3,720"
-        },
-        {
-          "label": "출시일",
-          "value": "2026-03"
-        },
-        {
-          "label": "제작사",
-          "value": "ByteDance Seed"
         }
       ],
       "strengths": []
