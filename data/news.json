@@ -5,7 +5,8 @@
     "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
     "source": "Hugging Face",
     "date": "2026-10-30T17:57:24.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "네모트론-할로윈"
   },
   {
     "id": "OpenAI-0-making-it-easier-for-websites-to-express",
@@ -13,7 +14,9 @@
     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
     "source": "OpenAI",
     "date": "2026-10-30T09:30:00.000Z",
-    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+    "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+    "titleKo": "웹사이트에서 AI 훈련 선호도를 더 쉽게 표현하도록 만들기",
+    "summaryKo": "OpenAI는 공유된 robots.txt 신호를 존중하여 웹사이트 운영자가 AI 교육 선호도를 참여 제공업체에 전달할 수 있도록 돕습니다."
   },
   {
     "id": "OpenAI-1-community-safety-report-and-new-protecti",
@@ -21,7 +24,9 @@
     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
     "source": "OpenAI",
     "date": "2026-10-30T09:00:00.000Z",
-    "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+    "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+    "titleKo": "지역사회 안전 보고서 및 청소년을 위한 새로운 보호 조치",
+    "summaryKo": "OpenAI는 확장된 보호 장치, 조기 개입, 공공 안전 보고에 대한 새로운 약속을 통해 ChatGPT의 폭력 예방을 강화하고 있습니다."
   },
   {
     "id": "OpenAI-2-fair-use-benefits-everyone",
@@ -29,7 +34,8 @@
     "url": "https://openai.com/index/fair-use-benefits-everyone",
     "source": "OpenAI",
     "date": "2026-10-30T00:00:00.000Z",
-    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
+    "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
+    "titleKo": "공정한 사용은 모두에게 이익이 됩니다"
   },
   {
     "id": "OpenAI-3-an-updated-model-spec-for-more-capable-a",
@@ -45,7 +51,8 @@
     "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
     "source": "Hugging Face",
     "date": "2026-10-29T13:37:07.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "Granite Switch 4.1.1 — 소프트웨어를 업데이트하는 것처럼 모델도 업데이트하세요"
   },
   {
     "id": "OpenAI-4-how-we-detect-frontier-model-misalignmen",
@@ -53,7 +60,9 @@
     "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
     "source": "OpenAI",
     "date": "2026-10-29T09:00:00.000Z",
-    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+    "titleKo": "프론티어 모델의 불일치를 감지하는 방법",
+    "summaryKo": "OpenAI는 계층화된 모니터링을 사용하여 프론티어 모델의 잘못된 정렬과 승인되지 않은 에이전트 동작을 감지하므로 대응자는 사고가 확대되기 전에 개입할 수 있습니다."
   },
   {
     "id": "OpenAI-5-how-ropes-gray-is-developing-ai-for-tran",
@@ -61,7 +70,9 @@
     "url": "https://openai.com/index/ropes-gray-ai-diligence",
     "source": "OpenAI",
     "date": "2026-10-29T07:00:00.000Z",
-    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+    "titleKo": "Ropes & Gray가 거래 실사를 위한 AI를 개발하는 방법",
+    "summaryKo": "Ropes & Gray는 OpenAI를 통해 거래 실사를 위한 AI를 개발하고 있습니다. 변호사는 고객에게 조언을 하기 전에 그룹화된 문서, 요약 및 보고서를 검토합니다."
   },
   {
     "id": "Hugging Face-4-introducing-anyspeechrecognizer-and-anyd",
@@ -69,7 +80,8 @@
     "url": "https://huggingface.co/blog/anydecisionmodel",
     "source": "Hugging Face",
     "date": "2026-10-29T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "AnySpeechRecognizer 및 AnyDecisionModel 소개: Apple 플랫폼의 음성 및 결정을 위한 개방형 모델"
   },
   {
     "id": "Hugging Face-3-welcome-le-chonk-mistral-large-4-on-hugg",
@@ -77,7 +89,8 @@
     "url": "https://huggingface.co/blog/mistral-large4",
     "source": "Hugging Face",
     "date": "2026-10-29T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "Le Chonk를 환영합니다: 허깅 페이스의 미스트랄 라지 4"
   },
   {
     "id": "Hugging Face-2-announcing-project-protostar-making-publ",
@@ -85,7 +98,8 @@
     "url": "https://huggingface.co/blog/announcing-project-protostar",
     "source": "Hugging Face",
     "date": "2026-10-29T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "ProtoStar 프로젝트 발표: 공공 자금을 지원받는 과학 AI 지원"
   },
   {
     "id": "OpenAI-6-credit-saison-achieves-954-roi-in-a-chat",
@@ -93,7 +107,9 @@
     "url": "https://openai.com/index/credit-saison",
     "source": "OpenAI",
     "date": "2026-10-29T00:00:00.000Z",
-    "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption."
+    "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
+    "titleKo": "Credit Saison은 ChatGPT Enterprise 파일럿에서 954% ROI를 달성했습니다.",
+    "summaryKo": "Credit Saison의 ChatGPT Enterprise 파일럿은 954%의 ROI를 달성했습니다. 리더와 직원이 결과를 전사적 채택으로 전환하는 데 어떻게 도움이 되었는지 알아보세요."
   },
   {
     "id": "Google DeepMind-0-gemini-4-carbon-our-next-frontier-model",
@@ -101,7 +117,8 @@
     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
     "source": "Google DeepMind",
     "date": "2026-10-28T17:00:58.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "Gemini 4 Carbon: 차세대 개척 모델"
   },
   {
     "id": "OpenAI-7-openai-and-servicenow-expand-partnership",
@@ -109,7 +126,9 @@
     "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
     "source": "OpenAI",
     "date": "2026-10-28T13:15:00.000Z",
-    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+    "titleKo": "OpenAI와 ServiceNow, 엔터프라이즈 워크플로우 전반에 걸쳐 파트너십 확장",
+    "summaryKo": "OpenAI와 ServiceNow는 OpenAI 모델과 에이전트를 ServiceNow로, ServiceNow 워크플로를 ChatGPT 및 Codex로 가져오기 위해 파트너십을 확장합니다."
   },
   {
     "id": "OpenAI-8-the-future-of-the-firm",
@@ -117,7 +136,9 @@
     "url": "https://openai.com/index/the-future-of-the-firm",
     "source": "OpenAI",
     "date": "2026-10-28T10:00:00.000Z",
-    "summary": "How AI might enter the org chart—beneath, beside, and between us."
+    "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+    "titleKo": "회사의 미래",
+    "summaryKo": "AI가 조직도에 어떻게 들어갈 수 있는지(우리 아래, 옆, 사이)."
   },
   {
     "id": "OpenAI-9-legora-is-building-the-agentic-operating",
@@ -125,7 +146,9 @@
     "url": "https://openai.com/index/legora",
     "source": "OpenAI",
     "date": "2026-10-28T09:30:00.000Z",
-    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+    "titleKo": "레고라는 법률 업무를 위한 에이전트 운영 체제를 구축하고 있습니다.",
+    "summaryKo": "Legora가 OpenAI 모델, ChatGPT 및 Codex를 사용하여 법률 워크플로를 가속화하고, 계약 분석을 확장하고, 무료 변호사를 고용하여 더 높은 가치의 업무에 집중하는 방법을 알아보세요."
   },
   {
     "id": "Hugging Face-5-build-specialized-multimodal-models-with",
@@ -133,7 +156,8 @@
     "url": "https://huggingface.co/blog/LiquidAI/lfm3",
     "source": "Hugging Face",
     "date": "2026-10-27T17:16:52.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "LFM3를 사용하여 전문화된 다중 모드 모델 구축"
   },
   {
     "id": "Hugging Face-6-can-we-trust-llms-to-judge-whether-a-res",
@@ -141,7 +165,8 @@
     "url": "https://huggingface.co/blog/allenai/novelty-bench",
     "source": "Hugging Face",
     "date": "2026-10-27T16:12:42.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "연구 아이디어가 참신한지 판단하는 데 LLM을 신뢰할 수 있습니까?"
   },
   {
     "id": "Google DeepMind-1-genie-4-a-new-generation-of-world-simula",
@@ -149,7 +174,9 @@
     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
     "source": "Google DeepMind",
     "date": "2026-10-27T16:01:38.000Z",
-    "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation."
+    "summary": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+    "titleKo": "Genie 4: 차세대 세계 시뮬레이션",
+    "summaryKo": "Genie 4: 실시간 시뮬레이션에서 전례 없는 현실감을 선사하는 새로운 세계 모델입니다."
   },
   {
     "id": "OpenAI-10-retell-uses-openai-models-to-help-power-",
@@ -157,7 +184,9 @@
     "url": "https://openai.com/index/retell-ai",
     "source": "OpenAI",
     "date": "2026-10-27T15:00:00.000Z",
-    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee."
+    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+    "titleKo": "Retell은 OpenAI 모델을 사용하여 월간 통화 1억 건을 지원합니다.",
+    "summaryKo": "GPT-6 Astra는 Retell의 음성 에이전트 벤치마크에서 1위를 차지하고 Codex는 직원당 연간 160만 달러의 수익을 달성하는 데 도움을 줍니다."
   },
   {
     "id": "OpenAI-11-openai-expands-partnership-with-oracle-t",
@@ -165,7 +194,8 @@
     "url": "https://openai.com/index/oracle-apps-in-chatgpt",
     "source": "OpenAI",
     "date": "2026-10-27T07:00:00.000Z",
-    "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
+    "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "summaryKo": "OpenAI와 Oracle은 비즈니스 애플리케이션과 AI 에이전트를 ChatGPT에 도입하고 새로운 Oracle 제품을 지원하기 위해 파트너십을 확장하고 있습니다."
   },
   {
     "id": "OpenAI-12-how-check-point-accelerates-vulnerabilit",
@@ -173,7 +203,9 @@
     "url": "https://openai.com/index/check-point-daybreak",
     "source": "OpenAI",
     "date": "2026-10-27T00:00:00.000Z",
-    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
+    "summary": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+    "titleKo": "Check Point가 Daybreak를 통해 취약점 연구를 가속화하는 방법",
+    "summaryKo": "OpenAI Daybreak를 통해 Check Point는 새로운 보안 보호에 대한 연구 속도를 높이고 분석가가 취약성 인텔리전스를 고객 방어로 더 빠르게 전환할 수 있도록 지원합니다."
   },
   {
     "id": "OpenAI-13-greptile-takes-bug-detection-beyond-code",
@@ -181,7 +213,9 @@
     "url": "https://openai.com/index/greptile-code-review-codex-astra",
     "source": "OpenAI",
     "date": "2026-10-26T22:00:00.000Z",
-    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+    "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+    "titleKo": "Greptile은 GPT-6 Astra를 사용하여 코드 검토 이상의 버그 탐지 기능을 제공합니다.",
+    "summaryKo": "Greptile이 GPT-6 Astra를 사용하여 사용자 워크플로를 테스트하고 Daybreak를 사용하여 보안을 강화하고 Codex를 사용하여 재작업을 줄이는 방법입니다."
   },
   {
     "id": "OpenAI-14-working-with-academic-communities-to-bui",
@@ -189,7 +223,9 @@
     "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
     "source": "OpenAI",
     "date": "2026-10-26T14:30:00.000Z",
-    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
+    "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+    "titleKo": "과학적 이해를 구축하기 위해 학계와 협력",
+    "summaryKo": "OpenAI는 Kakeya 추측, 지수 시간 가설, 양자 색역학에 대한 모델 결과와 연구자가 이를 검증하고 구축할 수 있는 방법을 공유합니다."
   },
   {
     "id": "Hugging Face-7-does-your-model-run-on-aws-trainium-look",
@@ -197,7 +233,8 @@
     "url": "https://huggingface.co/blog/torch-neuronx-model-support",
     "source": "Hugging Face",
     "date": "2026-10-23T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "귀하의 모델이 AWS Trainium에서 실행됩니까? 찾아보세요"
   },
   {
     "id": "Hugging Face-8-turning-database-grading-into-rl-rewards",
@@ -205,7 +242,8 @@
     "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
     "source": "Hugging Face",
     "date": "2026-10-22T22:24:34.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "데이터베이스 등급을 RL 보상으로 전환: ThinkingBox를 사용한 사후 교육 에이전트"
   },
   {
     "id": "Google DeepMind-2-beyond-tree-cover-mapping-the-world-s-fo",
@@ -213,7 +251,9 @@
     "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
     "source": "Google DeepMind",
     "date": "2026-10-22T14:30:24.000Z",
-    "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
+    "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+    "titleKo": "나무 덮개 너머: 세계의 숲 유형 매핑",
+    "summaryKo": "지구상의 모든 10m 토지를 뚜렷한 숲 유형으로 분류하는 세계 지도입니다."
   },
   {
     "id": "Hugging Face-9-ensemble-forecasting-with-ibm-granite-ti",
@@ -221,7 +261,8 @@
     "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
     "source": "Hugging Face",
     "date": "2026-10-22T07:51:31.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "IBM Granite 시계열 모델을 사용한 앙상블 예측"
   },
   {
     "id": "Hugging Face-10-how-specializing-the-vocabulary-of-slms-",
@@ -229,7 +270,8 @@
     "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
     "source": "Hugging Face",
     "date": "2026-10-21T17:35:36.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "SLM 어휘 전문화로 실제 애플리케이션에서 추론 비용을 77% 절감할 수 있는 방법"
   },
   {
     "id": "Hugging Face-11-profiling-torchneuron-part-1-system-leve",
@@ -237,7 +279,8 @@
     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
     "source": "Hugging Face",
     "date": "2026-10-21T16:04:43.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "TorchNeuron 프로파일링(1부): AWS Trainium에서 시스템 수준 프로파일링."
   },
   {
     "id": "Hugging Face-14-mps-in-pytorch-2-15",
@@ -245,7 +288,8 @@
     "url": "https://huggingface.co/blog/mps-pytorch-2-15",
     "source": "Hugging Face",
     "date": "2026-10-20T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "PyTorch 2.15의 MPS"
   },
   {
     "id": "Hugging Face-13-anylanguagemodel-1-0-one-year-of-local-m",
@@ -253,7 +297,8 @@
     "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
     "source": "Hugging Face",
     "date": "2026-10-20T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "AnyLanguageModel 1.0: Apple 플랫폼의 1년 로컬 모델"
   },
   {
     "id": "Hugging Face-12-hugging-face-torchtpu-tpus-natively",
@@ -261,7 +306,8 @@
     "url": "https://huggingface.co/blog/hf-torchtpu",
     "source": "Hugging Face",
     "date": "2026-10-20T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "포옹하는 얼굴 ❤️ TorchTPU: 기본적으로 TPU"
   },
   {
     "id": "Google DeepMind-3-accelerating-the-search-for-antimicrobia",
@@ -269,7 +315,9 @@
     "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
     "source": "Google DeepMind",
     "date": "2026-10-15T16:08:03.000Z",
-    "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+    "summary": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+    "titleKo": "Google Antigravity로 항균 펩타이드 검색 가속화",
+    "summaryKo": "Google Antigravity for Science를 사용하여 새로운 항균 펩타이드 검색을 가속화합니다."
   },
   {
     "id": "Google DeepMind-4-google-deepmind-and-singapore-government",
@@ -277,7 +325,9 @@
     "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
     "source": "Google DeepMind",
     "date": "2026-10-14T02:00:14.000Z",
-    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress."
+    "summary": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma models to intercept conversational scams in private chats with zero cloud data egress.",
+    "titleKo": "Google DeepMind와 싱가포르 정부는 사기 탐지를 위해 정밀 조정된 AI 모델을 구축하기 위해 협력합니다.",
+    "summaryKo": "Google DeepMind와 GovTech Singapore가 경량 온디바이스 Gemma 모델을 사용하여 클라우드 데이터 송신 없이 비공개 채팅에서 대화 사기를 차단하는 방법을 알아보세요."
   },
   {
     "id": "Google DeepMind-5-developing-gemini-4-argon-responsibly-an",
@@ -285,7 +335,8 @@
     "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
     "source": "Google DeepMind",
     "date": "2026-10-13T19:43:07.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "책임감 있고 안전하게 Gemini 4 Argon 개발"
   },
   {
     "id": "Google DeepMind-6-gemini-4-argon-for-robotics",
@@ -301,7 +352,8 @@
     "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
     "source": "Google DeepMind",
     "date": "2026-10-13T16:01:52.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "Gemini 4 Argon: 가장 어려운 문제를 해결하기 위해 제작되었습니다."
   },
   {
     "id": "Google DeepMind-8-embeddinggemma-2-an-open-lightweight-mul",
@@ -317,6 +369,7 @@
     "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
     "source": "Google DeepMind",
     "date": "2026-09-30T20:01:45.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "Gemini 4 Argon: 차세대 첨단 정보 시대"
   }
 ]
