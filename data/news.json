@@ -35,7 +35,8 @@
     "source": "OpenAI",
     "date": "2026-10-30T00:00:00.000Z",
     "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-    "titleKo": "공정한 사용은 모두에게 이익이 됩니다"
+    "titleKo": "공정한 사용은 모두에게 이익이 됩니다",
+    "summaryKo": "OpenAI는 공정 사용이 AI 교육 및 혁신을 어떻게 지원하는지에 대해 창작자, 학자, 접근성 옹호자, 법률 전문가 등이 작성한 법원 브리핑에서 발췌한 내용을 공유합니다."
   },
   {
     "id": "OpenAI-3-an-updated-model-spec-for-more-capable-a",
@@ -195,6 +196,7 @@
     "source": "OpenAI",
     "date": "2026-10-27T07:00:00.000Z",
     "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+    "titleKo": "OpenAI, Oracle과의 파트너십을 확장하여 앱을 ChatGPT에 도입",
     "summaryKo": "OpenAI와 Oracle은 비즈니스 애플리케이션과 AI 에이전트를 ChatGPT에 도입하고 새로운 Oracle 제품을 지원하기 위해 파트너십을 확장하고 있습니다."
   },
   {
@@ -251,9 +253,7 @@
     "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
     "source": "Google DeepMind",
     "date": "2026-10-22T14:30:24.000Z",
-    "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-    "titleKo": "나무 덮개 너머: 세계의 숲 유형 매핑",
-    "summaryKo": "지구상의 모든 10m 토지를 뚜렷한 숲 유형으로 분류하는 세계 지도입니다."
+    "summary": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
   },
   {
     "id": "Hugging Face-9-ensemble-forecasting-with-ibm-granite-ti",
@@ -344,7 +344,8 @@
     "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
     "source": "Google DeepMind",
     "date": "2026-10-13T16:01:58.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "로봇공학을 위한 Gemini 4 Argon"
   },
   {
     "id": "Google DeepMind-7-gemini-4-argon-built-to-solve-your-harde",
@@ -361,7 +362,8 @@
     "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
     "source": "Google DeepMind",
     "date": "2026-10-06T19:57:04.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "EmbeddingGemma 2: 개방형 경량 다중 모드 임베딩 모델"
   },
   {
     "id": "Google DeepMind-9-gemini-4-argon-our-next-era-of-frontier-",
