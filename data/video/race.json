@@ -7739,6 +7739,59 @@
           "value": 1103
         }
       ]
+    },
+    {
+      "date": "2026-11-03",
+      "entries": [
+        {
+          "id": "video-heygen-video-1",
+          "name": "HeyGen Video 1",
+          "vendor": "HeyGen",
+          "value": 1144
+        },
+        {
+          "id": "video-minimax-h3-max-oct",
+          "name": "MiniMax H3 Max",
+          "vendor": "Fal",
+          "value": 1140
+        },
+        {
+          "id": "video-flux-3-max",
+          "name": "FLUX 3 Max",
+          "vendor": "Fal",
+          "value": 1136
+        },
+        {
+          "id": "video-utopai-x",
+          "name": "Utopai X",
+          "vendor": "Utopai Studios",
+          "value": 1134
+        },
+        {
+          "id": "video-wan-3-0",
+          "name": "Wan 3.0",
+          "vendor": "Alibaba",
+          "value": 1132
+        },
+        {
+          "id": "video-minimax-h3-768p",
+          "name": "MiniMax H3 (768p)",
+          "vendor": "MiniMax",
+          "value": 1121
+        },
+        {
+          "id": "video-bach-1-0-pro",
+          "name": "Bach 1.0 Pro",
+          "vendor": "Video Rebirth",
+          "value": 1111
+        },
+        {
+          "id": "video-p-video-2-pro",
+          "name": "P-Video-2-Pro",
+          "vendor": "Pruna AI",
+          "value": 1105
+        }
+      ]
     }
   ]
 }

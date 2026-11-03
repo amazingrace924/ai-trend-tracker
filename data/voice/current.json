@@ -1,20 +1,20 @@
 {
   "category": "voice",
-  "date": "2026-11-02",
-  "updatedAt": "2026-11-02T00:23:39.747Z",
+  "date": "2026-11-03",
+  "updatedAt": "2026-11-03T02:47:18.723Z",
   "models": [
     {
-      "id": "voice-eleven-v4-turbo",
-      "name": "Eleven v4 Turbo",
+      "id": "voice-eleven-v4",
+      "name": "Eleven v4",
       "vendor": "ElevenLabs",
       "category": "voice",
       "license": "proprietary",
-      "score": 1336,
+      "score": 1334,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1336"
+          "value": "1334"
         },
         {
           "label": "순위",
@@ -32,7 +32,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1336"
+          "value": "1334"
         },
         {
           "label": "순위",
@@ -56,17 +56,17 @@
       ]
     },
     {
-      "id": "voice-eleven-v4",
-      "name": "Eleven v4",
+      "id": "voice-eleven-v4-turbo",
+      "name": "Eleven v4 Turbo",
       "vendor": "ElevenLabs",
       "category": "voice",
       "license": "proprietary",
-      "score": 1334,
+      "score": 1331,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1334"
+          "value": "1331"
         },
         {
           "label": "순위",
@@ -84,7 +84,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1334"
+          "value": "1331"
         },
         {
           "label": "순위",
@@ -113,12 +113,12 @@
       "vendor": "Alibaba",
       "category": "voice",
       "license": "proprietary",
-      "score": 1305,
+      "score": 1301,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1305"
+          "value": "1301"
         },
         {
           "label": "순위",
@@ -136,7 +136,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1305"
+          "value": "1301"
         },
         {
           "label": "순위",
@@ -165,12 +165,12 @@
       "vendor": "Cartesia",
       "category": "voice",
       "license": "proprietary",
-      "score": 1296,
+      "score": 1293,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1296"
+          "value": "1293"
         },
         {
           "label": "순위",
@@ -188,7 +188,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1296"
+          "value": "1293"
         },
         {
           "label": "순위",
@@ -217,12 +217,12 @@
       "vendor": "Google",
       "category": "voice",
       "license": "proprietary",
-      "score": 1283,
+      "score": 1282,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1283"
+          "value": "1282"
         },
         {
           "label": "순위",
@@ -240,7 +240,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1283"
+          "value": "1282"
         },
         {
           "label": "순위",
@@ -269,12 +269,12 @@
       "vendor": "Fish Audio",
       "category": "voice",
       "license": "proprietary",
-      "score": 1278,
+      "score": 1272,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1278"
+          "value": "1272"
         },
         {
           "label": "순위",
@@ -292,7 +292,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1278"
+          "value": "1272"
         },
         {
           "label": "순위",
@@ -316,9 +316,9 @@
       ]
     },
     {
-      "id": "voice-qwen-audio-3-0-tts-plus",
-      "name": "Qwen-Audio-3.0-TTS-Plus",
-      "vendor": "Alibaba",
+      "id": "voice-lightning-v3-1-pro-oct-2026",
+      "name": "Lightning V3.1 Pro (Oct 2026)",
+      "vendor": "Smallest.ai",
       "category": "voice",
       "license": "proprietary",
       "score": 1269,
@@ -338,7 +338,7 @@
         },
         {
           "label": "제작사",
-          "value": "Alibaba"
+          "value": "Smallest.ai"
         }
       ],
       "stats": [
@@ -349,6 +349,56 @@
         {
           "label": "순위",
           "value": "#7"
+        },
+        {
+          "label": "투표 수",
+          "value": "—"
+        },
+        {
+          "label": "출시일",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Smallest.ai"
+        }
+      ],
+      "strengths": []
+    },
+    {
+      "id": "voice-qwen-audio-3-0-tts-plus",
+      "name": "Qwen-Audio-3.0-TTS-Plus",
+      "vendor": "Alibaba",
+      "category": "voice",
+      "license": "proprietary",
+      "score": 1266,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1266"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
+        },
+        {
+          "label": "투표수",
+          "value": "—"
+        },
+        {
+          "label": "제작사",
+          "value": "Alibaba"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1266"
+        },
+        {
+          "label": "순위",
+          "value": "#8"
         },
         {
           "label": "투표 수",
@@ -371,56 +421,6 @@
       "vendor": "Inworld",
       "category": "voice",
       "license": "proprietary",
-      "score": 1267,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1267"
-        },
-        {
-          "label": "순위",
-          "value": "#8"
-        },
-        {
-          "label": "투표수",
-          "value": "—"
-        },
-        {
-          "label": "제작사",
-          "value": "Inworld"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1267"
-        },
-        {
-          "label": "순위",
-          "value": "#8"
-        },
-        {
-          "label": "투표 수",
-          "value": "—"
-        },
-        {
-          "label": "출시일",
-          "value": "—"
-        },
-        {
-          "label": "제작사",
-          "value": "Inworld"
-        }
-      ],
-      "strengths": []
-    },
-    {
-      "id": "voice-lightning-v3-1-pro-oct-2026",
-      "name": "Lightning V3.1 Pro (Oct 2026)",
-      "vendor": "Smallest.ai",
-      "category": "voice",
-      "license": "proprietary",
       "score": 1266,
       "scoreLabel": "Arena Elo",
       "highlights": [
@@ -438,7 +438,7 @@
         },
         {
           "label": "제작사",
-          "value": "Smallest.ai"
+          "value": "Inworld"
         }
       ],
       "stats": [
@@ -460,7 +460,7 @@
         },
         {
           "label": "제작사",
-          "value": "Smallest.ai"
+          "value": "Inworld"
         }
       ],
       "strengths": []
@@ -471,12 +471,12 @@
       "vendor": "Google",
       "category": "voice",
       "license": "proprietary",
-      "score": 1259,
+      "score": 1254,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1259"
+          "value": "1254"
         },
         {
           "label": "순위",
@@ -494,7 +494,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1259"
+          "value": "1254"
         },
         {
           "label": "순위",
