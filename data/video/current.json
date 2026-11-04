@@ -1,7 +1,7 @@
 {
   "category": "video",
-  "date": "2026-11-03",
-  "updatedAt": "2026-11-03T02:47:18.497Z",
+  "date": "2026-11-04",
+  "updatedAt": "2026-11-04T01:05:08.642Z",
   "models": [
     {
       "id": "video-heygen-video-1",
@@ -10,12 +10,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-10",
-      "score": 1144,
+      "score": 1143,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1144"
+          "value": "1143"
         },
         {
           "label": "순위",
@@ -23,7 +23,7 @@
         },
         {
           "label": "투표수",
-          "value": "5,661"
+          "value": "5,857"
         },
         {
           "label": "제작사",
@@ -33,7 +33,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1144"
+          "value": "1143"
         },
         {
           "label": "순위",
@@ -41,7 +41,7 @@
         },
         {
           "label": "투표 수",
-          "value": "5,661"
+          "value": "5,857"
         },
         {
           "label": "출시일",
@@ -63,12 +63,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-08",
-      "score": 1140,
+      "score": 1137,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1140"
+          "value": "1137"
         },
         {
           "label": "순위",
@@ -76,7 +76,7 @@
         },
         {
           "label": "투표수",
-          "value": "3,008"
+          "value": "3,189"
         },
         {
           "label": "제작사",
@@ -86,7 +86,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1140"
+          "value": "1137"
         },
         {
           "label": "순위",
@@ -94,7 +94,7 @@
         },
         {
           "label": "투표 수",
-          "value": "3,008"
+          "value": "3,189"
         },
         {
           "label": "출시일",
@@ -129,7 +129,7 @@
         },
         {
           "label": "투표수",
-          "value": "3,068"
+          "value": "3,284"
         },
         {
           "label": "제작사",
@@ -147,7 +147,7 @@
         },
         {
           "label": "투표 수",
-          "value": "3,068"
+          "value": "3,284"
         },
         {
           "label": "출시일",
@@ -182,7 +182,7 @@
         },
         {
           "label": "투표수",
-          "value": "3,053"
+          "value": "3,240"
         },
         {
           "label": "제작사",
@@ -200,7 +200,7 @@
         },
         {
           "label": "투표 수",
-          "value": "3,053"
+          "value": "3,240"
         },
         {
           "label": "출시일",
@@ -222,12 +222,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-08",
-      "score": 1132,
+      "score": 1131,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1132"
+          "value": "1131"
         },
         {
           "label": "순위",
@@ -235,7 +235,7 @@
         },
         {
           "label": "투표수",
-          "value": "4,596"
+          "value": "4,801"
         },
         {
           "label": "제작사",
@@ -245,7 +245,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1132"
+          "value": "1131"
         },
         {
           "label": "순위",
@@ -253,7 +253,7 @@
         },
         {
           "label": "투표 수",
-          "value": "4,596"
+          "value": "4,801"
         },
         {
           "label": "출시일",
@@ -275,12 +275,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-07",
-      "score": 1121,
+      "score": 1120,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1121"
+          "value": "1120"
         },
         {
           "label": "순위",
@@ -288,7 +288,7 @@
         },
         {
           "label": "투표수",
-          "value": "4,476"
+          "value": "4,710"
         },
         {
           "label": "제작사",
@@ -298,7 +298,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1121"
+          "value": "1120"
         },
         {
           "label": "순위",
@@ -306,7 +306,7 @@
         },
         {
           "label": "투표 수",
-          "value": "4,476"
+          "value": "4,710"
         },
         {
           "label": "출시일",
@@ -328,12 +328,12 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-09",
-      "score": 1111,
+      "score": 1110,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1111"
+          "value": "1110"
         },
         {
           "label": "순위",
@@ -341,7 +341,7 @@
         },
         {
           "label": "투표수",
-          "value": "3,071"
+          "value": "3,252"
         },
         {
           "label": "제작사",
@@ -351,7 +351,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1111"
+          "value": "1110"
         },
         {
           "label": "순위",
@@ -359,7 +359,7 @@
         },
         {
           "label": "투표 수",
-          "value": "3,071"
+          "value": "3,252"
         },
         {
           "label": "출시일",
@@ -368,57 +368,6 @@
         {
           "label": "제작사",
           "value": "Video Rebirth"
-        }
-      ],
-      "strengths": []
-    },
-    {
-      "id": "video-p-video-2-pro",
-      "name": "P-Video-2-Pro",
-      "vendor": "Pruna AI",
-      "category": "video",
-      "license": "proprietary",
-      "releaseDate": "2026-09",
-      "score": 1105,
-      "scoreLabel": "Arena Elo",
-      "highlights": [
-        {
-          "label": "Elo",
-          "value": "1105"
-        },
-        {
-          "label": "순위",
-          "value": "#8"
-        },
-        {
-          "label": "투표수",
-          "value": "3,058"
-        },
-        {
-          "label": "제작사",
-          "value": "Pruna AI"
-        }
-      ],
-      "stats": [
-        {
-          "label": "Arena Elo",
-          "value": "1105"
-        },
-        {
-          "label": "순위",
-          "value": "#8"
-        },
-        {
-          "label": "투표 수",
-          "value": "3,058"
-        },
-        {
-          "label": "출시일",
-          "value": "2026-09"
-        },
-        {
-          "label": "제작사",
-          "value": "Pruna AI"
         }
       ],
       "strengths": []
@@ -430,20 +379,20 @@
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-07",
-      "score": 1102,
+      "score": 1103,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1102"
+          "value": "1103"
         },
         {
           "label": "순위",
-          "value": "#9"
+          "value": "#8"
         },
         {
           "label": "투표수",
-          "value": "4,653"
+          "value": "4,834"
         },
         {
           "label": "제작사",
@@ -453,15 +402,15 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1102"
+          "value": "1103"
         },
         {
           "label": "순위",
-          "value": "#9"
+          "value": "#8"
         },
         {
           "label": "투표 수",
-          "value": "4,653"
+          "value": "4,834"
         },
         {
           "label": "출시일",
@@ -475,18 +424,69 @@
       "strengths": []
     },
     {
+      "id": "video-p-video-2-pro",
+      "name": "P-Video-2-Pro",
+      "vendor": "Pruna AI",
+      "category": "video",
+      "license": "proprietary",
+      "releaseDate": "2026-09",
+      "score": 1102,
+      "scoreLabel": "Arena Elo",
+      "highlights": [
+        {
+          "label": "Elo",
+          "value": "1102"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표수",
+          "value": "3,281"
+        },
+        {
+          "label": "제작사",
+          "value": "Pruna AI"
+        }
+      ],
+      "stats": [
+        {
+          "label": "Arena Elo",
+          "value": "1102"
+        },
+        {
+          "label": "순위",
+          "value": "#9"
+        },
+        {
+          "label": "투표 수",
+          "value": "3,281"
+        },
+        {
+          "label": "출시일",
+          "value": "2026-09"
+        },
+        {
+          "label": "제작사",
+          "value": "Pruna AI"
+        }
+      ],
+      "strengths": []
+    },
+    {
       "id": "video-flux-3",
       "name": "FLUX 3",
       "vendor": "Black Forest Labs",
       "category": "video",
       "license": "proprietary",
       "releaseDate": "2026-07",
-      "score": 1092,
+      "score": 1091,
       "scoreLabel": "Arena Elo",
       "highlights": [
         {
           "label": "Elo",
-          "value": "1092"
+          "value": "1091"
         },
         {
           "label": "순위",
@@ -494,7 +494,7 @@
         },
         {
           "label": "투표수",
-          "value": "3,813"
+          "value": "4,014"
         },
         {
           "label": "제작사",
@@ -504,7 +504,7 @@
       "stats": [
         {
           "label": "Arena Elo",
-          "value": "1092"
+          "value": "1091"
         },
         {
           "label": "순위",
@@ -512,7 +512,7 @@
         },
         {
           "label": "투표 수",
-          "value": "3,813"
+          "value": "4,014"
         },
         {
           "label": "출시일",

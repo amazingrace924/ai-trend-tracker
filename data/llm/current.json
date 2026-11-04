@@ -1,7 +1,7 @@
 {
   "category": "llm",
-  "date": "2026-11-03",
-  "updatedAt": "2026-11-03T02:47:18.302Z",
+  "date": "2026-11-04",
+  "updatedAt": "2026-11-04T01:05:08.051Z",
   "models": [
     {
       "id": "gemini-4-carbon",
@@ -10,7 +10,7 @@
       "category": "llm",
       "license": "proprietary",
       "releaseDate": "2026-10-28",
-      "score": 59.4,
+      "score": 60,
       "scoreLabel": "Intelligence Index",
       "highlights": [
         {
@@ -19,7 +19,7 @@
         },
         {
           "label": "속도",
-          "value": "91/s"
+          "value": "89/s"
         },
         {
           "label": "출력가",
@@ -33,15 +33,15 @@
       "stats": [
         {
           "label": "Intelligence Index",
-          "value": "59.4"
+          "value": "60"
         },
         {
           "label": "출력 속도",
-          "value": "91 tok/s"
+          "value": "89 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "60.38s"
+          "value": "71.22s"
         },
         {
           "label": "입력 가격(1M)",
@@ -66,7 +66,7 @@
       "category": "llm",
       "license": "proprietary",
       "releaseDate": "2026-09-22",
-      "score": 58.4,
+      "score": 59.1,
       "scoreLabel": "Intelligence Index",
       "highlights": [
         {
@@ -75,7 +75,7 @@
         },
         {
           "label": "속도",
-          "value": "96/s"
+          "value": "97/s"
         },
         {
           "label": "출력가",
@@ -89,15 +89,15 @@
       "stats": [
         {
           "label": "Intelligence Index",
-          "value": "58.4"
+          "value": "59.1"
         },
         {
           "label": "출력 속도",
-          "value": "96 tok/s"
+          "value": "97 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "550.8s"
+          "value": "587.27s"
         },
         {
           "label": "입력 가격(1M)",
@@ -121,7 +121,7 @@
       "category": "llm",
       "license": "proprietary",
       "releaseDate": "2026-10-28",
-      "score": 57.7,
+      "score": 58.3,
       "scoreLabel": "Intelligence Index",
       "highlights": [
         {
@@ -130,7 +130,7 @@
         },
         {
           "label": "속도",
-          "value": "—"
+          "value": "72/s"
         },
         {
           "label": "출력가",
@@ -144,7 +144,15 @@
       "stats": [
         {
           "label": "Intelligence Index",
-          "value": "57.7"
+          "value": "58.3"
+        },
+        {
+          "label": "출력 속도",
+          "value": "72 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "22.92s"
         },
         {
           "label": "입력 가격(1M)",
@@ -167,7 +175,7 @@
       "category": "llm",
       "license": "proprietary",
       "releaseDate": "2026-09-22",
-      "score": 57,
+      "score": 57.4,
       "scoreLabel": "Intelligence Index",
       "highlights": [
         {
@@ -190,7 +198,7 @@
       "stats": [
         {
           "label": "Intelligence Index",
-          "value": "57"
+          "value": "57.4"
         },
         {
           "label": "출력 속도",
@@ -198,7 +206,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "71.43s"
+          "value": "69.49s"
         },
         {
           "label": "입력 가격(1M)",
@@ -231,7 +239,7 @@
         },
         {
           "label": "속도",
-          "value": "65/s"
+          "value": "56/s"
         },
         {
           "label": "출력가",
@@ -253,11 +261,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "65 tok/s"
+          "value": "56 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "213.14s"
+          "value": "214.18s"
         },
         {
           "label": "입력 가격(1M)",
@@ -289,7 +297,7 @@
         },
         {
           "label": "속도",
-          "value": "58/s"
+          "value": "52/s"
         },
         {
           "label": "출력가",
@@ -311,11 +319,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "58 tok/s"
+          "value": "52 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "76.61s"
+          "value": "91.04s"
         },
         {
           "label": "입력 가격(1M)",
@@ -347,7 +355,7 @@
         },
         {
           "label": "속도",
-          "value": "51/s"
+          "value": "43/s"
         },
         {
           "label": "출력가",
@@ -369,11 +377,11 @@
         },
         {
           "label": "출력 속도",
-          "value": "51 tok/s"
+          "value": "43 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "18.25s"
+          "value": "27.31s"
         },
         {
           "label": "입력 가격(1M)",
@@ -396,7 +404,7 @@
       "category": "llm",
       "license": "proprietary",
       "releaseDate": "2026-09-29",
-      "score": 54.5,
+      "score": 54.6,
       "scoreLabel": "Intelligence Index",
       "highlights": [
         {
@@ -405,7 +413,7 @@
         },
         {
           "label": "속도",
-          "value": "73/s"
+          "value": "66/s"
         },
         {
           "label": "출력가",
@@ -419,15 +427,15 @@
       "stats": [
         {
           "label": "Intelligence Index",
-          "value": "54.5"
+          "value": "54.6"
         },
         {
           "label": "출력 속도",
-          "value": "73 tok/s"
+          "value": "66 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "158.25s"
+          "value": "170.08s"
         },
         {
           "label": "입력 가격(1M)",
@@ -451,7 +459,7 @@
       "category": "llm",
       "license": "proprietary",
       "releaseDate": "2026-09-28",
-      "score": 54.2,
+      "score": 54.5,
       "scoreLabel": "Intelligence Index",
       "highlights": [
         {
@@ -474,7 +482,7 @@
       "stats": [
         {
           "label": "Intelligence Index",
-          "value": "54.2"
+          "value": "54.5"
         },
         {
           "label": "출력 속도",
@@ -482,7 +490,7 @@
         },
         {
           "label": "첫 토큰 지연",
-          "value": "297.08s"
+          "value": "341.38s"
         },
         {
           "label": "입력 가격(1M)",
@@ -507,7 +515,7 @@
       "category": "llm",
       "license": "proprietary",
       "releaseDate": "2026-10-28",
-      "score": 53.7,
+      "score": 54.2,
       "scoreLabel": "Intelligence Index",
       "highlights": [
         {
@@ -516,7 +524,7 @@
         },
         {
           "label": "속도",
-          "value": "—"
+          "value": "68/s"
         },
         {
           "label": "출력가",
@@ -530,7 +538,15 @@
       "stats": [
         {
           "label": "Intelligence Index",
-          "value": "53.7"
+          "value": "54.2"
+        },
+        {
+          "label": "출력 속도",
+          "value": "68 tok/s"
+        },
+        {
+          "label": "첫 토큰 지연",
+          "value": "12.54s"
         },
         {
           "label": "입력 가격(1M)",
@@ -553,7 +569,7 @@
       "category": "llm",
       "license": "proprietary",
       "releaseDate": "2026-09-29",
-      "score": 52.3,
+      "score": 52.5,
       "scoreLabel": "Intelligence Index",
       "highlights": [
         {
@@ -562,7 +578,7 @@
         },
         {
           "label": "속도",
-          "value": "62/s"
+          "value": "57/s"
         },
         {
           "label": "출력가",
@@ -576,15 +592,15 @@
       "stats": [
         {
           "label": "Intelligence Index",
-          "value": "52.3"
+          "value": "52.5"
         },
         {
           "label": "출력 속도",
-          "value": "62 tok/s"
+          "value": "57 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "45.07s"
+          "value": "55.32s"
         },
         {
           "label": "입력 가격(1M)",
@@ -608,7 +624,7 @@
       "category": "llm",
       "license": "proprietary",
       "releaseDate": "2026-09-22",
-      "score": 51.7,
+      "score": 51.8,
       "scoreLabel": "Intelligence Index",
       "highlights": [
         {
@@ -617,7 +633,7 @@
         },
         {
           "label": "속도",
-          "value": "72/s"
+          "value": "68/s"
         },
         {
           "label": "출력가",
@@ -631,15 +647,15 @@
       "stats": [
         {
           "label": "Intelligence Index",
-          "value": "51.7"
+          "value": "51.8"
         },
         {
           "label": "출력 속도",
-          "value": "72 tok/s"
+          "value": "68 tok/s"
         },
         {
           "label": "첫 토큰 지연",
-          "value": "19.32s"
+          "value": "19.25s"
         },
         {
           "label": "입력 가격(1M)",

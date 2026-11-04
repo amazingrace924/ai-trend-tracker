@@ -1,6 +1,110 @@
 [
   {
-    "id": "OpenAI-0-scaling-git-at-openai",
+    "id": "Hugging Face-0-statebench-testing-how-language-models-t",
+    "title": "StateBench: Testing how language models track state changes over long documents",
+    "url": "https://huggingface.co/blog/allenai/statebench",
+    "source": "Hugging Face",
+    "date": "2026-11-03T17:15:21.000Z",
+    "summary": "",
+    "titleKo": "StateBench: 언어 모델이 긴 문서의 상태 변경을 추적하는 방법 테스트"
+  },
+  {
+    "id": "Google DeepMind-0-agentic-cheminformatics-with-google-anti",
+    "title": "Agentic cheminformatics with Google Antigravity",
+    "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+    "source": "Google DeepMind",
+    "date": "2026-11-03T17:01:49.000Z",
+    "summary": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+    "titleKo": "Google Antigravity를 사용한 에이전트 화학정보학",
+    "summaryKo": "Google Antigravity와 Cheminformatics Skills가 어떻게 신약 발견 워크플로를 가속화하고, 화합물을 검색하고, 새로운 경직된 거대고리를 제안하는지 알아보세요."
+  },
+  {
+    "id": "Hugging Face-1-palette-teaching-a-small-model-to-build-",
+    "title": "Palette: teaching a small model to build decks in your design language",
+    "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+    "source": "Hugging Face",
+    "date": "2026-11-03T16:35:36.000Z",
+    "summary": "",
+    "titleKo": "팔레트: 디자인 언어로 데크를 구축하기 위한 작은 모델 교육"
+  },
+  {
+    "id": "OpenAI-0-accelerating-engineering-for-the-physica",
+    "title": "Accelerating engineering for the physical world",
+    "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+    "source": "OpenAI",
+    "date": "2026-11-03T12:00:00.000Z",
+    "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+    "titleKo": "물리적 세계를 위한 엔지니어링 가속화",
+    "summaryKo": "ChatGPT와 Codex가 엔지니어가 물리적 세계 전반에 걸쳐 CAD, PCB 설계, 시뮬레이션 및 기타 워크플로우를 가속화하는 데 어떻게 도움이 되는지 알아보세요."
+  },
+  {
+    "id": "OpenAI-2-heimstaden-is-changing-residential-real-",
+    "title": "Heimstaden is changing residential real estate management with AI",
+    "url": "https://openai.com/index/heimstaden",
+    "source": "OpenAI",
+    "date": "2026-11-03T08:00:00.000Z",
+    "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+    "summaryKo": "Heimstaden이 어떻게 OpenAI의 ChatGPT Enterprise 및 Codex를 사용하여 자산 관리를 혁신하고 비용을 절감하며 유럽 전역의 직원 역량을 강화하는지 알아보세요."
+  },
+  {
+    "id": "OpenAI-1-how-cisco-defends-at-machine-speed-with-",
+    "title": "How Cisco defends at machine speed with OpenAI",
+    "url": "https://openai.com/index/cisco-cyber",
+    "source": "OpenAI",
+    "date": "2026-11-03T08:00:00.000Z",
+    "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+    "titleKo": "Cisco가 OpenAI를 통해 기계 속도로 방어하는 방법",
+    "summaryKo": "Cisco는 네트워크 인텔리전스와 OpenAI 모델을 결합하여 엔터프라이즈 보안을 강화합니다. 더 많은 적응형 방어를 구축하는 방법을 알아보세요."
+  },
+  {
+    "id": "Hugging Face-3-transformers-model-integration-contracts",
+    "title": "Transformers Model Integration Contracts",
+    "url": "https://huggingface.co/blog/transformers-mic",
+    "source": "Hugging Face",
+    "date": "2026-11-03T00:00:00.000Z",
+    "summary": "",
+    "titleKo": "Transformers 모델 통합 계약"
+  },
+  {
+    "id": "Hugging Face-2-cwe-bench-v2-more-coverage-quality-and-t",
+    "title": "CWE-bench v2: More coverage, quality, and transparency",
+    "url": "https://huggingface.co/blog/cwe-bench",
+    "source": "Hugging Face",
+    "date": "2026-11-03T00:00:00.000Z",
+    "summary": "",
+    "titleKo": "CWE-bench v2: 더 많은 적용 범위, 품질 및 투명성"
+  },
+  {
+    "id": "OpenAI-3-openai-appoints-jill-hazelbaker-as-chief",
+    "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+    "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+    "source": "OpenAI",
+    "date": "2026-11-03T00:00:00.000Z",
+    "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+    "titleKo": "OpenAI, 최고 기업 업무 책임자로 Jill Hazelbaker 임명"
+  },
+  {
+    "id": "OpenAI-7-preparing-our-next-security-sprint-to-ha",
+    "title": "Preparing our next security sprint to harden OpenAI",
+    "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+    "source": "OpenAI",
+    "date": "2026-11-02T18:00:00.000Z",
+    "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+    "titleKo": "OpenAI 강화를 위한 다음 보안 스프린트 준비",
+    "summaryKo": "OpenAI는 AI를 사용하여 방어를 테스트하고 강화하기 위해 Cathedral Systems와 함께 다음 내부 보안 스프린트를 준비하고 있습니다."
+  },
+  {
+    "id": "OpenAI-6-rewarding-defenders-with-bigger-bug-boun",
+    "title": "Rewarding defenders with bigger bug bounties",
+    "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+    "source": "OpenAI",
+    "date": "2026-11-02T18:00:00.000Z",
+    "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+    "titleKo": "더 큰 버그 현상금으로 방어자에게 보상",
+    "summaryKo": "OpenAI는 보안 버그 바운티 보상을 높이고 독립적인 보안 연구원을 위한 보고서 품질, 충성도 및 우선 순위 캠페인 보너스를 도입하고 있습니다."
+  },
+  {
+    "id": "OpenAI-4-scaling-git-at-openai",
     "title": "Scaling Git at OpenAI",
     "url": "https://openai.com/index/scaling-git-at-openai",
     "source": "OpenAI",
@@ -10,7 +114,7 @@
     "summaryKo": "OpenAI가 Codex가 가능하게 하는 개발 규모에 맞게 설계된 Git 호환 백엔드인 Pando를 구축한 방법입니다."
   },
   {
-    "id": "OpenAI-1-introducing-the-grid-protectors-program",
+    "id": "OpenAI-5-introducing-the-grid-protectors-program",
     "title": "Introducing the Grid Protectors Program",
     "url": "https://openai.com/index/grid-protectors-program",
     "source": "OpenAI",
@@ -20,7 +124,7 @@
     "summaryKo": "OpenAI의 그리드 보호기 프로그램은 유틸리티와 협력하여 미래의 컴퓨팅 캠퍼스가 그리드 안정성을 지원하고 소비자 전기 비용을 보호하도록 돕습니다."
   },
   {
-    "id": "OpenAI-2-lifeval",
+    "id": "OpenAI-8-lifeval",
     "title": "LifeVal",
     "url": "https://openai.com/index/lifeval",
     "source": "OpenAI",
@@ -29,25 +133,27 @@
     "summaryKo": "AI가 사람들이 보육 시설 찾기부터 재정 및 정부 서류 관리에 이르기까지 일상적인 작업을 완료하는 데 얼마나 도움이 되는지 측정하는 벤치마크인 LifeVal을 소개합니다."
   },
   {
-    "id": "OpenAI-4-openai-appoints-dan-driscoll-as-senior-c",
+    "id": "OpenAI-10-openai-appoints-dan-driscoll-as-senior-c",
     "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
     "url": "https://openai.com/index/dan-driscoll-joins-openai",
     "source": "OpenAI",
     "date": "2026-11-02T00:00:00.000Z",
     "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U.S. allies.",
-    "titleKo": "OpenAI, 국가 안보 현대화 수석 고문으로 Dan Driscoll 임명"
+    "titleKo": "OpenAI, 국가 안보 현대화 수석 고문으로 Dan Driscoll 임명",
+    "summaryKo": "OpenAI는 국가 안보 현대화, 사이버 탄력성, 미국 동맹국과의 협력을 위한 책임 있는 AI에 대한 조언을 제공하기 위해 Dan Driscoll을 임명했습니다."
   },
   {
-    "id": "OpenAI-3-qodo-builds-context-into-ai-code-review-",
+    "id": "OpenAI-9-qodo-builds-context-into-ai-code-review-",
     "title": "Qodo builds context into AI code review with Codex",
     "url": "https://openai.com/index/qodo-codex-plugin",
     "source": "OpenAI",
     "date": "2026-11-02T00:00:00.000Z",
     "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+    "titleKo": "Qodo는 Codex를 통해 AI 코드 검토에 컨텍스트를 구축합니다.",
     "summaryKo": "Qodo는 회사 지식과 코딩 표준을 Codex에 가져와 개발자가 끌어오기 요청을 열기 전에 저장소 전체에서 P0 문제를 파악할 수 있도록 돕습니다."
   },
   {
-    "id": "Hugging Face-0-nemotron-halloween",
+    "id": "Hugging Face-4-nemotron-halloween",
     "title": "nemotron-halloween",
     "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
     "source": "Hugging Face",
@@ -56,16 +162,17 @@
     "titleKo": "네모트론-할로윈"
   },
   {
-    "id": "Google DeepMind-0-speeding-up-planning-decisions-with-ai",
+    "id": "Google DeepMind-1-speeding-up-planning-decisions-with-ai",
     "title": "Speeding up planning decisions with AI",
     "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
     "source": "Google DeepMind",
     "date": "2026-10-30T14:18:30.000Z",
     "summary": "Google DeepMind and UK government work together to reduce planning assessment times",
+    "titleKo": "AI를 통해 계획 결정 속도 향상",
     "summaryKo": "Google DeepMind와 영국 정부는 계획 평가 시간을 줄이기 위해 협력합니다."
   },
   {
-    "id": "OpenAI-5-making-it-easier-for-websites-to-express",
+    "id": "OpenAI-11-making-it-easier-for-websites-to-express",
     "title": "Making it easier for websites to express AI training preferences",
     "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
     "source": "OpenAI",
@@ -75,7 +182,7 @@
     "summaryKo": "OpenAI는 공유된 robots.txt 신호를 존중하여 웹사이트 운영자가 AI 교육 선호도를 참여 제공업체에 전달할 수 있도록 돕습니다."
   },
   {
-    "id": "OpenAI-6-community-safety-report-and-new-protecti",
+    "id": "OpenAI-12-community-safety-report-and-new-protecti",
     "title": "Community safety report and new protections for teens",
     "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
     "source": "OpenAI",
@@ -85,7 +192,7 @@
     "summaryKo": "OpenAI는 확장된 보호 장치, 조기 개입, 공공 안전 보고에 대한 새로운 약속을 통해 ChatGPT의 폭력 예방을 강화하고 있습니다."
   },
   {
-    "id": "OpenAI-7-fair-use-benefits-everyone",
+    "id": "OpenAI-13-fair-use-benefits-everyone",
     "title": "Fair use benefits everyone",
     "url": "https://openai.com/index/fair-use-benefits-everyone",
     "source": "OpenAI",
@@ -95,7 +202,7 @@
     "summaryKo": "OpenAI는 공정 사용이 AI 교육 및 혁신을 어떻게 지원하는지에 대해 창작자, 학자, 접근성 옹호자, 법률 전문가 등이 작성한 법원 브리핑에서 발췌한 내용을 공유합니다."
   },
   {
-    "id": "OpenAI-8-an-updated-model-spec-for-more-capable-a",
+    "id": "OpenAI-14-an-updated-model-spec-for-more-capable-a",
     "title": "An updated Model Spec for more capable and beneficial AI",
     "url": "https://openai.com/index/updated-model-spec",
     "source": "OpenAI",
@@ -105,7 +212,7 @@
     "summaryKo": "OpenAI의 업데이트된 모델 사양은 더 유능한 AI가 건전한 판단, 인간 주체성 및 인간 의도에 대한 충실성을 향해 나아가도록 안내하는 5가지 핵심 가치를 설명합니다."
   },
   {
-    "id": "Hugging Face-1-granite-switch-4-1-1-update-models-like-",
+    "id": "Hugging Face-5-granite-switch-4-1-1-update-models-like-",
     "title": "Granite Switch 4.1.1 — Update models like you update software",
     "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
     "source": "Hugging Face",
@@ -114,27 +221,7 @@
     "titleKo": "Granite Switch 4.1.1 — 소프트웨어를 업데이트하는 것처럼 모델도 업데이트하세요"
   },
   {
-    "id": "OpenAI-9-how-we-detect-frontier-model-misalignmen",
-    "title": "How we detect frontier model misalignment",
-    "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-    "source": "OpenAI",
-    "date": "2026-10-29T09:00:00.000Z",
-    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-    "titleKo": "프론티어 모델의 불일치를 감지하는 방법",
-    "summaryKo": "OpenAI는 계층화된 모니터링을 사용하여 프론티어 모델의 잘못된 정렬과 승인되지 않은 에이전트 동작을 감지하므로 대응자는 사고가 확대되기 전에 개입할 수 있습니다."
-  },
-  {
-    "id": "OpenAI-10-how-ropes-gray-is-developing-ai-for-tran",
-    "title": "How Ropes & Gray is developing AI for transactional diligence",
-    "url": "https://openai.com/index/ropes-gray-ai-diligence",
-    "source": "OpenAI",
-    "date": "2026-10-29T07:00:00.000Z",
-    "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-    "titleKo": "Ropes & Gray가 거래 실사를 위한 AI를 개발하는 방법",
-    "summaryKo": "Ropes & Gray는 OpenAI를 통해 거래 실사를 위한 AI를 개발하고 있습니다. 변호사는 고객에게 조언을 하기 전에 그룹화된 문서, 요약 및 보고서를 검토합니다."
-  },
-  {
-    "id": "Hugging Face-4-introducing-anyspeechrecognizer-and-anyd",
+    "id": "Hugging Face-8-introducing-anyspeechrecognizer-and-anyd",
     "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
     "url": "https://huggingface.co/blog/anydecisionmodel",
     "source": "Hugging Face",
@@ -143,7 +230,7 @@
     "titleKo": "AnySpeechRecognizer 및 AnyDecisionModel 소개: Apple 플랫폼의 음성 및 결정을 위한 개방형 모델"
   },
   {
-    "id": "Hugging Face-3-welcome-le-chonk-mistral-large-4-on-hugg",
+    "id": "Hugging Face-7-welcome-le-chonk-mistral-large-4-on-hugg",
     "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
     "url": "https://huggingface.co/blog/mistral-large4",
     "source": "Hugging Face",
@@ -152,7 +239,7 @@
     "titleKo": "Le Chonk를 환영합니다: 허깅 페이스의 미스트랄 라지 4"
   },
   {
-    "id": "Hugging Face-2-announcing-project-protostar-making-publ",
+    "id": "Hugging Face-6-announcing-project-protostar-making-publ",
     "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
     "url": "https://huggingface.co/blog/announcing-project-protostar",
     "source": "Hugging Face",
@@ -161,16 +248,7 @@
     "titleKo": "ProtoStar 프로젝트 발표: 공공 자금을 지원받는 과학 AI 지원"
   },
   {
-    "id": "OpenAI-11-credit-saison-achieves-954-roi-in-a-chat",
-    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-    "url": "https://openai.com/index/credit-saison",
-    "source": "OpenAI",
-    "date": "2026-10-29T00:00:00.000Z",
-    "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn the results into companywide adoption.",
-    "summaryKo": "Credit Saison의 ChatGPT Enterprise 파일럿은 954%의 ROI를 달성했습니다. 리더와 직원이 결과를 전사적 채택으로 전환하는 데 어떻게 도움이 되었는지 알아보세요."
-  },
-  {
-    "id": "Google DeepMind-1-gemini-4-carbon-our-next-frontier-model",
+    "id": "Google DeepMind-2-gemini-4-carbon-our-next-frontier-model",
     "title": "Gemini 4 Carbon: Our next frontier model",
     "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
     "source": "Google DeepMind",
@@ -179,55 +257,15 @@
     "titleKo": "Gemini 4 Carbon: 차세대 개척 모델"
   },
   {
-    "id": "OpenAI-12-openai-and-servicenow-expand-partnership",
-    "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-    "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-    "source": "OpenAI",
-    "date": "2026-10-28T13:15:00.000Z",
-    "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-    "titleKo": "OpenAI와 ServiceNow, 엔터프라이즈 워크플로우 전반에 걸쳐 파트너십 확장",
-    "summaryKo": "OpenAI와 ServiceNow는 OpenAI 모델과 에이전트를 ServiceNow로, ServiceNow 워크플로를 ChatGPT 및 Codex로 가져오기 위해 파트너십을 확장합니다."
-  },
-  {
-    "id": "OpenAI-13-the-future-of-the-firm",
-    "title": "The future of the firm",
-    "url": "https://openai.com/index/the-future-of-the-firm",
-    "source": "OpenAI",
-    "date": "2026-10-28T10:00:00.000Z",
-    "summary": "How AI might enter the org chart—beneath, beside, and between us.",
-    "titleKo": "회사의 미래",
-    "summaryKo": "AI가 조직도에 어떻게 들어갈 수 있는지(우리 아래, 옆, 사이)."
-  },
-  {
-    "id": "OpenAI-14-legora-is-building-the-agentic-operating",
-    "title": "Legora is building the agentic operating system for legal work",
-    "url": "https://openai.com/index/legora",
-    "source": "OpenAI",
-    "date": "2026-10-28T09:30:00.000Z",
-    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
-    "titleKo": "레고라는 법률 업무를 위한 에이전트 운영 체제를 구축하고 있습니다.",
-    "summaryKo": "Legora가 OpenAI 모델, ChatGPT 및 Codex를 사용하여 법률 워크플로를 가속화하고, 계약 분석을 확장하고, 무료 변호사를 고용하여 더 높은 가치의 업무에 집중하는 방법을 알아보세요."
-  },
-  {
-    "id": "Hugging Face-5-build-specialized-multimodal-models-with",
+    "id": "Hugging Face-9-build-specialized-multimodal-models-with",
     "title": "Build specialized multimodal models with LFM3",
     "url": "https://huggingface.co/blog/LiquidAI/lfm3",
     "source": "Hugging Face",
     "date": "2026-10-27T17:16:52.000Z",
-    "summary": "",
-    "titleKo": "LFM3를 사용하여 특수 다중 모드 모델 구축"
+    "summary": ""
   },
   {
-    "id": "Hugging Face-6-can-we-trust-llms-to-judge-whether-a-res",
-    "title": "Can we trust LLMs to judge whether a research idea is novel?",
-    "url": "https://huggingface.co/blog/allenai/novelty-bench",
-    "source": "Hugging Face",
-    "date": "2026-10-27T16:12:42.000Z",
-    "summary": "",
-    "titleKo": "연구 아이디어가 참신한지 판단하는 데 LLM을 신뢰할 수 있습니까?"
-  },
-  {
-    "id": "Google DeepMind-2-genie-4-a-new-generation-of-world-simula",
+    "id": "Google DeepMind-3-genie-4-a-new-generation-of-world-simula",
     "title": "Genie 4: A new generation of world simulation",
     "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
     "source": "Google DeepMind",
@@ -237,7 +275,7 @@
     "summaryKo": "Genie 4: 실시간 시뮬레이션에서 전례 없는 현실감을 선사하는 새로운 세계 모델입니다."
   },
   {
-    "id": "Hugging Face-7-does-your-model-run-on-aws-trainium-look",
+    "id": "Hugging Face-10-does-your-model-run-on-aws-trainium-look",
     "title": "Does Your Model Run on AWS Trainium? Look It Up",
     "url": "https://huggingface.co/blog/torch-neuronx-model-support",
     "source": "Hugging Face",
@@ -246,7 +284,7 @@
     "titleKo": "귀하의 모델이 AWS Trainium에서 실행됩니까? 찾아보세요"
   },
   {
-    "id": "Hugging Face-8-turning-database-grading-into-rl-rewards",
+    "id": "Hugging Face-11-turning-database-grading-into-rl-rewards",
     "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
     "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
     "source": "Hugging Face",
@@ -255,7 +293,7 @@
     "titleKo": "데이터베이스 등급을 RL 보상으로 전환: ThinkingBox를 사용한 사후 교육 에이전트"
   },
   {
-    "id": "Google DeepMind-3-beyond-tree-cover-mapping-the-world-s-fo",
+    "id": "Google DeepMind-4-beyond-tree-cover-mapping-the-world-s-fo",
     "title": "Beyond tree cover: mapping the world’s forest types",
     "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
     "source": "Google DeepMind",
@@ -265,16 +303,7 @@
     "summaryKo": "지구상의 모든 10m 토지를 뚜렷한 숲 유형으로 분류하는 세계 지도입니다."
   },
   {
-    "id": "Hugging Face-9-ensemble-forecasting-with-ibm-granite-ti",
-    "title": "Ensemble forecasting with IBM Granite time-series models",
-    "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-    "source": "Hugging Face",
-    "date": "2026-10-22T07:51:31.000Z",
-    "summary": "",
-    "titleKo": "IBM Granite 시계열 모델을 사용한 앙상블 예측"
-  },
-  {
-    "id": "Hugging Face-10-how-specializing-the-vocabulary-of-slms-",
+    "id": "Hugging Face-12-how-specializing-the-vocabulary-of-slms-",
     "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
     "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
     "source": "Hugging Face",
@@ -283,7 +312,7 @@
     "titleKo": "SLM 어휘 전문화로 실제 애플리케이션에서 추론 비용을 77% 절감할 수 있는 방법"
   },
   {
-    "id": "Hugging Face-11-profiling-torchneuron-part-1-system-leve",
+    "id": "Hugging Face-13-profiling-torchneuron-part-1-system-leve",
     "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
     "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
     "source": "Hugging Face",
@@ -292,33 +321,16 @@
     "titleKo": "TorchNeuron 프로파일링(1부): AWS Trainium에서 시스템 수준 프로파일링."
   },
   {
-    "id": "Hugging Face-14-mps-in-pytorch-2-15",
-    "title": "MPS in PyTorch 2.15",
-    "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-    "source": "Hugging Face",
-    "date": "2026-10-20T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "PyTorch 2.15의 MPS"
-  },
-  {
-    "id": "Hugging Face-13-anylanguagemodel-1-0-one-year-of-local-m",
-    "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-    "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-    "source": "Hugging Face",
-    "date": "2026-10-20T00:00:00.000Z",
-    "summary": "",
-    "titleKo": "AnyLanguageModel 1.0: Apple 플랫폼의 1년 로컬 모델"
-  },
-  {
-    "id": "Hugging Face-12-hugging-face-torchtpu-tpus-natively",
+    "id": "Hugging Face-14-hugging-face-torchtpu-tpus-natively",
     "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
     "url": "https://huggingface.co/blog/hf-torchtpu",
     "source": "Hugging Face",
     "date": "2026-10-20T00:00:00.000Z",
-    "summary": ""
+    "summary": "",
+    "titleKo": "포옹하는 얼굴 ❤️ TorchTPU: 기본적으로 TPU"
   },
   {
-    "id": "Google DeepMind-4-accelerating-the-search-for-antimicrobia",
+    "id": "Google DeepMind-5-accelerating-the-search-for-antimicrobia",
     "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
     "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
     "source": "Google DeepMind",
@@ -328,7 +340,7 @@
     "summaryKo": "Google Antigravity for Science를 사용하여 새로운 항균 펩타이드 검색을 가속화합니다."
   },
   {
-    "id": "Google DeepMind-5-google-deepmind-and-singapore-government",
+    "id": "Google DeepMind-6-google-deepmind-and-singapore-government",
     "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
     "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
     "source": "Google DeepMind",
@@ -338,7 +350,7 @@
     "summaryKo": "Google DeepMind와 GovTech Singapore가 경량 온디바이스 Gemma 모델을 사용하여 클라우드 데이터 송신 없이 비공개 채팅에서 대화 사기를 차단하는 방법을 알아보세요."
   },
   {
-    "id": "Google DeepMind-6-developing-gemini-4-argon-responsibly-an",
+    "id": "Google DeepMind-7-developing-gemini-4-argon-responsibly-an",
     "title": "Developing Gemini 4 Argon responsibly and safely",
     "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
     "source": "Google DeepMind",
@@ -347,7 +359,7 @@
     "titleKo": "책임감 있고 안전하게 Gemini 4 Argon 개발"
   },
   {
-    "id": "Google DeepMind-7-gemini-4-argon-for-robotics",
+    "id": "Google DeepMind-8-gemini-4-argon-for-robotics",
     "title": "Gemini 4 Argon for Robotics",
     "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
     "source": "Google DeepMind",
@@ -356,20 +368,12 @@
     "titleKo": "로봇공학을 위한 Gemini 4 Argon"
   },
   {
-    "id": "Google DeepMind-8-gemini-4-argon-built-to-solve-your-harde",
+    "id": "Google DeepMind-9-gemini-4-argon-built-to-solve-your-harde",
     "title": "Gemini 4 Argon: Built to solve your hardest problems",
     "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
     "source": "Google DeepMind",
     "date": "2026-10-13T16:01:52.000Z",
-    "summary": ""
-  },
-  {
-    "id": "Google DeepMind-9-embeddinggemma-2-an-open-lightweight-mul",
-    "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-    "source": "Google DeepMind",
-    "date": "2026-10-06T19:57:04.000Z",
     "summary": "",
-    "titleKo": "EmbeddingGemma 2: 개방형 경량 다중 모드 임베딩 모델"
+    "titleKo": "Gemini 4 Argon: 가장 어려운 문제를 해결하기 위해 제작되었습니다."
   }
 ]
